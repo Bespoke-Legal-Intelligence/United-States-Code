@@ -38,7 +38,7 @@
 
 The non-Federal share of the cost assigned to other project purposes shall be as follows:
 
-&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Provided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
+&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Pro</i><i>vided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
 
 &emsp;(2) municipal and industrial water supply: 100 percent;
 
@@ -116,7 +116,7 @@ For purposes of this Act, the term “separable element” means a portion of a 
 
 #### (h) Assigned joint and separable costs
 
-The share of the costs specified under this section for each project purpose shall apply to the joint and separable costs of construction of each project assigned to that purpose, except as otherwise specified in this Act.
+The share of the costs specified under this section for each project purpose shall apply to thejoint and separable costs of construction of each project assigned to that purpose, except as otherwise specified in this Act.
 
 #### (i) Lands, easements, rights-of-way, dredged material disposal areas, and relocations
 
@@ -148,7 +148,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a projectfor navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
@@ -204,15 +204,15 @@ Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99�
 
 #### Amendments
 
-2007—Subsec. (m)(2). Pub. L. 110–114, §2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
+<b>2007</b>—Subsec. (m)(2). Pub. L. 110–114, §2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
 
 Subsec. (n). Pub. L. 110–114, §2001, added subsec. (n).
 
-2000—Subsec. (m)(1), (2). Pub. L. 106–541, §204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
+<b>2000</b>—Subsec. (m)(1), (2). Pub. L. 106–541, §204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
 
 Subsec. (m)(3)(B), (C). Pub. L. 106–541, §204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
 
-1999—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 106–53, §219(c)(2), added par. (2).
 
@@ -220,15 +220,15 @@ Subsec. (d). Pub. L. 106–53, §215(a), designated existing provisions as par. 
 
 Subsec. (d)(2)(A). Pub. L. 106–109 substituted “except for a project for which a District Engineer's Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
 
-1996—Subsecs. (a)(2), (b). Pub. L. 104–303, §202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
+<b>1996</b>—Subsecs. (a)(2), (b). Pub. L. 104–303, §202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
 
 Subsec. (c)(7). Pub. L. 104–303, §210(a), added par. (7).
 
 Subsec. (e)(1). Pub. L. 104–303, §202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
 
-Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
 
-1992—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted “Except as provided under section 2283(c) of this title, the non-Federal” for “The non-Federal”.
+<b>1992</b>—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted “Except as provided under section 2283(c) of this title, the non-Federal” for “The non-Federal”.
 
 Subsec. (m). Pub. L. 102–580, §201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
 
@@ -252,7 +252,7 @@ Limitations.—The procedures established pursuant to this subsection shall prov
 
 Regulations.—Not later than 1 year after November 28, 1990, the Secretary shall issue regulations establishing the procedures required by this paragraph.”
 
-1990—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+<b>1990</b>—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
 
 #### Effective Date of 1996 Amendment
 
@@ -266,7 +266,7 @@ Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) \[
 
 “(B)
 
-Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
+Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendmentmade by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
 “(C)
 

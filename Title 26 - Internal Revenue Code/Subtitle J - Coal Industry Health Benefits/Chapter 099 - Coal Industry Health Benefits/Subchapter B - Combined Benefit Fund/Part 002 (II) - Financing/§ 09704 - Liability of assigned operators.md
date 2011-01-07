@@ -54,7 +54,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiariespremium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -142,7 +142,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (i) 1st year payments
 
-&emsp;&emsp;&emsp;In the case of a 1988 agreement operator making contributions under subparagraph (A), the premium of such operator under subsection (a) shall be reduced by the amount paid under subparagraph (A) by such operator for the plan year beginning February 1, 1993.
+&emsp;&emsp;&emsp;In the case of a 1988 agreement operator making contributions under subparagraph (A), the premium of such operator under subsection (a) shall be reduced by theamount paid under subparagraph (A) by such operator for the plan year beginning February 1, 1993.
 
 #### (ii) Deficit payments
 
@@ -226,7 +226,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;&emsp;&emsp;(i) the date of the actuarial valuation applicable to the report; and
 
-&emsp;&emsp;&emsp;(ii) a statement by the enrolled actuary signing the report that, to the best of the actuary's knowledge, the report is complete and accurate and that in the actuary's opinion the actuarial assumptions used are in the aggregate reasonably related to the experience of the operator and to reasonable expectations; and
+&emsp;&emsp;&emsp;(ii) a statement by the enrolled actuary signing the report that, to the best of theactuary's knowledge, the report is complete and accurate and that in the actuary's opinion the actuarial assumptions used are in the aggregate reasonably related to the experience of the operator and to reasonable expectations; and
 
 &emsp;&emsp;(C) 90 calendar days have elapsed after the report required by subparagraph (B) is filed with the Secretary of Labor, and the Secretary of Labor has not notified the assigned operator in writing that the requirements of this paragraph have not been satisfied.
 
@@ -250,7 +250,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–432, §212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–432, §212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
 
 Subsec. (e)(1). Pub. L. 109–432, §212(a)(2)(B)(i), inserted “and amounts transferred under section 9705(b)” after “premiums received”.
 
@@ -260,7 +260,7 @@ Subsec. (f)(2)(C). Pub. L. 109–432, §212(a)(2)(C), added subpar. (C).
 
 Subsec. (j). Pub. L. 109–432, §211(a), added subsec. (j).
 
-1994—Subsecs. (b)(2), (h). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsecs. (b)(2), (h). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
 #### Effective Date of 2006 Amendment
 

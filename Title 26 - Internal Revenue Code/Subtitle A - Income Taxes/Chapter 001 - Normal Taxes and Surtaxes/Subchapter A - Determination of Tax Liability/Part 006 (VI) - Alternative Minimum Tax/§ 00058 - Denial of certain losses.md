@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (2) Loss allowed for year of disposition of farm shelter activity
 
-&emsp;If the taxpayer disposes of his entire interest in any tax shelter farm activity during any taxable year, the amount of the loss attributable to such activity (determined after carryovers under subsection (a)(1)(B)) shall (to the extent otherwise allowable) be allowed for such taxable year in computing alternative minimum taxable income and not treated as a loss from a tax shelter farm activity.
+&emsp;If the taxpayer disposes of his entire interest in any tax shelter farm activity during anytaxable year, the amount of the loss attributable to such activity (determined after carryovers under subsection (a)(1)(B)) shall (to the extent otherwise allowable) be allowed for such taxable year in computing alternative minimum taxable income and not treated as a loss from a tax shelter farm activity.
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2335; amended Pub. L. 100–203, title X, §10212(b), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1007(d), Nov. 10, 1988, 102 Stat. 3432.)
 
@@ -66,7 +66,7 @@ A prior section 58, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1007(d)(1), struck out “(as modified by section 461(i)(4)(A))” after “section 464(c)” in subpar. (A) and substituted “section 469(c)” for “section 469(d), without regard to paragraph (1)(B) thereof” in subpar. (B).
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1007(d)(1), struck out “(as modified by section 461(i)(4)(A))” after “section 464(c)” in subpar. (A) and substituted “section 469(c)” for “section 469(d), without regard to paragraph (1)(B) thereof” in subpar. (B).
 
 Subsec. (a)(3). Pub. L. 100–647, §1007(d)(2), substituted “469(j)(2)” for “469(g)(1)(C)”.
 
@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 100–647, §1007(d)(4), added pars. (1) to (3) and struck 
 
 “(3) the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply.”
 
-1987—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(<i>l</i>)”.
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(<i>l</i>)”.
 
 #### Effective Date of 1988 Amendment
 

@@ -79,7 +79,7 @@ The credit allowed by this section shall include only such taxes as were actuall
 
 &emsp;(3) If a claim for refund or credit of an overpayment of tax imposed by this chapter has been filed within the time prescribed in section 6511, then within such 4-year period or before the expiration of 60 days from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of any part of such claim, or before the expiration of 60 days after a decision by any court of competent jurisdiction becomes final with respect to a timely suit instituted upon such claim, whichever is later.
 
-> Refund based on the credit may (despite the provisions of sections 6511 and 6512) be made if claim therefor is filed within the period above provided. Any such refund shall be made without interest.
+> Refund based on the credit may (despite the provisions of sections 6511 and 6512) be made ifclaim therefor is filed within the period above provided. Any such refund shall be made without interest.
 
 #### (d) Limitation in cases involving deduction under section 2053(d)
 
@@ -111,15 +111,15 @@ This section shall not apply to the estates of decedents dying after December 31
 
 #### Amendments
 
-2002—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
+<b>2002</b>—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
 
-2001—Subsec. (b). Pub. L. 107–16, §§531(a), 901, temporarily designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b). Pub. L. 107–16, §§531(a), 901, temporarily designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (g). Pub. L. 107–16, §§532(a), 901, temporarily added subsec. (g). See Effective and Termination Dates of 2001 Amendment note below.
 
-1981—Subsec. (c)(2). Pub. L. 97–34 struck out reference to section 6166A.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–34 struck out reference to section 6166A.
 
-1976—Subsec. (a). Pub. L. 94–455, §1902(a)(12)(B), struck out “or Territory” after “State”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1902(a)(12)(B), struck out “or Territory” after “State”.
 
 Subsec. (b). Pub. L. 94–455, §2001(c)(1)(A)(i), (ii), substituted “adjusted taxable estate” for “taxable estate” in two places in table and inserted provision that, for purposes of this section, “adjusted taxable estate” means the taxable estate reduced by $60,000.
 
@@ -131,13 +131,13 @@ Subsec. (e). Pub. L. 94–455, §§1902(a)(12)(B), 2001(c)(1)(A)(iii), substitut
 
 Subsec. (f). Pub. L. 94–455, §2001(c)(1)(A)(iv), added subsec. (f).
 
-1959—Subsec. (e). Pub. L. 86–175 substituted “imposed by a State or Territory or the District of Columbia upon a transfer” for “imposed upon a transfer” in introduction, “such deduction” for “a deduction” in par. (1) and “such deduction” for “the deduction” in two places in par. (2).
+<b>1959</b>—Subsec. (e). Pub. L. 86–175 substituted “imposed by a State or Territory or the District of Columbia upon a transfer” for “imposed upon a transfer” in introduction, “such deduction” for “a deduction” in par. (1) and “such deduction” for “the deduction” in two places in par. (2).
 
-1958—Subsec. (a). Pub. L. 85–866, §102(c)(1), struck out “or any possession of the United States,” after “District of Columbia,”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–866, §102(c)(1), struck out “or any possession of the United States,” after “District of Columbia,”.
 
 Subsec. (c)(3). Pub. L. 85–866, §65(a), added par. (3).
 
-1956—Subsec. (e). Act Feb. 20, 1956, added subsec. (e).
+<b>1956</b>—Subsec. (e). Act Feb. 20, 1956, added subsec. (e).
 
 #### Effective Date of 2002 Amendment
 
@@ -159,9 +159,9 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 Pub. L. 107–16, title V, §531(b), June 7, 2001, 115 Stat. 73, as amended by Pub. L. 108–311, title IV, §408(b)(6), Oct. 4, 2004, 118 Stat. 1192, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
 
-Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
+Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shallapply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

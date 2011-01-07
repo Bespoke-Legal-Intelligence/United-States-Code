@@ -22,17 +22,19 @@
 
 #### Amendments
 
-1996—Pub. L. 104–134, title III, §31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
+<b>1996</b>—Pub. L. 104–134, title III, §31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table ofchapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
 
-1994—Pub. L. 103–322, title III, §31002, Sept. 13, 1994, 108 Stat. 1882, added item for chapter 67.
+<b>1994</b>—Pub. L. 103–322, title III, §31002, Sept. 13, 1994, 108 Stat. 1882, added item for chapter 67.
 
 Pub. L. 103–272, §4(f)(1)(Y)(ii), July 5, 1994, 108 Stat. 1363, added item for chapter 77.
 
-1986—Pub. L. 99–547, §2(c), Oct. 27, 1986, 100 Stat. 3060, added item for chapter 62.
+<b>1986</b>—Pub. L. 99–547, §2(c), Oct. 27, 1986, 100 Stat. 3060, added item for chapter 62.
 
 Pub. L. 99–272, title XIV, §14001(b)(1), Apr. 7, 1986, 100 Stat. 328, struck out item for chapter 67 “Revenue Sharing”.
 
-1984—Pub. L. 98–502, §2(c), Oct. 19, 1984, 98 Stat. 2334, added item for chapter 75.
+<b>1984</b>—Pub. L. 98–502, §2(c), Oct. 19, 1984, 98 Stat. 2334, added item for chapter 75.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 
 ---

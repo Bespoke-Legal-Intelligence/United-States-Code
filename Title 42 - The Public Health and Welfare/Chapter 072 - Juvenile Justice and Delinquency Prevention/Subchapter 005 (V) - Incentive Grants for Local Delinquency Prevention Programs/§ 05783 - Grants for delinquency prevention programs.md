@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The Administrator may make grants to a State, to be transmitted through the State advisory group to units of local government that meet the requirements of subsection (b) of this section, for delinquency prevention programs and activities for juveniles who have had contact with the juvenile justice system or who are likely to have contact with the juvenile justice system, including the provision to juveniles and their families of—
+The Administrator may make grants to a State, to be transmitted through the State advisory group to units of local government that meet the requirements of subsection (b), or to federally recognized Indian tribe <sup>1</sup> or consortia of federally recognized Indian tribes under subsection (d), for delinquency prevention programs and activities for juveniles who have had contact with the juvenile justice system or who are likely to have contact with the juvenile justice system, including the provision to juveniles and their families of—
 
 &emsp;(1) alcohol and substance abuse prevention services;
 
@@ -48,11 +48,43 @@ In considering grant applications under this section, the Administrator shall gi
 
 &emsp;(3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
 
-&emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; <sup>1</sup> and
+&emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; <sup>2</sup> and
 
 &emsp;(5) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness.
 
-(Pub. L. 93–415, title V, §504, as added Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1895.)
+#### (d) Grants for tribal delinquency prevention and response programs
+
+#### (1) In general
+
+&emsp;The Administrator shall make grants under this section, on a competitive basis, to eligible Indian tribes or consortia of Indian tribes, as described in paragraph (2)—
+
+&emsp;&emsp;(A) to support and enhance—
+
+&emsp;&emsp;&emsp;(i) tribal juvenile delinquency prevention services; and
+
+&emsp;&emsp;&emsp;(ii) the ability of Indian tribes to respond to, and care for, juvenile offenders; and
+
+&emsp;&emsp;(B) to encourage accountability of Indian tribal governments with respect to preventing juvenile delinquency and responding to, and caring for, juvenile offenders.
+
+#### (2) Eligible Indian tribes
+
+&emsp;To be eligible to receive a grant under this subsection, an Indian tribe or consortium of Indian tribes shall submit to the Administrator an application in such form and containing such information as the Administrator may require.
+
+#### (3) Considerations
+
+&emsp;In providing grants under this subsection, the Administrator shall take into consideration, with respect to the Indian tribe to be served, the—
+
+&emsp;&emsp;(A) juvenile crime rates;
+
+&emsp;&emsp;(B) dropout rates; and
+
+&emsp;&emsp;(C) number of at-risk youth.
+
+#### (4) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated $25,000,000 for each of fiscal years 2011 through 2015.
+
+(Pub. L. 93–415, title V, §504, as added Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1895; amended Pub. L. 111–211, title II, §246(a), July 29, 2010, 124 Stat. 2295.)
 
 #### References in Text
 
@@ -60,11 +92,19 @@ Part C of subchapter II of this chapter, referred to in subsec. (c)(4), was in t
 
 #### Codification
 
-Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure.
+Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 5783, Pub. L. 93–415, title V, §504, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, set out the duties and functions of the Administrator, prior to the general amendment of this subchapter by Pub. L. 107–273.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §246(a)(1), inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
+
+Subsec. (d). Pub. L. 111–211, §246(a)(2), added subsec. (d).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “tribes”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

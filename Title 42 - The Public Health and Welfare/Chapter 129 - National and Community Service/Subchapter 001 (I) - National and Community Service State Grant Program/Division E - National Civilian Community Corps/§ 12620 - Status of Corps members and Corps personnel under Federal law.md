@@ -30,7 +30,7 @@ A prior section 160 of Pub. L. 101–610 was classified to section 12611 of this
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13 inserted “National” before “Civilian Community Corps”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13 inserted “National” before “Civilian Community Corps”.
 
 #### Effective Date of 2009 Amendment
 

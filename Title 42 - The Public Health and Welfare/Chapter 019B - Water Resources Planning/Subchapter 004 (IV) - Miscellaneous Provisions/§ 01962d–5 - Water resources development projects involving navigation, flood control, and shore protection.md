@@ -16,9 +16,9 @@ Section was enacted as part of the Flood Control Act of 1965, and not as part of
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House” for “Committees on Public Works of the Senate and House”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House” for “Committees on Public Works of the Senate and House”.
 
-1976—Subsec. (a). Pub. L. 94–587, §131(a), substituted “$15,000,000” for “$10,000,000”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–587, §131(a), substituted “$15,000,000” for “$10,000,000”.
 
 Subsec. (b). Pub. L. 94–587, §131(b), substituted “$15,000,000” for “$10,000,000”.
 

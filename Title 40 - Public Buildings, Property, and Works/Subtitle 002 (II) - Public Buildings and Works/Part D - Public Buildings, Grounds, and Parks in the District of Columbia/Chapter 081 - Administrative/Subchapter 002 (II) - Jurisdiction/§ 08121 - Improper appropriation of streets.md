@@ -4,7 +4,7 @@
 
 Authority.—The Secretary of the Interior shall—
 
-&emsp;(1) prevent the improper appropriation or occupation of any public street, avenue, square, or reservation in the District of Columbia that belongs to the Federal Government;
+&emsp;(1) prevent the improper appropriation or occupation of any public street, avenue, square,or reservation in the District of Columbia that belongs to the Federal Government;
 
 &emsp;(2) reclaim the street, avenue, square, or reservation if unlawfully appropriated;
 

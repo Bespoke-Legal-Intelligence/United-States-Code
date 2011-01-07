@@ -48,15 +48,15 @@ Repayment of Amounts Borrowed From Member Account.—If a loan is issued to a me
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
-2006—Subsec. (d). Pub. L. 109–163, §605(b), inserted “and First-Time Enlistees” after “Specialties” in heading.
+<b>2006</b>—Subsec. (d). Pub. L. 109–163, §605(b), inserted “and First-Time Enlistees” after “Specialties” in heading.
 
 Subsec. (d)(1). Pub. L. 109–163, §605(a)(1), designated existing provisions of subpar. (A) as cl. (i), redesignated former subpar. (B) as cl. (ii) of subpar. (A) and substituted “; or” for period at end, and added a new subpar. (B).
 
 Subsec. (d)(2) to (4). Pub. L. 109–163, §605(a)(2)–(4), substituted “member under paragraph (1)(A)” for “member under paragraph (1)” in first sentence of par. (2), added par. (3), designated second sentence of par. (2) as (4), and in par. (4) substituted “this subsection” for “this paragraph”.
 
-1999—Subsec. (d). Pub. L. 106–65, §662, added subsec. (d).
+<b>1999</b>—Subsec. (d). Pub. L. 106–65, §662, added subsec. (d).
 
 #### Effective Date
 

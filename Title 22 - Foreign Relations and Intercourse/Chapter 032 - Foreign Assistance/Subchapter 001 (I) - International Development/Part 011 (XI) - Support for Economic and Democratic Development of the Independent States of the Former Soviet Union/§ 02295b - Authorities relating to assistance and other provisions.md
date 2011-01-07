@@ -10,7 +10,7 @@ Technical assistance under this part shall, to the maximum extent feasible, be p
 
 #### (c) Enterprise funds
 
-Activities supported pursuant to this part may include the establishment of and the provision of support for one or more enterprise funds for the independent states of the former Soviet Union. If the President determines that an enterprise fund should be established and supported under this part, the provisions contained in section 201 of the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5421\]\(excluding the authorizations of appropriations provided in subsection (b) of that section) shall be deemed to apply with respect to such enterprise fund and to funds made available to such enterprise fund pursuant to this part.
+Activities supported pursuant to this part may include the establishment of and the provision of support for one or more enterprise funds for the independent states of the former Soviet Union. If the President determines that an enterprise fund should be established and supported under this part, the provisions contained in section 201 of the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5421\] (excluding the authorizations of appropriations provided in subsection (b) of that section) shall be deemed to apply with respect to such enterprise fund and to funds made available to such enterprise fund pursuant to this part.
 
 #### (d) Cooperative development and research projects
 
@@ -22,7 +22,7 @@ In order to strengthen the administration of justice in the independent states o
 
 #### (f) Use of economic support funds
 
-Any funds that have been allocated under part 4 of subchapter II of this chapter for assistance for the independent states of the former Soviet Union may be used in accordance with the provisions of this part.
+Any funds that have been allocated under part 4 of subchapter II of this chapter for assistance for the independent states of the former SovietUnion may be used in accordance with the provisions of this part.
 
 #### (g) Use of SEED agency funds and administrative authorities
 
@@ -98,7 +98,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;(A) The term “Cuban Government” includes the government of any political subdivision of Cuba, and any agency or instrumentality of the Government of Cuba.
 
-&emsp;(B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
+&emsp;(B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference insuch section to “a foreign state” deemed to be a reference to “Cuba”.
 
 (Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
 
@@ -116,11 +116,11 @@ Section 510 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–246 substituted “paragraph (2)(J)” for “paragraph (2)(G)”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–246 substituted “paragraph (2)(J)” for “paragraph (2)(G)”.
 
-1996—Subsec. (k)(3), (4). Pub. L. 104–114 added pars. (3) and (4).
+<b>1996</b>—Subsec. (k)(3), (4). Pub. L. 104–114 added pars. (3) and (4).
 
-1994—Subsec. (j)(1)(C). Pub. L. 103–236 substituted “sections 2799aa and 2799aa–1” for “sections 2429 and 2429a”.
+<b>1994</b>—Subsec. (j)(1)(C). Pub. L. 103–236 substituted “sections 2799aa and 2799aa–1” for “sections 2429 and 2429a”.
 
 #### Effective Date of 1994 Amendment
 

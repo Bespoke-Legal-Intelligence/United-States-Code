@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 #### Amendments
 
-1998—Par. (5). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “the United States”.
+<b>1998</b>—Par. (5). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “the United States”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

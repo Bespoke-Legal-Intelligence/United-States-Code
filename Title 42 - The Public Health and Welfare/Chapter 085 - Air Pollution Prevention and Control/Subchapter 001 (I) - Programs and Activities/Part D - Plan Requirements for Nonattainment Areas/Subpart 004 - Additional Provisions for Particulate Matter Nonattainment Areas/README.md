@@ -1,7 +1,5 @@
 subpart 4—additional provisions for particulate matter nonattainment areas
 
-<i><sup>1</sup></i><i> So in original. Subsec. (a)(1) of this section does not contain a subpar. (B).</i>
-
 
 ---
 

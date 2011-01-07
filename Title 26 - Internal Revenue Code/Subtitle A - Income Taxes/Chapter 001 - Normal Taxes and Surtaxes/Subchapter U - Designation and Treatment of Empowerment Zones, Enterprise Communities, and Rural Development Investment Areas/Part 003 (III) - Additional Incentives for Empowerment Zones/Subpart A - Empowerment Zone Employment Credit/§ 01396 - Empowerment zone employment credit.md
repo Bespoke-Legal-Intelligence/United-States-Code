@@ -90,11 +90,11 @@ A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
 Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
 
-1997—Subsec. (b). Pub. L. 105–34 substituted “For purposes of this section—
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 substituted “For purposes of this section—
 
 &emsp;“(1)
 
@@ -104,7 +104,7 @@ In general.—Except as provided in paragraph (2), the term ‘applicable percen
 
 Subsec. (e). Pub. L. 105–34, §952(b), added subsec. (e).
 
-1996—Subsec. (c)(3). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit” in heading.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
 #### Effective Date of 2000 Amendment
 

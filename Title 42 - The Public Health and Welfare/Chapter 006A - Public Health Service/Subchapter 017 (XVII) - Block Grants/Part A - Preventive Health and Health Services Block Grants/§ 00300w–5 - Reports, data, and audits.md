@@ -28,7 +28,7 @@
 
 (2) Each State shall annually audit its expenditures from payments received under section 300w–2 of this title. Such State audits shall be conducted by an entity independent of any agency administering a program funded under this part and, in so far as practical, in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions. Within 30 days following the date each audit is completed, the chief executive officer of the State shall transmit a copy of that audit to the Secretary.
 
-(3) Each State shall, after being provided by the Secretary with adequate notice and opportunity for a hearing within the State, repay to the United States amounts found not to have been expended in accordance with the requirements of this part or the certification provided by the State under section 300w–4 of this title. If such repayment is not made, the Secretary shall, after providing the State with adequate notice and opportunity for a hearing within the State, offset such amounts against the amount of any allotment to which the State is or may become entitled under this part.
+(3) Each State shall, after being provided by the Secretary with adequate notice and opportunity for a hearing within the State, repay to the United States amounts found not to have been expended in accordance with the requirements of this part or the certification provided by the State under section 300w–4 of this title. If such repayment is not made, the Secretary shall, after providing the State with adequatenotice and opportunity for a hearing within the State, offset such amounts against the amount of any allotment to which the State is or may become entitled under this part.
 
 (4) The State shall make copies of the reports and audits required by this section available for public inspection within the State.
 
@@ -48,17 +48,17 @@ The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (c), is Pu
 
 #### Amendments
 
-1992—Pub. L. 102–531, §104(b)(1), substituted “Reports, data, and audits” for “Reports and audits” in section catchline.
+<b>1992</b>—Pub. L. 102–531, §104(b)(1), substituted “Reports, data, and audits” for “Reports and audits” in section catchline.
 
 Subsec. (a). Pub. L. 102–531, §104(a), amended subsec. (a) generally, substituting present provisions for provisions requiring an annual report by each State of its activities under this part, outlining the contents of such report, and for providing copies of the report to interested persons.
 
 Subsec. (d). Pub. L. 102–531, §104(b)(2), struck out subsec. (d) which provided for development of model criteria and forms for collection of data and information on services provided under this part.
 
-1988—Subsec. (a)(3). Pub. L. 100–607, §301(d)(1), added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–607, §301(d)(1), added par. (3).
 
 Subsec. (b)(6). Pub. L. 100–607, §301(d)(2), substituted “1990” for “1983”.
 
-1984—Subsec. (a)(1)(B). Pub. L. 98–555, §5(b), substituted “preventive health and preventive health services programs in the State assisted by funds from allotments under this part, including a summary of the services which were provided, the providers of such services, and the individuals who received such services” for “activities of the State under this part”.
+<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–555, §5(b), substituted “preventive health and preventive health services programs in the State assisted by funds from allotments under this part, including a summary of the services which were provided, the providers of such services, and the individuals who received such services” for “activities of the State under this part”.
 
 Subsec. (d). Pub. L. 98–555, §5(c), added subsec. (d).
 

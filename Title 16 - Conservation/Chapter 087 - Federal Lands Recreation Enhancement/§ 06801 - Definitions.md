@@ -36,7 +36,7 @@ In this chapter:
 
 #### (9) Recreation pass
 
-&emsp;The term “recreation pass” means the National Parks and Federal Recreational LandsPass or one of the other recreation passes available as authorized by section 6804 of this title.
+&emsp;The term “recreation pass” means the National Parks and Federal Recreational Lands Pass or one of the other recreation passes available as authorized by section 6804 of this title.
 
 #### (10) Secretary
 

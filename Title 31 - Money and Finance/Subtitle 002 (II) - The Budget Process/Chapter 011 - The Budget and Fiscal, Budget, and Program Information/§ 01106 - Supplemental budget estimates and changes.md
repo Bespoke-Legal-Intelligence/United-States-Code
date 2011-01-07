@@ -24,7 +24,7 @@
 
 #### Termination of Subsection (c)
 
-<i>Subsection (c) of this section expired Sept. 30, 2002, pursuant to section 275(b) of Pub. L. 99–177, as amended. See 1985 Amendment note</i><i>and Effective and Termination Dates of 1985 Amendment note below.</i>
+<i>Subsection (c) of this section expired Sept. 30, 2002, pursuant to section 275(b) of Pub. L. 99–177, as amended. See 1985 Amendment note and Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ In subsection (b), the words “Before April 11 and July 16” are substituted f
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–177, §242(a), struck out “April 11 and” before “July 16”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–177, §242(a), struck out “April 11 and” before “July 16”.
 
 Subsec. (c). Pub. L. 99–177, §§242(b), 275(b), temporarily added subsec. (c), which read as follows: “Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.” See Effective and Termination Dates of 1985 Amendment note below.
 

@@ -76,15 +76,11 @@ As used in this section—
 
 (Aug. 27, 1954, ch. 1018, §8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, §2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, §3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, §8, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, §201, Nov. 2, 1992, 106 Stat. 4904; Pub. L. 106–36, title I, §1002(d), June 25, 1999, 113 Stat. 133.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (e)(3), are classified generally to Title 19, Customs Duties.
-
 #### Amendments
 
-1999—Subsec. (a)(4). Pub. L. 106–36 substituted “World Trade Organization (as defined in section 3501(8) of title 19) or the multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–36 substituted “World Trade Organization (as defined in section 3501(8) of title 19) or the multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
-1992—Subsec. (a)(4). Pub. L. 102–582, §201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–582, §201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
 
 Subsecs. (c), (e)(2). Pub. L. 102–582, §201(a)(2), (3), substituted “products” for “fish products or wildlife products”.
 
@@ -94,7 +90,7 @@ Subsec. (h)(2). Pub. L. 102–582, §201(b)(1), amended par. (2) generally. Prio
 
 Subsec. (h)(3). Pub. L. 102–582, §201(b)(2), inserted “bilateral or” before “multilateral” and “, including marine mammals” before period at end.
 
-Subsec. (h)(4). Pub. L. 102–582, §201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means any aquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
+Subsec. (h)(4). Pub. L. 102–582, §201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means anyaquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
 Subsec. (h)(5). Pub. L. 102–582, §201(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘taking’ means—
 
@@ -114,13 +110,13 @@ Subsec. (h)(6). Pub. L. 102–582, §201(b)(3), struck out par. (6) which read a
 
 Subsec. (h)(7). Pub. L. 102–582, §201(b)(4), redesignated par. (7) as (5).
 
-1988—Subsec. (h)(4). Pub. L. 100–711 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fish products’ means fish and marine mammals and all products thereof taken by fishing vessels of an offending country whether or not packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
+<b>1988</b>—Subsec. (h)(4). Pub. L. 100–711 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fish products’ means fish and marine mammals and all products thereof taken by fishing vessels of an offending country whether or not packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
-1979—Subsec. (a)(3), (4). Pub. L. 96–61, §3(b)(1), added par. (3) and redesignated former par. (3) as (4).
+<b>1979</b>—Subsec. (a)(3), (4). Pub. L. 96–61, §3(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
 Subsecs. (d) to (h). Pub. L. 96–61, §3(b)(2), (3), added subsec. (d) and redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
-1978—Subsec. (a). Pub. L. 95–376, §2(1), designated existing provisions as par. (1), struck out a provision enabling the President, upon receipt of certification, to direct the Secretary of the Treasury to prohibit importation of fish products of the offending country for as long as he determines appropriate and to the extent such prohibition is sanctioned by the General Agreement on Tariffs and Trade, and added pars. (2) and (3).
+<b>1978</b>—Subsec. (a). Pub. L. 95–376, §2(1), designated existing provisions as par. (1), struck out a provision enabling the President, upon receipt of certification, to direct the Secretary of the Treasury to prohibit importation of fish products of the offending country for as long as he determines appropriate and to the extent such prohibition is sanctioned by the General Agreement on Tariffs and Trade, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 95–376, §2(2), inserted “or the Secretary of the Interior” after “Secretary of Commerce” and inserted “or wildlife products” after “fish products” in two places.
 

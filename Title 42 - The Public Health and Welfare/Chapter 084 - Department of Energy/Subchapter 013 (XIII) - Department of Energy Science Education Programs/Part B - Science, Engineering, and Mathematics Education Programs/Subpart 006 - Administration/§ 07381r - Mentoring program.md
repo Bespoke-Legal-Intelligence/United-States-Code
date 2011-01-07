@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-As part of the programs established under subparts 1, 3, and 4, the Director shall establish a program to recruit and provide mentors for women and underrepresented minorities who are interested in careers in science, engineering, and mathematics.
+As part of the programs established under subparts 3 and 4, the Director shall establish a program to recruit and provide mentors for women and underrepresented minorities who are interested in careers in science, engineering, and mathematics.
 
 #### (b) Pairing
 
-The program shall pair mentors with women and minorities who are in programs of study at specialty schools for science and mathematics, Centers of Excellence, and summer institutes established under subparts 1, 3, and 4, respectively.
+The program shall pair mentors with women and minorities who are in programs of study at specialty schools for science and mathematics, Centers of Excellence, and summer institutes established under subparts 3 and 4, respectively.
 
 #### (c) Program evaluation
 
@@ -16,5 +16,13 @@ The Secretary shall annually—
 
 &emsp;(2) submit to Congress a report that describes the results of each evaluation.
 
-(Pub. L. 101–510, div. C, title XXXI, §3195, as added Pub. L. 110–69, title V, §5003(d)(3), Aug. 9, 2007, 121 Stat. 611.)
+(Pub. L. 101–510, div. C, title XXXI, §3195, as added Pub. L. 110–69, title V, §5003(d)(3), Aug. 9, 2007, 121 Stat. 611; amended Pub. L. 111–358, title IX, §901(c)(2), Jan. 4, 2011, 124 Stat. 4044.)
+
+#### References in Text
+
+Subparts 3 and 4, referred to in subsec. (b), relate to Centers of Excellence and summer institutes, respectively. Prior to amendment by Pub. L. 111–358, subsec. (b) also contained reference to subpart 1, which related to specialty schools for science and mathematics and was repealed by Pub. L. 111–358, title IX, §901(c)(1), Jan. 4, 2011, 124 Stat. 4044. See 2011 Amendment note below.
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–358 substituted “subparts 3 and 4” for “subparts 1, 3, and 4” in subsecs. (a) and (b).
 

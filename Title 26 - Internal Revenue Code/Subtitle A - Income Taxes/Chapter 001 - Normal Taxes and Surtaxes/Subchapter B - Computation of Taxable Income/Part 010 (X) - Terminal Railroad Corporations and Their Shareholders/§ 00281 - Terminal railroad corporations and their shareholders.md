@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) a substantial part of the services of which for the taxable year is rendered to one or more of its shareholders; and
 
-&emsp;&emsp;(D) each shareholder of which computes its taxable income on the basis of a taxableyear beginning or ending on the same day that the taxable year of the terminal railroad corporation begins or ends.
+&emsp;&emsp;(D) each shareholder of which computes its taxable income on the basis of a taxable year beginning or ending on the same day that the taxable year of the terminal railroad corporation begins or ends.
 
 #### (2) Related terminal income
 
@@ -72,13 +72,13 @@ The date of the enactment of this section, referred to in subsecs. (a)(2), (d)(2
 
 #### Amendments
 
-1995—Subsec. (d)(1)(A), (B). Pub. L. 104–88 substituted “rail carriers subject to part A of subtitle IV” for “domestic railroad corporations providing transportation subject to subchapter I of chapter 105”.
+<b>1995</b>—Subsec. (d)(1)(A), (B). Pub. L. 104–88 substituted “rail carriers subject to part A of subtitle IV” for “domestic railroad corporations providing transportation subject to subchapter I of chapter 105”.
 
-1978—Subsec. (d)(1)(A). Pub. L. 95–473, §2(a)(2)(D), substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act (49 U.S.C. 1 and following)”.
+<b>1978</b>—Subsec. (d)(1)(A). Pub. L. 95–473, §2(a)(2)(D), substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act (49 U.S.C. 1 and following)”.
 
 Subsec. (d)(1)(B). Pub. L. 95–473, §2(a)(2)(E), substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act”.
 
-1976—Subsec. (d)(1)(A). Pub. L. 94–455, §1901(a) (40)(A), inserted “(49 U.S.C. 1 and following)” after “Interstate Commerce Act”.
+<b>1976</b>—Subsec. (d)(1)(A). Pub. L. 94–455, §1901(a) (40)(A), inserted “(49 U.S.C. 1 and following)” after “Interstate Commerce Act”.
 
 Subsecs. (e), (f). Pub. L. 94–455, §§1901(a)(40)(B), 1906(b)(13)(A), redesignated subsec. (f) as (e) and struck out “or his delegate” after “Secretary”. Former subsec. (e), which made special provision for the application of this section to taxable years ending before Oct. 23, 1962, was struck out.
 

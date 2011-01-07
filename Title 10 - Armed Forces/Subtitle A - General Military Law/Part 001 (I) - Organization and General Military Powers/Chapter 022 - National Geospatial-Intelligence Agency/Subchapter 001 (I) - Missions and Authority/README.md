@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–107, title V, §503(d)(3), Nov. 20, 1997, 111 Stat. 2263, struck out item 445 “Protection of agency identifications and organizational information”.
+<b>1997</b>—Pub. L. 105–107, title V, §503(d)(3), Nov. 20, 1997, 111 Stat. 2263, struck out item 445 “Protection of agency identifications and organizational information”.
 
 
 ---

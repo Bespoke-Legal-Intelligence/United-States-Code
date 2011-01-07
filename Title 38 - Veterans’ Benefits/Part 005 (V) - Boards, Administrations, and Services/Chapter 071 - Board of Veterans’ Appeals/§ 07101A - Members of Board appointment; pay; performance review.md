@@ -1,6 +1,6 @@
 ### §7101A. Members of Board: appointment; pay; performance review
 
-(a)(1) The members of the Board of Veterans’ Appeals other than the Chairman (and including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based upon recommendations of the Chairman.
+(a)(1) The members of the Board of Veterans’ Appeals other than the Chairman (and including the Vice Chairman) shall be appointed by theSecretary, with the approval of the President, based upon recommendations of the Chairman.
 
 (2) Each member of the Board shall be a member in good standing of the bar of a State.
 
@@ -8,7 +8,7 @@
 
 (c)(1)(A) The Chairman shall establish a panel to review the performance of members of the Board. The panel shall be comprised of the Chairman and two other members of the Board (other than the Vice Chairman). The Chairman shall periodically rotate membership on the panel so as to ensure that each member of the Board (other than the Vice Chairman) serves as a member of the panel for and within a reasonable period.
 
-(B) Not less than one year after the job performance standards under subsection (f) are initially established, and not less often than once every three years thereafter, the performancereview panel shall determine, with respect to each member of the Board (other than the Chairman or a member who is a member of the Senior Executive Service), whether that member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f). Each such determination shall be in writing.
+(B) Not less than one year after the job performance standards under subsection (f) are initially established, and not less often than once every three years thereafter, the performance review panel shall determine, with respect to each member of the Board (other than the Chairman or a member who is a member of the Senior Executive Service), whether that member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f). Each such determination shall be in writing.
 
 (2) If the determination of the performance review panel in any case is that the member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f), the Chairman shall recertify the member's appointment as a member of the Board.
 
@@ -44,9 +44,9 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–368, §1002(a), designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–368, §1002(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
+Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as amember of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
 
 #### Effective Date
 
@@ -62,7 +62,7 @@ Section 202 of Pub. L. 103–446 provided that:
 
 “(a)
 
-Deadline.—The job performance standards required to be established by section 7101A(f) of title 38, United States Code, as added by section 201(a), shall beestablished not later than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].
+Deadline.—The job performance standards required to be established by section 7101A(f) of title 38, United States Code, as added by section 201(a), shall be established not later than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].
 
 “(b)
 

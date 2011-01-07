@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-22301D36:3401.DOct. 15, 1962, Pub. L. 87–817, §§1, 2, 4(1), 76 Stat. 929, 930.
+22301
+
+36:3401.
+
+Oct. 15, 1962, Pub. L. 87–817, §§1, 2, 4(1), 76 Stat. 929, 930.
 
 &nbsp;
 

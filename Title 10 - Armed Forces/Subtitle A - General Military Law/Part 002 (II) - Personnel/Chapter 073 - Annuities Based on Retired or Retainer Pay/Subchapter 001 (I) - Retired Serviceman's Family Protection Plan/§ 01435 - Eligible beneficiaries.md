@@ -44,9 +44,9 @@ In clause (1), the words “ ‘widow’ includes a widower” are omitted as c
 
 #### Amendments
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 
-1968—Pub. L. 90–485 inserted provisions in cl. (2)(B) concerning children of the member who are at least 18, but under 23 and pursuing a full-time course of study or training and inserted text following cl. (2)(E) relating to children considered to be pursuing a full-time course of study or training.
+<b>1968</b>—Pub. L. 90–485 inserted provisions in cl. (2)(B) concerning children of the member who are at least 18, but under 23 and pursuing a full-time course of study or training and inserted text following cl. (2)(E) relating to children considered to be pursuing a full-time course of study or training.
 
 #### Effective Date of 1968 Amendment
 

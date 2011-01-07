@@ -4,22 +4,6 @@ The Congress finds that the use of flexible and compressed work schedules has th
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 227.)
 
-#### Implementation of Telecommuting Programs
-
-Pub. L. 108–7, div. B, title VI, §623, Feb. 20, 2003, 117 Stat. 103, provided that: “Of the funds appropriated in this Act \[div. B of Pub. L. 108–7, see Tables for classification\] for the Departments of Commerce, Justice, and State, the Judiciary, and the Small Business Administration, $100,000 shall be available to each Department or agency only to implement telecommuting programs: <i>Provided</i>, That, 6 months after the date of enactment of this Act \[Feb. 20, 2003\] and every 6 months thereafter, each Department or agency shall provide a report to the Committees on Appropriations on the status of telecommuting programs, including the number of Federal employees eligible for, and participating in, such programs: <i>Provided further</i>, That each Department or agency shall designate a ‘Telework Coordinator’ to be responsible for overseeing the implementation of telecommuting programs and serve as a point of contact on such programs for the Committees on Appropriations.”
-
-Similar provisions were contained in the following appropriation acts:
-
-Pub. L. 109–108, title VI, §617, Nov. 22, 2005, 119 Stat. 2340.
-
-Pub. L. 108–447, div. B, title VI, §622, Dec. 8, 2004, 118 Stat. 2919.
-
-Pub. L. 108–199, div. B, title VI, §627, Jan. 23, 2004, 118 Stat. 99.
-
-#### Telecommuting in Executive Agencies
-
-Pub. L. 106–346, §101(a) \[title III, §359\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executive agency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act \[Oct. 23, 2000\], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
-
 #### Expanding Family-Friendly Work Arrangements in Executive Branch
 
 Memorandum of President of the United States, July 11, 1994, 59 F.R. 36017, provided:

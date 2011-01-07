@@ -9,8 +9,8 @@
 | [5103\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005103%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93235%2C%20title%20I%2C%20%C2%A7103%2C%20Oct.%203%2C%201996%2C%20110%20Stat.%203066.md) | Repealed. |
 | [5104\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005104%20-%20National%20clearinghouse%20for%20information%20relating%20to%20child%20abuse.md) | National clearinghouse for information relating to child abuse. |
 | [5105\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005105%20-%20Research%20and%20assistance%20activities.md) | Research and assistance activities. |
-| [5106\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106%20-%20Grants%20to%20States%20and%20public%20or%20private%20agencies%20and%20organizations.md) | Grants to States and public or private agencies and organizations. |
-| [5106a.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106a%20-%20Grants%20to%20States%20for%20child%20abuse%20and%20neglect%20prevention%20and%20treatment%20programs.md) | Grants to States for child abuse and neglect prevention and treatment programs. |
+| [5106\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106%20-%20Grants%20to%20States%2C%20Indian%20tribes%20or%20tribal%20organizations%2C%20and%20public%20or%20private%20agencies%20and%20organizations.md) | Grants to States, Indian tribes or tribal organizations, and public or private agencies and organizations. |
+| [5106a.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106a%20-%20Grants%20to%20States%20for%20child%20abuse%20or%20neglect%20prevention%20and%20treatment%20programs.md) | Grants to States for child abuse or neglect prevention and treatment programs. |
 | 5106a–1, 5106b. Repealed. |  |
 | [5106c.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106c%20-%20Grants%20to%20States%20for%20programs%20relating%20to%20investigation%20and%20prosecution%20of%20child%20abuse%20and%20neglect%20cases.md) | Grants to States for programs relating to investigation and prosecution of child abuse and neglect cases. |
 | [5106d.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106d%20-%20Miscellaneous%20requirements%20relating%20to%20assistance.md) | Miscellaneous requirements relating to assistance. |
@@ -41,16 +41,16 @@
 
 |  |  |
 | :--- | ---: |
-| [5116\.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116%20-%20Purpose%20and%20authority.md) | Purpose and authority. |
-| [5116a.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116a%20-%20Eligibility.md) | Eligibility. |
-| [5116b.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116b%20-%20Amount%20of%20grant.md) | Amount of grant. |
-| [5116c.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116c%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20I%2C%20%C2%A7124%2C%20June%2025%2C%202003%2C%20117%20Stat.%20815.md) | Repealed. |
-| [5116d.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116d%20-%20Application.md) | Application. |
-| [5116e.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116e%20-%20Local%20program%20requirements.md) | Local program requirements. |
-| [5116f.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116f%20-%20Performance%20measures.md) | Performance measures. |
-| [5116g.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116g%20-%20National%20network%20for%20community-based%20family%20resource%20programs.md) | National network for community-based family resource programs. |
-| [5116h.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116h%20-%20Definitions.md) | Definitions. |
-| [5116i.](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [5116\.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116%20-%20Purpose%20and%20authority.md) | Purpose and authority. |
+| [5116a.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116a%20-%20Eligibility.md) | Eligibility. |
+| [5116b.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116b%20-%20Amount%20of%20grant.md) | Amount of grant. |
+| [5116c.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116c%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20I%2C%20%C2%A7124%2C%20June%2025%2C%202003%2C%20117%20Stat.%20815.md) | Repealed. |
+| [5116d.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116d%20-%20Application.md) | Application. |
+| [5116e.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116e%20-%20Local%20program%20requirements.md) | Local program requirements. |
+| [5116f.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116f%20-%20Performance%20measures.md) | Performance measures. |
+| [5116g.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116g%20-%20National%20network%20for%20community-based%20family%20resource%20programs.md) | National network for community-based family resource programs. |
+| [5116h.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116h%20-%20Definitions.md) | Definitions. |
+| [5116i.](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/%C2%A7%2005116i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,7 +114,7 @@
 
 - [Subchapter 001 (I) - General Program](Subchapter%20001%20%28I%29%20-%20General%20Program/README.md)
 - [Subchapter 002 (II) - Adoption Opportunities](Subchapter%20002%20%28II%29%20-%20Adoption%20Opportunities/README.md)
-- [Subchapter 003 (III) - Community&#8211;Based Grants for the Prevention of Child Abuse and Neglect](Subchapter%20003%20%28III%29%20-%20Community%E2%80%93Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/README.md)
+- [Subchapter 003 (III) - Community-Based Grants for the Prevention of Child Abuse and Neglect](Subchapter%20003%20%28III%29%20-%20Community-Based%20Grants%20for%20the%20Prevention%20of%20Child%20Abuse%20and%20Neglect/README.md)
 - [Subchapter 004 (IV) - Temporary Child Care for Children with Disabilities and Crisis Nurseries](Subchapter%20004%20%28IV%29%20-%20Temporary%20Child%20Care%20for%20Children%20with%20Disabilities%20and%20Crisis%20Nurseries/README.md)
 - [Subchapter 004&#8211;A (IV&#8211;A) - Abandoned Infants Assistance](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Abandoned%20Infants%20Assistance/README.md)
 - [Subchapter 005 (V) - Certain Preventive Services Regarding Children of Homeless Families or Families at Risk of Homelessness](Subchapter%20005%20%28V%29%20-%20Certain%20Preventive%20Services%20Regarding%20Children%20of%20Homeless%20Families%20or%20Families%20at%20Risk%20of%20Homelessness/README.md)

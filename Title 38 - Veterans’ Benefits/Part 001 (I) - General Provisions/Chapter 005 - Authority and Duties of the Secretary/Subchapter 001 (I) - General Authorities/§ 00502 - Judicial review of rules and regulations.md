@@ -12,5 +12,5 @@ Provisions similar to those in this section were contained in section 223(c) of 
 
 #### Amendments
 
-2008—Pub. L. 110–389 struck out “(other than an action relating to the adoption or revision of the schedule of ratings for disabilities adopted under section 1155 of this title)” after “refers”.
+<b>2008</b>—Pub. L. 110–389 struck out “(other than an action relating to the adoption or revision of the schedule of ratings for disabilities adopted under section 1155 of this title)” after “refers”.
 

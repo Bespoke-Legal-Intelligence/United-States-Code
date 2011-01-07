@@ -28,11 +28,11 @@ A probation officer shall—
 
 #### Amendments
 
-1996—Pars. (9), (10). Pub. L. 104–317 added par. (9) and redesignated former par. (9) as (10).
+<b>1996</b>—Pars. (9), (10). Pub. L. 104–317 added par. (9) and redesignated former par. (9) as (10).
 
-1992—Pars. (8), (9). Pub. L. 102–572 added par. (8) and redesignated former par. (8) as (9).
+<b>1992</b>—Pars. (8), (9). Pub. L. 102–572 added par. (8) and redesignated former par. (8) as (9).
 
-1986—Pub. L. 99–646 redesignated pars. (a) to (h) as (1) to (8), respectively, and in par. (6) substituted “assist in the supervision of” for “supervise” and inserted a comma after “about”.
+<b>1986</b>—Pub. L. 99–646 redesignated pars. (a) to (h) as (1) to (8), respectively, and in par. (6) substituted “assist in the supervision of” for “supervise” and inserted a comma after “about”.
 
 #### Effective Date of 1992 Amendment
 

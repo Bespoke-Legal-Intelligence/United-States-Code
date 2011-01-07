@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(II) subject to subsection (e)(5), preventing the subsidization of such products by market-dominant products; and
 
-&emsp;(ii) the substantive and procedural rules that should be followed in determining the assumed Federal income tax on competitiveproducts income of the Postal Service for any year (within the meaning of section 3634).
+&emsp;(ii) the substantive and procedural rules that should be followed in determining the assumed Federal income tax on competitive products income of the Postal Service for any year (within the meaning of section 3634).
 
 (B) Not earlier than 6 months after the date of enactment of this section, and not later than 12 months after such date, the Secretary of the Treasury shall submit the recommendations under subparagraph (A) to the Postal Regulatory Commission.
 

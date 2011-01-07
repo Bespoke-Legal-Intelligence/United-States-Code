@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The Trade Representative shall establish within the Office of the United States Trade Representative a Federal-State consultation process for addressing issues relating to the Agreement that directly relate to, or will potentially have a direct impact on, the States. The Federal-State consultation process shall include procedures under which—
 
-&emsp;&emsp;&emsp;(i) the Trade Representative will assist the States in identifying those State laws that may not conform with the Agreementbut may be maintained under the Agreement by reason of being in effect before the Agreement entered into force;
+&emsp;&emsp;&emsp;(i) the Trade Representative will assist the States in identifying those State laws that may not conform with the Agreement but may be maintained under the Agreement by reason of being in effect before the Agreement entered into force;
 
 &emsp;&emsp;&emsp;(ii) the States will be informed on a continuing basis of matters under the Agreement that directly relate to, or will potentially have a direct impact on, the States;
 
@@ -74,7 +74,7 @@ No person other than the United States—
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the NorthAmerican Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

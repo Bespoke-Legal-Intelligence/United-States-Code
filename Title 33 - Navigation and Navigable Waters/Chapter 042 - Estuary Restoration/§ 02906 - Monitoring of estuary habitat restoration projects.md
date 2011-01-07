@@ -28,5 +28,5 @@ The Under Secretary shall make the information collected and maintained under th
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 110–114 substituted “have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of” for “compile”.
+<b>2007</b>—Subsec. (d). Pub. L. 110–114 substituted “have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of” for “compile”.
 

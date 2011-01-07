@@ -52,7 +52,7 @@ Section was formerly set out as a note under section 7274k of Title 42, The Publ
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136, §3141(g)(3)(D)(i), substituted “September 23, 1996,” for “the date of the enactment of this Act”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(g)(3)(D)(i), substituted “September 23, 1996,” for “the date of the enactment of this Act”.
 
 Subsec. (h)(1). Pub. L. 108–136, §3141(g)(3)(D)(ii), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 

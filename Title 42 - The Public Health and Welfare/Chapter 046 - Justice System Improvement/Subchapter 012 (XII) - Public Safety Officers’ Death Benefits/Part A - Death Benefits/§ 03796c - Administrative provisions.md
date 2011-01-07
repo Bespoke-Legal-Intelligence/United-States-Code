@@ -22,5 +22,5 @@ Another prior section 3796c, Pub. L. 90–351, title I, §704, as added Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–180 added subsec. (c).
+<b>1998</b>—Subsec. (c). Pub. L. 105–180 added subsec. (c).
 

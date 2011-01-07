@@ -10,9 +10,9 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 #### Amendments
 
-1991—Pub. L. 102–138 inserted after first sentence provisions authorizing appropriation of $550,000 for fiscal year 1994 to meet expenses of the United States group in hosting the fortieth annual meeting of the North Atlantic Assembly.
+<b>1991</b>—Pub. L. 102–138 inserted after first sentence provisions authorizing appropriation of $550,000 for fiscal year 1994 to meet expenses of the United States group in hosting the fortieth annual meeting of the North Atlantic Assembly.
 
-1983—Pub. L. 98–164 inserted provisions authorizing additional appropriations for fiscal year 1984 to meet the expenses of hosting the annual meeting.
+<b>1983</b>—Pub. L. 98–164 inserted provisions authorizing additional appropriations for fiscal year 1984 to meet the expenses of hosting the annual meeting.
 
 #### Change of Name
 

@@ -20,5 +20,5 @@ In order to maximize the benefits and to minimize the adverse consequences of sc
 
 #### Amendments
 
-1988—Par. (5). Pub. L. 100–418 added par. (5).
+<b>1988</b>—Par. (5). Pub. L. 100–418 added par. (5).
 

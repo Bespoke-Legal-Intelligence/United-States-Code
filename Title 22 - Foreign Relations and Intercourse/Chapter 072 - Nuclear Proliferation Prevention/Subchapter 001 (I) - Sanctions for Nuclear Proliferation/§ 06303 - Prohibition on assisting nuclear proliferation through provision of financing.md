@@ -54,7 +54,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (B) Coordination with activities of foreign government
 
-&emsp;&emsp;Following consultations described in paragraph (1), the order issued by the Presidentunder subsection (c) of this section imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
+&emsp;&emsp;Following consultations described in paragraph (1), the order issued by the President under subsection (c) of this section imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
 
 #### (C) Extension of period
 
@@ -118,7 +118,7 @@ For the date this subchapter takes effect, referred to in subsec. (j), as 60 day
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–164, §157(b)(1), struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–164, §157(b)(1), struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
 
 Subsec. (e). Pub. L. 104–164, §157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
 

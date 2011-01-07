@@ -8,7 +8,7 @@ Time Limit on Treasury Checks.—
 
 In general.—Except as provided in sections 3329 and 3330 of this title—
 
-&emsp;&emsp;(A) the Secretary shall not be required to pay a Treasury check issued on or after theeffective date of this section unless it is negotiated to a financial institution within 12 months after the date on which the check was issued; and
+&emsp;&emsp;(A) the Secretary shall not be required to pay a Treasury check issued on or after the effective date of this section unless it is negotiated to a financial institution within 12 months after the date on which the check was issued; and
 
 &emsp;&emsp;(B) the Secretary shall not be required to pay a Treasury check issued before the effective date of this section unless it is negotiated to a financial institution within 12 months after such effective date.
 
@@ -18,7 +18,7 @@ Deferral pending settlement.—Notwithstanding the time limitations imposed by p
 
 &emsp;(3) Nothing in this subsection shall be construed to affect the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 
-(b)(1) If a check issued by a disbursing official and drawn on a designated depositary is not paid by the last day of the fiscal year after the fiscal year in which the check was issued, the amount of the check is—
+(b)(1) If a check issued by a disbursing official and drawn on a designated depositary is not paidby the last day of the fiscal year after the fiscal year in which the check was issued, the amount of the check is—
 
 &emsp;(A) withdrawn from the account with the depositary; and
 
@@ -106,23 +106,23 @@ In subsection (e)(2), the words “and directions” are omitted as surplus.
 
 #### References in Text
 
-The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec. (a) of this section as amended by section 1002 of Pub. L.100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
+The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec. (a) of this section as amended by section 1002 of Pub. L. 100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–316, §115(d)(1), substituted “until the question is settled” for “until the Comptroller General settles the question”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–316, §115(d)(1), substituted “until the question is settled” for “until the Comptroller General settles the question”.
 
 Subsec. (b)(2). Pub. L. 104–316, §115(d)(2), struck out “on settlement by the Comptroller General” after “the Treasury”.
 
 Subsec. (d). Pub. L. 104–316, §115(d)(3), substituted “The” for “With the approval of the Comptroller General, the”.
 
-1987—Subsec. (a). Pub. L. 100–86, §1002(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1987</b>—Subsec. (a). Pub. L. 100–86, §1002(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) Except as provided in sections 3329 and 3330 of this title, a check drawn on the Treasury may be paid at any time. However, if the Secretary of the Treasury is on notice of a question of law or fact about the check when the check is presented, the Secretary shall defer payment until the Comptroller General settles the question.
 
 “(2) When the Secretary decides it is appropriate, the Secretary may transfer—
 
-&emsp;“(A) the amount of an unpaid check drawn on the Treasury from the account on which it was drawn to a consolidated account of the Treasury available for paying checks; and
+&emsp;“(A) the amount of an unpaid check drawn on the Treasury from the account on which it was drawn toa consolidated account of the Treasury available for paying checks; and
 
 &emsp;“(B) an amount available, but not required, for paying checks drawn on the Treasury to the appropriate receipt account.”
 

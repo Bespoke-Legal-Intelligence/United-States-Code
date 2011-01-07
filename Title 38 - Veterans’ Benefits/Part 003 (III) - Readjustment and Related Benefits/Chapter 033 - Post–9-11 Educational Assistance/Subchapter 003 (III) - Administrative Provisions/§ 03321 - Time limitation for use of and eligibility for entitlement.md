@@ -14,7 +14,7 @@ Applicability of section 3031 to running of period.—Subsections (b), (c), and 
 
 &emsp;(2)
 
-Applicability of section 3031 to termination.—Section 3031(f) shall apply with respect to the termination of an individual's entitlement to educational assistance under this chapter in the same manner as such section applies to the termination of an individual's entitlement to educational assistance under chapter 30, except that, in the administration of such section for purposes of this chapter, the reference to section 3013 shall be deemed to be a reference to 3312.
+Applicability of section 3031 to termination.—Section 3031(f) shall apply with respect to the termination of an individual's entitlement to educational assistance under this chapter in the same manner as such section applies to the termination of an individual's entitlement to educational assistance under chapter 30, except that, in the administration of such section for purposes of this chapter, the reference to section 3013 shall be deemed to be a reference to section 3312 of this title.
 
 &emsp;(3)
 
@@ -24,11 +24,13 @@ Determination of last discharge or release.—For purposes of subsection (a), an
 
 Applicability to children of deceased members.—The period during which an individual entitled to educational assistance by reason of section 3311(b)(9) may use such individual's entitlement expires at the end of the 15-year period beginning on the date of such individual's eighteenth birthday.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896.)
 
 #### Amendments
 
-2009—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted “section 3312 of this title” for “3312”.
+
+<b>2009</b>—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
 
 #### Effective Date of 2009 Amendment
 

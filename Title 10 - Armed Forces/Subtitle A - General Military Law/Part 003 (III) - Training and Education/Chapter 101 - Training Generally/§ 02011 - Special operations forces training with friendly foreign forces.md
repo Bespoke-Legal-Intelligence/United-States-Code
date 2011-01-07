@@ -12,7 +12,7 @@ Authority To Pay Training Expenses.—Under regulations prescribed pursuant to s
 
 (b)
 
-Purpose of Training.—The primary purpose of the training for which payment may bemade under subsection (a) shall be to train the special operations forces of the combatant command.
+Purpose of Training.—The primary purpose of the training for which payment may be made under subsection (a) shall be to train the special operations forces of the combatant command.
 
 (c)
 
@@ -46,11 +46,11 @@ Reports.—Not later than April 1 of each year, the Secretary of Defense shall s
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–261, §1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–261, §1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
 
 Subsec. (e)(5), (6). Pub. L. 105–261, §1062(b), added pars. (5) and (6).
 
-1996—Subsec. (a). Pub. L. 104–106 substituted “
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “
 
 To” for “
 

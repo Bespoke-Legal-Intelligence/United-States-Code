@@ -24,9 +24,9 @@ The three provisions last mentioned were omitted from the Code as executed.
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out provision at end of section based on section 2 of act Apr. 20, 1904, which read “and the above-described portion of said park shall constitute a part of the Western United States judicial district of Arkansas, and the district court for said district shall have jurisdiction of all offenses committed within said boundaries”. See section 83 of Title 28, Judiciary and Judicial Procedure, section 3231 of Title 18, Crimes and Criminal Procedure, and rule 18 of the Federal Rules of Criminal Procedure, Title 18, Appendix.
+<b>1948</b>—Act June 25, 1948, struck out provision at end of section based on section 2 of act Apr. 20, 1904, which read “and the above-described portion of said park shall constitute a part of the Western United States judicial district of Arkansas, and the district court for said district shall have jurisdiction of all offenses committed within said boundaries”. See section 83 of Title 28, Judiciary and Judicial Procedure, section 3231 of Title 18, Crimes and Criminal Procedure, and rule 18 of the Federal Rules of Criminal Procedure, Title 18, Appendix.
 
-1946—Act June 24, 1946, transferred the park from the jurisdiction of the Eastern United States Judicial District of Arkansas to the Western United States Judicial District of Arkansas.
+<b>1946</b>—Act June 24, 1946, transferred the park from the jurisdiction of the Eastern United States Judicial District of Arkansas to the Western United States Judicial District of Arkansas.
 
 #### Effective Date of 1948 Amendment
 

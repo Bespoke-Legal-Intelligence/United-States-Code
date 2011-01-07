@@ -2,7 +2,7 @@
 
 Notwithstanding section 3302(a) of title 31, the Secretary of the Navy may authorize the officer in charge of any commissary store or ship's store ashore located outside the United States to—
 
-&emsp;(1) accept any Government check tendered by a retired member of the Navy or the Marine Corps, a member of the Navy Reserve or theMarine Corps Reserve, or a member of the Fleet Reserve or the Fleet Marine Corps Reserve, if the member is the payee of the check and the check is tendered in payment of amounts due from the member to the store; and
+&emsp;(1) accept any Government check tendered by a retired member of the Navy or the Marine Corps, a member of the Navy Reserve or the Marine Corps Reserve, or a member of the Fleet Reserve or the Fleet Marine Corps Reserve, if the member is the payee of the check and the check is tendered in payment of amounts due from the member to the store; and
 
 &emsp;(2) refund in cash any difference between the amount due and the amount of the tendered check.
 
@@ -26,11 +26,11 @@ Since the authority of this section to refund any cash balance extends only to t
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Par. (1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1982—Pub. L. 97–258 substituted “section 3302(a) of title 31” for “sections 3639 and 3651 of the Revised Statutes (31 U.S.C. 521 and 543)”.
+<b>1982</b>—Pub. L. 97–258 substituted “section 3302(a) of title 31” for “sections 3639 and 3651 of the Revised Statutes (31 U.S.C. 521 and 543)”.
 
-1980—Pub. L. 96–513 substituted “sections 3639 and 3651 of the Revised Statutes (31 U.S.C. 521 and 543)” for “sections 521 and 543 of title 31”.
+<b>1980</b>—Pub. L. 96–513 substituted “sections 3639 and 3651 of the Revised Statutes (31 U.S.C. 521 and 543)” for “sections 521 and 543 of title 31”.
 
 #### Effective Date of 1980 Amendment
 

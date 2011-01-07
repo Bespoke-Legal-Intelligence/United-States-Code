@@ -10,7 +10,7 @@ Incentive Pay.—The Secretary of Defense may pay incentive pay under this secti
 
 (b)
 
-Period of Payment.—Incentive pay is payable under this section to an individual described in subsection (a) for the period of the individual's participation in the language programor study described in paragraph (2) of that subsection.
+Period of Payment.—Incentive pay is payable under this section to an individual described in subsection (a) for the period of the individual's participation in the language program or study described in paragraph (2) of that subsection.
 
 (c)
 

@@ -76,3 +76,5 @@ A prior section 149 of Pub. L. 101–610 was classified to section 12579 of this
 
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

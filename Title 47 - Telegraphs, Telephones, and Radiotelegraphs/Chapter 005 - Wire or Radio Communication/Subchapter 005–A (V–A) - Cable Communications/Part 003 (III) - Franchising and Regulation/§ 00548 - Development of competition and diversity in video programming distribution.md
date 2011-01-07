@@ -12,7 +12,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (1) Proceeding required
 
-&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
+&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote thepublic interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
 
 #### (2) Minimum contents of regulations
 
@@ -26,7 +26,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 &emsp;&emsp;&emsp;(ii) establishing different prices, terms, and conditions to take into account actual and reasonable differences in the cost of creation, sale, delivery, or transmission of satellite cable programming or satellite broadcast programming;
 
-&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into accounteconomies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the distributor; or
+&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into account economies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the distributor; or
 
 &emsp;&emsp;&emsp;(iv) entering into an exclusive contract that is permitted under subparagraph (D);
 
@@ -64,7 +64,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (d) Adjudicatory proceeding
 
-Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
+Any multichannel video programming distributor aggrieved by conduct that it allegesconstitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
 
 #### (e) Remedies for violations
 
@@ -94,7 +94,7 @@ The Commission shall, beginning not later than 18 months after promulgation of t
 
 #### (1) In general
 
-&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rightsto any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
+&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
 
 #### (2) Limitation on renewals
 
@@ -120,7 +120,7 @@ Any provision that applies to a cable operator under this section shall apply to
 
 #### Amendments
 
-1996—Subsec. (j). Pub. L. 104–104 added subsec. (j).
+<b>1996</b>—Subsec. (j). Pub. L. 104–104 added subsec. (j).
 
 #### Effective Date
 

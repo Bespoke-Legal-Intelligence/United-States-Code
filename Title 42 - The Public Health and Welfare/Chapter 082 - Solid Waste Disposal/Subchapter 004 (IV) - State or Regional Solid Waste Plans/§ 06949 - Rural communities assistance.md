@@ -50,9 +50,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–246, §6009(b), added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–246, §6009(b), added subsec. (e).
 
-1980—Subsec. (d). Pub. L. 96–482 authorized appropriation of $10,000,000, $15,000,000, and $15,000,000 for fiscal years 1980, 1981, 1982, respectively.
+<b>1980</b>—Subsec. (d). Pub. L. 96–482 authorized appropriation of $10,000,000, $15,000,000, and $15,000,000 for fiscal years 1980, 1981, 1982, respectively.
 
 #### Effective Date of 2008 Amendment
 

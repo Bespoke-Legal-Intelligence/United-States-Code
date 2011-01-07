@@ -70,7 +70,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(4) and (b)(1)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(4) and (b)(1)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
@@ -78,7 +78,11 @@ A prior section 701, Pub. L. 93–112, §2, Sept. 26, 1973, 87 Stat. 357; Pub. L
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
+<b>1998</b>—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–213, §1, July 29, 2010, 124 Stat. 2343, provided that: “This Act \[enacting provisions set out as notes under sections 796f–1 and 796f–2 of this title\] may be cited as the ‘Independent Living Centers Technical Adjustment Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -188,7 +192,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (b) The Departments of Justice, Labor, Education, and Health and Human Services shall report to the Task Force by November 15, 1998, on their work with the States and others to ensure that the Personal Responsibility and Work Opportunity Reconciliation Act \[probably means the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see Tables for classification\] is carried out in accordance with section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as amended, and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], so that individuals with disabilities and their families can realize the full promise of welfare reform by having an equal opportunity for employment.
 
-(c) The Departments of Education, Labor, Commerce, and Health and Human Services, the Small Business Administration, and the President's Committee on Employment of People with Disabilities shall work together and report to the Task Force by November 15, 1998, on their work to develop small business and entrepreneurial opportunities for adults with disabilities and strategies for assisting low-income adults, including those with disabilities\[,\] to create small businesses and micro-enterprises. These same agencies, in consultation with the Committee for Purchase from People Who Are Blind or Severely Disabled, shall assess the impact of the Randolph-Sheppard Act \[20 U.S.C. 107 et seq.\] vending program and the Javits-Wagner-O'Day Act \[41 U.S.C. 46 et seq.\] on employment and small business opportunities for people with disabilities.
+(c) The Departments of Education, Labor, Commerce, and Health and Human Services, the Small Business Administration, and the President's Committee on Employment of People with Disabilities shall work together and report to the Task Force by November 15, 1998, on their work to develop small business and entrepreneurial opportunities for adults with disabilities and strategies for assisting low-income adults, including those with disabilities\[,\] to create small businesses and micro-enterprises. These same agencies, in consultation with the Committee for Purchase from People Who Are Blind or Severely Disabled, shall assess the impact of the Randolph-Sheppard Act \[20 U.S.C. 107 et seq.\] vending program and the Javits-Wagner-O'Day Act \[now 41 U.S.C. 8501 et seq.\] on employment and small business opportunities for people with disabilities.
 
 (d) The Departments of Transportation and Housing and Urban Development shall report to the Task Force by November 15, 1998, on their examination of their programs to see if they can be used to create new work incentives and to remove barriers to work for adults with disabilities.
 
@@ -232,7 +236,7 @@ Sec. 2. <i>Functions</i>. (a) The Board shall provide advice and information to 
 
 (c) The Board shall submit annual written reports to the President, who may apprise the Congress and other interested organizations and individuals on its activities, progress, and problems relating to maximizing employment opportunities for people with disabilities.
 
-(d) The Chairperson of the Board shall serve as a member and Vice Chair of the National Task Force on Employment of Adults with Disabilities established under Executive Order 13078 of March 13, 1998 \[set out above\].
+(d) The Chairperson of the Board shall serve as a member and Vice Chair of the National Task Force onEmployment of Adults with Disabilities established under Executive Order 13078 of March 13, 1998 \[set out above\].
 
 Sec. 3. <i>Administration</i>. (a) The Board shall meet when called by the Chairperson, at a time and place designated by the Chairperson. The Chairperson shall call at least two meetings per calendar year. The Chairperson may form subcommittees or working groups within the Board to address particular matters.
 

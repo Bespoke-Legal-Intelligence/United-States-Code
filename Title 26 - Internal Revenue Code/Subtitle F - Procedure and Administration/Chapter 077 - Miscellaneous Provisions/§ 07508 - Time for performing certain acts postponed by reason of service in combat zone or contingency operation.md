@@ -52,7 +52,7 @@ The period of service in the area or contingency operation referred to in subsec
 
 #### (1) Tax in jeopardy; cases under title 11 of the United States Code and receiverships; and transferred assets
 
-&emsp;Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case in which the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
+&emsp;Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case inwhich the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
 
 #### (2) Action taken before ascertainment of right to benefits
 
@@ -86,21 +86,21 @@ For purposes of subsection (a), the term “qualified hospitalization” means�
 
 #### Amendments
 
-2005—Subsec. (a)(1)(A), (B). Pub. L. 109–73 amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+<b>2005</b>—Subsec. (a)(1)(A), (B). Pub. L. 109–73 amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
 “(A) Filing any return of income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
 
 “(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;”.
 
-2003—Pub. L. 108–121, §104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
+<b>2003</b>—Pub. L. 108–121, §104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
 
 Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
 
 Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted “or contingency operation” after “area”.
 
-2002—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
+<b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
 
-1991—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
 
 Subsec. (a)(2). Pub. L. 102–2, §1(b)(2), struck out “(including interest)” after “refund”.
 
@@ -108,17 +108,17 @@ Subsecs. (b) to (e). Pub. L. 102–2, §1(b)(1), added subsec. (b) and redesigna
 
 Subsecs. (f), (g). Pub. L. 102–2, §1(a), (c)(2), added subsecs. (f) and (g).
 
-1986—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
 
 &emsp;“(1) after December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
 
 &emsp;“(2) more than 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in paragraph (1).”
 
-1983—Subsec. (b)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
 
-1980—Subsec. (d). Pub. L. 96–589 substituted “cases under title 11 of the United States Code and receiverships” for “bankruptcy and receiverships” in par. (1) heading.
+<b>1980</b>—Subsec. (d). Pub. L. 96–589 substituted “cases under title 11 of the United States Code and receiverships” for “bankruptcy and receiverships” in par. (1) heading.
 
-1976—Pub. L. 94–455, §1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
+<b>1976</b>—Pub. L. 94–455, §1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
 
 Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “ta
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1975—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+<b>1975</b>—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date of 2005 Amendment
 

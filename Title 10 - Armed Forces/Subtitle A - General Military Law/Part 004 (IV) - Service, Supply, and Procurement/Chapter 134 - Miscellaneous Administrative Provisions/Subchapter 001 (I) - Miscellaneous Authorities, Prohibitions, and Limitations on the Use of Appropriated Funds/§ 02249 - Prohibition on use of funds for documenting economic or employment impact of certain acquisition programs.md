@@ -6,9 +6,9 @@ No funds appropriated by the Congress may be obligated or expended to assist any
 
 #### Amendments
 
-1996—Pub. L. 104–106 renumbered section 2247 of this title as this section.
+<b>1996</b>—Pub. L. 104–106 renumbered section 2247 of this title as this section.
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 

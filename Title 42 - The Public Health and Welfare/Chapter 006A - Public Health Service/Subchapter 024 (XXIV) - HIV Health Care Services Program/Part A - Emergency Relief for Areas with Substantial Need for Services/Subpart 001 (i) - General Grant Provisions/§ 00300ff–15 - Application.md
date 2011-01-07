@@ -76,7 +76,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (2) Exception
 
-&emsp;The Secretary may extend the time for the submission of an application under paragraph (1) for a period of not to exceed 60 days if the Secretary determines that the eligible area has made a good faith effort to comply with the requirement of such paragraph but has otherwise been unable to submit its application.
+&emsp;The Secretary may extend the time for the submission of an application under paragraph\(1) for a period of not to exceed 60 days if the Secretary determines that the eligible area has made a good faith effort to comply with the requirement of such paragraph but has otherwise been unable to submit its application.
 
 #### (3) Distribution by Secretary
 
@@ -136,11 +136,11 @@ A prior section 2605 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (b)(1). Pub. L. 111–87, §6(c), inserted “, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title” before semicolon.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §107(b), substituted “this subpart” for “this part” wherever appearing.
 
@@ -154,7 +154,7 @@ Subsec. (a)(10). Pub. L. 109–415, §106(c)(2), added par. (10).
 
 Subsec. (b)(5), (6). Pub. L. 109–415, §106(c)(3), added pars. (5) and (6).
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section 300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section 300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
 
 Subsec. (a)(1)(B). Pub. L. 106–345, §122(b)(1)(B), substituted “services as described in section 300ff–14(b)(1) of this title” for “services for individuals with HIV disease”.
 
@@ -166,13 +166,13 @@ Subsec. (d)(1). Pub. L. 106–345, §503(a)(1)(A), made technical amendment to r
 
 Subsec. (d)(4). Pub. L. 106–345, §503(a)(1)(B), inserted “section” before “300ff–11(a) of this title”.
 
-1996—Subsec. (a). Pub. L. 104–146, §3(b)(5)(A)(i), inserted “, in accordance with subsection (c) of this section regarding a single application and grant award,” after “application” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(b)(5)(A)(i), inserted “, in accordance with subsection (c) of this section regarding a single application and grant award,” after “application” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 104–146, §3(b)(5)(A)(ii), substituted “preceding fiscal year” for “1-year period preceding the first fiscal year for which a grant is received by the eligible area”.
 
 Subsec. (a)(6). Pub. L. 104–146, §3(b)(5)(A)(iii)–(v), added par. (6).
 
-Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for “Additional application” in headingand substituted “application, in accordance with subsection (c) of this section regarding a single application and grant award,” for “additional application” in introductory provisions.
+Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for “Additional application” in heading and substituted “application, in accordance with subsection (c) of this section regarding a single application and grant award,” for “additional application” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–146, §3(b)(5)(D), added subsec. (c). Former subsec. (c) redesignated (d).
 

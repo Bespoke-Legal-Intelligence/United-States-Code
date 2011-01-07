@@ -38,7 +38,7 @@ Pub. L. 104–185, §1, Aug. 13, 1996, 110 Stat. 1700, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 97–451 provided that: “This Act \[enacting this chapter, amending sections 188 and 191 of this title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title\] may be cited as the ‘Federal Oil and Gas Royalty Management Act of 1982’.”
+Section 1 of Pub. L. 97–451 provided that: “This Act \[enacting this chapter, amending sections 188 and 191 ofthis title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title\] may be cited as the ‘Federal Oil and Gas Royalty Management Act of 1982’.”
 
 #### Applicability of 1996 Amendment
 

@@ -8,7 +8,7 @@ This section may be cited as the “Atomic Testing Liability Act”.
 
 #### (1) Remedy
 
-&emsp;The remedy against the United States provided by sections 1346(b) and 2672 of title 28, by the Act of March 9, 1920 (46 U.S.C. App. 741–752),<sup>1</sup> or by the Act of March 3, 1925 (46U.S.C. App. 781–790),<sup>1</sup> as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
+&emsp;The remedy against the United States provided by sections 1346(b) and 2672 of title 28, by the Act of March 9, 1920 (46 U.S.C. App. 741–752),<sup>1</sup> or by the Act of March 3, 1925 (46 U.S.C. App. 781–790),<sup>1</sup> as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
 
 #### (2) Exclusivity
 
@@ -40,7 +40,7 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 
 Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
 

@@ -28,7 +28,7 @@ When used in this subchapter and subchapter II of this chapter—
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–272 inserted “, except that any boundary between a State and the United States under this subchapter or subchapter II of this chapter which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 inserted “, except that any boundary between a State and the United States under this subchapter or subchapter II of this chapter which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory”.
 
 #### Short Title of 1995 Amendment
 
@@ -36,7 +36,7 @@ Pub. L. 104–58, title III, §301, Nov. 28, 1995, 109 Stat. 563, provided that:
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–367, §1, July 31, 1986, 100 Stat. 774, provided: “That this Act \[enacting section 1865 of this title, amending section 1343 of this title, and repealing section 1861 of this title\] may be referred to as the ‘OCS Paperwork and Reporting Act’.”
+Pub. L. 99–367, §1, July 31, 1986, 100 Stat. 774, provided: “That this Act \[enacting section 1865 of this title,amending section 1343 of this title, and repealing section 1861 of this title\] may be referred to as the ‘OCS Paperwork and Reporting Act’.”
 
 Section 8001 of title VIII of Pub. L. 99–272 provided that: “This title \[amending this section and sections 1332 and 1337 of this title and enacting provisions set out as a note under section 1337 of this title\] may be referred to as the ‘Outer Continental Shelf Lands Act Amendments of 1985’.”
 

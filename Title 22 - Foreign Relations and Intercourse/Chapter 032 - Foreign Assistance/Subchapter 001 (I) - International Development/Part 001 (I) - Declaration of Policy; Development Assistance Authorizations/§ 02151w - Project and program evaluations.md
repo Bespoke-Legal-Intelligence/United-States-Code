@@ -12,7 +12,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required an annual Presidential report on actions taken by the international financial institutions and the United Nations Development Program to improve the evaluation of their own programs.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required an annual Presidential report on actions taken by the international financial institutions and the United Nations Development Program to improve the evaluation of their own programs.
 
 #### Effective Date
 

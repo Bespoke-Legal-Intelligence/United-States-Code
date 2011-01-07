@@ -32,7 +32,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-50304D36:90d (less perpetual succession).DJune 17, 1932, ch. 268, §§4 (less perpetual succession), 7, 47 Stat. 321.
+50304
+
+36:90d (less perpetual succession).
+
+June 17, 1932, ch. 268, §§4 (less perpetual succession), 7, 47 Stat. 321.
 
 &nbsp;
 

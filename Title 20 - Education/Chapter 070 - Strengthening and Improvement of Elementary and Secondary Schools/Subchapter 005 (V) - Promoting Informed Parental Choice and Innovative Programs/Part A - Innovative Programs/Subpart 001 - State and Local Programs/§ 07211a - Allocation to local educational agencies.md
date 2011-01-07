@@ -14,7 +14,7 @@
 
 #### (2) Allocation of increased amounts
 
-&emsp;From the amount made available to a State educational agency under this part for a fiscal year that exceeds the amount made available to the agency under this part for fiscal year 2002, the State educational agency shall distribute 100 percent (or, in the case of a State educational agency receiving a minimum allotment under section 7211(a) of this title, not less than 50 percent, notwithstanding subsection (b) of this section) to local educational agencies within the State, on the same basis as the State educational agency distributes amounts under paragraph (1).
+&emsp;From the amount made available to a State educational agency under this part for a fiscal year that exceeds the amount made availableto the agency under this part for fiscal year 2002, the State educational agency shall distribute 100 percent (or, in the case of a State educational agency receiving a minimum allotment under section 7211(a) of this title, not less than 50 percent, notwithstanding subsection (b) of this section) to local educational agencies within the State, on the same basis as the State educational agency distributes amounts under paragraph (1).
 
 #### (b) Limitations and requirements
 
@@ -54,7 +54,7 @@ Not more than 15 percent of funds made available under section 7211 of this titl
 
 #### (1) Distribution
 
-&emsp;From the funds paid to a State educational agency under this subpart for a fiscal year, theState educational agency shall distribute to each eligible local educational agency that has submitted an application as required by section 7215b of this title the amount of such local educational agency's allocation, as determined under subsection (a) of this section.
+&emsp;From the funds paid to a State educational agency under this subpart for a fiscal year, the State educational agency shall distribute to each eligible local educational agency that has submitted an application as required by section 7215b of this title the amount of such local educational agency's allocation, as determined under subsection (a) of this section.
 
 #### (2) Additional funds
 

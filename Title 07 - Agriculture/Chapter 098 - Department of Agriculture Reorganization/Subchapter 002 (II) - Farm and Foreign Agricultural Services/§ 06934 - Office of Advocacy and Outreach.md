@@ -66,7 +66,7 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 &emsp;&emsp;(A) shall carry out section 2279 of this title; and
 
-&emsp;&emsp;(B) in the case of activities described in section 2279(a) of this title, may conduct such activities through other agencies and offices of the Department.
+&emsp;&emsp;(B) in the case of activities described in section 2279(a) of this title, may conductsuch activities through other agencies and offices of the Department.
 
 #### (3) Socially disadvantaged farmers and farmworkers
 
@@ -152,5 +152,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as a note under section 8701 of this title.
 

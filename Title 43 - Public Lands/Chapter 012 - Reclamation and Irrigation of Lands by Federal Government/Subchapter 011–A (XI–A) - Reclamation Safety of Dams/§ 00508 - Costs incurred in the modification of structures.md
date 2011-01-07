@@ -42,15 +42,15 @@ The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–439, §1(a), inserted “Reimbursement of certain modification costs” as heading and substituted “With respect to the additional amounts authorized to be appropriated by section 509 of this title” for “With respect to the additional $650,000,000 authorized to be appropriated in The Reclamation Safety of Dams Act Amendments of 1984, and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000, and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001” in introductory provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–439, §1(a), inserted “Reimbursement of certain modification costs” as heading and substituted “With respect to the additional amounts authorized to be appropriated by section 509 of this title” for “With respect to the additional $650,000,000 authorized to be appropriated in The Reclamation Safety of Dams Act Amendments of 1984, and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000, and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001” in introductory provisions.
 
 Subsec. (e). Pub. L. 108–439, §2(a), added subsec. (e).
 
-2002—Subsec. (c). Pub. L. 107–117 inserted “and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001,” after “2000,” in introductory provisions.
+<b>2002</b>—Subsec. (c). Pub. L. 107–117 inserted “and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001,” after “2000,” in introductory provisions.
 
-2000—Subsec. (c). Pub. L. 106–377 inserted “and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000,” after “1984,” in introductory provisions.
+<b>2000</b>—Subsec. (c). Pub. L. 106–377 inserted “and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000,” after “1984,” in introductory provisions.
 
-1984—Subsec. (b). Pub. L. 98–404, §1(1), substituted “With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, costs” for “Costs”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–404, §1(1), substituted “With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, costs” for “Costs”.
 
 Subsecs. (c), (d). Pub. L. 98–404, §1(2), added subsecs. (c) and (d).
 

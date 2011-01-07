@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make or insure loans and make grants to rural water supply corporations, cooperatives, or similar entities, Indian tribes on Federal and State reservationsand other federally recognized Indian tribes, and public agencies, to provide for the conservation, development, use, and control of water (including the extension or improvement of existing water supply systems), and the installation or improvement of drainage or waste disposal facilities and essential community facilities including necessary related equipment. Such loans and grants shall be available only to provide such water and waste facilities and services to communities whose residents face significant health risks, as determined by the Secretary, due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable—
+&emsp;The Secretary shall make or insure loans and make grants to rural water supply corporations, cooperatives, or similar entities, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public agencies, to provide for the conservation, development, use, and control of water (including the extension or improvement of existing water supply systems), and the installation or improvement of drainage or waste disposal facilities and essential community facilities including necessary related equipment. Such loans and grants shall be available only to provide such water and waste facilities and services to communities whose residents face significant health risks, as determined by the Secretary, due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable—
 
 &emsp;&emsp;(A) water supply systems; or
 
@@ -42,7 +42,7 @@
 
 The Secretary shall give preference in the awarding of loans and grants—
 
-&emsp;(1) under subsection (a) of this section to rural water supply corporations, cooperatives, or similar entities, or public agencies, that propose to provide water supply or waste disposal services to the residents of those rural subdivisions commonly referred to as colonias, that are characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities; and
+&emsp;(1) under subsection (a) of this section to rural water supply corporations, cooperatives, or similar entities, or public agencies, thatpropose to provide water supply or waste disposal services to the residents of those rural subdivisions commonly referred to as colonias, that are characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities; and
 
 &emsp;(2) under subsection (b) of this section to individuals who reside in a rural subdivision commonly referred to as a colonia, that is characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities.
 

@@ -92,13 +92,13 @@ Inclusions.—The term “alternative fueled vehicle” includes—
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title” meaning title III of Pub. L. 102–486, Oct.24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title.
+This subchapter, referred to in introductory provisions, was in the original “this title”, meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title. For complete classification of title III to the Code, see Tables.
 
-Subchapter II of this chapter, referred to in text, was in the original “title IV” meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II of this chapter, amended sections 6374a to 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under sections 79b and 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15.
+Subchapter II of this chapter, referred to in introductory provisions, was in the original “title IV”, meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15. For complete classification of title IV to the Code, see Tables.
 
 Paragraphs (7) and (8) of section 32901(a) of title 49, referred to in pars. (6)(A) and (8)(A), were redesignated as pars. (8) and (9), respectively, and a new par. (7) was enacted by Pub. L. 110–140, title I, §103(a)(2), (3), Dec. 19, 2007, 121 Stat. 1501.
 
-The Outer Continental Shelf Lands Act, referred to in par. (7), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (7), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 #### Codification
 
@@ -106,11 +106,11 @@ In pars. (6)(A) and (8)(A), “section 32901(a)(7) of title 49” substituted fo
 
 #### Amendments
 
-2008—Par. (3). Pub. L. 110–181 designated existing provisions as subpar. (A), inserted par. and subpar. headings, substituted “The term” for “the term”, and added subpar. (B).
+<b>2008</b>—Par. (3). Pub. L. 110–181 designated existing provisions as subpar. (A), inserted par. and subpar. headings, substituted “The term” for “the term”, and added subpar. (B).
 
-2005—Par. (9)(E). Pub. L. 109–58 inserted “, including vehicles directly used in the emergency repair of transmission lines and in the restoration of electricity service following power outages, as determined by the Secretary” before semicolon at end.
+<b>2005</b>—Par. (9)(E). Pub. L. 109–58 inserted “, including vehicles directly used in the emergency repair of transmission lines and in the restoration of electricity service following power outages, as determined by the Secretary” before semicolon at end.
 
-2000—Par. (2). Pub. L. 106–554 inserted “, including liquid fuels domestically produced from natural gas” after “natural gas”.
+<b>2000</b>—Par. (2). Pub. L. 106–554 inserted “, including liquid fuels domestically produced from natural gas” after “natural gas”.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -6,7 +6,7 @@ Transfers Between Armed Forces.—If either of the Secretaries concerned request
 
 (b)
 
-Screening Requirements for Additional Federal Use.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law enacted after December 31, 1997, unless the Administrator of General Services has screened the property for further Federal use in accordance with subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Screening Requirements for Additional Federal Use.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law enacted after December 31, 1997, unless the Administrator of General Services has screened the property for further Federal use in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (c)
 
@@ -42,7 +42,7 @@ Screening and Conveyance of Property for Correctional Facilities Purposes.—(1)
 
 &emsp;(B) if the real property or facility remains available after such notification, notify the Attorney General of its availability; and
 
-&emsp;(C) if the Attorney General certifies to the Secretary of Defense that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facilityunder the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3762a), convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
+&emsp;(C) if the Attorney General certifies to the Secretary of Defense that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3762a), convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
 
 (2) Paragraph (1) shall not apply—
 
@@ -50,13 +50,11 @@ Screening and Conveyance of Property for Correctional Facilities Purposes.—(1)
 
 &emsp;(B) during any portion of a fiscal year after four conveyances have been made under paragraph (1) in such fiscal year.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, §1066(a)(26), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–217, §3(b)(16), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §§1031(a)(33), 1043(c)(4), Nov. 24, 2003, 117 Stat. 1600, 1612; Pub. L. 109–364, div. B, title XXVIII, §2825(a), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2476, 2477.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, §1066(a)(26), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–217, §3(b)(16), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §§1031(a)(33), 1043(c)(4), Nov. 24, 2003, 117 Stat. 1600, 1612; Pub. L. 109–364, div. B, title XXVIII, §2825(a), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2476, 2477; Pub. L. 111–350, §5(b)(47), Jan. 4, 2011, 124 Stat. 3846.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
-The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (f)(2)(A), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
+The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (f)(2)(A), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
 
 #### Codification
 
@@ -64,7 +62,9 @@ The text of section 2693 of this title, which was transferred to the end of this
 
 #### Amendments
 
-2006—Pub. L. 109–364, §2825(d)(2)(A), substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in section catchline.
+<b>2011</b>—Subsec. (b). Pub. L. 111–350, which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in subsec. (a), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
+
+<b>2006</b>—Pub. L. 109–364, §2825(d)(2)(A), substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §2825(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 109–364, §2825(c)(3)(D), substituted “subsection (b)�
 
 Subsec. (f). Pub. L. 109–364, §2825(b)(5), transferred the text of section 2693 of this title to end of this section and redesignated it as subsec. (f). See Codification note above.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(33)(A)(i), inserted “and Congress” before “of the results” in introductory provisions.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(33)(A)(i), inserted “and Congress” before “of the results” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 108–136, §1031(a)(33)(A)(ii), inserted “and Congress” before “within such period”.
 
@@ -100,11 +100,11 @@ Subsec. (e). Pub. L. 108–136, §1043(c)(4), added par. (1), redesignated pars.
 
 “(4) Any provision of law authorizing the closure or realignment of a military installation that is enacted after November 18, 1997.”
 
-2002—Subsec. (a). Pub. L. 107–217, §3(b)(16)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217, §3(b)(16)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 Subsec. (e)(5). Pub. L. 107–217, §3(b)(16)(B), substituted “Chapter 5 of title 40” for “Title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
-1999—Subsec. (a). Pub. L. 106–65, §1066(a)(26)(A), inserted “enacted after December 31, 1997,” after “any provision of law”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §1066(a)(26)(A), inserted “enacted after December 31, 1997,” after “any provision of law”.
 
 Subsec. (b)(1). Pub. L. 106–65, §1066(a)(26)(B), substituted “referred to in subsection (a)” for “required by paragraph (1)” in introductory provisions.
 

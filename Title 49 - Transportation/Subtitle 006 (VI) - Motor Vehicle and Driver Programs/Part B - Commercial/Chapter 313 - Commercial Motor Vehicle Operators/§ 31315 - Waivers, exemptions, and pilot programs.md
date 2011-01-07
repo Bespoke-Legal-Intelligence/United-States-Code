@@ -76,7 +76,7 @@ Pilot Programs.—
 
 &emsp;(1)
 
-In general.—The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribed under this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish in the Federal Register a detailed description of each pilot program, including the exemptions to be considered, and provide notice and an opportunity for public comment before the effective date of the program.
+In general.—The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribed under this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish in the Federal Register a detailed description of each pilot program, including the exemptions to be considered, andprovide notice and an opportunity for public comment before the effective date of the program.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ The date of enactment of this section, referred to in subsec. (b)(3), probably m
 
 #### Amendments
 
-1998—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver.”
+<b>1998</b>—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver.”
 
 #### Protection of Existing Exemptions
 

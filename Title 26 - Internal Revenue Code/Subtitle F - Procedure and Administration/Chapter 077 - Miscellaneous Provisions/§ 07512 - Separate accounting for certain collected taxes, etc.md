@@ -22,15 +22,15 @@ Whenever the Secretary is satisfied, with respect to any notification made under
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(O)(i), substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(O)(i), substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
 
 Subsec. (b). Pub. L. 100–418, §1941(b)(2)(O)(i), (ii), substituted “or chapter 33” for “, by chapter 33, or by section 4986” and “or chapter 33” for “, chapter 33, or section 4986”.
 
 Subsec. (c). Pub. L. 100–418, §1941(b)(2)(O)(ii), substituted “or chapter 33” for “, chapter 33, or section 4986”.
 
-1980—Subsecs. (a) to (c). Pub. L. 96–223 inserted references to tax imposed by section 4986.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–223 inserted references to tax imposed by section 4986.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1988 Amendment
 

@@ -40,5 +40,5 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–525 substituted “sec. 29–501” for “sec. 29–1001”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–525 substituted “sec. 29–501” for “sec. 29–1001”.
 

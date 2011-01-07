@@ -48,11 +48,11 @@ In this section:
 
 #### (c) Listing of energy efficient products in Federal catalogs
 
-Energy Star products and FEMP designated products shall be clearly identified and prominently displayed in any inventory or listing of products by the General Services Administration or the Defense Logistics Agency. The General Services Administration or the Defense Logistics Agency shall list in their catalogues, represent as available, and supply only Energy Star products or FEMP designated products for all product categories covered by the Energy Star program or the Federal Energy Management Program, except in cases in which the head of the agency ordering a product specifies in writing that no Energy Star product or FEMP designated product is available to meet the buyer's functional requirements, or that no Energy Star product or FEMP designated product is cost-effective for the intended application over the life of the product, taking energy cost savings into account.
+Energy Star products and FEMP designated products shall be clearly identified and prominently displayed in any inventory or listing of products by the General Services Administration or the Defense Logistics Agency. The General Services Administration or the Defense Logistics Agency shall list in their catalogues, represent as available, and supply only Energy Star products or FEMP designated products for all product categories covered by the Energy Star program or the Federal Energy ManagementProgram, except in cases in which the head of the agency ordering a product specifies in writing that no Energy Star product or FEMP designated product is available to meet the buyer's functional requirements, or that no Energy Star product or FEMP designated product is cost-effective for the intended application over the life of the product, taking energy cost savings into account.
 
 #### (d) Specific products
 
-(1) In the case of electric motors of 1 to 500 horsepower, agencies shall select only premium efficient motors that meet a standard designated by the Secretary. The Secretary shall designate such a standard not later than 120days after August 8, 2005, after considering the recommendations of associated electric motor manufacturers and energy efficiency groups.
+(1) In the case of electric motors of 1 to 500 horsepower, agencies shall select only premium efficient motors that meet a standard designated by the Secretary. The Secretary shall designate such a standard not later than 120 days after August 8, 2005, after considering the recommendations of associated electric motor manufacturers and energy efficiency groups.
 
 (2) All Federal agencies are encouraged to take actions to maximize the efficiency of air conditioning and refrigeration equipment, including appropriate cleaning and maintenance, including the use of any system treatment or additive that will reduce the electricity consumed by air conditioning and refrigeration equipment. Any such treatment or additive must be—
 
@@ -108,7 +108,7 @@ Not later than 180 days after August 8, 2005, the Secretary shall issue guidelin
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted “in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products” after “energy consuming product” in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted “in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products” after “energy consuming product” in introductory provisions.
 
 Subsec. (c). Pub. L. 110–140, §525(a)(2), in second sentence, inserted “list in their catalogues, represent as available, and” after “shall” and substituted “in which the head of the agency” for “where the agency”.
 

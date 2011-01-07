@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) actual transactions and quotations in demand or time bills of exchange; or
 
-&emsp;&emsp;(B) the last ascertainable transactions and quotations outside the United States in orfor exchange payable in United States currency or foreign currency.
+&emsp;&emsp;(B) the last ascertainable transactions and quotations outside the United States in or for exchange payable in United States currency or foreign currency.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 991.)
 

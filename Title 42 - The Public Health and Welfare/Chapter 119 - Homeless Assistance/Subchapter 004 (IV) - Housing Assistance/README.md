@@ -9,10 +9,7 @@ Pub. L. 101–625, title VIII, §§821, 823, Nov. 28, 1990, 104 Stat. 4331, 4355
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Part A - Comprehensive Homeless Assistance Plan](Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/README.md)
-- [Part B - Emergency Shelter Grants Program](Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/README.md)
-- [Part C - Supportive Housing Program](Part%20C%20-%20Supportive%20Housing%20Program/README.md)
-- [Part D - Safe Havens for Homeless Individuals Demonstration Program](Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/README.md)
-- [Part E - Miscellaneous Provisions](Part%20E%20-%20Miscellaneous%20Provisions/README.md)
-- [Part F - Shelter Plus Care Program](Part%20F%20-%20Shelter%20Plus%20Care%20Program/README.md)
-- [Part G - Rural Homeless Housing Assistance](Part%20G%20-%20Rural%20Homeless%20Housing%20Assistance/README.md)
+- [Part A - General Provisions](Part%20A%20-%20General%20Provisions/README.md)
+- [Part B - Emergency Solutions Grants Program](Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/README.md)
+- [Part C - Continuum of Care Program](Part%20C%20-%20Continuum%20of%20Care%20Program/README.md)
+- [Part D - Rural Housing Stability Assistance Program](Part%20D%20-%20Rural%20Housing%20Stability%20Assistance%20Program/README.md)

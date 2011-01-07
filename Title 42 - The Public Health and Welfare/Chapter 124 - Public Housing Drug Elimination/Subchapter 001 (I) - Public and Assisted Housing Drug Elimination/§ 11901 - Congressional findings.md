@@ -22,13 +22,13 @@ The Congress finds that—
 
 #### Amendments
 
-1998—Par. (2). Pub. L. 105–276, §586(b)(1), inserted “or violent” after “drug-related”.
+<b>1998</b>—Par. (2). Pub. L. 105–276, §586(b)(1), inserted “or violent” after “drug-related”.
 
 Par. (4). Pub. L. 105–276, §586(b)(2)(A), inserted “and violent” after “drug-related”.
 
 Pars. (6) to (8). Pub. L. 105–276, §586(b)(2)(B), (3), (4), added pars. (6) to (8).
 
-1990—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: “The Congress finds that—
+<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: “The Congress finds that—
 
 &emsp;“(1) the Federal Government has a duty to provide public housing that is decent, safe, and free from illegal drugs;
 

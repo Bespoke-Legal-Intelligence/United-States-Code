@@ -10,7 +10,7 @@ Property Subject to Criminal Forfeiture.—Any person convicted under section 22
 
 &emsp;(3) any of the property used in any manner or part, to commit, or to facilitate the commission of, such violation.
 
-> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fineotherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 (b)
 

@@ -24,7 +24,7 @@ Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provid
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
+Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
 
 Pub. L. 106–476, title I, §1441, Nov. 9, 2000, 114 Stat. 2163, provided that: “This chapter \[chapter 3 (§§1441–1443) of subtitle B of title I of Pub. L. 106–476, enacting section 1308 of this title, amending section 69 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 1308 of this title\], may be cited as the ‘Dog and Cat Protection Act of 2000’.”
 
@@ -70,7 +70,7 @@ Section 1(c) of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that: “
 
 #### Short Title of 1962 Amendment
 
-Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this Act \[amending section 1312 of this title, section 1856 of Title 7, Agriculture, section 41 of Title 21, Food and Drugs, sections 4501 and 6418 of Title 26, Internal Revenue Code, section 474 of former Title 40, Public Buildings, Property, and Works, and section 2201 of Title 42, The Public Health and Welfare, repealing sections 193 to 195, 196a, 420, 1301a, 1308, 1367, 1489, 1504, and 1508 of this title and section 2383 of Title 10, Armed Forces, and enacting provisions set out as notes preceding section 1202 of this title and under section 1861 of this title and section 4501 of Title 26\] may be cited as the ‘Tariff Classification Act of 1962’.”
+Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this Act \[amending section 1312 of this title, section 1856 of Title 7, Agriculture, section 41 of Title 21, Food and Drugs, sections 4501 and 6418 of Title 26, Internal Revenue Code, section 474 of former Title 40, Public Buildings, Property, and Works, and section 2201 of Title 42, The Public Health and Welfare, repealing sections 193 to 195, 196a, 420, 1301a, 1308, 1367, 1489,1504, and 1508 of this title and section 2383 of Title 10, Armed Forces, and enacting provisions set out as notes preceding section 1202 of this title and under section 1861 of this title and section 4501 of Title 26\] may be cited as the ‘Tariff Classification Act of 1962’.”
 
 #### Short Title of 1958 Amendment
 
@@ -78,7 +78,7 @@ Section 1 of Pub. L. 85–686, Aug. 20, 1958, 72 Stat. 673, provided: “That th
 
 #### Short Title of 1956 Amendment
 
-Section 1 of act Aug. 2, 1956, ch. 887, 70 Stat. 943, provided: “That this Act \[enacting section 1401a of thistitle, amending sections 1001, 1402, 1500, and 1583 of this title, and section 372 of former Title 31, Money and Finance, repealing sections 12 to 18, 21, 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title, and section 711 of former Title 31, and enacting provisions set out as notes under sections 2, 160, 1351, 1401a, and 1402 of this title\] may be cited as the ‘Customs Simplification Act of 1956’.”
+Section 1 of act Aug. 2, 1956, ch. 887, 70 Stat. 943, provided: “That this Act \[enacting section 1401a of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and section 372 of former Title 31, Money and Finance, repealing sections 12 to 18, 21, 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title, and section 711 of former Title 31, and enacting provisions set out as notes under sections 2, 160, 1351, 1401a, and 1402 of this title\] may be cited as the ‘Customs Simplification Act of 1956’.”
 
 #### Short Title of 1955 Amendment
 

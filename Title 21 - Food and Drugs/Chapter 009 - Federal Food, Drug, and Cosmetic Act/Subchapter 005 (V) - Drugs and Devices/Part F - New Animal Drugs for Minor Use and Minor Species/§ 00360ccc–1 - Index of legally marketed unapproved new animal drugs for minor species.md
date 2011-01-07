@@ -26,7 +26,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(D) a description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such new animal drug;
 
-&emsp;(E) an environmental assessment that meets the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], as amended, and as defined in 21 CFR Part 25, as it appears on August 2, 2004, and amended thereafter or information to supporta categorical exclusion from the requirement to prepare an environmental assessment;
+&emsp;(E) an environmental assessment that meets the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], as amended, and as defined in 21 CFR Part 25, as it appears on August 2, 2004, and amended thereafter or information to support a categorical exclusion from the requirement to prepare an environmental assessment;
 
 &emsp;(F) information sufficient to support the conclusion that the proposed use of the new animal drug is safe under section 360b(d) of this title with respect to individuals exposed to the new animal drug through its manufacture or use; and
 
@@ -114,7 +114,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(A) the expert panel failed to meet the requirements as set forth by the Secretary by regulation;
 
-&emsp;(B) on the basis of new information before the Secretary, evaluated together with the evidence available to the Secretary when the new animal drug was listed in the index, the benefits of using the new animal drug for the indexed use do not outweigh its risks to the target animal;
+&emsp;(B) on the basis of new information before the Secretary, evaluated together with the evidence available to the Secretary when the new animal drug was listed in the index, the benefits of using the new animal drug for theindexed use do not outweigh its risks to the target animal;
 
 &emsp;(C) the conditions of subsection (c)(2) of this section are no longer satisfied;
 
@@ -176,7 +176,7 @@ Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label u
 
 &emsp;(A) for the purpose of, or as part of a plan, scheme, or device for, obtaining the right to make, use, or market, or making, using, or marketing, outside the United States, the drug identified in the request for indexing; and
 
-&emsp;(B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to the Secretary, which meets the requirements of this paragraph.
+&emsp;(B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to theSecretary, which meets the requirements of this paragraph.
 
 (June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896.)
 

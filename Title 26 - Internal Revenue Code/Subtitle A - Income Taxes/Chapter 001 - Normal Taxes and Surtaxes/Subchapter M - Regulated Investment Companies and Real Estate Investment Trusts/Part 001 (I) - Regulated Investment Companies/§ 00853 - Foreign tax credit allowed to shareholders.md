@@ -26,7 +26,7 @@ If the election provided in subsection (a) is effective for a taxable year—
 
 &emsp;&emsp;(B) treat as gross income from sources within the respective foreign countries and possessions of the United States, for purposes of applying subpart A of part III of subchapter N, the sum of his proportionate share of such taxes and the portion of any dividend paid by such investment company which represents income derived from sources within foreign countries or possessions of the United States.
 
-#### (c) Notice to shareholders
+#### (c) Statements to shareholders
 
 The amounts to be treated by the shareholder, for purposes of subsection (b)(2), as his proportionate share of—
 
@@ -34,11 +34,11 @@ The amounts to be treated by the shareholder, for purposes of subsection (b)(2),
 
 &emsp;(2) gross income derived from sources within any foreign country or possession of the United States,
 
-> shall not exceed the amounts so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year.
+> shall not exceed the amounts so reported by the company in a written statement furnished to such shareholder.
 
-#### (d) Manner of making election and notifying shareholders
+#### (d) Manner of making election
 
-The election provided in subsection (a) and the notice to shareholders required by subsection (c) shall be made in such manner as the Secretary may prescribe by regulations.
+The election provided in subsection (a) shall be made in such manner as the Secretary may prescribe by regulations.
 
 #### (e) Treatment of certain taxes not allowed as a credit under section 901
 
@@ -50,23 +50,33 @@ This section shall not apply to any tax with respect to which the regulated inve
 
 &emsp;&emsp;<b>(2) For definition of foreign corporation, see section 7701(a)(5).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, §229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, §1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, §6010(k)(1), (2), July 22, 1998, 112 Stat. 815; Pub. L. 109–135, title IV, §403(aa)(1), Dec. 21, 2005, 119 Stat. 2630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, §229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, §1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, §6010(k)(1), (2), July 22, 1998, 112 Stat. 815; Pub. L. 109–135, title IV, §403(aa)(1), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 111–325, title III, §301(c), Dec. 22, 2010, 124 Stat. 3544.)
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of section 901(k).”
+<b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(c)(1)(B), substituted “Statements” for “Notice” in heading.
 
-1998—Subsec. (c). Pub. L. 105–206, §6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
+Pub. L. 111–325, §301(c)(1)(A), which directed amendment by substituting “so reported by the company in a written statement furnished to such shareholder” for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year”, was executed by making the substitution for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 111–325, §301(c)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
+
+<b>2005</b>—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of section 901(k).”
+
+<b>1998</b>—Subsec. (c). Pub. L. 105–206, §6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
 Subsecs. (e), (f). Pub. L. 105–206, §6010(k)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1997—Subsec. (c). Pub. L. 105–34 inserted at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 inserted at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “60 days” for “45 days”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “60 days” for “45 days”.
 
-1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1964—Subsec. (c). Pub. L. 88–272 substituted “45 days” for “30 days”.
+<b>1964</b>—Subsec. (c). Pub. L. 88–272 substituted “45 days” for “30 days”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
 
 #### Effective Date of 2005 Amendment
 

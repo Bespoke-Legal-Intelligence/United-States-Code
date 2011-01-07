@@ -20,7 +20,7 @@ Act of September 28, 1962, referred to in subsec. (b), popularly known as the Re
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–320 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–320 added subsec. (c).
 
 #### Designation of Center to Honor Herbert H. Bateman
 

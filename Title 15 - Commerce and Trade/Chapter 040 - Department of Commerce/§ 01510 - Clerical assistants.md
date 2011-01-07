@@ -10,7 +10,7 @@ Section was formerly classified to section 594 of Title 5 prior to the general r
 
 #### Amendments
 
-1952—Act July 16, 1952, provided for clerical assistants instead of a disbursing clerk.
+<b>1952</b>—Act July 16, 1952, provided for clerical assistants instead of a disbursing clerk.
 
 #### Disbursement Clerk
 

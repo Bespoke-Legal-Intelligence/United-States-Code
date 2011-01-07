@@ -27,7 +27,7 @@ Another prior subpart G, consisting of sections 5141 to 5149, related to general
 
 #### Amendments
 
-2005—Pub. L. 109–59, title XI, §11125(b)(10), Aug. 10, 2005, 119 Stat. 1955, added subpart heading and items 5131 and 5132.
+<b>2005</b>—Pub. L. 109–59, title XI, §11125(b)(10), Aug. 10, 2005, 119 Stat. 1955, added subpart heading and items 5131 and 5132.
 
 
 ---

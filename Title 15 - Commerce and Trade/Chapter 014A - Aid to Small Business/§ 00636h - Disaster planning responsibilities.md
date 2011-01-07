@@ -36,7 +36,7 @@ In carrying out the responsibilities described in subsection (b), the individual
 
 #### (d) Resources
 
-The Administrator shall ensure that the individual assigned the disaster planning function of the Administration has adequate resources to carry out the duties under this section.
+The Administrator shall ensure that the individual assigned the disaster planning function ofthe Administration has adequate resources to carry out the duties under this section.
 
 #### (e) Report
 

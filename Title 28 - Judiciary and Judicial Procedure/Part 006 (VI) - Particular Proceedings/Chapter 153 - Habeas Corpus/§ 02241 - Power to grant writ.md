@@ -46,17 +46,17 @@ Section 1005(e) of the Detainee Treatment Act of 2005, referred to in subsec. (e
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–181 amended directory language of Pub. L. 109–366, §7(a). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (e). Pub. L. 110–181 amended directory language of Pub. L. 109–366, §7(a). See 2006 Amendment note below.
 
-2006—Subsec. (e). Pub. L. 109–366, §7(a), as amended by Pub. L. 110–181, added subsec. (e) and struck out both former subsecs. (e) relating to jurisdiction to hear or consider action against United States or its agents relating to detention of alien by Department of Defense at Guantanamo Bay, Cuba.
+<b>2006</b>—Subsec. (e). Pub. L. 109–366, §7(a), as amended by Pub. L. 110–181, added subsec. (e) and struck out both former subsecs. (e) relating to jurisdiction to hear or consider action against United States or its agents relating to detention of alien by Department of Defense at Guantanamo Bay, Cuba.
 
 Subsec. (e). Pub. L. 109–163 added subsec. (e), relating to section 1405 of the Detainee Treatment Act of 2005.
 
-2005—Subsec. (e). Pub. L. 109–148 added subsec. (e), relating to section 1005 of the Detainee Treatment Act of 2005.
+<b>2005</b>—Subsec. (e). Pub. L. 109–148 added subsec. (e), relating to section 1005 of the Detainee Treatment Act of 2005.
 
-1966—Subsec. (d). Pub. L. 89–590 added subsec. (d).
+<b>1966</b>—Subsec. (d). Pub. L. 89–590 added subsec. (d).
 
-1949—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
 
 #### Effective Date of 2006 Amendment
 

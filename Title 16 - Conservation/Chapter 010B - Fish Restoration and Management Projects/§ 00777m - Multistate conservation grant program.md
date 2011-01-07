@@ -102,7 +102,7 @@ Of amounts made available under section 777c(b) of this title for each fiscal ye
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
-(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, §901(r)(2), July 11, 2006, 120 Stat. 566.)
+(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, §901(r)(2), July 11, 2006, 120 Stat. 566; Pub. L. 111–281, title IX, §903(a)(3), Oct. 15, 2010, 124 Stat. 3010.)
 
 #### References in Text
 
@@ -110,13 +110,19 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–241, which directed amendment of subsec. (a)(1) by substituting “Not more than” for “For each of the fiscal years 2006 through 2009, not more than”, was executed by making the substitution for “For each of fiscal years 2006 through 2009, not more than” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–281 made technical correction to directory language of Pub. L. 109–241, §901(r)(2). See 2006 Amendment note below.
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–241, §901(r)(2), as amended by Pub. L. 111–281, substituted “Not more than” for “For each of fiscal years 2006 through 2009, not more than”.
+
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
 
 Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted “section 777c(c)” for “section 777c(e)” in two places.
 
 Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(3) is effective with enactment of Pub. L. 109–241.
 
 #### Effective Date of 2005 Amendments
 

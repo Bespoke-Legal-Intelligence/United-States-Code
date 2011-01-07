@@ -12,9 +12,9 @@ Whoever falsely—
 
 #### Amendments
 
-2009—Pub. L. 111–13 substituted “Service Corps” for “Volunteer Corps” in concluding provisions.
+<b>2009</b>—Pub. L. 111–13 substituted “Service Corps” for “Volunteer Corps” in concluding provisions.
 
-1993—Pub. L. 103–82, §405(a)(11), substituted “the Corporation” for “ACTION” in concluding provisions.
+<b>1993</b>—Pub. L. 103–82, §405(a)(11), substituted “the Corporation” for “ACTION” in concluding provisions.
 
 #### Effective Date of 2009 Amendment
 

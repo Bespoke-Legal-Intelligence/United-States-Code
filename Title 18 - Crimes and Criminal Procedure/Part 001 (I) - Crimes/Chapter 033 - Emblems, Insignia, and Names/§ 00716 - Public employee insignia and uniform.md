@@ -26,7 +26,7 @@
 
 &emsp;(1) the term “genuine police badge” means an official badge issued by public authority to identify an individual as a law enforcement officer having police powers;
 
-&emsp;(2) the term “counterfeit police badge” means an item that so resembles a policebadge that it would deceive an ordinary individual into believing it was a genuine police badge; and <sup>2</sup>
+&emsp;(2) the term “counterfeit police badge” means an item that so resembles a police badge that it would deceive an ordinary individual into believing it was a genuine police badge; and <sup>2</sup>
 
 &emsp;(3) the term “official insignia or uniform” means an article of distinctive clothing or insignia, including a badge, emblem or identification card, that is an indicium of the authority of a public employee;
 
@@ -44,7 +44,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–162, §1191(a)(6), substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
+<b>2006</b>—Pub. L. 109–162, §1191(a)(6), substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
 
 Subsec. (a)(1). Pub. L. 109–162, §1191(a)(1), substituted “official insignia or uniform” for “police badge”.
 
@@ -63,4 +63,8 @@ Pub. L. 109–162, §1191(a)(1), which directed substitution of “official insi
 Subsec. (c)(3) to (5). Pub. L. 109–162, §1191(a)(4), added pars. (3) to (5).
 
 Subsec. (d). Pub. L. 109–162, §1191(a)(5), added subsec. (d).
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -12,7 +12,7 @@ An agreement entered into with any State pursuant to subsection (a) of this sect
 
 &emsp;(2) individuals receiving money payments under all of the plans of such State approved under subchapters I, X, XIV, and XVI of this chapter, and part A of subchapter IV of this chapter.
 
-> Except as provided in subsection (g) of this section, there shall be excluded from any coverage group any individual who is entitled to monthly insurance benefits under subchapter II of this chapter or who is entitled to receive an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]. Effective January 1, 1974, andsubject to section 1396a(f) of this title, the Secretary shall, at the request of any State not eligible to participate in the State plan program established under subchapter XVI of this chapter, continue in effect the agreement entered into under this section with such State subject to such modifications as the Secretary may by regulations provide to take account of the termination of any plans of such State approved under subchapters I, X, XIV, and XVI of this chapter and the establishment of the supplemental security income program under subchapter XVI of this chapter.
+> Except as provided in subsection (g) of this section, there shall be excluded from any coverage group any individual who is entitled to monthly insurance benefits under subchapter II of this chapter or who is entitled to receive an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]. Effective January 1, 1974, and subject to section 1396a(f) of this title, the Secretary shall, at the request of any State not eligible to participate in the State plan program established under subchapter XVI of this chapter, continue in effect the agreement entered into under this section with such State subject to such modifications as the Secretary may by regulations provide to take account of the termination of any plans of such State approved under subchapters I, X, XIV, and XVI of this chapter and the establishment of the supplemental security income program under subchapter XVI of this chapter.
 
 #### (c) Eligible individuals
 
@@ -84,11 +84,11 @@ Part A of this subchapter, referred to in subsec. (i), is classified to section 
 
 #### Amendments
 
-1990—Subsec. (h)(3). Pub. L. 101–508 added par. (3).
+<b>1990</b>—Subsec. (h)(3). Pub. L. 101–508 added par. (3).
 
-1989—Subsec. (i). Pub. L. 101–239 added subsec. (i).
+<b>1989</b>—Subsec. (i). Pub. L. 101–239 added subsec. (i).
 
-1988—Subsecs. (a), (g)(1). Pub. L. 100–360, §301(e)(1)(A), formerly §301(e)(1), as redesignated by Pub. L. 100–485, §608(d)(14)(H)(i), inserted “or after 1988” after “during 1981”.
+<b>1988</b>—Subsecs. (a), (g)(1). Pub. L. 100–360, §301(e)(1)(A), formerly §301(e)(1), as redesignated by Pub. L. 100–485, §608(d)(14)(H)(i), inserted “or after 1988” after “during 1981”.
 
 Subsec. (h)(1). Pub. L. 100–360, §301(e)(1)(A), formerly §301(e)(1), as redesignated by Pub. L. 100–485, §608(d)(14)(H)(i), inserted “or after 1988” after “during 1981”.
 
@@ -96,11 +96,11 @@ Pub. L. 100–360, §301(e)(1)(B), as added by Pub. L. 100–485, §608(d)(14)(H
 
 Subsec. (h)(2). Pub. L. 100–360, §301(e)(1)(C), as added by Pub. L. 100–485, §608(d)(14)(H)(ii), inserted “(except in the case of qualified medicare beneficiaries, as defined in section 1396d(p)(1) of this title)” after “shall be applied”.
 
-1984—Subsec. (d)(3)(B). Pub. L. 98–369 substituted “1974” for “1937”.
+<b>1984</b>—Subsec. (d)(3)(B). Pub. L. 98–369 substituted “1974” for “1937”.
 
-1983—Subsec. (d)(1). Pub. L. 98–21 substituted “without any increase under subsection (b) thereof” for “without any increase under subsection (c) thereof”.
+<b>1983</b>—Subsec. (d)(1). Pub. L. 98–21 substituted “without any increase under subsection (b) thereof” for “without any increase under subsection (c) thereof”.
 
-1980—Subsec. (a). Pub. L. 96–499, §945(e), inserted “or during 1981,” after “January 1, 1970,”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–499, §945(e), inserted “or during 1981,” after “January 1, 1970,”.
 
 Subsec. (e). Pub. L. 96–499, §947(a), inserted provision that the coverage period under this part of any individual who filed notice that he no longer wished to participate in the insurance program established by this part was to terminate at the close of the month in which the notice was filed.
 
@@ -110,11 +110,11 @@ Subsec. (g)(2)(C). Pub. L. 96–499, §947(c)(3), struck out cl. (C) which autho
 
 Subsec. (h)(1). Pub. L. 96–499, §945(e), inserted “or during 1981,” after “January 1, 1970,”.
 
-1974—Subsec. (b). Pub. L. 93–445 substituted “under the Railroad Retirement Act of 1974” for “or pension under the Railroad Retirement Act of 1937”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted “under the Railroad Retirement Act of 1974” for “or pension under the Railroad Retirement Act of 1937”.
 
-1973—Subsec. (b). Pub. L. 93–233 provided for continuation of State agreements for coverage of certain individuals in connection with establishment of supplemental security income program.
+<b>1973</b>—Subsec. (b). Pub. L. 93–233 provided for continuation of State agreements for coverage of certain individuals in connection with establishment of supplemental security income program.
 
-1968—Pub. L. 90–248, §222(b)(4), inserted “(or are eligible for medical assistance)” in section catchline.
+<b>1968</b>—Pub. L. 90–248, §222(b)(4), inserted “(or are eligible for medical assistance)” in section catchline.
 
 Subsec. (a). Pub. L. 90–248, §222(e)(1), substituted “1970” for “1968”.
 
@@ -126,7 +126,7 @@ Subsec. (d)(2)(D). Pub. L. 90–248, §222(e)(3), struck out “(not later than 
 
 Subsec. (d)(3)(A). Pub. L. 90–248, §222(b)(1), substituted “ineligible both for money payments of a kind specified in the agreement and (if there is in effect a modification entered into under subsection (h) of this section) for medical assistance” for “ineligible for money payments of a kind specified in the agreement”.
 
-Subsec. (f). Pub. L. 90–248, §222(b)(2), inserted “or eligible to receive medical assistance under the plan ofsuch State approved under subchapter XIX of this chapter” and “, and individuals eligible to receive medical assistance under the plan of the State approved under subchapter XIX of this chapter” after “or part A of subchapter IV of this chapter” and “, and part A of subchapter IV of this chapter”, respectively.
+Subsec. (f). Pub. L. 90–248, §222(b)(2), inserted “or eligible to receive medical assistance under the plan of such State approved under subchapter XIX of this chapter” and “, and individuals eligible to receive medical assistance under the plan of the State approved under subchapter XIX of this chapter” after “or part A of subchapter IV of this chapter” and “, and part A of subchapter IV of this chapter”, respectively.
 
 Pub. L. 90–248, §241(e)(2), struck out “IV,” before “X,” in two places, and inserted “or part A of subchapter IV of this chapter,” after “XVI of this chapter,” first place it appears in first sentence and “, and part A of subchapter IV of this chapter” after “XVI of this chapter” in second sentence.
 
@@ -134,7 +134,7 @@ Subsec. (g)(1). Pub. L. 90–248, §222(b)(3), substituted “1970” for “196
 
 Subsec. (h). Pub. L. 90–248, §222(a), added subsec. (h).
 
-1966—Subsec. (b). Pub. L. 89–384, §4(a), inserted reference to subsec. (g) in exclusionary provision.
+<b>1966</b>—Subsec. (b). Pub. L. 89–384, §4(a), inserted reference to subsec. (g) in exclusionary provision.
 
 Subsec. (g). Pub. L. 89–384, §4(b), added subsec. (g).
 

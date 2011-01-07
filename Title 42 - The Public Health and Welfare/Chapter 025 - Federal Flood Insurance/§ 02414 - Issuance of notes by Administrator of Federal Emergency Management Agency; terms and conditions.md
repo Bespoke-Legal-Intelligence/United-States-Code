@@ -12,13 +12,13 @@ The Secretary of the Treasury may at any time sell any of the notes or other obl
 
 #### Amendments
 
-1988—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, thus requiring no change in text.
+<b>1988</b>—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, thus requiring no change in text.
 
-1984—Subsec. (e). Pub. L. 98–479 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended”, and “such chapter” for “such Act, as amended,”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended”, and “such chapter” for “such Act, as amended,”.
 
-1983—Subsec. (e). Pub. L. 98–181 substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development” in two places.
+<b>1983</b>—Subsec. (e). Pub. L. 98–181 substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development” in two places.
 
-1968—Subsecs. (a) to (d). Pub. L. 90–448, §1303(c), repealed subsecs. (a) to (d), which created three funds, provided for deposits therein, investment of moneys in the funds, and deposit of salvage proceeds.
+<b>1968</b>—Subsecs. (a) to (d). Pub. L. 90–448, §1303(c), repealed subsecs. (a) to (d), which created three funds, provided for deposits therein, investment of moneys in the funds, and deposit of salvage proceeds.
 
 Subsec. (e). Pub. L. 90–448, §1303(a), (b), substituted “current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month” for “current average rate on outstanding marketable obligations of the United States of comparable maturities as of the last day of the month”, and struck out provisions which permitted Secretary of the Treasury to purchase any notes and other obligations to be issued under this subsection.
 
@@ -26,7 +26,7 @@ Subsecs. (f), (g). Pub. L. 90–448, §1303(c), repealed subsecs. (f) and (g) wh
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e) on authority of section 612(c) of Pub. L. 109–295, set out as anote under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 1968 Amendment
 

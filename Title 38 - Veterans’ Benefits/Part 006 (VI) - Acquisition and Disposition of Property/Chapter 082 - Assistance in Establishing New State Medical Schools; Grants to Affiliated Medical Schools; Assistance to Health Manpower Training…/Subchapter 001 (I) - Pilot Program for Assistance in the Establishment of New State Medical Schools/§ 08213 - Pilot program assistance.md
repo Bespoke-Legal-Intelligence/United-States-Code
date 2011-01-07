@@ -1,6 +1,6 @@
 ### §8213. Pilot program assistance
 
-(a) Subject to subsection (b) of this section, the Secretary may enter into an agreement toprovide to any college or university which is primarily supported by the State in which it is located (hereinafter in this subchapter referred to as “institution”) the following assistance to enable such institution to establish a new medical school:
+(a) Subject to subsection (b) of this section, the Secretary may enter into an agreement to provide to any college or university which is primarily supported by the State in which it is located (hereinafter in this subchapter referred to as “institution”) the following assistance to enable such institution to establish a new medical school:
 
 &emsp;(1) The extension, alteration, remodeling, improvement, or repair of buildings and structures (including, as part of a lease made under paragraph (1), the provision of equipment) provided under paragraph (1) to the extent necessary to make them suitable for use as medical school facilities.
 
@@ -46,7 +46,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(2)(B), renumbered section 5073 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(2)(B), renumbered section 5073 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
@@ -60,17 +60,17 @@ Pub. L. 102–40, §402(d)(1), substituted “8201(e)” for “5070(e)”.
 
 Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (a)(2). Pub. L. 99–576 substituted “12-month” for “twelve-month” wherever appearing in introductory provisions and in subpar. (A) and “percent” for “per centum” in subpars. (A) to (G).
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–576 substituted “12-month” for “twelve-month” wherever appearing in introductory provisions and in subpar. (A) and “percent” for “per centum” in subpars. (A) to (G).
 
-1982—Subsec. (b)(1)(D). Pub. L. 97–295 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
+<b>1982</b>—Subsec. (b)(1)(D). Pub. L. 97–295 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
 
-1981—Subsec. (a)(2)(G). Pub. L. 97–15 substituted “seventh and eighth such periods” for “seventh such period”.
+<b>1981</b>—Subsec. (a)(2)(G). Pub. L. 97–15 substituted “seventh and eighth such periods” for “seventh such period”.
 
-1976—Subsec. (a). Pub. L. 94–581, §116(3), redesignated pars. (2) and (3) as (1) and (2), respectively. Former par. (1), which authorized the leasing of such land, buildings, and structures under the control of the Veterans’ Administration as might be necessary for a new medical school, was struck out. See section 5070(e) of this title.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §116(3), redesignated pars. (2) and (3) as (1) and (2), respectively. Former par. (1), which authorized the leasing of such land, buildings, and structures under the control of the Veterans’ Administration as might be necessary for a new medical school, was struck out. See section 5070(e) of this title.
 
 Subsec. (b)(1). Pub. L. 94–581, §210(f)(3)(A), substituted “the Administrator” for “he” in provisions preceding subpar. (A).
 
-Subsec. (b)(2). Pub. L. 94–581, §§116(4), 210(f)(3)(A), substituted “section 5070(e) of this title and subsection (b)(1) of this section” for “subsections (a)(1) and (b)(1) of this section” and “as the Administrator deems” for “as he deems”.
+Subsec. (b)(2). Pub. L. 94–581, §§116(4), 210(f)(3)(A), substituted “section 5070(e) of this title and subsection (b)(1) of this section” for “subsections (a)(1) and (b)(1)of this section” and “as the Administrator deems” for “as he deems”.
 
 Subsec. (c). Pub. L. 94–581, §210(f)(3)(B), substituted “the Administrator” for “he” in provisions preceding par. (1) and in provisions following par. (3).
 

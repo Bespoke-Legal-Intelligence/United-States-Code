@@ -16,9 +16,9 @@ Suspension.—An individual recognized under this section shall be subject to th
 
 #### Amendments
 
-2006—Pub. L. 109–461 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–461 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1991—Pub. L. 102–40 renumbered section 3403 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3403 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and wherever appearing in pars. (1) and (2).
 

@@ -60,13 +60,13 @@ In subsection (e), the 2d sentence of section 6969(b) of title 10 is omitted as 
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–551 redesignated former subsec. (c) as (b). Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to the basic pay of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
+<b>1978</b>—Subsec. (b). Pub. L. 95–551 redesignated former subsec. (c) as (b). Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to the basic pay of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
 
 Subsecs. (c) to (e). Pub. L. 95–551 redesignated former subsecs. (d) to (f) as (c) to (e), respectively.
 
 Subsec. (f). Pub. L. 95–551 redesignated former subsec. (f) as (e).
 
-1965—Subsec. (f). Pub. L. 89–189 added subsec. (f).
+<b>1965</b>—Subsec. (f). Pub. L. 89–189 added subsec. (f).
 
 #### Transfer of Functions
 

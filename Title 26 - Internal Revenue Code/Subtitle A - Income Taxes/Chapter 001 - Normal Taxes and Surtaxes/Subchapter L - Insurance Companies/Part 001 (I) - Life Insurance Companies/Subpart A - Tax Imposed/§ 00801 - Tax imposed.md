@@ -50,7 +50,7 @@ Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 
 
 #### Amendments
 
-1986—Subsec. (a)(2)(C). Pub. L. 99–514 substituted “the amount allowable as a deduction under paragraph (2)” for “the amounts allowable as deductions under paragraphs (2) and (3)” in text and struck from heading “special life insurance company deduction and” before “small”.
+<b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–514 substituted “the amount allowable as a deduction under paragraph (2)” for “the amounts allowable as deductions under paragraphs (2) and (3)” in text and struck from heading “special life insurance company deduction and” before “small”.
 
 #### Effective Date of 1986 Amendment
 

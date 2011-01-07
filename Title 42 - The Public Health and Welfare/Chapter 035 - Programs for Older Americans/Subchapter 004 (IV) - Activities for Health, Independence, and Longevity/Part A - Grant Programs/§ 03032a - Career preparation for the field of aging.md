@@ -34,5 +34,5 @@ Another prior section 412 of Pub. L. 89–73 was classified to section 3035a of 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–365 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Assistant Secretary shall make grants to institutions of higher education, historically Black colleges or universities, Hispanic Centers of Excellence in Applied Gerontology, and other educational institutions that serve the needs of minority students, to provide education and training to prepare students for careers in the field of aging.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–365 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Assistant Secretary shall make grants to institutions of higher education, historically Black colleges or universities, Hispanic Centers of Excellence in Applied Gerontology, and other educational institutions that serve the needs of minority students, to provide education and training to prepare students for careers in the field of aging.”
 

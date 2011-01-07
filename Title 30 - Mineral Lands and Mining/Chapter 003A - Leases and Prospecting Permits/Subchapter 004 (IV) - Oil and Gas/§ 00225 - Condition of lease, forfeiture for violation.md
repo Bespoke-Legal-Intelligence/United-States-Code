@@ -6,7 +6,7 @@ All leases of lands containing oil or gas, made or issued under the provisions o
 
 #### Amendments
 
-1946—Act Aug. 8, 1946, omitted condition that no wells should be drilled within two hundred feet of boundaries of leased lands.
+<b>1946</b>—Act Aug. 8, 1946, omitted condition that no wells should be drilled within two hundred feet of boundaries of leased lands.
 
 #### Savings Provision
 

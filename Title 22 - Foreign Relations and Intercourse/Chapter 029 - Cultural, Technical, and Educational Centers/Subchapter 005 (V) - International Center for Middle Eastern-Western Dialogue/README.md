@@ -1,7 +1,5 @@
 ### SUBCHAPTER V—INTERNATIONAL CENTER FOR MIDDLE EASTERN-WESTERN DIALOGUE
 
-<i><sup>1</sup></i><i> So in original. Probably should be “through”.</i>
-
 
 ---
 

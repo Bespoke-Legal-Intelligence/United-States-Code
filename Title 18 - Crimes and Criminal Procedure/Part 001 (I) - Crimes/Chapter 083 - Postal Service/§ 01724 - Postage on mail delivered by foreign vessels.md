@@ -10,9 +10,9 @@ Based on title 18, U.S.C., 1940 ed., §326 (Mar. 4, 1909, ch. 321, §203, 35 Sta
 
 #### Amendments
 
-1970—Pub. L. 91–375 substituted “Postal Service” and “Postal Service or its representative” for “Postmaster General” and “Postmaster General or his representative”, respectively, in two places.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” and “Postal Service or its representative” for “Postmaster General” and “Postmaster General or his representative”, respectively, in two places.
 
-1951—Act Sept. 25, 1951, repealed former first paragraph relating to penalties for failure to pay postage on or unlawful conveyance of mail to or from any part of the United States by foreign vessels.
+<b>1951</b>—Act Sept. 25, 1951, repealed former first paragraph relating to penalties for failure to pay postage on or unlawful conveyance of mail to or from any part of the United States by foreign vessels.
 
 #### Effective Date of 1970 Amendment
 

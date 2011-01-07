@@ -128,7 +128,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 #### (f) Protection against unreasonable risks
 
-(1) If the Administrator finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use,or disposal of a chemical substance with respect to which notice is required by subsection (a) of this section, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or environment before a rule promulgated under section 2605 of this title can protect against such risk, the Administrator shall, before the expiration of the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance, take the action authorized by paragraph (2) or (3) to the extent necessary to protect against such risk.
+(1) If the Administrator finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance with respect to which notice is required by subsection (a) of this section, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or environment before a rule promulgated under section 2605 of this title can protect against such risk, the Administrator shall, before the expiration of the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance, take the action authorized by paragraph (2) or (3) to the extent necessary to protect against such risk.
 
 (2) The Administrator may issue a proposed rule under section 2605(a) of this title to apply to a chemical substance with respect to which a finding was made under paragraph (1)—
 
@@ -172,7 +172,7 @@ If the Administrator has not initiated any action under this section or section 
 
 &emsp;(ii) submission of data by the applicant on such substance would be duplicative of data which has been submitted to the Administrator in accordance with such subsection,
 
-> the Administrator shall exempt the applicant from the requirement to submit such data on such substance. No exemption which is granted under this subparagraph with respect to the submission of data for a chemical substance may take effect before the beginning of the reimbursement period applicable to such data.
+> the Administrator shall exempt the applicant from the requirement to submit such data onsuch substance. No exemption which is granted under this subparagraph with respect to the submission of data for a chemical substance may take effect before the beginning of the reimbursement period applicable to such data.
 
 (B) If the Administrator exempts any person, under subparagraph (A), from submitting data required under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 

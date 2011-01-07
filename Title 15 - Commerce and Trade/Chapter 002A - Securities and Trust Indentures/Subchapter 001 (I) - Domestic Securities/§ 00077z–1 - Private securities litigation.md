@@ -126,7 +126,7 @@
 
 #### (C) Statement of attorneys’ fees or costs sought
 
-&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought.
+&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought\(including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought.
 
 #### (D) Identification of lawyers’ representatives
 
@@ -196,7 +196,7 @@
 
 #### (d) Defendant's right to written interrogatories
 
-In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
+In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit tothe jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
 
 (May 27, 1933, ch. 38, title I, §27, as added Pub. L. 104–67, title I, §101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, §101(a)(2), title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
 
@@ -206,7 +206,7 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii
 
 #### Amendments
 
-1998—Pub. L. 105–353, §301(a)(5), made technical correction relating to placement of section in subchapter.
+<b>1998</b>—Pub. L. 105–353, §301(a)(5), made technical correction relating to placement of section in subchapter.
 
 Subsec. (b)(4). Pub. L. 105–353, §101(a)(2), added par. (4).
 
@@ -216,7 +216,7 @@ Amendment by section 101(a)(2) of Pub. L. 105–353 not to affect or apply to an
 
 #### Effective Date
 
-Section not to affect or apply to any private action arising under this subchapter or title I of the SecuritiesExchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
+Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
 
 #### Construction
 

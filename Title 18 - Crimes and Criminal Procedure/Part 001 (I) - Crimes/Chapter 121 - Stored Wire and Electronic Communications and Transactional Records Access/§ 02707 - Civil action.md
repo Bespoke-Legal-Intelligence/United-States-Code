@@ -2,7 +2,7 @@
 
 (a)
 
-Cause of Action.—Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
+Cause of Action.—Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter inwhich the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
 (b)
 
@@ -20,7 +20,7 @@ Damages.—The court may assess as damages in a civil action under this section 
 
 (d)
 
-Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officeror employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
 (e)
 
@@ -46,9 +46,9 @@ Improper Disclosure.—Any willful disclosure of a “record”, as that term is
 
 #### Amendments
 
-2002—Subsec. (e)(1). Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, §815. See 2001 Amendment note below.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, §815. See 2001 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–56, §223(b)(1), inserted “, other than the United States,” after “person or entity”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(b)(1), inserted “, other than the United States,” after “person or entity”.
 
 Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.”
 
@@ -56,7 +56,7 @@ Subsec. (e)(1). Pub. L. 107–56, §815, as amended by Pub. L. 107–273, insert
 
 Subsec. (g). Pub. L. 107–56, §223(b)(3), added subsec. (g).
 
-1996—Subsec. (a). Pub. L. 104–293, §601(c)(1), substituted “other person” for “customer”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–293, §601(c)(1), substituted “other person” for “customer”.
 
 Subsec. (c). Pub. L. 104–293, §601(c)(2), inserted at end “If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.”
 

@@ -62,7 +62,11 @@ In subsection (e), the words “Notwithstanding any other provision of law” an
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center” and struck out “consumer” after “Federal Government”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center” and struck out “consumer” after “Federal Government”.
 
 Subsec. (b)(1). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Federal Citizen Services Fund”.</i>
+
+<i><sup>2</sup></i><i> So in original. See 2009 Amendment notes below.</i>
 

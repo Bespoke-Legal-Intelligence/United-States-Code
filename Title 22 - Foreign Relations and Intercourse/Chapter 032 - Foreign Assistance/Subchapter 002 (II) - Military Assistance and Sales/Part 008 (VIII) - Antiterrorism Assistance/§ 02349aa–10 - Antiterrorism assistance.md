@@ -42,3 +42,5 @@ Section 329 of title III of Pub. L. 104–132 provided that: “For purposes of 
 
 &emsp;“(2) the term ‘assistance’ does not include assistance of the type authorized under chapter 9 of part 1 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\] (relating to international disaster assistance).”
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

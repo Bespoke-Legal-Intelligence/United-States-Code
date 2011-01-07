@@ -10,7 +10,7 @@ For any twelve-month period, the franchise fees paid by a cable operator with re
 
 #### (c) Itemization of subscriber bills
 
-Each cable operator may identify, consistent with the regulations prescribed by the Commission pursuant to section 543 of this title, as aseparate line item on each regular bill of each subscriber, each of the following:
+Each cable operator may identify, consistent with the regulations prescribed by the Commission pursuant to section 543 of this title, as a separate line item on each regular bill of each subscriber, each of the following:
 
 &emsp;(1) The amount of the total bill assessed as a franchise fee and the identity of the franchising authority to which the fee is paid.
 
@@ -58,13 +58,13 @@ For the purposes of this section—
 
 Any Federal agency may not regulate the amount of the franchise fees paid by a cable operator, or regulate the use of funds derived from such fees, except as provided in this section.
 
-(June 19, 1934, ch. 652, title VI, §622, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2787; amended Pub. L. 102–385, §14, Oct. 5, 1992, 106 Stat. 1489; Pub. L. 104–104, title III, §303(b), Feb. 8, 1996, 110 Stat. 125.)
+(June 19, 1934, ch. 652, title VI, §622, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2787; amended Pub. L. 102–385, §14, Oct. 5, 1992, 106Stat. 1489; Pub. L. 104–104, title III, §303(b), Feb. 8, 1996, 110 Stat. 125.)
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–104 inserted “to provide cable services” before period at end of first sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–104 inserted “to provide cable services” before period at end of first sentence.
 
-1992—Subsec. (c). Pub. L. 102–385 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A cable operator may pass through to subscribers the amount of any increase in a franchise fee, unless the franchising authority demonstrates that the rate structure specified in the franchise reflects all costs of franchise fees and so notifies the cable operator in writing.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–385 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A cable operator may pass through to subscribers the amount of any increase in a franchise fee, unless the franchising authority demonstrates that the rate structure specified in the franchise reflects all costs of franchise fees and so notifies the cable operator in writing.”
 
 #### Effective Date of 1992 Amendment
 

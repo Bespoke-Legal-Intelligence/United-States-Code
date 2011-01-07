@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 2009 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 2010 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -110,9 +110,9 @@
 | [<b>79.</b>](Chapter%20079%20-%20Metal%20Casting%20Competitiveness%20Research%20Program/README.md) | <b>Metal Casting Competitiveness Research Program</b> | <b>5301</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Fasteners/README.md) | <b>Fasteners</b> | <b>5401</b> |
 | [<b>81.</b>](Chapter%20081%20-%20High-Performance%20Computing/README.md) | <b>High-Performance Computing</b> | <b>5501</b> |
-| [<b>82.</b>](Chapter%20082%20-%20Land%20Remote%20Sensing%20Policy/README.md) | <b>Land Remote Sensing Policy</b> | <b>5601</b> |
+| [<b>82.</b>](Chapter%20082%20-%20Land%20Remote%20Sensing%20Policy/README.md) | <b>Land Remote Sensing Policy \[Repealed or Transferred\]</b> | <b>5601</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Telephone%20Disclosure%20and%20Dispute%20Resolution/README.md) | <b>Telephone Disclosure and Dispute Resolution</b> | <b>5701</b> |
-| [<b>84.</b>](Chapter%20084%20-%20Commercial%20Space%20Competitiveness/README.md) | <b>Commercial Space Competitiveness</b> | <b>5801</b> |
+| [<b>84.</b>](Chapter%20084%20-%20Commercial%20Space%20Competitiveness/README.md) | <b>Commercial Space Competitiveness \[Repealed or Transferred\]</b> | <b>5801</b> |
 | [<b>85.</b>](Chapter%20085%20-%20Armored%20Car%20Industry%20Reciprocity/README.md) | <b>Armored Car Industry Reciprocity</b> | <b>5901</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Children%27s%20Bicycle%20Helmet%20Safety/README.md) | <b>Children's Bicycle Helmet Safety</b> | <b>6001</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Telemarketing%20and%20Consumer%20Fraud%20and%20Abuse%20Prevention/README.md) | <b>Telemarketing and Consumer Fraud and Abuse Prevention</b> | <b>6101</b> |
@@ -138,6 +138,9 @@
 | [<b>105.</b>](Chapter%20105%20-%20Protection%20of%20Lawful%20Commerce%20in%20Arms/README.md) | <b>Protection of Lawful Commerce in Arms</b> | <b>7901</b> |
 | [<b>106.</b>](Chapter%20106%20-%20Pool%20and%20Spa%20Safety/README.md) | <b>Pool and Spa Safety</b> | <b>8001</b> |
 | [<b>107.</b>](Chapter%20107%20-%20Protection%20of%20Intellectual%20Property%20Rights/README.md) | <b>Protection of Intellectual Property Rights</b> | <b>8101</b> |
+| [<b>108.</b>](Chapter%20108%20-%20State-Based%20Insurance%20Reform/README.md) | <b>State-Based Insurance Reform</b> | <b>8201</b> |
+| [<b>109.</b>](Chapter%20109%20-%20Wall%20Street%20Transparency%20and%20Accountability/README.md) | <b>Wall Street Transparency and Accountability</b> | <b>8301</b> |
+| [<b>110.</b>](Chapter%20110%20-%20Online%20Shopper%20Protection/README.md) | <b>Online Shopper Protection</b> | <b>8401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -279,3 +282,6 @@
 - [Chapter 105 - Protection of Lawful Commerce in Arms](Chapter%20105%20-%20Protection%20of%20Lawful%20Commerce%20in%20Arms/README.md)
 - [Chapter 106 - Pool and Spa Safety](Chapter%20106%20-%20Pool%20and%20Spa%20Safety/README.md)
 - [Chapter 107 - Protection of Intellectual Property Rights](Chapter%20107%20-%20Protection%20of%20Intellectual%20Property%20Rights/README.md)
+- [Chapter 108 - State-Based Insurance Reform](Chapter%20108%20-%20State-Based%20Insurance%20Reform/README.md)
+- [Chapter 109 - Wall Street Transparency and Accountability](Chapter%20109%20-%20Wall%20Street%20Transparency%20and%20Accountability/README.md)
+- [Chapter 110 - Online Shopper Protection](Chapter%20110%20-%20Online%20Shopper%20Protection/README.md)

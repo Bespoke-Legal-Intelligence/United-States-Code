@@ -14,11 +14,11 @@ Pub. L. 110–161, which directed the amendment of section 28 of title 30, Unite
 
 #### Amendments
 
-2007—Pub. L. 110–161 substituted “shall commence at 12:01 ante meridian on the first day of September” for “shall commence at 12 o'clock meridian on the 1st day of September”. See Codification note above.
+<b>2007</b>—Pub. L. 110–161 substituted “shall commence at 12:01 ante meridian on the first day of September” for “shall commence at 12 o'clock meridian on the 1st day of September”. See Codification note above.
 
-1993—Pub. L. 103–66 inserted “that is granted a waiver under section 28f of this title,” after “On each claim located after the 10th day of May 1872,”.
+<b>1993</b>—Pub. L. 103–66 inserted “that is granted a waiver under section 28f of this title,” after “On each claim located after the 10th day of May 1872,”.
 
-1958—Pub. L. 85–736 changed period for doing annual assessment work on unpatented mineral claims, substituting “1st day of September” for “1st day of July”.
+<b>1958</b>—Pub. L. 85–736 changed period for doing annual assessment work on unpatented mineral claims, substituting “1st day of September” for “1st day of July”.
 
 #### Admission of Alaska as State
 

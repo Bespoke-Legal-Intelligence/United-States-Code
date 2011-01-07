@@ -2,7 +2,11 @@
 
 #### (a) Establishment
 
-Not later than 18 months after December 17, 2004, the President shall establish a National Counter Proliferation Center, taking into account all appropriate government tools to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+(1) The President shall establish a National Counter Proliferation Center, taking into account all appropriate government tools to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+
+(2) The head of the National Counter Proliferation Center shall be the Director of the National Counter Proliferation Center, who shall be appointed by the Director of National Intelligence.
+
+(3) The National Counter Proliferation Center shall be located within the Office of the Director of National Intelligence.
 
 #### (b) Missions and objectives
 
@@ -28,7 +32,7 @@ The President may waive the requirements of this section, and any parts thereof,
 
 #### (d) Report to Congress
 
-(1) Not later than nine months after the implementation of this Act, the President shall submit to Congress, in classified form if necessary,the findings and recommendations of the President's Commission on Weapons of Mass Destruction established by Executive Order in February 2004, together with the views of the President regarding the establishment of a National Counter Proliferation Center.
+(1) Not later than nine months after the implementation of this Act, the President shall submit to Congress, in classified form if necessary, the findings and recommendations of the President's Commission on Weapons of Mass Destruction established by Executive Order in February 2004, together with the views of the President regarding the establishment of a National Counter Proliferation Center.
 
 (2) If the President decides not to exercise the waiver authority granted by subsection (c) of this section, the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counter Proliferation Center.
 
@@ -36,13 +40,17 @@ The President may waive the requirements of this section, and any parts thereof,
 
 It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President's Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
 
-(July 26, 1947, ch. 343, title I, §119A, as added Pub. L. 108–458, title I, §1022, Dec. 17, 2004, 118 Stat. 3675.)
+(July 26, 1947, ch. 343, title I, §119A, as added Pub. L. 108–458, title I, §1022, Dec. 17, 2004, 118 Stat. 3675; amended Pub. L. 111–259, title IV, §407(a), Oct. 7, 2010, 124 Stat. 2721.)
 
 #### References in Text
 
 This Act, referred to in subsec. (d)(1), probably means Pub. L. 108–458, known as the Intelligence Reform and Terrorism Prevention Act of 2004, which enacted this section. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 401 of this title and Tables.
 
 The Executive Order in February 2004 establishing the President's Commission on Weapons of Mass Destruction, referred to in subsec. (d)(1), is Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, and was formerly set out as a note under section 2301 of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–259 designated existing provisions as par. (1), substituted “The” for “Not later than 18 months after December 17, 2004, the”, and added pars. (2) and (3).
 
 #### Effective Date
 
@@ -52,5 +60,5 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Delegation of Functions
 
-Reporting functions of President under this section assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.
+Reporting functions of President under this section assigned to the Director of National Intelligence bysection 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.
 

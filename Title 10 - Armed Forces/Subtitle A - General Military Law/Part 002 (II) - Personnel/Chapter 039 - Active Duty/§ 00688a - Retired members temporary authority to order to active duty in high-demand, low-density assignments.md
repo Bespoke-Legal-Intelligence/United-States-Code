@@ -22,17 +22,19 @@ Inapplicability of Certain Provisions.—Retired members ordered to active duty 
 
 (f)
 
-Expiration of Authority.—A retired member may not be ordered to active duty under this section after December 31, 2010.
+Expiration of Authority.—A retired member may not be ordered to active duty under this section after December 31, 2011.
 
 (g)
 
 High-Demand, Low-Density Military Capability Defined.—In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
-(Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L. 109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255.)
+(Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L.109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215.)
 
 #### Amendments
 
-2006—Pub. L. 109–364, §621(d)(2)(A), substituted “Retired members: temporary authority to order to active duty in high-demand, low-density assignments” for “Retired aviators: temporary authority to order to active duty” in section catchline.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2006</b>—Pub. L. 109–364, §621(d)(2)(A), substituted “Retired members: temporary authority to order to active duty in high-demand, low-density assignments” for “Retired aviators: temporary authority to order to active duty” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §621(b)(1), in first sentence, substituted “The Secretary of a military department may order to active duty a retired member who agrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements” for “The Secretary of a military department may order to active duty a retired officer having expertise as an aviator to fill staff positions normally filled by aviators on active duty” and, in second sentence, substituted “member” for “officer” in two places.
 

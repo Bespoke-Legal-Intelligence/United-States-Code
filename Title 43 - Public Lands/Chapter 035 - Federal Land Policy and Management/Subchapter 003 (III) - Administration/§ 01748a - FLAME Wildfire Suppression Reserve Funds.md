@@ -52,7 +52,7 @@ There is established in the Treasury of the United States the following accounts
 
 #### (c) Purpose of FLAME Funds
 
-The FLAME Funds shall be available to cover the costs of large or complex wildfire events and as a reserve when amounts provided for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts are exhausted.
+The FLAME Funds shall be available to cover the costs of large or complex wildfire events andas a reserve when amounts provided for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts are exhausted.
 
 #### (d) Funding
 
@@ -130,7 +130,7 @@ For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall 
 
 #### (g) Prohibition on other transfers
 
-The Secretary concerned may not transfer funds from non-fire accounts to the Wildland Fire Management appropriation account of that Secretary unless amounts in the FLAME Fund of that Secretary and any amounts appropriated to that Secretary for the purpose of wildfire suppression will be exhausted within 30 days.
+The Secretary concerned may not transfer funds from non-fire accounts to the WildlandFire Management appropriation account of that Secretary unless amounts in the FLAME Fund of that Secretary and any amounts appropriated to that Secretary for the purpose of wildfire suppression will be exhausted within 30 days.
 
 #### (h) Accounting and reports
 

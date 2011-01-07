@@ -42,7 +42,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;&emsp;(A) a recipient country that supplies an assurance letter to the United States Government in connection with the consideration by the Commission of the export license application has informed the United States Government that any intermediate consignees and the ultimate consignee specified in the application are required to use the highly enriched uranium solely to produce medical isotopes; and
 
-&emsp;&emsp;(B) the highly enriched uranium for medical isotope production will be irradiatedonly in a reactor in a recipient country that—
+&emsp;&emsp;(B) the highly enriched uranium for medical isotope production will be irradiated only in a reactor in a recipient country that—
 
 &emsp;&emsp;&emsp;(i) uses an alternative nuclear reactor fuel; or
 
@@ -56,7 +56,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 #### (B) Imposition of additional requirements
 
-&emsp;&emsp;If the Commission determines that additional physical protection requirements are necessary (including a limit on the quantity of highly enriched uranium that may be contained in a single shipment), the Commission shall impose such requirements as license conditions or through other appropriate means.
+&emsp;&emsp;If the Commission determines that additional physical protection requirements are necessary (including a limit on the quantityof highly enriched uranium that may be contained in a single shipment), the Commission shall impose such requirements as license conditions or through other appropriate means.
 
 #### (4) First report to Congress
 
@@ -120,7 +120,7 @@ As used in this section—
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §630(1), inserted heading and substituted “Except as provided in subsection (b) of this section, the Commission” for “The Commission” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §630(1), inserted heading and substituted “Except as provided in subsection (b) of this section, the Commission” for “The Commission” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 109–58, §630(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 

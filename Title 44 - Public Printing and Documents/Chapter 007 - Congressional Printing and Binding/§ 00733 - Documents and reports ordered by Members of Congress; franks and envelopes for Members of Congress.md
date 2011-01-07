@@ -4,7 +4,7 @@ The Public Printer on order of a Member of Congress, on prepayment of the cost, 
 
 He may also furnish without cost to Members and the Resident Commissioner from Puerto Rico, blank franks printed on sheets and perforated, or singly at their option, for public documents. Franks shall contain in the upper left-hand corner the following words: “Public document. United States Senate” or “House of Representatives U.S.” and in the upper right-hand corner the letters “U.S.S.” or “M. C.” Franks may also contain information relating to missing children as provided in section 3220 of title 39. But he may not print any other words except where it is desirable to affix the official title of a document. Other words printed on franks shall be at the personal expense of the Member or Resident Commissioner ordering them.
 
-At the request of a Member of Congress or Resident Commissioner the Public Printer may print upon franks or envelopes used for mailing public documents the facsimile signature of the Member or Resident Commissioner and a special request for return if not called for, and the name of the State or Commonwealth and county and city. The Member or Resident Commissioner shall deposit with his order the extra expense involved in printing these additional words.
+At the request of a Member of Congress or Resident Commissioner the Public Printer may print upon franks or envelopes used for mailing public documents the facsimile signature of theMember or Resident Commissioner and a special request for return if not called for, and the name of the State or Commonwealth and county and city. The Member or Resident Commissioner shall deposit with his order the extra expense involved in printing these additional words.
 
 The Public Printer may also, at the request of a Member or Resident Commissioner, print on envelopes authorized to be furnished, the name of the Member or Resident Commissioner, and State or Commonwealth, the date, and the topic or subject matter, not exceeding twelve words.
 
@@ -24,11 +24,11 @@ Changes have been made in section 733 to include the Resident Commissioner as to
 
 #### Amendments
 
-1985—Pub. L. 99–87 inserted “Franks may also contain information relating to missing children as provided in section 3220 of title 39.” before “But he may not print” in second par.
+<b>1985</b>—Pub. L. 99–87 inserted “Franks may also contain information relating to missing children as provided in section 3220 of title 39.” before “But he may not print” in second par.
 
-1974—Pub. L. 93–255 struck out “Postage paid by Congress.” after “Public document.” in second par.
+<b>1974</b>—Pub. L. 93–255 struck out “Postage paid by Congress.” after “Public document.” in second par.
 
-1973—Pub. L. 93–191 substituted “Public document. Postage paid by Congress.” for “Public document. Free.” in second par.
+<b>1973</b>—Pub. L. 93–191 substituted “Public document. Postage paid by Congress.” for “Public document. Free.” in second par.
 
 #### Effective Date of 1973 Amendment
 

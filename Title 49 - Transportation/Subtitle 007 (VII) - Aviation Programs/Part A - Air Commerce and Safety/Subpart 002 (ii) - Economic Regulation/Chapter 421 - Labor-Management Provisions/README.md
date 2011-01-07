@@ -37,7 +37,9 @@
 
 #### Amendments
 
-2000—Pub. L. 106–181, title V, §519(b), Apr. 5, 2000, 114 Stat. 149, added heading for subchapter III and item 42121.
+<b>2000</b>—Pub. L. 106–181, title V, §519(b), Apr. 5, 2000, 114 Stat. 149, added heading for subchapter III and item 42121.
+
+<i><sup>1</sup></i><i> Subchapter I repealed by Pub. L. 105–220 without corresponding amendment of chapter analysis.</i>
 
 
 ---

@@ -4,7 +4,7 @@
 
 Issuance of Orders.—The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
 
-&emsp;(1) A separate notice for such order under section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416) or section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
+&emsp;(1) A separate notice for such order under section 1708 of title 41 or section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
 
 &emsp;(2) Except as provided in subsection (b), a competition (or a waiver of competition approved in accordance with section 2304(f) of this title) that is separate from that used for entering into the contract.
 
@@ -48,7 +48,7 @@ Protests.—(1) A protest is not authorized in connection with the issuance or p
 
 (2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
-(3) This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.
+(3) Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
 
 (f)
 
@@ -58,17 +58,19 @@ Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple 
 
 Applicability.—This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376.)
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181, §843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
 
-Subsec. (e). Pub. L. 110–181, §843(a)(2)(C), which directed that subsec. (e) be added and former subsec. (e) “as redesignated by paragraph (1)” be struck out, was executed by adding subsec. (e) and striking out heading and text of former subsec. (e) as redesignated by section 843(a)(2)(A) of Pub. L. 110–181 to reflect the probable intent of Congress. See below. Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
+Subsec. (e). Pub. L. 111–383, §1075(f)(5)(A), made technical correction to directory language of Pub. L. 110–181, §843(a)(2)(C). See 2008 Amendment note below.
+
+Subsec. (e)(3). Pub. L. 111–383, §825, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.”
+
+<b>2008</b>—Subsec. (d). Pub. L. 110–181, §843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 110–181, §843(a)(2)(C), as amended by Pub. L. 111–383, §1075(f)(5)(A), added subsec. (e) and struck out former subsec. (e). Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
 
 Pub. L. 110–181, §843(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -80,7 +82,7 @@ Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 
 #### Provisions Not Affected by Pub. L. 103–355
 

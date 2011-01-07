@@ -6,7 +6,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 #### (b) Planning for reservoirs; storage for regulation of streamflow
 
-(1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, considerationshall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
+(1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, consideration shall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
 
 (2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
 
@@ -38,9 +38,9 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: “The Administrator, after consultation with the States, and River Basin Commissions established under the Water Resources Planning Act, shall submit a report to Congress on or before July 1, 1978, which analyzes the relationship between programs under this chapter, and the programs by which State and Federal agencies allocate quantities of water. Such report shall include recommendations concerning the policy in section 1251(g) of this title to improve coordination of efforts to reduce and eliminate pollution in concert with programs for managing water resources.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: “The Administrator, after consultation with the States, and River Basin Commissions established under the Water Resources Planning Act, shall submit a report to Congress on or before July 1, 1978, which analyzes the relationship between programs under this chapter, and the programs by which State and Federal agencies allocate quantities of water. Such report shall include recommendations concerning the policy in section 1251(g) of this title to improve coordination of efforts to reduce and eliminate pollution in concert with programs for managing water resources.”
 
-1977—Subsec. (d). Pub. L. 95–217 added subsec. (d).
+<b>1977</b>—Subsec. (d). Pub. L. 95–217 added subsec. (d).
 
 #### Transfer of Functions
 

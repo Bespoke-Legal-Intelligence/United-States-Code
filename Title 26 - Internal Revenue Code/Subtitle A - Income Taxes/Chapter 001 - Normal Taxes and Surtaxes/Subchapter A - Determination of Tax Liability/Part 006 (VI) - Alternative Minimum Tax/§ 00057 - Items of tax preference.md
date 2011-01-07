@@ -78,7 +78,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include any bond issued after the date of the enactment of this clause if such bond is—
 
-&emsp;&emsp;&emsp;&emsp;(I) an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section 142(d)),
+&emsp;&emsp;&emsp;&emsp;(I) an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used toprovide qualified residential rental projects (as defined in section 142(d)),
 
 &emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage bond (as defined in section 143(a)), or
 
@@ -108,7 +108,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (II) Treatment of refunding bonds
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a refunding bond (whether a current or advance refunding) shall be treated as issued onthe date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
 
 #### (III) Exception for certain refunding bonds
 
@@ -148,25 +148,25 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 #### Prior Provisions
 
-A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 581; amended Pub. L. 92–178, title III, §§303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, 85 Stat. 522–524; Pub. L. 94–455, title III, §301(c)(1)–(4)(A), (C), title XIX, §§1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1550–1552, 1800, 1834; Pub. L. 95–30, title I, §101(d)(5), title III, §308(a), title IV, §402(a)(5), May 23, 1977, 91 Stat. 133, 153, 155; Pub. L. 95–600, title III, §301(b)(2), title IV, §§402(b)(1), 421(b), title VII, §701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, 92 Stat. 2820, 2868, 2874, 2898, 2899, 2901; Pub. L. 95–618, title IV, §402(b), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §§104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, 94 Stat. 217, 222; Pub. L. 96–596, §3(a), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 97–34, title I, §121(c)(1), title II, §§205, 212(d)(2)(B), Aug. 13, 1981, 95 Stat. 197, 223, 239; Pub. L. 97–248, title II, §§201(b), 204(b), Sept. 3, 1982, 96 Stat. 416, 426; Pub. L. 97–354, §5(a)(14), (15), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §102(b)(1)(A), (3), (4), Jan. 12, 1983, 96 Stat. 2369, 2370; Pub. L. 98–369, div. A, title I, §§16(b), 68(c), 111(e)(5)–(7), title V, §555(a)(2), title VII, §§711(a)(3)(A), 722(a)(1), July 18, 1984, 98 Stat. 505, 588, 633, 897, 942, 972; Pub. L. 99–121, title I, §103(b)(1)(B), (7), Oct. 11, 1985, 99 Stat. 509, 510; Pub. L. 99–272, title XIII, §13208(a), Apr. 7, 1986, 100 Stat. 321; Pub. L. 99–514, title XVIII, §§1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, 100 Stat. 2809, 2819, related to items of tax preference, prior to the general revision of this part by Pub. L. 99–514, §701(a).
+A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 581; amended Pub. L. 92–178, title III, §§303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, 85 Stat. 522–524; Pub. L. 94–455, title III, §301(c)(1)–(4)(A), (C), title XIX, §§1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1550–1552, 1800, 1834; Pub. L. 95–30, title I, §101(d)(5), title III, §308(a), title IV, §402(a)(5), May 23, 1977, 91 Stat. 133, 153, 155; Pub. L. 95–600, title III, §301(b)(2), title IV, §§402(b)(1), 421(b), title VII, §701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, 92Stat. 2820, 2868, 2874, 2898, 2899, 2901; Pub. L. 95–618, title IV, §402(b), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §§104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, 94 Stat. 217, 222; Pub. L. 96–596, §3(a), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 97–34, title I, §121(c)(1), title II, §§205, 212(d)(2)(B), Aug. 13, 1981, 95 Stat. 197, 223, 239; Pub. L. 97–248, title II, §§201(b), 204(b), Sept. 3, 1982, 96 Stat. 416, 426; Pub. L. 97–354, §5(a)(14), (15), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §102(b)(1)(A), (3), (4), Jan. 12, 1983, 96 Stat. 2369, 2370; Pub. L. 98–369, div. A, title I, §§16(b), 68(c), 111(e)(5)–(7), title V, §555(a)(2), title VII, §§711(a)(3)(A), 722(a)(1), July 18, 1984, 98 Stat. 505, 588, 633, 897, 942, 972; Pub. L. 99–121, title I, §103(b)(1)(B), (7), Oct. 11, 1985, 99 Stat. 509, 510; Pub. L. 99–272, title XIII, §13208(a), Apr. 7, 1986, 100 Stat. 321; Pub. L. 99–514, title XVIII, §§1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, 100 Stat. 2809, 2819, related to items of tax preference, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
 
-2009—Subsec. (a)(5)(C)(vi). Pub. L. 111–5 added cl. (vi).
+<b>2009</b>—Subsec. (a)(5)(C)(vi). Pub. L. 111–5 added cl. (vi).
 
-2008—Subsec. (a)(5)(C)(iii) to (v). Pub. L. 110–289 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+<b>2008</b>—Subsec. (a)(5)(C)(iii) to (v). Pub. L. 110–289 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
-2003—Subsec. (a)(7). Pub. L. 108–27, §§301(b)(3), 303, temporarily substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.” See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(7). Pub. L. 108–27, §§301(b)(3), 303, temporarily substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.” See Effective and Termination Dates of 2003 Amendment note below.
 
-1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
+<b>1998</b>—Subsec. (a)(7). Pub. L. 105–206 inserted at end “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
 
-1997—Subsec. (a)(7). Pub. L. 105–34 substituted “42 percent” for “one-half”.
+<b>1997</b>—Subsec. (a)(7). Pub. L. 105–34 substituted “42 percent” for “one-half”.
 
-1996—Subsec. (a)(4). Pub. L. 104–188 struck out par. (4) which read as follows: “
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–188 struck out par. (4) which read as follows: “
 
 Reserves for losses on bad debts of financial institutions.—In the case of a financial institution to which section 593 applies, the amount by which the deduction allowable for the taxable year for a reasonable addition to a reserve for bad debts exceeds the amount that would have been allowable had the institution maintained its bad debt reserve for all taxable years on the basis of actual experience.”
 
-1993—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively,and struck out heading and text of former par. (6). Text read as follows:
+<b>1993</b>—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows:
 
 “(A)
 
@@ -180,19 +180,19 @@ Subsec. (a)(8). Pub. L. 103–66, §13171(a), redesignated par. (8) as (7).
 
 Pub. L. 103–66, §13113(b)(1), added par. (8).
 
-1992—Subsec. (a)(1). Pub. L. 102–486, §1915(a)(1), inserted at end “Effective with respect to taxable years beginning after December 31, 1992, this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §1915(a)(1), inserted at end “Effective with respect to taxable years beginning after December 31, 1992, this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).”
 
 Subsec. (a)(2)(E). Pub. L. 102–486, §1915(b)(1), added subpar. (E).
 
-1991—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+<b>1991</b>—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
 
-1990—Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §11815(b)(3), substituted “section 613(e)(2)” for “section 613(e)(3)”.
+<b>1990</b>—Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §11815(b)(3), substituted “section 613(e)(2)” for “section 613(e)(3)”.
 
 Subsec. (a)(4). Pub. L. 101–508, §11801(c)(12)(A), struck out “585 or” after “section”.
 
 Subsec. (a)(6)(B). Pub. L. 101–508, §11344, inserted at end “In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property.”
 
-1988—Subsec. (a)(3). Pub. L. 100–647, §1007(b)(14)(B), struck out par. (3) which related to incentive stock options.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–647, §1007(b)(14)(B), struck out par. (3) which related to incentive stock options.
 
 Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this part, the term ‘specified private activity bonds’ means any private activity bond (as defined in section 141) issued after August 7, 1986.”
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 110–289 applicable to bonds issued after July 30, 2008, s
 
 Amendment by Pub. L. 108–27 applicable to dispositions on or after May 6, 2003, see section 301(d)(3) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -258,7 +258,7 @@ Section 1007(f)(4) of Pub. L. 100–647 provided that:
 
 &emsp;“(i) the amount allowable as a deduction for depreciation or amortization for such taxable year, over
 
-&emsp;“(ii) the amount which would be determined for such taxable year under the rules of paragraph (1) or (5) (whichever is appropriate) of section 56(a) of theInternal Revenue Code of 1954 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]).
+&emsp;“(ii) the amount which would be determined for such taxable year under the rules of paragraph (1) or (5) (whichever is appropriate) of section 56(a) of the Internal Revenue Code of 1954 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]).
 
 “(B) This paragraph shall apply to any property—
 

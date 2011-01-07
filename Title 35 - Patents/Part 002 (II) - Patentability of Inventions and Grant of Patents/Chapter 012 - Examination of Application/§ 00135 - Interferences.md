@@ -30,21 +30,21 @@ Section 10 of the Administrative Procedure Act, referred to in subsec. (c), is s
 
 #### Amendments
 
-2002—Subsecs. (a), (c), (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment notes below.
+<b>2002</b>—Subsecs. (a), (c), (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment notes below.
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(11)\], designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (c), (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
+<b>1984</b>—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
 
 Subsec. (d). Pub. L. 98–622, §105, added subsec. (d).
 
-1975—Subsecs. (a), (c). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
+<b>1975</b>—Subsecs. (a), (c). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
 
-1962—Pub. L. 87–831 designated first and second pars. as subsecs. (a) and (b) and added subsec. (c).
+<b>1962</b>—Pub. L. 87–831 designated first and second pars. as subsecs. (a) and (b) and added subsec. (c).
 
 #### Effective Date of 1999 Amendment
 

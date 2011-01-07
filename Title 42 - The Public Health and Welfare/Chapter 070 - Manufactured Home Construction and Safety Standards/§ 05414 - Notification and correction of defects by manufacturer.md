@@ -48,7 +48,7 @@ A manufacturer required to furnish notification of a defect under subsection (a)
 
 #### (h) Submission to Secretary by manufacturer of plan for notifying owners of defects and repair of defects; approval of manufacturer's remedy plan; effectuation and implementation of remedy plan
 
-The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g) of this section) to the Secretary for his approval before implementing such plan. Whenever amanufacturer is required under subsection (g) of this section to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer's remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
+The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g) of this section) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) of this section to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer's remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
 
 #### (i) Defective or inadequately repaired manufactured homes; replacement with new or equivalent home or refund of purchase price
 
@@ -62,13 +62,13 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 
 #### Amendments
 
-2000—Subsec. (b)(1). Pub. L. 106–569, §603(b)(3)(A), substituted “retailer” for “dealer”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–569, §603(b)(3)(A), substituted “retailer” for “dealer”.
 
 Subsec. (b)(3). Pub. L. 106–569, §603(b)(3)(B), substituted “retailer or retailers” for “dealer or dealers”.
 
 Subsecs. (d), (f). Pub. L. 106–569, §603(b)(3)(C), substituted “retailers” for “dealers ”.
 
-1980—Subsecs. (a) to (i). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a) to (i). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
 
 #### Effective Date of 2000 Amendment
 

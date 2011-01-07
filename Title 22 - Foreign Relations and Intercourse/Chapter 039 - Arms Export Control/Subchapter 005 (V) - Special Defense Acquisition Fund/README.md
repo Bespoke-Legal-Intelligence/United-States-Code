@@ -1,7 +1,5 @@
 ### SUBCHAPTER V—SPECIAL DEFENSE ACQUISITION FUND
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

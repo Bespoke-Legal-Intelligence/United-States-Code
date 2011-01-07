@@ -30,7 +30,7 @@ When used in this Act:
 
 (5) The term “principal campaign committee” means a political committee designated and authorized by a candidate under section 432(e)(1) of this title.
 
-(6) The term “authorized committee” means the principal campaign committee or any otherpolitical committee authorized by a candidate under section 432(e)(1) of this title to receive contributions or make expenditures on behalf of such candidate.
+(6) The term “authorized committee” means the principal campaign committee or any other political committee authorized by a candidate under section 432(e)(1) of this title to receive contributions or make expenditures on behalf of such candidate.
 
 (7) The term “connected organization” means any organization which is not a political committee but which directly or indirectly establishes, administers or financially supports a political committee.
 
@@ -78,7 +78,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities\(including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
 &emsp;(xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
@@ -118,7 +118,7 @@ When used in this Act:
 
 &emsp;&emsp;(I) rendered to or on behalf of any political committee of a political party if the person paying for such services is the regular employer of the individual rendering such services, and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
 
-&emsp;&emsp;(II) rendered to or on behalf of a candidate or political committee if the person paying for such services is the regular employer of the individual rendering such services, and ifsuch services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
+&emsp;&emsp;(II) rendered to or on behalf of a candidate or political committee if the person paying for such services is the regular employer of the individual rendering such services, and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
 
 > &emsp;but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
 
@@ -194,7 +194,7 @@ In general.—The term “Federal election activity” means—
 
 &emsp;(B)
 
-Excluded activity.—The term “Federal election activity” does not include an amountexpended or disbursed by a State, district, or local committee of a political party for—
+Excluded activity.—The term “Federal election activity” does not include an amount expended or disbursed by a State, district, or local committee of a political party for—
 
 &emsp;&emsp;(i) a public communication that refers solely to a clearly identified candidate for State or local office, if the communication is not a Federal election activity described in subparagraph (A)(i) or (ii);
 
@@ -376,7 +376,7 @@ In general.—Except as provided in paragraph (2), the Federal Election Commissi
 
 &emsp;“(2)
 
-Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this section and sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
+Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this sectionand sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
 
 #### Effective Date of 2000 Amendment
 
@@ -434,7 +434,7 @@ Federal Savings and Loan Insurance Corporation abolished and functions transferr
 
 Section 303 of Pub. L. 96–187 provided that:
 
-“(a) The Federal Election Commission shall transmit to the Congress proposed rules and regulations necessary for the purpose of implementing the provisions of this Act, and the amendments made by this Act \[see Short Title of 1980 Amendment note set out above\], prior to February 29, 1980.
+“(a) The Federal Election Commission shall transmit to the Congress proposed rules and regulations necessary for the purpose of implementing the provisions of this Act, and the amendments made by this Act \[seeShort Title of 1980 Amendment note set out above\], prior to February 29, 1980.
 
 “(b) The provisions of section 311(d) of the Federal Election Campaign Act of 1971 \[section 438(d) of this title\] allowing disapproval of rules and regulations by either House of Congress within 30 legislative days after receipt shall, with respect to rules and regulations required to be proposed under subsection (a) of this section, be deemed to allow such disapproval within 15 legislative days after receipt.”
 

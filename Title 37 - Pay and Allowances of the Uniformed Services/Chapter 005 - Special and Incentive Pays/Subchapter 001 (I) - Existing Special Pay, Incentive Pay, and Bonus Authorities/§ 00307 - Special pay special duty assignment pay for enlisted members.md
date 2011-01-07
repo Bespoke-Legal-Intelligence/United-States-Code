@@ -2,7 +2,7 @@
 
 (a) An enlisted member who is entitled to basic pay and is performing duties which have been designated under subsection (b) as extremely difficult or as involving an unusual degree of responsibility in a military skill may, in addition to other pay or allowances to which he is entitled, be paid special duty assignment pay at a monthly rate not to exceed $600.
 
-(b) The Secretary concerned shall determine which enlisted members under his jurisdiction are to be paid special duty assignment pay under subsection (a). He shall also designate those skills within each armed force under hisjurisdiction for which special duty assignment pay is authorized and shall prescribe the criteria under which members of that armed force are eligible for special duty assignment pay in each skill. He may increase, decrease, or abolish such pay for any skill.
+(b) The Secretary concerned shall determine which enlisted members under his jurisdiction are to be paid special duty assignment pay under subsection (a). He shall also designate those skills within each armed force under his jurisdiction for which special duty assignment pay is authorized and shall prescribe the criteria under which members of that armed force are eligible for special duty assignment pay in each skill. He may increase, decrease, or abolish such pay for any skill.
 
 (c) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
@@ -54,27 +54,27 @@ In subsection (b), the words “computed under section 205 of this title” are 
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §631\], substituted “$600” for “$275” and struck out at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §631\], substituted “$600” for “$275” and struck out at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §632(a)\], added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–106 inserted at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
 
-1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1984—Pub. L. 98–525 substituted “special duty assignment pay for enlisted members” for “proficiency pay for enlisted members” in section catchline.
+<b>1984</b>—Pub. L. 98–525 substituted “special duty assignment pay for enlisted members” for “proficiency pay for enlisted members” in section catchline.
 
 Subsec. (a). Pub. L. 98–525 substituted provisions directing that an enlisted member who is entitled to basic pay and is performing duties which have been designated under subsection (b) of this section as extremely difficult or as involving an unusual degree of responsibility in a military skill may, in addition to other pay or allowances to which he is entitled, be paid special duty assignment pay at a monthly rate not to exceed $275, for provisions which directed that an enlisted member of a uniformed service who was entitled to basic pay and was designated as being specially proficient in a military skill of the uniformed service concerned could (1) be advanced to an enlisted pay grade that was higher than his pay grade at the time of his designation and be entitled to the basic pay and special or incentive pay of that higher grade, or (2) in addition to other pay or allowances to which he was entitled under this title, be paid proficiency pay at a monthly rate that was not more than the rate prescribed in a table for the proficiency rating to which he was assigned, setting maximum monthly rates of $50, $100, or $150.
 
-Subsec. (b). Pub. L. 98–525 redesignated subsec. (c) as (b), substituted references to special duty assignment pay for former references to proficiency pay, and struck out provisions which had authorized the Secretary to elect one of two methods formerly set out in subsecs. (a)(1) and (a)(2) for paying each uniformed service under his jurisdiction, with a proviso that if he elected to have proficiency pay paid under former subsec. (a)(1) of this section, enlisted members in a military grade or rank assigned to pay grade E–8 or E–9 could be paid proficiency pay at a monthly rate that is not more than the highest rate prescribed by subsection (a)(2) of this section, but if he elected to have proficiency pay paid under subsection (a)(2) of this section, he could prescribe, within the limitations set forth in that subsection, the pay for each proficiency rating prescribed therein. Former subsec. (b), which had provided that an enlisted member who had less than 8 or 10 years, as the case might be, of enlisted service computed under section 205 of this title and who had been advanced under subsection (a)(1) of this section to pay grade E–8 or E–9, respectively, was entitled to the minimum amount of basic pay and special or incentive pay prescribed for that pay grade until his years of service computed under that section entitled him to a higher rate of those pays, was struck out.
+Subsec. (b). Pub. L. 98–525 redesignated subsec. (c) as (b), substituted references to special duty assignment pay for former references to proficiency pay, and struck out provisions which had authorized the Secretary to elect one of two methods formerly set out in subsecs. (a)(1) and (a)(2) for paying each uniformedservice under his jurisdiction, with a proviso that if he elected to have proficiency pay paid under former subsec. (a)(1) of this section, enlisted members in a military grade or rank assigned to pay grade E–8 or E–9 could be paid proficiency pay at a monthly rate that is not more than the highest rate prescribed by subsection (a)(2) of this section, but if he elected to have proficiency pay paid under subsection (a)(2) of this section, he could prescribe, within the limitations set forth in that subsection, the pay for each proficiency rating prescribed therein. Former subsec. (b), which had provided that an enlisted member who had less than 8 or 10 years, as the case might be, of enlisted service computed under section 205 of this title and who had been advanced under subsection (a)(1) of this section to pay grade E–8 or E–9, respectively, was entitled to the minimum amount of basic pay and special or incentive pay prescribed for that pay grade until his years of service computed under that section entitled him to a higher rate of those pays, was struck out.
 
 Subsecs. (c), (d). Pub. L. 98–525 redesignated subsec. (d) as (c) and substituted “armed forces under his jurisdiction” for “uniformed services under his jurisdiction”. Former subsec. (c) redesignated (b) and amended.
 
-1968—Subsec. (d). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Subsec. (d). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
 

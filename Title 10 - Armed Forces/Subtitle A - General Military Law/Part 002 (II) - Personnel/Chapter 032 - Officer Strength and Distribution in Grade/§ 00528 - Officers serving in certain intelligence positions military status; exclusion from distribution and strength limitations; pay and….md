@@ -14,7 +14,7 @@ Director and Deputy Director of CIA.—When the position of Director or Deputy D
 
 (c)
 
-Associate Director of CIA for Military Affairs.—An officer of the armed forces serving in the position of Associate Director of the Central Intelligence Agency for Military Affairs, while serving in that position, shall be excluded from the limitations in sections 525 and 526 of this title.
+Associate Director of Military Affairs, CIA.—An officer of the armed forces serving in the position of Associate Director of Military Affairs, Central Intelligence Agency, or any successor position, while serving in that position, shall be excluded from the limitations in sections 525 and 526 of this title.
 
 (d)
 
@@ -42,7 +42,7 @@ Military Pay and Allowances.—(1) An officer of the armed forces on active duty
 
 Covered Positions.—The positions covered by this section are the positions specified in subsections (b) and (c) and the positions designated under subsection (d).
 
-(Added Pub. L. 108–136, div. A, title V, §507(a), Nov. 24, 2003, 117 Stat. 1458; amended Pub. L. 109–163, div. A, title V, §507(a), Jan. 6, 2006, 119 Stat. 3228; Pub. L. 109–364, div. A, title V, §501(a), (b)(1), Oct. 17, 2006, 120 Stat. 2175, 2176; Pub. L. 110–417, \[div. A\], title IX, §933, Oct. 14, 2008, 122 Stat. 4576.)
+(Added Pub. L. 108–136, div. A, title V, §507(a), Nov. 24, 2003, 117 Stat. 1458; amended Pub. L. 109–163, div. A, title V, §507(a), Jan. 6, 2006, 119 Stat. 3228; Pub. L. 109–364, div. A, title V, §501(a), (b)(1), Oct. 17, 2006, 120 Stat. 2175, 2176; Pub. L. 110–417, \[div. A\], title IX, §933, Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–259, title VIII, §803, Oct. 7, 2010, 124 Stat. 2746.)
 
 #### Prior Provisions
 
@@ -50,9 +50,11 @@ A prior section 528, added Pub. L. 103–337, div. A, title IV, §405(b)(1), Oct
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–417 substituted “Military Affairs” for “Military Support” in heading and text.
+<b>2010</b>—Subsec. (c). Pub. L. 111–259 substituted “Associate Director of Military Affairs, CIA” for “Associate Director of CIA for Military Affairs” in heading and “Associate Director of Military Affairs, Central Intelligence Agency, or any successor position” for “Associate Director of the Central Intelligence Agency for Military Affairs” in text.
 
-2006—Pub. L. 109–364, §501(b)(1), amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 substituted “Military Affairs” for “Military Support” in heading and text.
+
+<b>2006</b>—Pub. L. 109–364, §501(b)(1), amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
 
 Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows:
 

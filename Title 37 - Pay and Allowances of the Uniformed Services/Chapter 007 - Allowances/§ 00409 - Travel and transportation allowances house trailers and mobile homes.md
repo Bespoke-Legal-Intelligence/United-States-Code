@@ -34,19 +34,19 @@ The words “the United States, except in Hawaii or Alaska,” are substituted f
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–314 struck out subsec. (e) which read as follows: “In this section, the term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–314 struck out subsec. (e) which read as follows: “In this section, the term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
 
-1991—Subsec. (a)(1) to (3). Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
+<b>1991</b>—Subsec. (a)(1) to (3). Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
 
-1987—Subsec. (e). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-1980—Pub. L. 96–342 completely revised and expanded provisions covering the travel and transportation allowances for the movement of house trailers and mobile homes, changing the structure of the section from a single unlettered paragraph to one consisting of five subsections lettered (a) to (e).
+<b>1980</b>—Pub. L. 96–342 completely revised and expanded provisions covering the travel and transportation allowances for the movement of house trailers and mobile homes, changing the structure of the section from a single unlettered paragraph to one consisting of five subsections lettered (a) to (e).
 
-1968—Pub. L. 90–246 substituted “74 cents” for “51 cents” as maximum allowable cost-of-transportation mileage rate.
+<b>1968</b>—Pub. L. 90–246 substituted “74 cents” for “51 cents” as maximum allowable cost-of-transportation mileage rate.
 
-1966—Pub. L. 89–718 substituted “household effects” for “household goods” and “48” for “forty-eight”.
+<b>1966</b>—Pub. L. 89–718 substituted “household effects” for “household goods” and “48” for “forty-eight”.
 
-1964—Pub. L. 88–406 substituted “continental United States, within Alaska, or between the continental United States and Alaska” for “United States except in Hawaii or Alaska”, “51 cents” for “36 cents”, inserted “by the United States or” in cl. (2), and defined “continental United States”.
+<b>1964</b>—Pub. L. 88–406 substituted “continental United States, within Alaska, or between the continental United States and Alaska” for “United States except in Hawaii or Alaska”, “51 cents” for “36 cents”, inserted “by the United States or” in cl. (2), and defined “continental United States”.
 
 #### Effective Date of 1980 Amendment
 

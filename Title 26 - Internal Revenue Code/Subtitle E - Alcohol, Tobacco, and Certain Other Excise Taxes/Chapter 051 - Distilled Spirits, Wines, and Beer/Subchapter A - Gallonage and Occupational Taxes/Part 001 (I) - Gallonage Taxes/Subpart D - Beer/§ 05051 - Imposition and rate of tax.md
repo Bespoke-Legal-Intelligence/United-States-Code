@@ -10,7 +10,7 @@
 
 #### (A) $7 a barrel rate
 
-&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
+&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during thecalendar year, the per barrel rate of the tax imposed by this section shall be $7 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
 
 #### (B) Controlled groups
 
@@ -44,27 +44,27 @@ A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by a
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11201(c)(1), substituted “$18” for “$9”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §11201(c)(1), substituted “$18” for “$9”.
 
 Subsec. (a)(2)(C). Pub. L. 101–508, §11201(c)(2), added subpar. (C).
 
-1978—Subsec. (c). Pub. L. 95–458 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–458 added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–529 reduced the excise tax on beer for small brewers to $7 per barrel on the first 60,000 barrels produced in the United States and removed for sale or consumption or sale during the calendar year, the reduced rate to be applicable only to brewers producing no more than 2 million barrels of beer in a calendar year, and inserted provision that if several brewers are members of a controlled group, the 2–million barrel limit is to be applied to the controlled group and the 60,000–barrel limit is to be apportioned among the members of the controlled group in accordance with Treasury Department regulations promulgated by the Secretary or his delegate.
+<b>1976</b>—Subsec. (a). Pub. L. 94–529 reduced the excise tax on beer for small brewers to $7 per barrel on the first 60,000 barrels produced in the United States and removed for sale or consumption or sale during the calendar year, the reduced rate to be applicable only to brewers producing no more than 2 million barrels of beer in a calendar year, and inserted provision that if several brewers are members of a controlled group, the 2–million barrel limit is to be applied to the controlled group and the 60,000–barrel limit is to be apportioned among the members of the controlled group in accordance with Treasury Department regulations promulgated by the Secretary or his delegate.
 
-1965—Subsec. (a). Pub. L. 89–44 struck out sentence providing for the imposition on and after July 1, 1965, of a tax of $8 in lieu of the tax imposed by the section.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 struck out sentence providing for the imposition on and after July 1, 1965, of a tax of $8 in lieu of the tax imposed by the section.
 
-1964—Subsec. (a). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
 
-1963—Subsec. (a). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963”.
+<b>1963</b>—Subsec. (a). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963”.
 
-1962—Subsec. (a). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962”.
 
-1961—Subsec. (a). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961”.
 
-1960—Subsec. (a). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960”.
 
-1959—Subsec. (a). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959”.
 
 #### Effective Date of 1990 Amendment
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–529 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act \[Oct. 17, 1976\].”
+Section 2 of Pub. L. 94–529 provided that: “The amendment made by the first section of this Act\[amending this section\] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act \[Oct. 17, 1976\].”
 
 #### Effective Date of 1965 Amendment
 

@@ -2,11 +2,11 @@
 
 #### (a) Recognition
 
-The Congress recognizes that the Consultant in Poetry to the Library of Congress has for some time occupied a position of prominence in the life of the Nation, has spoken effectively for literary causes, and has occasionally performed duties and functions sometimes associated with the position of poet laureate in other nations and societies. Individuals are appointed to the position of Consultant in Poetry by the Librarian of Congress for one- or two-year terms solely on the basis of literary merit, and are compensated from endowment funds administered by the Library of Congress Trust Fund Board. The Congress further recognizes this position is equivalent to that of Poet Laureate of the United States.
+The Congress recognizes that the Consultant in Poetry to the Library of Congress has for some time occupied a position of prominence in the life of the Nation, has spoken effectively for literary causes, and has occasionally performed duties and functions sometimes associated with the position of poet laureate in other nations and societies. Individuals are appointed to the position of Consultant in Poetry by the Librarian of Congress for one- or two-year terms solely on the basis of literary merit, and are compensated from endowment funds administered by the Library of Congress Trust Fund Board.The Congress further recognizes this position is equivalent to that of Poet Laureate of the United States.
 
 #### (b) Position established
 
-(1) There is established in the Library of Congress the position of Poet Laureate Consultantin Poetry. The Poet Laureate Consultant in Poetry shall be appointed by the Librarian of Congress pursuant to the same procedures of appointment as established on December 20, 1985, for the Consultant in Poetry to the Library of Congress.
+(1) There is established in the Library of Congress the position of Poet Laureate Consultant in Poetry. The Poet Laureate Consultant in Poetry shall be appointed by the Librarian of Congress pursuant to the same procedures of appointment as established on December 20, 1985, for the Consultant in Poetry to the Library of Congress.
 
 (2) Each department and office of the Federal Government is encouraged to make use of the services of the Poet Laureate Consultant in Poetry for ceremonial and other occasions of celebration under such procedures as the Librarian of Congress shall approve designed to assure that participation under this paragraph does not impair the continuation of the work of the individual chosen to fill the position of Poet Laureate Consultant in Poetry.
 

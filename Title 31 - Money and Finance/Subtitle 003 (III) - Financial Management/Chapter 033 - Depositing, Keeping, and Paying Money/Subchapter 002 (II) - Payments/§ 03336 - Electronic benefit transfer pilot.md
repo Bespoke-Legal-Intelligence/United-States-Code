@@ -4,7 +4,7 @@
 
 &emsp;(1) Electronic benefit transfer (EBT) is a safe, reliable, and economical way to provide benefit payments to individuals who do not have an account at a financial institution.
 
-&emsp;(2) The designation of financial institutions as financial agents of the Federal Governmentfor EBT is an appropriate and reasonable use of the Secretary's authority to designate financial agents.
+&emsp;(2) The designation of financial institutions as financial agents of the Federal Government for EBT is an appropriate and reasonable use of the Secretary's authority to designate financial agents.
 
 &emsp;(3) A joint federal-state <sup>1</sup> EBT system offers convenience and economies of scale for those states <sup>1</sup> (and their citizens) that wish to deliver <sup>1</sup> state-administered benefits on a single card by entering into a partnership with the federal <sup>1</sup> government.<sup>1</sup>
 
@@ -15,4 +15,8 @@
 (c) The selection and designation of financial agents, the design of the pilot program, and any other matter associated with or related to the EBT pilot described in subsection (b) shall not be subject to judicial review.
 
 (Added Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §664\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–385.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “institutions”.</i>
 

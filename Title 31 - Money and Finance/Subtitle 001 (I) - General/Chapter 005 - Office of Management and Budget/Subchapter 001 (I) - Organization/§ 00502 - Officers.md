@@ -14,7 +14,7 @@
 
 (e) The Office may have not more than 6 additional officers, each of whom is appointed in the competitive service by the Director, with the approval of the President. Each additional officer shall carry out the duties and powers prescribed by the Director. The Director shall specify the title of each additional officer.
 
-(f) When the Director and Deputy Director are absent or unable to serve or when the offices of Director and Deputy Director are vacant, the President may designate an officer of the Office to act as Director.
+(f) When the Director and Deputy Director are absent or unable to serve or when the offices ofDirector and Deputy Director are vacant, the President may designate an officer of the Office to act as Director.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 886; Pub. L. 101–576, title II, §201, Nov. 15, 1990, 104 Stat. 2839.)
 
@@ -68,5 +68,5 @@ In subsection (e), the words “When the Director and Deputy Director are absent
 
 #### Amendments
 
-1990—Subsecs. (c) to (f). Pub. L. 101–576 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+<b>1990</b>—Subsecs. (c) to (f). Pub. L. 101–576 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 

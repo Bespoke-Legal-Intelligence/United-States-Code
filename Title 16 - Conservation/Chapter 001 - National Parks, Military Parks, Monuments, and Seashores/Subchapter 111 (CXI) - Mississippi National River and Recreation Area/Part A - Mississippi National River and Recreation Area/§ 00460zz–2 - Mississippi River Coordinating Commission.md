@@ -152,9 +152,9 @@ The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is title XIV of a
 
 #### Amendments
 
-1992—Subsec. (i). Pub. L. 102–525 substituted “3 years after appointment of the full membership of the Commission” for “3 years after November 18, 1988”.
+<b>1992</b>—Subsec. (i). Pub. L. 102–525 substituted “3 years after appointment of the full membership of the Commission” for “3 years after November 18, 1988”.
 
-1989—Subsec. (d). Pub. L. 101–40 substituted “and shall serve” for “to serve”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–40 substituted “and shall serve” for “to serve”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Chairperson”.</i>
 

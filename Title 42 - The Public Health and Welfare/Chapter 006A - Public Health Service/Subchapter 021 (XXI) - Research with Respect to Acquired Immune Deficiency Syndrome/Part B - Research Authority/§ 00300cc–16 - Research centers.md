@@ -34,5 +34,5 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
 

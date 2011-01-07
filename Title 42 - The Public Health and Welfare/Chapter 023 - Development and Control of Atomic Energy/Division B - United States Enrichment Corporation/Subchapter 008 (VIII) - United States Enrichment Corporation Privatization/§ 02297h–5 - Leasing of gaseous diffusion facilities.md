@@ -58,7 +58,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-1998—Subsec. (h). Pub. L. 105–245 substituted “all security police officers” for “an adequate number of security guards” in par. (1) and added par. (2).
+<b>1998</b>—Subsec. (h). Pub. L. 105–245 substituted “all security police officers” for “an adequate number of security guards” in par. (1) and added par. (2).
 
-1997—Subsec. (h). Pub. L. 105–62 added subsec. (h).
+<b>1997</b>—Subsec. (h). Pub. L. 105–62 added subsec. (h).
 

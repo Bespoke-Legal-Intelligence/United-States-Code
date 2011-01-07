@@ -128,7 +128,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–21, §401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts” for “shall give due deference to the district court's application of the guidelines to the facts”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–21, §401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts” for “shall give due deference to the district court's application of the guidelines to the facts”.
 
 Subsec. (e)(3). Pub. L. 108–21, §401(d)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is outside the applicable guideline range, and is unreasonable, having regard for—
 
@@ -152,13 +152,13 @@ Subsecs. (g) to (i). Pub. L. 108–21, §401(e), added subsec. (g) and redesigna
 
 Subsec. (j). Pub. L. 108–21, §401(f), added subsec. (j).
 
-1994—Subsec. (b). Pub. L. 103–322 struck out comma after “Government” in introductory provisions.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 struck out comma after “Government” in introductory provisions.
 
-1990—Subsec. (b). Pub. L. 101–647, §3501, struck out “, with the personal approval of the Attorney General or the Solicitor General” after “The Government” in introductory provisions and inserted at end “The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §3501, struck out “, with the personal approval of the Attorney General or the Solicitor General” after “The Government” in introductory provisions and inserted at end “The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.”
 
 Subsec. (g). Pub. L. 101–647, §3503, inserted “(except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal)” after “and this section shall apply”.
 
-1988—Subsec. (a)(2). Pub. L. 100–690, §7103(a)(1), struck out “issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)” after “guidelines”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7103(a)(1), struck out “issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)” after “guidelines”.
 
 Subsec. (a)(3). Pub. L. 100–690, §7103(a)(2), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is greater than—
 
@@ -194,7 +194,7 @@ Subsecs. (f), (g). Pub. L. 100–690, §7103(a)(8), redesignated former subsecs.
 
 Subsec. (h). Pub. L. 100–690, §7103(a)(9), added subsec. (h).
 
-1987—Subsec. (a)(4). Pub. L. 100–182, §5(1), substituted “and is plainly unreasonable or greater than the sentence specified in a plea agreement under” for “and is greater than the sentence specified in a plea agreement, if any, under”.
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–182, §5(1), substituted “and is plainly unreasonable or greater than the sentence specified in a plea agreement under” for “and is greater than the sentence specified in a plea agreement, if any, under”.
 
 Subsec. (b)(4). Pub. L. 100–182, §5(2), substituted “and is plainly unreasonable or less than the sentence specified in a plea agreement under” for “and is less than the sentence specified in a plea agreement, if any, under”.
 
@@ -208,7 +208,7 @@ Subsec. (e)(3). Pub. L. 100–182, §6, amended par. (3) generally. Prior to ame
 
 Subsec. (f). Pub. L. 100–182, §4, added subsec. (f).
 
-1986—Subsec. (e)(1). Pub. L. 99–646, §73(a)(1), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for further sentencing proceedings or correct the sentence.
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–646, §73(a)(1), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for further sentencing proceedings or correct the sentence.
 
 Subsec. (e)(2)(A). Pub. L. 99–646, §73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate for provision directing the court to remand the case for imposition of a lesser sentence, remand the case for further sentencing proceedings, or impose a lesser sentence.
 
@@ -225,4 +225,6 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

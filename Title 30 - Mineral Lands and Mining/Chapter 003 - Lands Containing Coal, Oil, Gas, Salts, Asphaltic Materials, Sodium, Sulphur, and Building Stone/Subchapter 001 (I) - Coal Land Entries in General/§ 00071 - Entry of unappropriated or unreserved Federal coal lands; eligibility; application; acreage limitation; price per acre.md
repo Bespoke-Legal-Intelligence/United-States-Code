@@ -10,7 +10,7 @@ R.S. §2347 derived from act Mar. 3, 1873, ch. 279, §1, 17 Stat. 607.
 
 #### Amendments
 
-1925—Act Mar. 3, 1925, affected words which now read “upon payment to the register of not less than.” Such words originally read “upon payment to the receiver of not less than.” Such act consolidated the offices of receiver and register.
+<b>1925</b>—Act Mar. 3, 1925, affected words which now read “upon payment to the register of not less than.” Such words originally read “upon payment to the receiver of not less than.” Such act consolidated the offices of receiver and register.
 
 #### Transfer of Functions
 

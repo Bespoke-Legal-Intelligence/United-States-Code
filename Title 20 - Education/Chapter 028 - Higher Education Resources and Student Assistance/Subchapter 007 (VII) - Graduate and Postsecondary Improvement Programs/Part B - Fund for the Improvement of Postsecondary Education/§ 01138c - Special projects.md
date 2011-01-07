@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-The Secretary is authorized to make grants to institutions of higher education, or consortiathereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
+The Secretary is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
 
 #### (b) Application
 
@@ -48,9 +48,9 @@ A prior section 744 of Pub. L. 89–329 was classified to section 1132c–3 of t
 
 #### Amendments
 
-2009—Subsec. (c)(6)(C). Pub. L. 111–39 inserted “of the National Academies” after “Institute of Medicine”.
+<b>2009</b>—Subsec. (c)(6)(C). Pub. L. 111–39 inserted “of the National Academies” after “Institute of Medicine”.
 
-2008—Subsec. (a). Pub. L. 110–315, §707(h)(3), substituted “Secretary” for “Director” wherever appearing.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §707(h)(3), substituted “Secretary” for “Director” wherever appearing.
 
 Subsec. (c). Pub. L. 110–315, §707(f), amended subsec. (c) generally. Prior to amendment, text read as follows: “Areas of national need shall initially include, but shall not be limited to, the following:
 

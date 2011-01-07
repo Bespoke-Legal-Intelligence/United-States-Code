@@ -32,7 +32,7 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is P
 
 #### Amendments
 
-1977—Subsec. (a). Pub. L. 95–91, §709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
+<b>1977</b>—Subsec. (a). Pub. L. 95–91, §709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
 
 Subsec. (b). Pub. L. 95–91, §709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein “any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5 pursuant to this chapter” for “the rules, regulations, or orders described in paragraph (A)” and “subsection (c) of this section” for “paragraph (2) of this subsection”.
 
@@ -54,7 +54,7 @@ Subsecs. (j), (k). Pub. L. 95–91, §709(a)(2)(G), struck out subsecs. (j) and 
 
 Subsec. (<i>l</i>). Pub. L. 95–70 added subsec. (<i>l</i>).
 
-1976—Subsec. (c). Pub. L. 94–385, §103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
+<b>1976</b>—Subsec. (c). Pub. L. 94–385, §103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
 
 Subsec. (i)(1)(D). Pub. L. 94–385, §104, inserted provisions which require any officer or agency authorized to issue rules, regulations or orders to establish criteria and guidelines for evaluation of special hardship situations, to include in every decision the standards applied in the disposition of such situations, and requiring the hearing upon request of the aggrieved party to be heard by an officer other than the one denying the adjustment.
 

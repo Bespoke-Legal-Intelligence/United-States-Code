@@ -106,13 +106,13 @@ Section 1035 of the John Warner National Defense Authorization Act for Fiscal Ye
 
 #### Amendments
 
-2009—Subsec. (d)(1)(D)(ii). Pub. L. 111–84, §1073(a)(23)(A), substituted “indefinite delivery-indefinite quantity” for “indefinite delivery indefinite quantity”.
+<b>2009</b>—Subsec. (d)(1)(D)(ii). Pub. L. 111–84, §1073(a)(23)(A), substituted “indefinite delivery-indefinite quantity” for “indefinite delivery indefinite quantity”.
 
 Subsec. (d)(2). Pub. L. 111–84, §1073(a)(23)(B), substituted “the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388)” for “this Act”.
 
 Subsec. (f)(3). Pub. L. 111–84, §1073(a)(23)(C), substituted “section 101(a)(13)” for “section 101(13)”.
 
-2008—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>2008</b>—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Deadline for Development of Joint Policies
 

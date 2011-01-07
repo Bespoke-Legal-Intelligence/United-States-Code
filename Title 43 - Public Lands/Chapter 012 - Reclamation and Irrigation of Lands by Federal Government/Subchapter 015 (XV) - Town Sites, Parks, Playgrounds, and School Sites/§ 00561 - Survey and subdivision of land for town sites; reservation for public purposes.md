@@ -14,7 +14,7 @@ Introductory provisions are from the first section of act Apr. 16, 1906. The pro
 
 #### Amendments
 
-1976—Pub. L. 94–579 struck out provisions authorizing withdrawal from public entry any lands needed for town-site purposes.
+<b>1976</b>—Pub. L. 94–579 struck out provisions authorizing withdrawal from public entry any lands needed for town-site purposes.
 
 #### Effective Date of 1976 Amendment
 

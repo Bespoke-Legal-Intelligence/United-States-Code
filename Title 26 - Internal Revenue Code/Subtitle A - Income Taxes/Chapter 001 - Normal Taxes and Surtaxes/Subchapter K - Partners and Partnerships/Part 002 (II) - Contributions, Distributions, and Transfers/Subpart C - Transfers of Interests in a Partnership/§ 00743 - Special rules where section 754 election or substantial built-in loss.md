@@ -96,7 +96,7 @@ Section 3(a)(1)(A), (c)(1), (7) of the Investment Company Act of 1940, referred 
 
 #### Amendments
 
-2004—Pub. L. 108–357, §833(b)(6)(A), substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §833(b)(6)(A), substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in section catchline.
 
 Subsec. (a). Pub. L. 108–357, §833(b)(1), inserted “or unless the partnership has a substantial built-in loss immediately after such transfer” before period at end.
 
@@ -108,9 +108,9 @@ Subsec. (e). Pub. L. 108–357, §833(b)(4)(A), added subsec. (e).
 
 Subsec. (f). Pub. L. 108–357, §833(b)(5), added subsec. (f).
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in penultimate sentence.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in penultimate sentence.
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2004 Amendment
 

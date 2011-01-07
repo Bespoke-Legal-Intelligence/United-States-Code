@@ -250,21 +250,21 @@ For purposes of this section—
 
 #### Amendments
 
-2008—Subsec. (c)(2)(B)(iii). Pub. L. 110–458 added cl. (iii).
+<b>2008</b>—Subsec. (c)(2)(B)(iii). Pub. L. 110–458 added cl. (iii).
 
-2006—Subsec. (c)(3)(A). Pub. L. 109–280 substituted “if the requirements of subparagraphs (B), (C), and (D) are met” for “if—
+<b>2006</b>—Subsec. (c)(3)(A). Pub. L. 109–280 substituted “if the requirements of subparagraphs (B), (C), and (D) are met” for “if—
 
 &emsp;“(i) the requirements of subparagraphs (B), (C), and (D) are met, and
 
 &emsp;“(ii) under the plan, employer securities to which subparagraph (B) applies must, except to the extent necessary to meet the requirements of section 401(a)(28), remain in the plan until distribution to participants in accordance with the provisions of such plan”.
 
-1996—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
+<b>1996</b>—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
 
-1990—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
 
 Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subsec. (d) to “section 4980” without specifying the Internal Revenue Code of 1986, was executed to this section. See 1996 Amendment note above.
 
-1988—Subsec. (a). Pub. L. 100–647, §6069(a), substituted “15” for “10”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6069(a), substituted “15” for “10”.
 
 Subsec. (c)(1)(A). Pub. L. 100–647, §1011A(f)(1), substituted “subtitle A” for “this subtitle”.
 

@@ -310,11 +310,11 @@ A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to esta
 
 #### Amendments
 
-2009—Subsec. (f)(2)(B). Pub. L. 111–84 struck out period after “year”.
+<b>2009</b>—Subsec. (f)(2)(B). Pub. L. 111–84 struck out period after “year”.
 
-2008—Subsec. (f)(2). Pub. L. 110–417 substituted “year shall not exceed $36,000, prorated as determined by the Secretary of Defense,” for “month shall not exceed $2,500,” in subpar. (A) and “year.” for “month” in subpar. (B).
+<b>2008</b>—Subsec. (f)(2). Pub. L. 110–417 substituted “year shall not exceed $36,000, prorated as determined by the Secretary of Defense,” for “month shall not exceed $2,500,” in subpar. (A) and “year.” for “month” in subpar. (B).
 
-2006—Subsec. (a)(1). Pub. L. 109–364, §702, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “With respect to dental care, only that care required as a necessary adjunct to medical or surgical treatment may be provided.”
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §702, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “With respect to dental care, only that care required as a necessary adjunct to medical or surgical treatment may be provided.”
 
 Subsec. (a)(2). Pub. L. 109–364, §703(b)(1), substituted “the schedule and method of cervical cancer screenings and breast cancer screenings” for “the schedule of pap smears and mammograms” in introductory provisions.
 
@@ -326,9 +326,9 @@ Subsec. (g). Pub. L. 109–163, §715(a), designated existing provisions as par.
 
 Subsec. (p)(4), (5). Pub. L. 109–163, §714, added par. (4) and redesignated former par. (4) as (5).
 
-2004—Subsec. (h)(4)(C). Pub. L. 108–375 added subpar. (C).
+<b>2004</b>—Subsec. (h)(4)(C). Pub. L. 108–375 added subpar. (C).
 
-2002—Subsec. (i)(3). Pub. L. 107–314, §701(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B),” for “Except in the case of an emergency,”, and added subpars. (B) and (C).
+<b>2002</b>—Subsec. (i)(3). Pub. L. 107–314, §701(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B),” for “Except in the case of an emergency,”, and added subpars. (B) and (C).
 
 Subsec. (p)(1). Pub. L. 107–314, §702(1), substituted “dependents described in paragraph (3)” for “dependents referred to in subsection (a) of a member of the uniformed services referred to in section 1074(c)(3) of this title who are residing with the member”.
 
@@ -336,7 +336,7 @@ Subsec. (p)(3), (4). Pub. L. 107–314, §702(2), (3), added par. (3) and redesi
 
 Subsec. (q). Pub. L. 107–314, §705(a), added subsec. (q).
 
-2001—Subsec. (a)(5). Pub. L. 107–107, §703(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Durable equipment, such as wheelchairs, iron lungs and hospital beds may be provided on a rental basis.”
+<b>2001</b>—Subsec. (a)(5). Pub. L. 107–107, §703(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Durable equipment, such as wheelchairs, iron lungs and hospital beds may be provided on a rental basis.”
 
 Subsec. (a)(17). Pub. L. 107–107, §701(g)(2), struck out par. (17) which read as follows:
 
@@ -352,7 +352,7 @@ Subsec. (h)(4). Pub. L. 107–107, §707(b), designated existing provisions as s
 
 Subsec. (j)(2) to (4). Pub. L. 107–107, §707(a), designated existing provisions of subpar. (A) of par. (2) as par. (2) and substituted “shall be determined under joint regulations” for “may be determined under joint regulations”, redesignated subpar. (B) of par. (2) as par. (4) and substituted therein “this subsection,” for “subparagraph (A),”, and added par. (3).
 
-2000—Subsec. (a)(17). Pub. L. 106–398, §1 \[\[div. A\], title VII, §701(c)(1)\], designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2000</b>—Subsec. (a)(17). Pub. L. 106–398, §1 \[\[div. A\], title VII, §701(c)(1)\], designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(b)\], substituted “three-year period” for “one-year period”.
 
@@ -360,7 +360,7 @@ Subsec. (h)(5). Pub. L. 106–398, §1 \[\[div. A\], title VII, §757(a)\], adde
 
 Subsec. (p). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(b)(1)\], added subsec. (p).
 
-1997—Subsec. (h)(1). Pub. L. 105–85, §735(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health care professional (or other noninstitutional health care provider) for which a claim is submitted under a plan contracted for under subsection (a) may not exceed the lesser of—
+<b>1997</b>—Subsec. (h)(1). Pub. L. 105–85, §735(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health care professional (or other noninstitutional health care provider) for which a claim is submitted under a plan contracted for under subsection (a) may not exceed the lesser of—
 
 &emsp;“(A) the amount equivalent to the 80th percentile of billed charges made for similar services in the same locality during the base period; or
 
@@ -382,7 +382,7 @@ Pub. L. 105–85, §735(b), (c)(1), substituted “paragraph (2), the Secretary 
 
 Subsec. (h)(6). Pub. L. 105–85, §735(c)(2), redesignated par. (6) as (4).
 
-1996—Subsec. (a). Pub. L. 104–201, §731(b)(1), substituted “except as follows:” for “except that—” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §731(b)(1), substituted “except as follows:” for “except that—” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 104–201, §731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
@@ -420,13 +420,13 @@ Subsec. (h)(6). Pub. L. 104–201, §732(1), redesignated par. (5) as (6).
 
 Subsec. (j)(1). Pub. L. 104–201, §735(c), inserted “, including any plan offered by a third-party payer (as defined in section 1095(h)(1) of this title),” after “or health plan”.
 
-1994—Subsec. (a). Pub. L. 103–337, §702(a)(1), substituted “dependents, as described in subparagraphs (A), (D), and (I) of section 1072(2) of this title,” for “spouses and children”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §702(a)(1), substituted “dependents, as described in subparagraphs (A), (D), and (I) of section 1072(2) of this title,” for “spouses and children”.
 
 Subsec. (d). Pub. L. 103–337, §702(a)(2), substituted “as described in subparagraph (A), (D), or (I) of section 1072(2)” for “as defined in section 1072(2)(A) or (D)”.
 
 Subsec. (g). Pub. L. 103–337, §707(a), inserted at end “In addition, when a member dies while on active duty for a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the one-year period beginning on the date of the death of the member.”
 
-1993—Subsec. (a)(7). Pub. L. 103–160, §716(c), substituted “except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services;” for “except that—
+<b>1993</b>—Subsec. (a)(7). Pub. L. 103–160, §716(c), substituted “except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services;” for “except that—
 
 &emsp;“(A) those services may be provided in any case in which another insurance plan or program provides primary coverage for those services; and
 
@@ -436,7 +436,7 @@ Subsec. (a)(15). Pub. L. 103–35 made technical amendment to directory language
 
 Subsec. (<i>o</i>). Pub. L. 103–160, §711, added subsec. (<i>o</i>).
 
-1992—Subsec. (a)(15). Pub. L. 102–484, §1053(3), made technical amendment to directory language of Pub. L. 102–190, §702(b)(1)(C). See 1991 Amendment note below.
+<b>1992</b>—Subsec. (a)(15). Pub. L. 102–484, §1053(3), made technical amendment to directory language of Pub. L. 102–190, §702(b)(1)(C). See 1991 Amendment note below.
 
 Pub. L. 102–484, §704(1), as amended by Pub. L. 103–35, struck out “and” at end of par. (15).
 
@@ -446,7 +446,7 @@ Subsec. (a)(17). Pub. L. 102–484, §704(3), added par. (17).
 
 Subsec. (j)(2)(B). Pub. L. 102–484, §1052(13), inserted a close parenthesis after “1395x(dd)(2)”.
 
-1991—Subsec. (a)(6). Pub. L. 102–25, §316(b), revived par. (6) as in effect on Feb. 14, 1991, thus negating amendment to par. (6) by Pub. L. 101–510, §703(a), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
+<b>1991</b>—Subsec. (a)(6). Pub. L. 102–25, §316(b), revived par. (6) as in effect on Feb. 14, 1991, thus negating amendment to par. (6) by Pub. L. 101–510, §703(a), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
 
 Subsec. (a)(7). Pub. L. 102–190, §711, substituted “except that—” and subpars. (A) and (B), for “except that such services may be provided in any case in which another insurance plan or program provides primary coverage for the services;”.
 
@@ -466,7 +466,7 @@ Subsec. (j)(2)(B). Pub. L. 102–190, §702(b)(2), inserted “hospice program (
 
 Subsec. (n). Pub. L. 102–190, §712(a), added subsec. (n).
 
-1990—Subsec. (a)(2). Pub. L. 101–510, §701(a), inserted before the semicolon “, except that pap smears and mammograms may be provided on a diagnostic or preventive basis”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–510, §701(a), inserted before the semicolon “, except that pap smears and mammograms may be provided on a diagnostic or preventive basis”.
 
 Subsec. (a)(6). Pub. L. 101–510, §703(a), substituted “in excess of—” for “in excess of 60 days in any year;” and added subpars. (A) to (C).
 
@@ -490,21 +490,21 @@ Subsec. (i). Pub. L. 101–510, §703(b), amended subsec. (i) generally. Prior t
 
 Subsec. (j)(2)(B). Pub. L. 101–510, §1484(g)(1), inserted “the term” after “In subparagraph (A),”.
 
-1989—Subsec. (h)(1), (2). Pub. L. 101–189 substituted “80th percentile” for “90th percentile”.
+<b>1989</b>—Subsec. (h)(1), (2). Pub. L. 101–189 substituted “80th percentile” for “90th percentile”.
 
-1988—Subsec. (b)(1). Pub. L. 100–456, §646(a)(1), inserted provisions authorizing Secretary of Defense to exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §646(a)(1), inserted provisions authorizing Secretary of Defense to exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
 Subsec. (m). Pub. L. 100–456, §646(a)(2), added subsec. (m).
 
-1987—Subsec. (a)(15). Pub. L. 100–180, §726(a), added par. (15).
+<b>1987</b>—Subsec. (a)(15). Pub. L. 100–180, §726(a), added par. (15).
 
 Subsec. (b)(5). Pub. L. 100–180, §721(a), added par. (5).
 
-1986—Subsec. (a)(7). Pub. L. 99–661, §703, substituted “provides primary coverage for the services” for “pays for at least 75 percent of the services”.
+<b>1986</b>—Subsec. (a)(7). Pub. L. 99–661, §703, substituted “provides primary coverage for the services” for “pays for at least 75 percent of the services”.
 
 Subsec. (<i>l</i>). Pub. L. 99–661, §652(d), added subsec. (<i>l</i>).
 
-1984—Subsec. (a). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services in provisions preceding cl. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services in provisions preceding cl. (1).
 
 Subsec. (a)(3). Pub. L. 98–525, §632(a)(1), substituted “not more than one eye examination may be provided to a patient in any calendar year” for “eye examinations may not be provided”.
 
@@ -526,7 +526,7 @@ Subsec. (j)(2)(A). Pub. L. 98–557, §19(7)(A), substituted reference to the ad
 
 Subsec. (k)(1), (2). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-1983—Subsec. (a). Pub. L. 98–94, §1268(4)(A), substituted “30” for “thirty” in provisions preceding par. (1).
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §1268(4)(A), substituted “30” for “thirty” in provisions preceding par. (1).
 
 Subsec. (a)(6). Pub. L. 98–94, §931(a)(1), added par. (6).
 
@@ -536,11 +536,11 @@ Subsec. (g). Pub. L. 98–94, §1268(4)(B), struck out “of this section” aft
 
 Subsecs. (i) to (k). Pub. L. 98–94, §931(a)(2), added subsecs. (i) to (k).
 
-1981—Subsec. (b)(4). Pub. L. 97–22 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1981</b>—Subsec. (b)(4). Pub. L. 97–22 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Subsec. (h). Pub. L. 97–86 substituted reference to services of individual health-care professionals for former reference to physician services, struck out provisions that had used the concept of a predetermined charge level based upon customary charges, and inserted provisions requiring a readjustment of the base period at least once a year.
 
-1980—Subsec. (a). Pub. L. 96–513, §511(36), (38)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing, and “that—” for “that:”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(36), (38)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing, and “that—” for “that:”.
 
 Subsec. (a)(2). Pub. L. 96–342, §810(a)(1), inserted “of dependents over two years of age” after “immunizations”.
 
@@ -564,11 +564,11 @@ Subsec. (g). Pub. L. 96–513, §511(38)(D), struck out “, United States Code
 
 Subsec. (h). Pub. L. 96–513, §511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1978—Subsec. (h). Pub. L. 95–485 added subsec. (h).
+<b>1978</b>—Subsec. (h). Pub. L. 95–485 added subsec. (h).
 
-1971—Subsec. (g). Pub. L. 92–58 added subsec. (g).
+<b>1971</b>—Subsec. (g). Pub. L. 92–58 added subsec. (g).
 
-1966—Subsec. (a). Pub. L. 89–614 struck out “dependent” before “spouses and children” and substituted sentence providing that “The types of health care authorized under this section, shall be the same as those provided under section 1076 of this title”, enumerating exceptions in pars. (1) to (5) for former provisions which required the insurance, medical service, or health plans to include (1) hospitalization in semiprivate rooms for not more than 365 days for each admission, (2) medical and surgical care incident to hospitalization, (3) obstetrical and maternity service, including prenatal and postnatal care, (4) services of physician or surgeon before or after hospitalization for bodily injury or surgical operation, (5) diagnostic tests and services incident to hospitalization, and (6) payments by patient of hospital expenses, now incorporated in subsec. (b)(1).
+<b>1966</b>—Subsec. (a). Pub. L. 89–614 struck out “dependent” before “spouses and children” and substituted sentence providing that “The types of health care authorized under this section, shall be the same as those provided under section 1076 of this title”, enumerating exceptions in pars. (1) to (5) for former provisions which required the insurance, medical service, or health plans to include (1) hospitalization in semiprivate rooms for not more than 365 days for each admission, (2) medical and surgical care incident to hospitalization, (3) obstetrical and maternity service, including prenatal and postnatal care, (4) services of physician or surgeon before or after hospitalization for bodily injury or surgical operation, (5) diagnostic tests and services incident to hospitalization, and (6) payments by patient of hospital expenses, now incorporated in subsec. (b)(1).
 
 Subsec. (b). Pub. L. 89–614 incorporated existing provisions of subsec. (a)(6) in par. (1) and added pars. (2) and (3). Former subsec. (b) authorized the Secretary of Defense to make variances from subsec. (a) requirements as appropriate other than outpatient care or care other than provided for in sections 1076 to 1078 of this title.
 
@@ -678,7 +678,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Waiver of Copayments for Preventive Services for Certain TRICARE Beneficiaries
 
-Pub. L. 110–417, \[div. A\], title VII, §711, Oct. 14, 2008, 122 Stat. 4500, provided that:
+Pub. L. 110–417, \[div. A\], title VII, §711, Oct. 14, 2008, 122 Stat. 4500, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(11), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
 “(a)
 
@@ -732,7 +732,7 @@ Preventive services.—The term ‘preventive services’ includes, taking into 
 
 &emsp;“(2)
 
-Medicare-eligible.—The term ‘medicare-eligible’ has the meaning provided by section 1111((b) \[sic\] of title 10, United States Code.”
+Medicare-eligible.—The term ‘medicare-eligible’ has the meaning provided by section 1111(b)(3) of title 10, United States Code.”
 
 #### Plan for Providing Health Coverage Information to Members, Former Members, and Dependents Eligible for Certain Health Benefits
 

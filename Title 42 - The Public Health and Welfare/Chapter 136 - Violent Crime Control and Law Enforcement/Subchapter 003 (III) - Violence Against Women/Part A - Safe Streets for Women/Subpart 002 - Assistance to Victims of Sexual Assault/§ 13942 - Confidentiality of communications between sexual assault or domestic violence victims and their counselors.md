@@ -26,7 +26,7 @@ Not later than the date that is 1 year after September 13, 1994, the Attorney Ge
 
 #### (c) Review of Federal evidentiary rules
 
-The Judicial Conference of the United States shall evaluate and report to Congress its viewson whether the Federal Rules of Evidence should be amended, and if so, how they should be amended, to guarantee that the confidentiality of communications between sexual assault victims and their therapists or trained counselors will be adequately protected in Federal court proceedings.
+The Judicial Conference of the United States shall evaluate and report to Congress its views on whether the Federal Rules of Evidence should be amended, and if so, how they should be amended, to guarantee that the confidentiality of communications between sexual assault victims and their therapists or trained counselors will be adequately protected in Federal court proceedings.
 
 (Pub. L. 103–322, title IV, §40153, Sept. 13, 1994, 108 Stat. 1921.)
 

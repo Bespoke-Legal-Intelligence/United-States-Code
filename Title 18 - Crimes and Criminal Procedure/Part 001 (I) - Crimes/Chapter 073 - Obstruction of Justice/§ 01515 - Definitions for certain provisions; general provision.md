@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(E) knowingly using a trick, scheme, or device with intent to mislead;
 
-&emsp;(4) the term “law enforcement officer” means an officer or employee of the Federal Government, or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant—
+&emsp;(4) the term “law enforcement officer” means an officer or employee of the FederalGovernment, or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant—
 
 &emsp;&emsp;(A) authorized under law to engage in or supervise the prevention, detection, investigation, or prosecution of an offense; or
 
@@ -54,19 +54,19 @@
 
 #### Amendments
 
-1996—Subsec. (a)(1)(D). Pub. L. 104–294 struck out “or” after semicolon at end.
+<b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–294 struck out “or” after semicolon at end.
 
 Subsecs. (b), (c). Pub. L. 104–292 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–322 added subpar. (D).
+<b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–322 added subpar. (D).
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–690, §7029(b), inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
+<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–690, §7029(b), inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
 
 Subsec. (a)(6). Pub. L. 100–690, §7029(d), added par. (6).
 
-1986—Pub. L. 99–646 inserted “; general provision” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1986</b>—Pub. L. 99–646 inserted “; general provision” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Change of Name
 

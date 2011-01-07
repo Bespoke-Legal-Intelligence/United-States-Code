@@ -54,7 +54,7 @@ Reporting to Congress.—
 
 &emsp;“(1)
 
-Briefings.—The Secretary of State shall keep the appropriate congressional committees fully and currently informed of the progress of any discussions between the United States and its allies regarding the development of the common coalition approach described in subsection (b).
+Briefings.—The Secretary of State shall keep the appropriate congressional committees fully andcurrently informed of the progress of any discussions between the United States and its allies regarding the development of the common coalition approach described in subsection (b).
 
 &emsp;“(2)
 
@@ -148,7 +148,7 @@ Sec. 5. <i>Special Interagency Task Force on Interrogation and Transfer Policies
 
 (f) <i>Administration</i>. The Special Task Force shall be established for administrative purposes within the Department of Justice and the Department of Justice shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support and funding for the Special Task Force.
 
-(g) <i>Recommendations</i>. The Special Task Force shall provide a report to the President, through the Assistant to the President for National Security Affairs andthe Counsel to the President, on the matters set forth in subsection (d) within 180 days of the date of this order, unless the Chair determines that an extension is necessary.
+(g) <i>Recommendations</i>. The Special Task Force shall provide a report to the President, through the Assistant to the President for National Security Affairs and the Counsel to the President, on the matters set forth in subsection (d) within 180 days of the date of this order, unless the Chair determines that an extension is necessary.
 
 (h) <i>Termination</i>. The Chair shall terminate the Special Task Force upon the completion of its duties.
 

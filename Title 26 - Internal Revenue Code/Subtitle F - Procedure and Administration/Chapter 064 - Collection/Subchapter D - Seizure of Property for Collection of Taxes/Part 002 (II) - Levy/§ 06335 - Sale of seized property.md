@@ -6,7 +6,7 @@ As soon as practicable after seizure of property, notice in writing shall be giv
 
 #### (b) Notice of sale
 
-The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearestthe place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
+The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
 
 #### (c) Sale of indivisible property
 
@@ -70,7 +70,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (f) Right to request sale of seized property within 60 days
 
-The owner of any property seized by levy may request that the Secretary sell such property within 60 days after such request (or within such longer period as may be specified by the owner).The Secretary shall comply with such request unless the Secretary determines (and notifies the owner within such period) that such compliance would not be in the best interests of the United States.
+The owner of any property seized by levy may request that the Secretary sell such property within 60 days after such request (or within such longer period as may be specified by the owner). The Secretary shall comply with such request unless the Secretary determines (and notifies the owner within such period) that such compliance would not be in the best interests of the United States.
 
 #### (g) Stay of sale of seized property pending Tax Court decision
 
@@ -80,17 +80,17 @@ The owner of any property seized by levy may request that the Secretary sell suc
 
 #### Amendments
 
-1998—Subsec. (e)(1)(A)(i). Pub. L. 105–206, §3441(a), substituted “a minimum price below which such property shall not be sold” for “a minimum price for which such property shall be sold”.
+<b>1998</b>—Subsec. (e)(1)(A)(i). Pub. L. 105–206, §3441(a), substituted “a minimum price below which such property shall not be sold” for “a minimum price for which such property shall be sold”.
 
 Subsec. (e)(4). Pub. L. 105–206, §3441(b), added par. (4).
 
-1988—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1988</b>—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1986—Subsec. (e)(1). Pub. L. 99–514 amended par. (1) generally. Prior to amendment, par. (1) “Minimum price” read as follows: “Before the sale the Secretary shall determine a minimum price for which the property shall be sold, and if no person offers for such property at the sale the amount of the minimum price, the property shall be declared to be purchased at such price for the United States; otherwise the property shall be declared to be sold to the highest bidder. In determining the minimum price, the Secretary shall take into account the expense of making the levy and sale.”
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–514 amended par. (1) generally. Prior to amendment, par. (1) “Minimum price” read as follows: “Before the sale the Secretary shall determine a minimum price for which the property shall be sold, and if no person offers for such property at the sale the amount of the minimum price, the property shall be declared to be purchased at such price for the United States; otherwise the property shall be declared to be sold to the highest bidder. In determining the minimum price, the Secretary shall take into account the expense of making the levy and sale.”
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (b). Pub. L. 89–719 inserted an alternative to the publication of notice of sale to allow publication in a newspaper generally circulated within the county in which the property is seized even though the newspaper is not published in such county.
+<b>1966</b>—Subsec. (b). Pub. L. 89–719 inserted an alternative to the publication of notice of sale to allow publication in a newspaper generally circulated within the county in which the property is seized even though the newspaper is not published in such county.
 
 #### Effective Date of 1998 Amendment
 

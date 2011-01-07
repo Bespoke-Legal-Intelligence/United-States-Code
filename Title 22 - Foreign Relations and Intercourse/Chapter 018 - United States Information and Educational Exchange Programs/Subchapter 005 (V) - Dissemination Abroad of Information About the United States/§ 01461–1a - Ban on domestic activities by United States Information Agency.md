@@ -14,7 +14,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-1994—Pub. L. 103–236 inserted at end “The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs.”
+<b>1994</b>—Pub. L. 103–236 inserted at end “The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs.”
 
 #### Transfer of Functions
 

@@ -18,5 +18,5 @@ The Secretary, upon the date of issuance of an order of the District Court pursu
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–305 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–305 added subsec. (c).
 

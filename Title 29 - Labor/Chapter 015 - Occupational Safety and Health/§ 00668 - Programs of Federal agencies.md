@@ -32,9 +32,9 @@ Subsec. (c) of this section amended section 7902 of Title 5, Government Organiza
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “each Federal agency”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “each Federal agency”.
 
-1982—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate and House a report of the activities of Federal agencies under this section.
+<b>1982</b>—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate and House a report of the activities of Federal agencies under this section.
 
 #### Occupational Safety and Health Programs for Federal Employees
 

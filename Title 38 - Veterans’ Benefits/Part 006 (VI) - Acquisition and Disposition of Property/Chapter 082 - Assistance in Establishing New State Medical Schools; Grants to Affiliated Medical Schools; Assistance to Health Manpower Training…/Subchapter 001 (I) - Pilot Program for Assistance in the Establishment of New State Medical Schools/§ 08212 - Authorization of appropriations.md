@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(2)(B), renumbered section 5072 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(2)(B), renumbered section 5072 of this title as this section.
 
 Subsec. (a). Pub. L. 102–40, §402(d)(1), substituted “8213” for “5073”.
 

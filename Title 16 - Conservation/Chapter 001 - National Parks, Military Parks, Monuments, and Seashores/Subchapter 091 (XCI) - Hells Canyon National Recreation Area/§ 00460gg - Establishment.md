@@ -16,7 +16,7 @@ Section 3 of this Act, referred to in subsec. (b), is section 3 of Pub. L. 94–
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–625 substituted “May 1978” for “September 1975” to clarify that the boundary between Saulsberry and Freezeout Saddles is the hydrologic divide.
+<b>1978</b>—Subsec. (b). Pub. L. 95–625 substituted “May 1978” for “September 1975” to clarify that the boundary between Saulsberry and Freezeout Saddles is the hydrologic divide.
 
 #### Separability
 

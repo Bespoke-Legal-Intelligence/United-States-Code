@@ -14,7 +14,7 @@ Provisions of this section which prescribed the basic compensation of Commission
 
 #### Amendments
 
-1982—Pub. L. 97–293 inserted requirement that Commissioner of Reclamation be appointed by and with advice and consent of Senate.
+<b>1982</b>—Pub. L. 97–293 inserted requirement that Commissioner of Reclamation be appointed by and with advice and consent of Senate.
 
 #### Transfer of Functions
 

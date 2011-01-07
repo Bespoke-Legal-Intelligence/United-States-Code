@@ -16,9 +16,5 @@ If consistent with the purposes of this subchapter and the management plan for t
 
 #### References in Text
 
-The mining laws and the mineral leasing laws, referred to in subsec. (a), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (a)(2), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
-
 This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
 

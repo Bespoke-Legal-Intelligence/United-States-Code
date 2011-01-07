@@ -12,7 +12,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(2) seal all portals, entryways, drifts, shafts, or other openings between the surface and underground mine working when no longer needed for the conduct of the mining operations;
 
-&emsp;(3) fill or seal exploratory holes no longer necessary for mining, maximizing to the extent technologically and economically feasiblereturn of mine and processing waste, tailings, and any other waste incident to the mining operation, to the mine workings or excavations;
+&emsp;(3) fill or seal exploratory holes no longer necessary for mining, maximizing to the extent technologically and economically feasible return of mine and processing waste, tailings, and any other waste incident to the mining operation, to the mine workings or excavations;
 
 &emsp;(4) with respect to surface disposal of mine wastes, tailings, coal processing wastes, and other wastes in areas other than the mine workings or excavations, stabilize all waste piles created by the permittee from current operations through construction in compacted layers including the use of incombustible and impervious materials if necessary and assure that the leachate will not degrade below water quality standards established pursuant to applicable Federal and State law surface or ground waters and that the final contour of the waste accumulation will be compatible with natural surroundings and that the site is stabilized and revegetated according to the provisions of this section;
 

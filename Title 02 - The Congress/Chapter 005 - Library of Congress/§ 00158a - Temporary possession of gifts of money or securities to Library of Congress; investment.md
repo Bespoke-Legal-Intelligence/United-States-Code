@@ -1,6 +1,6 @@
 ### §158a. Temporary possession of gifts of money or securities to Library of Congress; investment
 
-In the case of a gift of money or securities offered to the Library of Congress, if, because of conditions attached by the donor or similar considerations, expedited action is necessary, the Librarian of Congress may take temporary possession of the gift, subject to approval under section 156 of this title. The gift shall be receipted for and invested, reinvested, or retained as provided in section 157 of this title, except that—
+In the case of a gift of money or securities offered to the Library of Congress, if, because of conditions attached by the donor or similar considerations, expedited action is necessary, the Librarian of Congress may take temporary possession of the gift, subject to approval under section 156 of this title. The gift shall be receipted for and invested, reinvested, or retainedas provided in section 157 of this title, except that—
 
 &emsp;(1) a gift of securities may not be invested or reinvested; and
 

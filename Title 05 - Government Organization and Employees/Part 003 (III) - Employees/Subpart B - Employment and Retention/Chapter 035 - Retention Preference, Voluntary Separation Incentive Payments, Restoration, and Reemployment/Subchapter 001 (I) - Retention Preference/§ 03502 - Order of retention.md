@@ -80,7 +80,7 @@
 
 (2) The separation of an employee under paragraph (1)(A) shall be treated as an involuntary separation due to a reduction in force.
 
-(3) An employee with critical knowledge and skills (as defined by the Secretary concerned) may not participate in a voluntary separation under paragraph (1)(A) if the Secretary concerned determines that such participation wouldimpair the performance of the mission of the Department of Defense or the military department concerned.
+(3) An employee with critical knowledge and skills (as defined by the Secretary concerned) may not participate in a voluntary separation under paragraph (1)(A) if the Secretary concerned determines that such participation would impair the performance of the mission of the Department of Defense or the military department concerned.
 
 (4) The regulations prescribed under this section shall incorporate the authority provided in this subsection.
 
@@ -168,7 +168,7 @@ Pub. L. 104–106, §1034, added subsec. (f).
 
 1992—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
 
-1990—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as anemployee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
+1990—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
 
 1986—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
 

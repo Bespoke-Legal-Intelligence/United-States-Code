@@ -56,7 +56,7 @@
 
 (6) For purposes of paragraph (5), any appeal received by the Commission shall—
 
-&emsp;(A) if sent to the Commission through the mails, be considered to have been received on the date of the Postal Service postmark on the envelope or other cover in which such appeal is mailed; or
+&emsp;(A) if sent to the Commission through the mails, be considered to have been received onthe date of the Postal Service postmark on the envelope or other cover in which such appeal is mailed; or
 
 &emsp;(B) if otherwise lawfully delivered to the Commission, be considered to have been received on the date determined based on any appropriate documentation or other indicia (as determined under regulations of the Commission).
 
@@ -84,7 +84,7 @@ The date of enactment of the Postal Accountability and Enhancement Act, referred
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435, §403(b)(2), substituted “Subject to the provisions of section 404a, but otherwise without” for “Without” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435, §403(b)(2), substituted “Subject to the provisions of section 404a, but otherwise without” for “Without” in introductory provisions.
 
 Subsec. (a)(6) to (9). Pub. L. 109–435, §102(a)(1), redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out former par. (6), which read “to provide, establish, change, or abolish special nonpostal or similar services;”.
 
@@ -100,7 +100,7 @@ Pub. L. 109–435, §102(a)(2), added subsec. (c).
 
 Subsecs. (d), (e). Pub. L. 109–435, §1010(e), redesignated subsecs. (b) and (c) as (d) and (e), respectively.
 
-1998—Subsec. (b)(2). Pub. L. 105–241 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–241 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
 
 &emsp;“(A) the effect of such closing or consolidation on the community served by such post office;
 
@@ -112,7 +112,7 @@ Subsecs. (d), (e). Pub. L. 109–435, §1010(e), redesignated subsecs. (b) and (
 
 &emsp;“(E) such other factors as the Postal Service determines are necessary.”
 
-1976—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2006 Amendment
 

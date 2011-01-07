@@ -2,13 +2,13 @@
 
 #### (a) Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures
 
-(1) Except as provided in subsection (b) of this section, the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
+(1) Except as provided in subsection (b) of this section, the Administration may guarantee thetimely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
 
 (2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: <i>Provided</i>, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) of this section are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: <i>Provided further</i>, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
 
 (3) The full faith and credit of the United States in pledged to the payment of all amounts guaranteed under this subsection.
 
-(4) Any debenture issued by any State or local development company with respect to which aguarantee is made under this subsection, may be subordinated by the Administration to any other debenture, promissory note, or other debt or obligation of such company.
+(4) Any debenture issued by any State or local development company with respect to which a guarantee is made under this subsection, may be subordinated by the Administration to any other debenture, promissory note, or other debt or obligation of such company.
 
 #### (b) Statutory terms and conditions
 
@@ -60,7 +60,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (3) Development company fee
 
-&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small businessconcerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (e) “Qualified State or local development company” defined; exception for rural company; authority
 
@@ -72,7 +72,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(C) a board of directors, or membership, which meets on a regular basis to make management decisions for such company, including decisions relating to the making and servicing of loans by such company.
 
-(2) A company in a rural area shall be deemed to have satisfied the requirements of a full-time professional staff and professional management ability if it contracts with another certified development company which has such staff andmanagement ability and which is located in the same general area to provide such services.
+(2) A company in a rural area shall be deemed to have satisfied the requirements of a full-time professional staff and professional management ability if it contracts with another certified development company which has such staff and management ability and which is located in the same general area to provide such services.
 
 (3) Notwithstanding any other provision of law, qualified State or local development companies shall be authorized to prepare applications for deferred participation loans under section 636(a) of this title, to service such loans and to charge a reasonable fee for servicing such loans.
 
@@ -120,7 +120,7 @@ For definition of “this chapter”, referred to in subsecs. (b)(7)(A)(ii) and 
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–447, §204, struck out “, but shall not apply to financings approved by the Administration on or after October 1, 2005” before period at end.
+<b>2004</b>—Subsec. (f). Pub. L. 108–447, §204, struck out “, but shall not apply to financings approved by the Administration on or after October 1, 2005” before period at end.
 
 Pub. L. 108–447, title V, substituted “October 1, 2005” for “October 1, 2004”.
 
@@ -130,13 +130,13 @@ Pub. L. 108–205, as amended by Pub. L. 108–306, substituted “May 21, 2004�
 
 Pub. L. 108–199 substituted “March 15, 2004” for “October 1, 2003” before period at end.
 
-2001—Subsec. (b)(7)(A). Pub. L. 107–100, §6(b)(1), designated existing provisions following “not exceed” as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, and added cl. (ii).
+<b>2001</b>—Subsec. (b)(7)(A). Pub. L. 107–100, §6(b)(1), designated existing provisions following “not exceed” as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, and added cl. (ii).
 
 Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
-2000—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.”
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.”
 
-1997—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
+<b>1997</b>—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) whichread as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
 
 &emsp;“(i) 0.9375 percent per year of the outstanding balance of the loan; or
 
@@ -144,7 +144,7 @@ Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
 Subsec. (f). Pub. L. 105–135, §222(2), substituted “2000” for “1997”.
 
-1996—Subsec. (b)(7)(A). Pub. L. 104–208, §202(b), substituted “equal to the lesser of—” for “equal to 0.125 percent per year of the outstanding balance of the loan” and added cls. (i) and (ii).
+<b>1996</b>—Subsec. (b)(7)(A). Pub. L. 104–208, §202(b), substituted “equal to the lesser of—” for “equal to 0.125 percent per year of the outstanding balance of the loan” and added cls. (i) and (ii).
 
 Subsec. (d). Pub. L. 104–208, §202(c), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.”
 
@@ -154,13 +154,13 @@ Subsec. (g). Pub. L. 104–208, §202(e), added subsec. (g).
 
 Subsec. (h). Pub. L. 104–208, §203, added subsec. (h).
 
-1995—Subsec. (b)(7). Pub. L. 104–36 added par. (7).
+<b>1995</b>—Subsec. (b)(7). Pub. L. 104–36 added par. (7).
 
-1994—Subsec. (c) to (e). Pub. L. 103–403 made technical amendment to Pub. L. 100–590, §112(c). See 1988 Amendment note below.
+<b>1994</b>—Subsec. (c) to (e). Pub. L. 103–403 made technical amendment to Pub. L. 100–590, §112(c). See 1988 Amendment note below.
 
-1990—Subsec. (e)(3). Pub. L. 101–515 added par. (3).
+<b>1990</b>—Subsec. (e)(3). Pub. L. 101–515 added par. (3).
 
-1988—Subsec. (a)(2). Pub. L. 100–590, §114, inserted two provisos that Administration not decline to issue such guarantee when ownership interests of small business concern and of property to be financed with loan are not identical, and that Administrator has determined on case-by-case basis that such ownership interest, guarantee, and loan, will substantially benefit small business concern.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–590, §114, inserted two provisos that Administration not decline to issue such guarantee when ownership interests of small business concern and of property to be financed with loan are not identical, and that Administrator has determined on case-by-case basis that such ownership interest, guarantee, and loan, will substantially benefit small business concern.
 
 Subsec. (c). Pub. L. 100–590, §112(c)(B), formerly §112(c)(1)(B), as amended by Pub. L. 103–403, added subsec. (c). Former subsec. (c) redesignated (d).
 

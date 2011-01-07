@@ -50,7 +50,7 @@ If—
 
 &emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed for the taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
 
-> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed bythe authority of any foreign country or possession of the United States.
+> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States.
 
 #### (g) Prepaid interest
 
@@ -246,7 +246,7 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(I) notwithstanding the disregard in subparagraph (A)(i) of any disallowance under paragraph (1), in the case of any loss which is carried forward under paragraph (2) from any taxable year, such loss (or any portion thereof) shall be taken into account for the first taxable year in which a deduction for such loss (or portion) is not disallowed by reason of this subsection, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall prescribe rules for the computation of the aggregate amounts described in such clause in cases where the filing status of the taxpayer is not the same for the taxable year and each of the taxable years in the period described in such clause.
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall prescribe rules for the computation of the aggregate amounts described in such clause in cases where the filing status of the taxpayer is not the same for the taxableyear and each of the taxable years in the period described in such clause.
 
 #### (C) Farming business
 
@@ -296,29 +296,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (j). Pub. L. 110–246, §15351(a), added subsec. (j).
+<b>2008</b>—Subsec. (j). Pub. L. 110–246, §15351(a), added subsec. (j).
 
-2005—Subsec. (i)(3)(C). Pub. L. 109–135 substituted “section 6662(d)(2)(C)(ii)” for “section 6662(d)(2)(C)(iii)”.
+<b>2005</b>—Subsec. (i)(3)(C). Pub. L. 109–135 substituted “section 6662(d)(2)(C)(ii)” for “section 6662(d)(2)(C)(iii)”.
 
-1996—Subsec. (i)(3)(C). Pub. L. 104–188, §1704(t)(78), substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
+<b>1996</b>—Subsec. (i)(3)(C). Pub. L. 104–188, §1704(t)(78), substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
 
 Pub. L. 104–188, §1704(t)(24), amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
 
-1990—Subsec. (i)(3)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any tax shelter (within the meaning of section 6662(d)(2)(C)(ii)).”
+<b>1990</b>—Subsec. (i)(3)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any tax shelter (within the meaning of section 6662(d)(2)(C)(ii)).”
 
-1989—Subsec. (i)(3)(C). Pub. L. 101–239, as amended by Pub. L. 104–188, §1704(t)(24), substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
+<b>1989</b>—Subsec. (i)(3)(C). Pub. L. 101–239, as amended by Pub. L. 104–188, §1704(t)(24), substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
 
-1988—Subsec. (h)(5)(B), (C). Pub. L. 100–647, §1018(u)(5), amended Pub. L. 99–514, §823(b)(1). See 1986 Amendment note below.
+<b>1988</b>—Subsec. (h)(5)(B), (C). Pub. L. 100–647, §1018(u)(5), amended Pub. L. 99–514, §823(b)(1). See 1986 Amendment note below.
 
-Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of a tax shelter, economic performance with respect to the act of drilling an oil orgas well shall be treated as having occurred within a taxable year if drilling of the well commences before the close of the 90th day after the close of the taxable year.”
+Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of a tax shelter, economic performance with respect to the act of drilling an oil or gas well shall be treated as having occurred within a taxable year if drilling of the well commences before the close of the 90th day after the close of the taxable year.”
 
-1987—Subsec. (h)(5). Pub. L. 100–203 substituted “items” for “cases to which other provisions of this title specifically apply” in heading and amended text generally. Prior to amendment, text read as follows: “This subsection shall not apply to any item to which any of the following provisions apply:
+<b>1987</b>—Subsec. (h)(5). Pub. L. 100–203 substituted “items” for “cases to which other provisions of this title specifically apply” in heading and amended text generally. Prior to amendment, text read as follows: “This subsection shall not apply to any item to which any of the following provisions apply:
 
 &emsp;“(A) Section 463 (relating to vacation pay).
 
 &emsp;“(B) Any other provisions of this title which specifically provides for a deduction for a reserve for estimated expenses.”
 
-1986—Subsec. (h)(5)(A). Pub. L. 99–514, §805(c)(5), redesignated subpar. (B) as (A) and struck out former subpar. (A) which referred to subsec. (c) or (f) of section 166.
+<b>1986</b>—Subsec. (h)(5)(A). Pub. L. 99–514, §805(c)(5), redesignated subpar. (B) as (A) and struck out former subpar. (A) which referred to subsec. (c) or (f) of section 166.
 
 Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Section 466 (relating to discount coupons).”
 
@@ -348,21 +348,21 @@ Subsec. (i)(4). Pub. L. 99–514, §801(b)(2), amended par. (4) generally. Prior
 
 Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “section 464 shall be applied to any tax shelter described in paragraph (3)(C),”.
 
-1984—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted “determined after application of subsection (h)”.
+<b>1984</b>—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted “determined after application of subsection (h)”.
 
 Subsecs. (h), (i). Pub. L. 98–369, §91(a), added subsecs. (h) and (i).
 
-1976—Subsec. (c)(2), (3). Pub. L. 94–455, §§1901(a)(69)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), substituted “in which he” for “which begins after December 31, 1953, and ends after the date of the enactment of this title in which the taxpayer”, and struck out “or his delegate” after “Secretary” wherever appearing. Former par. (2), which related to special limitations on the applicability of par. (1), was struck out.
+<b>1976</b>—Subsec. (c)(2), (3). Pub. L. 94–455, §§1901(a)(69)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), substituted “in which he” for “which begins after December 31, 1953, and ends after the date of the enactment of this title in which the taxpayer”, and struck out “or his delegate” after “Secretary” wherever appearing. Former par. (2), which related to special limitations on the applicability of par. (1), was struck out.
 
 Subsecs. (d), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 
-1964—Subsec. (f). Pub. L. 88–272 added subsec. (f).
+<b>1964</b>—Subsec. (f). Pub. L. 88–272 added subsec. (f).
 
-1962—Subsec. (e). Pub. L. 87–876 added subsec. (e).
+<b>1962</b>—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
-1960—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+<b>1960</b>—Subsec. (d). Pub. L. 86–781 added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 
@@ -392,7 +392,7 @@ Amendment by section 805(c)(5) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 823 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with changes required in the method of accounting, see section 823(c) of Pub. L. 99–514, set out as an Effective Date of Repeal note under section 466 of this title.
 
-Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -520,7 +520,7 @@ Section 223(b) of Pub. L. 88–272 provided that: “Except as provided in subse
 
 &emsp;“(1) the amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954, and
 
-&emsp;“(2) the amendment made by subsection (a)(2) \[amending section 43 of the Internal Revenue Code of1939\] shall apply to taxable years to which the Internal Revenue Code of 1939 applies.”
+&emsp;“(2) the amendment made by subsection (a)(2) \[amending section 43 of the Internal Revenue Code of 1939\] shall apply to taxable years to which the Internal Revenue Code of 1939 applies.”
 
 #### Effective Date of 1962 Amendment
 

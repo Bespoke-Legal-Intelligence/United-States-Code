@@ -1,6 +1,6 @@
 ### §117e. Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts
 
-(1) The Chief Administrative Officer of the House of Representatives may dispose of used equipment of the House of Representatives, by trade-in or sale, directly or through the General Services Administration. Any direct disposal under the preceding sentence shall be in accordance with normal business practice and shall be at fair market value. Receipts from disposals under the first sentence of this section (together with receipts from sale of transcripts, wastepaper and other items provided by law, and receipts for missing or damaged equipment) shall be deposited in the Treasury for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the “appropriate account of the House of Representatives” shall be the account of the Chief Administrative Officer of the House of Representatives.
+(1) The Chief Administrative Officer of the House of Representatives may dispose of used equipment of the House of Representatives, by trade-in or sale, directly or through the General Services Administration. Any direct disposal under the preceding sentence shall be in accordance with normal business practice and shall be at fair market value. Receipts from disposals under the first sentence of this section (together with receipts from sale of transcripts, waste paper and other items provided by law, and receipts for missing or damaged equipment) shall be deposited in the Treasury for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the “appropriate account of the House of Representatives” shall be the account of the Chief Administrative Officer of the House of Representatives.
 
 (2) If disposal in accordance with paragraph (1) is not feasible because of age, location, condition, or any other relevant factor, the Chief Administrative Officer may donate the equipment to the government of a State, to a local government, or to an organization that is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of title 26. Except as provided in paragraph (3), a donation under this paragraph—
 
@@ -72,7 +72,7 @@ Pub. L. 107–68, title I, §114(b), Nov. 12, 2001, 115 Stat. 572, provided that
 
 #### Effective Date of 1989 Amendment
 
-Section 103(c) of Pub. L. 101–163 provided that: “The amendments made by subsection (a) \[amending thissection\] and the repeal made by subsection (b) \[repealing section 59a of this title\] shall take effect on October 1, 1989.”
+Section 103(c) of Pub. L. 101–163 provided that: “The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 59a of this title\] shall take effect on October 1, 1989.”
 
 #### Effective Date of 1987 Amendment
 

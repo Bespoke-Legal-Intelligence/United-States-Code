@@ -110,9 +110,9 @@ In subsection (d), the words “for the transaction of business” are omitted a
 
 #### Amendments
 
-2008—Subsec. (b)(5). Pub. L. 110–336 substituted “120 days” for “60 days”.
+<b>2008</b>—Subsec. (b)(5). Pub. L. 110–336 substituted “120 days” for “60 days”.
 
-2005—Subsec. (b)(2)(A). Pub. L. 109–9, §312(a)(1), substituted “12” for “nine”.
+<b>2005</b>—Subsec. (b)(2)(A). Pub. L. 109–9, §312(a)(1), substituted “12” for “nine”.
 
 Subsec. (b)(4). Pub. L. 109–9, §312(a)(2), substituted “There shall be no limit to the number of terms to which any individual may be appointed.” for “An individual may not serve more than two consecutive terms.”
 

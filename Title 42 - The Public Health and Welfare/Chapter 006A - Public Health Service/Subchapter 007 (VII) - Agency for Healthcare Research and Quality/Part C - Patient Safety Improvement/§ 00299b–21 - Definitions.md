@@ -4,7 +4,7 @@ In this part:
 
 #### (1) HIPAA confidentiality regulations
 
-&emsp;The term “HIPAA confidentiality regulations” means regulations promulgated undersection 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033).
+&emsp;The term “HIPAA confidentiality regulations” means regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033).
 
 #### (2) Identifiable patient safety work product
 
@@ -98,7 +98,7 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Prior Provisions
 
-A prior section 921 of act July 1, 1944, was renumbered section 931 and is classified to section 299c of this title.
+A prior section 921 of act July 1, 1944, was renumbered section 941 and is classified to section 299c of this title.
 
 Another prior section 921 of act July 1, 1944, was classified to section 299c of this title prior to the general amendment of this subchapter by Pub. L. 106–129.
 

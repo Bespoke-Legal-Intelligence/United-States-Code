@@ -12,7 +12,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1996—Pub. L. 104–106 amended section generally. Prior to amendment, section read as follows: “There is established in the executive branch of the United States Government an agency to be known as the Panama Canal Commission (hereinafter in this chapter referred to as the ‘Commission’). The Commission shall, under the general supervision of the Board established by section 3612 of this title, be responsible for the maintenance and operation of the Panama Canal and the facilities and appurtenances related thereto. The authority of the President with respect to the Commission shall be exercised through the Secretary of Defense.”
+<b>1996</b>—Pub. L. 104–106 amended section generally. Prior to amendment, section read as follows: “There is established in the executive branch of the United States Government an agency to be known as the Panama Canal Commission (hereinafter in this chapter referred to as the ‘Commission’). The Commission shall, under the general supervision of the Board established by section 3612 of this title, be responsible for the maintenance and operation of the Panama Canal and the facilities and appurtenances related thereto. The authority of the President with respect to the Commission shall be exercised through the Secretary of Defense.”
 
 #### Recommendations by President on Changes to Panama Canal Commission Structure
 

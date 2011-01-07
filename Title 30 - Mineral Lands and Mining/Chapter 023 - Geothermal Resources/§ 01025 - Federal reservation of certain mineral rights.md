@@ -6,5 +6,5 @@ The United States reserves the ownership of and the right to extract under such 
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” wherever appearing in text.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” wherever appearing in text.
 

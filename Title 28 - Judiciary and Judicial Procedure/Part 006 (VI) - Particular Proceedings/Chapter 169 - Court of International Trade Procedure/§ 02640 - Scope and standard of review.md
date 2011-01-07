@@ -44,13 +44,13 @@ Section 499(b) of the Tariff Act of 1930, referred to in subsec. (d), is classif
 
 #### Prior Provisions
 
-A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the division which had decided a case orthe single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by Pub. L. 91–271, title I, §121, June 2, 1970, 84 Stat. 281. See section 2646 of this title.
+A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the division which had decided a case or the single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by Pub. L. 91–271, title I, §121, June 2, 1970, 84 Stat. 281. See section 2646 of this title.
 
 #### Amendments
 
-1993—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1993</b>—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1984—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting “under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section” for “to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting “under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section” for “to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
 
 #### Effective Date of 1984 Amendment
 

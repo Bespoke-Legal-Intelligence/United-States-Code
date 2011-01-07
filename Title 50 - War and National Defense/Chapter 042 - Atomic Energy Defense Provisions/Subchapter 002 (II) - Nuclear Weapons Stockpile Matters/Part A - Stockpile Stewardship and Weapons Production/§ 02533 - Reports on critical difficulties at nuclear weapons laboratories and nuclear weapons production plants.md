@@ -46,9 +46,9 @@ Section is comprised of section 4213 of Pub. L. 107–314. Subsec. (c) of sectio
 
 #### Amendments
 
-1999—Subsecs. (d), (e). Pub. L. 106–65 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1999</b>—Subsecs. (d), (e). Pub. L. 106–65 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
 
 #### Transfer of Functions
 

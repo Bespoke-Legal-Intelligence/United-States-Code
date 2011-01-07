@@ -14,9 +14,9 @@ The Black Lung Benefits Amendments of 1981, referred to in text, is Pub. L. 97�
 
 #### Amendments
 
-1981—Pub. L. 97–119 inserted “, and the Black Lung Benefits Amendments of 1981”.
+<b>1981</b>—Pub. L. 97–119 inserted “, and the Black Lung Benefits Amendments of 1981”.
 
-1978—Pub. L. 95–239 inserted reference to amendments made by the Black Lung Benefits Reform Act of 1977 and struck out provision that, for the purpose of determining the applicability of the presumption established by 921(c)(4) of this title to claims filed under this part, no period of employment after June 30, 1971, could be considered in determining whether a miner was employed at least fifteen years in one or more underground mines.
+<b>1978</b>—Pub. L. 95–239 inserted reference to amendments made by the Black Lung Benefits Reform Act of 1977 and struck out provision that, for the purpose of determining the applicability of the presumption established by 921(c)(4) of this title to claims filed under this part, no period of employment after June 30, 1971, could be considered in determining whether a miner was employed at least fifteen years in one or more underground mines.
 
 #### Effective Date of 1981 Amendment
 

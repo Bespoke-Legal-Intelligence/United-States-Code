@@ -24,7 +24,7 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be designated by the President from among the members of the Board. The Chairman shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5.
 
-(2) Subject to the general policies, decisions, findings, and determinations of the Board, the Chairman shall be responsible for administering the Board. The Chairman may delegate the powers granted under this paragraph to an officer, employee, or office of the Board. The Chairman shall—
+(2) Subject to the general policies, decisions, findings, and determinations of the Board, the Chairman shall be responsible for administeringthe Board. The Chairman may delegate the powers granted under this paragraph to an officer, employee, or office of the Board. The Chairman shall—
 
 &emsp;(A) appoint and supervise, other than regular and full-time employees in the immediate offices of another member, the officers and employees of the Board, including attorneys to provide legal aid and service to the Board and its members, and to represent the Board in any case in court;
 
@@ -40,7 +40,7 @@ Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 29, 1995,” for “the date of the enactment of the ICC Termination Act of 1995”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 29, 1995,” for “the date of the enactment of the ICC Termination Act of 1995”.
 
 #### Effective Date
 

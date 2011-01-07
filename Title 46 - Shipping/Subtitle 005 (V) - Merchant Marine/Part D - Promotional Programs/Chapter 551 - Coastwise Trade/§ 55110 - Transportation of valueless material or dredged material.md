@@ -24,7 +24,7 @@ The words “or place” are omitted as surplus. The words “as defined in the 
 
 #### Amendments
 
-2008—Pub. L. 110–181 inserted “valueless material or” before “dredged material” in section catchline.
+<b>2008</b>—Pub. L. 110–181 inserted “valueless material or” before “dredged material” in section catchline.
 
 #### Nonapplicability of Pub. L. 100–329 to Certain Vessels
 

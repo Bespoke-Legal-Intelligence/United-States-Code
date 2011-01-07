@@ -24,11 +24,11 @@ disability retirees.—
 
 &emsp;&emsp;(A)
 
-General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provisionof law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
 &emsp;&emsp;(B)
 
-Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount equal to 21/2 percent of the member's years of creditable service multiplied by the member's retired pay base under section1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount equal to 21/2 percent of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 (c)
 
@@ -82,7 +82,7 @@ Other Definitions.—In this section:
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–181, §641(b), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–181, §641(b), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
 
 Subsec. (c). Pub. L. 110–181, §641(a), substituted “who—” for “entitled to retired pay who—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 110–181, §641(a), substituted “who—” for “entitl
 
 “(2) has a combat-related disability.”
 
-2003—Pub. L. 108–136, §642(e)(1), substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §642(e)(1), substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in section catchline.
 
 Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted “under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.” for “for a combat-related disability under subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38.”
 
@@ -122,11 +122,11 @@ Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, pro
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: “The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003.”
+Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: “The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments asnecessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003.”
 
 Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: “Section 1413a of title 10,United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
+Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: “Section 1413a of title 10, United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
 

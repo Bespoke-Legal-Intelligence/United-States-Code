@@ -22,7 +22,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(i) to serve as a model for high-performance green building initiatives, including research and education <sup>2</sup> by achieving the highest rating offered by the high performance green building system identified pursuant to section 17092(h) of this title;
 
-&emsp;&emsp;&emsp;(ii) to identify the most effective ways to use high-performance green building and landscape technologies to engage and educate undergraduate and graduate students;
+&emsp;&emsp;&emsp;(ii) to identify the most effective ways to use high-performance green building andlandscape technologies to engage and educate undergraduate and graduate students;
 
 &emsp;&emsp;&emsp;(iii) to effectively implement a high-performance green building education program for students and occupants;
 

@@ -2,7 +2,7 @@
 
 #### (a) Audits of HOME Investment Partnerships program
 
-The Comptroller General, when the Comptroller General deems it to be appropriate or when requested by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Banking, Finance and Urban Affairs of the House of Representatives, shall conduct a full financial audit of the records of the HOME Investment Partnerships program for any fiscal year. The report of the Comptroller General shall be submitted promptly to the Secretary and the Congress and shall be published.
+The Comptroller General, when the Comptroller General deems it to be appropriate or when requested by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Banking, Finance and Urban Affairsof the House of Representatives, shall conduct a full financial audit of the records of the HOME Investment Partnerships program for any fiscal year. The report of the Comptroller General shall be submitted promptly to the Secretary and the Congress and shall be published.
 
 #### (b) Audits of recipients
 
@@ -12,9 +12,9 @@ The financial transactions of participating jurisdictions and of other recipient
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-1994—Pub. L. 103–233, §205(1), substituted “Audits by Comptroller General” for “Annual audits and accountability” in section catchline.
+<b>1994</b>—Pub. L. 103–233, §205(1), substituted “Audits by Comptroller General” for “Annual audits and accountability” in section catchline.
 
 Subsec. (a). Pub. L. 103–233, §205(4), struck out after first sentence “The initiation of an audit for a fiscal year under the previous sentence shall obviate the requirement for an audit by an independent accounting firm under paragraph (a) for that fiscal year.”
 

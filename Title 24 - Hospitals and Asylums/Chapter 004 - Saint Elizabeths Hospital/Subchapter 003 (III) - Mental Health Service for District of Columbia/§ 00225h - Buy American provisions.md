@@ -2,21 +2,21 @@
 
 #### (a) Applicability
 
-The Mayor shall insure that the requirements of the Buy American Act of 1933, as amended \[41 U.S.C. 10a et seq.\], apply to all procurements made under this subchapter.
+The Mayor shall insure that the requirements of the Buy American Act of 1933, as amended, apply to all procurements made under this subchapter.
 
 #### (b) Determination by Mayor
 
-(1) If the Mayor, after consultation with the United States Trade Representative, determines that a foreign country which is party to an agreement described in paragraph (2) has violated the terms of the agreement by discriminating against certain types of products produced in the United States that are covered by the agreement, the United States Trade Representative shall rescind the waiver of the Buy American Act \[41 U.S.C. 10a et seq.\] with respect to such types of products produced in that foreign country.
+(1) If the Mayor, after consultation with the United States Trade Representative, determines that a foreign country which is party to an agreement described in paragraph (2) has violated the terms of the agreement by discriminating against certain types of products produced in the United States that are covered by the agreement, the United States Trade Representative shall rescind the waiver of the Buy American Act with respect to such types of products produced in that foreign country.
 
 (2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United Statesand a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
 
 #### (c) Report to Congress
 
-The Mayor shall submit to Congress a report on the amount of purchases from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of items for which the Buy American Act \[41 U.S.C. 10a et seq.\] was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
+The Mayor shall submit to Congress a report on the amount of purchases from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
 
 #### (d) “Buy American Act” defined
 
-For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.).
+For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.) <sup>2</sup>.
 
 #### (e) Restrictions on contract awards
 
@@ -30,9 +30,15 @@ If it has been finally determined by a court or Federal agency that any person i
 
 #### References in Text
 
-The Buy American Act of 1933, and the Buy American Act, referred to in subsecs. (a) to (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Trade Agreement Act of 1979, referred to in subsec. (c), probably means the Trade Agreements Act of 1979, Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
 This subchapter, referred to in subsec. (e), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 98–621, which is classified principally to this subchapter, to reflect the probable intent of Congress, because Pub. L. 98–621 does not contain titles.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “subsection”.</i>
 

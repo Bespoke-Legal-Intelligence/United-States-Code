@@ -16,7 +16,7 @@
 
 (c) The Attorney General and the Administrator of General Services shall—
 
-&emsp;(1) establish or designate an appropriate office or offices to maintain the list described in subsection (b)(3) and to furnish information tocivilian law enforcement officials on the availability of surplus military equipment; and
+&emsp;(1) establish or designate an appropriate office or offices to maintain the list described in subsection (b)(3) and to furnish information to civilian law enforcement officials on the availability of surplus military equipment; and
 
 &emsp;(2) make available to civilian law enforcement personnel nationwide, tollfree telephone communication with such office or offices.
 
@@ -24,5 +24,5 @@
 
 #### Amendments
 
-1988—Pub. L. 100–456 amended section generally, substituting provisions relating to annual briefing of law enforcement personnel of each State by Secretary of Defense and Attorney General and establishment of offices and telephone communication with those offices regarding surplus military equipment for provisions requiring the Secretary to report to Congress on the availability of assistance, etc., to civilian law enforcement and drug interdiction agencies and to convene a conference and requiring the Comptroller General to monitor and report on the Secretary's compliance with those requirements.
+<b>1988</b>—Pub. L. 100–456 amended section generally, substituting provisions relating to annual briefing of law enforcement personnel of each State by Secretary of Defense and Attorney General and establishment of offices and telephone communication with those offices regarding surplus military equipment for provisions requiring the Secretary to report to Congress on the availability of assistance, etc., to civilian law enforcement and drug interdiction agencies and to convene a conference and requiring the Comptroller General to monitor and report on the Secretary's compliance with those requirements.
 

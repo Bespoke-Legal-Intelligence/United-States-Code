@@ -4,14 +4,14 @@
 
 (b) An officer who is to be eliminated from an active status under subsection (a) shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if he requests it, shall be so transferred. If he is not so transferred, he shall, in the discretion of the Secretary, be transferred to the appropriate inactive status list or be discharged from the Navy Reserve or the Marine Corps Reserve.
 
-(c)(1) An officer in an active status in the Navy Reserve in the permanent grade of lieutenant commander or commander, and an officer in an active status in the Marine Corps Reserve in the permanent grade of major or lieutenant colonel, who is considered as having twice failed of selection for promotion to the next higher grade while on the active-duty list shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve. If he is not so transferred, he shall be discharged from the Navy Reserve or the Marine Corps Reserve if he has completed a period of total commissioned service equal to that specified below for the permanent grade in which he is serving:
+(c)(1) An officer in an active status in the Navy Reserve in the permanent grade of lieutenant commander or commander, and an officer in an active status in the Marine Corps Reserve in the permanent grade of major or lieutenantcolonel, who is considered as having twice failed of selection for promotion to the next higher grade while on the active-duty list shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve. If he is not so transferred, he shall be discharged from the Navy Reserve or the Marine Corps Reserve if he has completed a period of total commissioned service equal to that specified below for the permanent grade in which he is serving:
 
 &nbsp;
 
 | <i>Grade</i> | <i>Total commissioned service</i> |  |
 | --- | --- | ---: |
 | <i>Navy</i> | <i>Marine Corps</i> |  |
-| Commander DLieutenant colonel D28 years. |  |  |
+| Commander | Lieutenant colonel | 28 years. |
 | Lieutenant commander | Major | 20 years. |
 
 (2) Notwithstanding the first sentence of paragraph (1), the Secretary may defer the retirement or discharge of such number of officers serving in the grade of lieutenant commander as are necessary to maintain the authorized officer strength of the Ready Reserve, but the duration of such deferment for any individual officer may not be in excess of five years.
@@ -62,7 +62,7 @@ Sept. 3, 1954, ch. 1257, §411(c) (less 1st and 2d sentences), 68 Stat. 1170.
 
 \[No source\].
 
-In subsection (a), the words “who is considered as having twice failed of selection for promotion” are substituted for the words “after failing of selection for promotion a second time” to conform to similar statements in this title. (See the revision note on section 5776.) The words “may be retained in” are omitted as surplusage, since the authority to eliminate such officers from an active status is discretionary with the Secretary.
+In subsection (a), the words “who is considered as having twice failed of selection for promotion” are substituted for the words “after failing of selection for promotion \* \* \* a second time” to conform to similar statements in this title. (See the revision note on section 5776.) The words “may be retained in” are omitted as surplusage, since the authority to eliminate such officers from an active status is discretionary with the Secretary.
 
 Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in sections 6397 and 6403 of this title. 50:1311(d) and (e) contain special provisions for “women officers” and officers in the Nurse Corps, respectively, so that officers in these categories must be excepted from this section. Women officers appointed under the act of June 24, 1952, ch. 457 (66 Stat. 155; 34 U.S.C. 21e) (codified in section 5581 of this title), are not “women officers” within the meaning of 50:1311(d), however, but are required to be promoted, retired, or eliminated from active status as if they were men. (See the revision note on section 5665 of this title.) The application of this section to these officers is therefore made explicit.
 
@@ -70,13 +70,13 @@ Both men and women are eligible for appointment as reserve officers in the Nurse
 
 #### Amendments
 
-2006—Pub. L. 109–163, §515(b)(3)(C), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(C), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(M), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
-1996—Subsec. (c). Pub. L. 104–106 substituted “section 12732” for “section 1332”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “section 12732” for “section 1332”.
 
-1994—Subsec. (a). Pub. L. 103–337, §1673(c), substituted “12645” for “1005”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1673(c), substituted “12645” for “1005”.
 
 Pub. L. 103–337, §1628(1), inserted “while on the active-duty list” after “to the next higher grade” and “or released from active duty and placed on the reserve active-status list” after “from an active status”.
 
@@ -104,15 +104,15 @@ Subsec. (f). Pub. L. 103–337, §1628(4), struck out subsec. (f) which provided
 
 Subsec. (g). Pub. L. 103–337, §1628(4), struck out subsec. (g) which read as follows: “An officer in an active status in the Naval Reserve in the permanent grade of ensign who is found not qualified for promotion to the grade of lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of second lieutenant who is found not qualified for promotion to the grade of first lieutenant, may (unless he is sooner promoted) be eliminated from an active status.”
 
-1991—Subsec. (d). Pub. L. 102–190 substituted “W–5” for “W–4”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–190 substituted “W–5” for “W–4”.
 
-1985—Subsec. (f)(1), (3). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (f)(1), (3). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Subsec. (g). Pub. L. 98–525 added subsec. (g).
+<b>1984</b>—Subsec. (g). Pub. L. 98–525 added subsec. (g).
 
-1981—Subsec. (f)(1), (3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (f)(1), (3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
-1980—Subsec. (b). Pub. L. 96–513, §337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513, §337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
 
 Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
 
@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 96–513, §337(a)(3), substituted “does not apply to” 
 
 Subsec. (f). Pub. L. 96–513, §337(a)(4), added subsec. (f).
 
-1960—Subsec. (c). Pub. L. 86–559 empowered the Secretary to defer the retirement or discharge of officers serving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
+<b>1960</b>—Subsec. (c). Pub. L. 86–559 empowered the Secretary to defer the retirement or discharge of officers serving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
 
 #### Effective Date of 1996 Amendment
 

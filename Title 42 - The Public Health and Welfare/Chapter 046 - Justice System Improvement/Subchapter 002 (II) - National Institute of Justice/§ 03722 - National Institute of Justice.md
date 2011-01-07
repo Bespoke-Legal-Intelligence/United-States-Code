@@ -70,13 +70,13 @@ A prior section 3722, Pub. L. 90–351, title I, §202, June 19, 1968, 82 Stat. 
 
 #### Amendments
 
-2002—Subsec. (c)(3). Pub. L. 107–296, §237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–296, §237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
 
 Subsec. (c)(10), (11). Pub. L. 107–296, §237(2), added pars. (10) and (11).
 
-1994—Subsec. (c)(2)(E). Pub. L. 103–322 substituted “crime,” for “crime,,”.
+<b>1994</b>—Subsec. (c)(2)(E). Pub. L. 103–322 substituted “crime,” for “crime,,”.
 
-1984—Subsec. (b). Pub. L. 98–473, §604(b)(1), required Director to report to Attorney General through Assistant Attorney General.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473, §604(b)(1), required Director to report to Attorney General through Assistant Attorney General.
 
 Subsec. (c)(2)(A). Pub. L. 98–473, §604(b)(2)(A)(i), struck out “, including programs authorized by section 3713 of this title” after “system goals”.
 

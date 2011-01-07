@@ -30,17 +30,17 @@ The word “regular” is deleted \[in sections 4335 and 4336\] to make clear th
 
 #### Amendments
 
-1984—Subsecs. (a), (b). Pub. L. 98–525 substituted “on which he would have been promoted had he been selected for promotion from among officers in the promotion zone,” for “when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,”.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–525 substituted “on which he would have been promoted had he been selected for promotion from among officers in the promotion zone,” for “when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,”.
 
-1980—Subsecs. (a), (b). Pub. L. 96–513, §502(25), substituted “a regular officer” for “a promotion-list officer”, and inserted “or active-duty list” after “on the promotion list”.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §502(25), substituted “a regular officer” for “a promotion-list officer”, and inserted “or active-duty list” after “on the promotion list”.
 
-Subsec. (c). Pub. L. 96–513, §218(a), struck out subsec. (c) which provided that, unless he is serving in a highergrade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
+Subsec. (c). Pub. L. 96–513, §218(a), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 
-1978—Pub. L. 95–551, §4(a), substituted “director of admissions” for “registrar” in section catchline.
+<b>1978</b>—Pub. L. 95–551, §4(a), substituted “director of admissions” for “registrar” in section catchline.
 
 Subsecs. (b), (c). Pub. L. 95–551, §2, substituted “director of admissions” for “registrar” wherever appearing.
 
-1958—Pub. L. 85–600, §1(11)(C), inserted “; registrar” in section catchline.
+<b>1958</b>—Pub. L. 85–600, §1(11)(C), inserted “; registrar” in section catchline.
 
 Subsec. (a). Pub. L. 85–861 substituted “has the grade of colonel” for “has the regular grade of colonel” in two places, and “have the grade of lieutenant colonel” for “have the regular grade of lieutenant colonel”.
 

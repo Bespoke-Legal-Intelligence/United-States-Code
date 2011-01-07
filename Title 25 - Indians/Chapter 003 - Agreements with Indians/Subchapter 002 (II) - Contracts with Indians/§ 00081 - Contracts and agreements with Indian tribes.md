@@ -58,9 +58,9 @@ R.S. §2103 derived from acts Mar. 3, 1871, ch. 120, §3, 16 Stat. 570; May 21, 
 
 #### Amendments
 
-2000—Pub. L. 106–179 amended section generally, substituting present provisions for provisions which required agreements with Indian tribes or Indians to be in writing, to bear the approval of the Secretary, to contain the names of all parties in interest, to state the time and place of making, purpose, and contingencies, and to have a fixed time limit to run, and provisions which declared agreements made in violation of this section to be null and void and which authorized recovery of amounts in excess of approved amounts, with one half of recovered amounts to be paid into the Treasury.
+<b>2000</b>—Pub. L. 106–179 amended section generally, substituting present provisions for provisions which required agreements with Indian tribes or Indians to be in writing, to bear the approval of the Secretary, to contain the names of all parties in interest, to state the time and place of making, purpose, and contingencies, and to have a fixed time limit to run, and provisions which declared agreements made in violation of this section to be null and void and which authorized recovery of amounts in excess of approved amounts, with one half of recovered amounts to be paid into the Treasury.
 
-1958—Par. Second. Pub. L. 85–770 struck out requirement that contracts with Indian tribes be executed before a judge of a court of record.
+<b>1958</b>—Par. Second. Pub. L. 85–770 struck out requirement that contracts with Indian tribes be executed before a judge of a court of record.
 
 Par. Sixth. Pub. L. 85–770 struck out par. Sixth enumerating contractual elements to be certified to by the judge.
 

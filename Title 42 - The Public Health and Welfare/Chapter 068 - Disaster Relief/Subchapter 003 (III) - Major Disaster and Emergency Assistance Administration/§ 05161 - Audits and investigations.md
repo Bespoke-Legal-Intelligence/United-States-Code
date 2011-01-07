@@ -14,6 +14,10 @@ The President may require audits by State and local governments in connection wi
 
 (Pub. L. 93–288, title III, §318, as added Pub. L. 100–707, title I, §105(m)(1), Nov. 23, 1988, 102 Stat. 4695.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 318 of Pub. L. 93–288 was renumbered section 315 by Pub. L. 100–707 and is classified to section 5158 of this title.

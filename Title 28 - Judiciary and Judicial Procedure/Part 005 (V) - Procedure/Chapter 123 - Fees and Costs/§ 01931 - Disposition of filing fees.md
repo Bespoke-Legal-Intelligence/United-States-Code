@@ -12,21 +12,21 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–447, §307(b)(1), substituted “$190” for “$90”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §307(b)(1), substituted “$190” for “$90”.
 
 Subsec. (b). Pub. L. 108–447, §307(b)(2), substituted “$250” for “$150” and “$190” for “$90”.
 
-1996—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
 
 Subsec. (b). Pub. L. 104–317, §401(b)(2), substituted “$150” for “$120” and “$90” for “$60”.
 
-1992—Pub. L. 102–572 substituted present provisions for former provisions which read as follows:
+<b>1992</b>—Pub. L. 102–572 substituted present provisions for former provisions which read as follows:
 
 “The following portion of moneys paid to the clerk of court as filing fees under this chapter shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the courts of the United States:
 
 “Under section 1914(a), $60.”
 
-1989—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
+<b>1989</b>—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
 
 #### Effective Date of 2004 Amendment
 
@@ -58,7 +58,7 @@ Disposition of Attorney Admission Fees.—For each fee collected for admission o
 
 “(b)
 
-Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversarycomplaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28, United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
+Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28, United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
 
 “(c)
 

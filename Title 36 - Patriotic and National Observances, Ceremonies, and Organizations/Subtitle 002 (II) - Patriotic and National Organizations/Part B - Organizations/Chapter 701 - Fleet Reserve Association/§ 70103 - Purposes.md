@@ -54,7 +54,7 @@ This amends section 70103(b) of title 36 to correct an inconsistency in the revi
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–354 struck out “the State of” before “Delaware”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–354 struck out “the State of” before “Delaware”.
 
 #### Transfer of Functions
 

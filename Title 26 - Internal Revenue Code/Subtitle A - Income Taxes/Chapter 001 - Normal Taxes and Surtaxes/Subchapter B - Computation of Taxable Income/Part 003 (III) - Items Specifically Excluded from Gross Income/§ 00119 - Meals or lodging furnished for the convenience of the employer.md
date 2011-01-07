@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 #### (2) Certain factors not taken into account with respect to meals
 
-&emsp;In determining whether meals are furnished for the convenience of the employer, the fact that a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
+&emsp;In determining whether meals are furnished for the convenience of the employer, the factthat a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
 
 #### (3) Certain fixed charges for meals
 
@@ -118,21 +118,21 @@ Section 1886(d)(5)(B) or (h) of the Social Security Act, referred to in subsec. 
 
 #### Amendments
 
-1998—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
 
-1996—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows:“
+<b>1996</b>—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “
 
 Educational institution.—For purposes of this paragraph, the term ‘educational institution’ means an institution described in section 170(b)(1)(A)(ii).”
 
-1988—Subsec. (d). Pub. L. 100–647 struck out “(as of the close of the calendar year in which the taxable year begins)” after “appraised value” in par. (2)(A)(i) and inserted at end “The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins.” as concluding provision.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 struck out “(as of the close of the calendar year in which the taxable year begins)” after “appraised value” in par. (2)(A)(i) and inserted at end “The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins.” as concluding provision.
 
-1986—Subsec. (d). Pub. L. 99–514 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 added subsec. (d).
 
-1981—Subsec. (c). Pub. L. 97–34 added subsec. (c).
+<b>1981</b>—Subsec. (c). Pub. L. 97–34 added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–222 struck out “General rule” in subsec. (a) as in effect on the day before the date of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to “General rule” as the probable intent of Congress, thereby requiring no change in text.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222 struck out “General rule” in subsec. (a) as in effect on the day before the date of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to “General rule” as the probable intent of Congress, thereby requiring no change in text.
 
-1978—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, and substituted “furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer” for “furnished to him by his employer for the convenience of the employer”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, and substituted “furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer” for “furnished to him by his employer for the convenience of the employer”.
 
 Pub. L. 95–427 inserted provisions relating to factors not taken into account with respect to meals and certain fixed charges for meals.
 
@@ -214,5 +214,5 @@ Limitation on Deduction.—If any individual receives a subsistence allowance wh
 
 “(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979.”
+Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law\(including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979.”
 

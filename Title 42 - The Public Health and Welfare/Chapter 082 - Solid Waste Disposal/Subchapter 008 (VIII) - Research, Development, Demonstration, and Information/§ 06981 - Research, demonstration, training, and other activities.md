@@ -60,7 +60,7 @@ Provisions similar to those in this section were contained in section 3253 of th
 
 #### Amendments
 
-1978—Subsec. (a)(2). Pub. L. 95–609, §7(s)(1), substituted “management” for “disposal”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–609, §7(s)(1), substituted “management” for “disposal”.
 
 Subsec. (a)(13). Pub. L. 95–609, §7(s)(2), inserted “treatment,” after “for purpose of”.
 

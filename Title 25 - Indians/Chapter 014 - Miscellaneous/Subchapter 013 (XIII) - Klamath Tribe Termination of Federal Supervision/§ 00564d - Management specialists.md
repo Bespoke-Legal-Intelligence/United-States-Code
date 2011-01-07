@@ -22,11 +22,11 @@ Such amounts of Klamath tribal funds as may be required for the purposes of this
 
 #### Amendments
 
-1958—Subsec. (a)(3). Pub. L. 85–731, §§6, 7, struck out first proviso requiring that funds payable to the withdrawing members be distributed as each $200,000 accumulates, and substituted “who has elected to withdraw from the tribe may apply toward the purchase price up to 100 per centum of the amount estimated by the Secretary to be due him from the sale or taking of forest and marsh lands pursuant to subsections (b), (d), and (f) of section 564w–1 of this title, and up to 75 per centum of the amount estimated by the Secretary to be due him from the conversion of his interest in other tribal property” for “may apply toward the purchase price all or any part of the sum due him from the conversion of his interest in tribal property” in second proviso.
+<b>1958</b>—Subsec. (a)(3). Pub. L. 85–731, §§6, 7, struck out first proviso requiring that funds payable to the withdrawing members be distributed as each $200,000 accumulates, and substituted “who has elected to withdraw from the tribe may apply toward the purchase price up to 100 per centum of the amount estimated by the Secretary to be due him from the sale or taking of forest and marsh lands pursuant to subsections (b), (d), and (f) of section 564w–1 of this title, and up to 75 per centum of the amount estimated by the Secretary to be due him from the conversion of his interest in other tribal property” for “may apply toward the purchase price all or any part of the sum due him from the conversion of his interest in tribal property” in second proviso.
 
 Subsec. (a)(5). Pub. L. 85–731, §8, inserted sentence to provide that if no plan is satisfactory both to the members who elect to remain in the tribe and to the Secretary, the Secretary shall adopt a management plan.
 
-1957—Subsec. (a)(2). Pub. L. 85–132, §1(d), provided that the time of election to withdraw be given after the appraisal is approved by the Secretary, and provided for election on behalf of minors, incompetents, or deceased persons by designee of Secretary.
+<b>1957</b>—Subsec. (a)(2). Pub. L. 85–132, §1(d), provided that the time of election to withdraw be given after the appraisal is approved by the Secretary, and provided for election on behalf of minors, incompetents, or deceased persons by designee of Secretary.
 
 Subsec. (a)(3). Pub. L. 85–132, §1(e), in second proviso provided that any person whose name appears on the final roll of the tribe, may purchase for his own account, but not as an agent for others, any such property in lots as offered for sale, and provided that if more than one right is exercised to purchase the same property, it be sold on the basis of competitive bids.
 
@@ -40,7 +40,7 @@ Section 3 of Pub. L. 85–731 provided that: “No funds distributed pursuant to
 
 #### Termination of Contract With Management Specialists by Secretary of the Interior
 
-Section 4 of Pub. L. 85–731 provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954, as amended \[this section\], shall be performed by the Secretary.”
+Section 4 of Pub. L. 85–731 provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954,as amended \[this section\], shall be performed by the Secretary.”
 
 #### Provisions Requiring Election To Withdraw or Remain in Tribe Following Appraisal as Unaffected
 

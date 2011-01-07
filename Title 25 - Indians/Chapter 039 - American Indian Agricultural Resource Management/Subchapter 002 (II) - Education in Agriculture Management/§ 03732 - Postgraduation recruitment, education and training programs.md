@@ -24,7 +24,7 @@ For the purposes of training, skill development and orientation of Indian and Fe
 
 #### (c) Continuing education and training
 
-The Secretary shall maintain a program within the Trust Services Division of the Bureau for Indian agricultural resource personnel which shall provide for—
+The Secretary shall maintain a program within the Trust Services Division of the Bureau forIndian agricultural resource personnel which shall provide for—
 
 &emsp;(1) orientation training for Bureau agricultural resource personnel in tribal-Federal relations and responsibilities;
 

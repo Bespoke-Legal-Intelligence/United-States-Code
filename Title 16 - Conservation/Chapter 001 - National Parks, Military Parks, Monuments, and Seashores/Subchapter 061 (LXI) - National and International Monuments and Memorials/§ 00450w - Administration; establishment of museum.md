@@ -4,7 +4,3 @@ It shall be the duty of the Secretary of the Interior to lay out said land in a 
 
 (Mar. 19, 1936, ch. 157, §3, 49 Stat. 1184.)
 
-#### References in Text
-
-The homestead Law, referred to in text, is classified generally to chapter 7 (§161 et seq.) of Title 43, Public Lands.
-

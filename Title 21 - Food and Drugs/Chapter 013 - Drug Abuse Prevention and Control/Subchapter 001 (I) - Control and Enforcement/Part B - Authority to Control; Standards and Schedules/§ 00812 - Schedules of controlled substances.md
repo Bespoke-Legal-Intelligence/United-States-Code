@@ -388,17 +388,17 @@ Any compound, mixture, or preparation containing any of the following limited qu
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–647 added item (e) at end of schedule III.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 added item (e) at end of schedule III.
 
-1986—Subsec. (c). Pub. L. 99–646 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves (except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed); cocaine, its salts, optical and geometric isomers, and salts of isomers; and ecgonine, its derivatives, their salts, isomers, and salts of isomers.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–646 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves (except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed); cocaine, its salts, optical and geometric isomers, and salts of isomers; and ecgonine, its derivatives, their salts, isomers, and salts of isomers.”
 
-Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows:“Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine.”
+Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine.”
 
-1984—Subsec. (c). Pub. L. 98–473, §507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
+<b>1984</b>—Subsec. (c). Pub. L. 98–473, §507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
 
 Subsec. (d). Pub. L. 98–473, §509(b), struck out subsec. (d) which related to authority of Attorney General to except stimulants or depressants containing active medicinal ingredients.
 
-1978—Subsec. (d)(3). Pub. L. 95–633 added cl. (3).
+<b>1978</b>—Subsec. (d)(3). Pub. L. 95–633 added cl. (3).
 
 #### Effective Date of 1990 Amendment
 
@@ -422,7 +422,7 @@ Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 &emsp;“(3) GHB takes the same path as alcohol, processes via alcohol dehydrogenase, and its symptoms at high levels of intake and as impact builds are comparable to alcohol ingestion/intoxication. Thus, aggression and violence can be expected in some individuals who use such drug.
 
-&emsp;“(4) If taken for human consumption, common industrial chemicals such as gamma butyrolactone and 1.4-butanediol are swiftly converted by the body into GHB. Illicit use of these and other GHB analogues and precursor chemicals is a significant and growing law enforcement problem.
+&emsp;“(4) If taken for human consumption, common industrial chemicals such as gamma butyrolactone and1.4-butanediol are swiftly converted by the body into GHB. Illicit use of these and other GHB analogues and precursor chemicals is a significant and growing law enforcement problem.
 
 &emsp;“(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of the estimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life.
 
@@ -448,7 +448,7 @@ Failure to issue order.—If the final order is not issued within the period spe
 
 #### Placement of Pipradrol and SPA in Schedule IV To Carry Out Obligation Under Convention on Psychotropic Substances
 
-Section 102(c) of Pub. L. 95–633 provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethylamino-1,2-diphenylethane), the Attorney General shall byorder, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and section 811 of this title\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
+Section 102(c) of Pub. L. 95–633 provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethylamino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and section 811 of this title\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
 
 Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 

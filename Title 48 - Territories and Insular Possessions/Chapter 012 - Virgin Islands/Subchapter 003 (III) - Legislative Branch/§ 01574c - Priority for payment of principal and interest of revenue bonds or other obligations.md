@@ -12,7 +12,7 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 #### Amendments
 
-1997—Pub. L. 105–83 substituted “a parity lien with every other issue of bonds or other obligations issued for payment” for “priority for payment” and struck out “in the order of the date of issue” before “, except that”.
+<b>1997</b>—Pub. L. 105–83 substituted “a parity lien with every other issue of bonds or other obligations issued for payment” for “priority for payment” and struck out “in the order of the date of issue” before “, except that”.
 
 #### Effective Date of 1997 Amendment
 

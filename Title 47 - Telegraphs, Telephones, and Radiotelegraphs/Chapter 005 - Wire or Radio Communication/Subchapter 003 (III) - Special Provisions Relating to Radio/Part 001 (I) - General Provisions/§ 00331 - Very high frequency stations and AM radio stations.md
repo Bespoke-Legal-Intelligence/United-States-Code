@@ -16,7 +16,7 @@ Subsec. (d) of section 307 of this title, referred to in subsec. (a), was redesi
 
 #### Codification
 
-December 20, 1991, referred to in subsec. (b), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–243, which enacted subsec. (b), to reflect the probable intent of Congress.
+December 20, 1991, referred to in subsec. (b), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 102–243, which enacted subsec. (b), to reflect the probable intent of Congress.
 
 Another section 331 of act June 19, 1934 was renumbered section 332 and is classified to section 332 of this title.
 
@@ -26,9 +26,9 @@ A prior section 331, act June 19, 1934, ch. 652, title III, §331, as added Sept
 
 #### Amendments
 
-1994—Pub. L. 103–414 amended section catchline generally.
+<b>1994</b>—Pub. L. 103–414 amended section catchline generally.
 
-1991—Pub. L. 102–243 inserted “and AM radio stations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–243 inserted “and AM radio stations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

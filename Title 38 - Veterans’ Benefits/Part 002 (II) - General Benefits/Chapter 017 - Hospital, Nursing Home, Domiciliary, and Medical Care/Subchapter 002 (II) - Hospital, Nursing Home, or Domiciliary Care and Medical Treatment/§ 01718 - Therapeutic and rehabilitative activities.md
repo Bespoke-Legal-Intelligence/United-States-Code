@@ -38,7 +38,7 @@
 
 (3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
-(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, §104(b), Dec. 6, 2003, 117 Stat. 2045; Pub. L. 109–444, §8(a)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
+(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I,§104(b), Dec. 6, 2003, 117 Stat. 2045; Pub. L. 109–444, §8(a)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
 
 #### References in Text
 
@@ -46,23 +46,23 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June
 
 #### Amendments
 
-2006—Subsec. (c)(2). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(1), inserted “of 1938” after “Act”.
 
 Pub. L. 109–444, which inserted “of 1938” after “Act”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2003—Subsec. (c)(1). Pub. L. 108–170, §104(b)(2)(A), substituted “subsection (b) or (d)” for “subsection (b) of this section”.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–170, §104(b)(2)(A), substituted “subsection (b) or (d)” for “subsection (b) of this section”.
 
 Subsec. (c)(2). Pub. L. 108–170, §104(b)(2)(B), substituted “subsection (b) or (d)” for “subsection (b) of this section” and “subsection (b)(2)” for “paragraph (2) of such subsection”.
 
 Subsecs. (d) to (g). Pub. L. 108–170, §104(b)(1), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1996—Subsec. (e). Pub. L. 104–262 substituted “section 1705” for “section 1712(i)”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–262 substituted “section 1705” for “section 1712(i)”.
 
-1994—Subsec. (c)(1). Pub. L. 103–446 substituted “Department of Veterans Affairs” for “Department”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–446 substituted “Department of Veterans Affairs” for “Department”.
 
-1992—Subsecs. (a), (b)(1), (c)(3). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsecs. (a), (b)(1), (c)(3). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 Subsec. (f). Pub. L. 102–585 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -70,7 +70,7 @@ Subsec. (f). Pub. L. 102–585 amended subsec. (f) generally. Prior to amendment
 
 “(2) A distribution of funds made under this section shall be considered for purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 618 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 618 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “1712(i)” for “612(i
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a). Pub. L. 99–576, §205(1), substituted “may use” for “may utilize”, “purposes. Such” for “purposes, at nominal remuneration, and such”, and “use” for “utilization”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §205(1), substituted “may use” for “may utilize”, “purposes. Such” for “purposes, at nominal remuneration, and such”, and “use” for “utilization”.
 
 Subsec. (b)(1). Pub. L. 99–576, §205(2), struck out “for remuneration” after “therapeutic work”.
 
@@ -114,9 +114,9 @@ Subsec. (c)(2), (3). Pub. L. 99–576, §205(3), substituted “distribute” fo
 
 Subsec. (f). Pub. L. 99–576, §205(4), designated existing provisions as par. (1), substituted “a distribution” for “remuneration”, and added par. (2).
 
-1984—Subsec. (f). Pub. L. 98–543 added subsec. (f).
+<b>1984</b>—Subsec. (f). Pub. L. 98–543 added subsec. (f).
 
-1976—Subsec. (a). Pub. L. 94–581, §105(a)(1), (2), designated existing provisions as subsec. (a) and substituted “In providing rehabilitative services under this chapter, the” for “The” and “health care facilities” for “hospitals and domiciliaries”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §105(a)(1), (2), designated existing provisions as subsec. (a) and substituted “In providing rehabilitative services under this chapter, the” for “The” and “health care facilities” for “hospitals and domiciliaries”.
 
 Subsecs. (b) to (e). Pub. L. 94–581, §105(a)(3), added subsecs. (b) to (e).
 
@@ -134,5 +134,5 @@ Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept
 
 “(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities and personnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
 
-“(2) For the purposes of this subsection, notwithstanding section 3302 of title 31, or any other provision of law, the Secretary may utilize any funds received under any settlement made pursuant to paragraph (1) of this subsection for any purpose agreed upon by the Secretary and such corporation.”
+“(2) For the purposes of this subsection, notwithstanding section 3302 of title 31, or any other provision of law, the Secretary may utilize any funds receivedunder any settlement made pursuant to paragraph (1) of this subsection for any purpose agreed upon by the Secretary and such corporation.”
 

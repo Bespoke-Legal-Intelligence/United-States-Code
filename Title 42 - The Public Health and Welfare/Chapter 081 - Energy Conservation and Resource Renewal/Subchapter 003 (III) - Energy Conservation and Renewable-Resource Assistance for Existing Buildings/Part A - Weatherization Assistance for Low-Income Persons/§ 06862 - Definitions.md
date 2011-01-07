@@ -56,7 +56,7 @@ State.—The term “State” means—
 
 &emsp;&emsp;(J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, titleV, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 109–58, title I, §122(b), Aug. 8, 2005, 119 Stat. 616; Pub. L. 109–365, title IX, §901(b), Oct. 17, 2006, 120 Stat. 2599; Pub. L. 110–140, title IV, §411(c), Dec. 19, 2007, 121 Stat. 1601; Pub. L. 111–5, div. A, title IV, §407(a), Feb. 17, 2009, 123 Stat. 145.)
+(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 109–58, title I, §122(b), Aug. 8, 2005, 119 Stat. 616; Pub. L. 109–365, title IX, §901(b), Oct. 17, 2006, 120 Stat. 2599; Pub. L. 110–140, title IV, §411(c), Dec. 19, 2007, 121 Stat. 1601; Pub. L. 111–5, div. A, title IV, §407(a), Feb. 17, 2009, 123 Stat. 145.)
 
 #### References in Text
 
@@ -70,33 +70,33 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is t
 
 #### Amendments
 
-2009—Par. (7). Pub. L. 111–5 substituted “200 percent” for “150 percent” in two places.
+<b>2009</b>—Par. (7). Pub. L. 111–5 substituted “200 percent” for “150 percent” in two places.
 
-2007—Par. (8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “The term ‘State’ means each of the States and the District of Columbia.”
+<b>2007</b>—Par. (8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “The term ‘State’ means each of the States and the District of Columbia.”
 
-2006—Par. (6). Pub. L. 109–365 struck out “paragraphs (4), (5), and (6), respectively, of” before “section 3002 of this title”.
+<b>2006</b>—Par. (6). Pub. L. 109–365 struck out “paragraphs (4), (5), and (6), respectively, of” before “section 3002 of this title”.
 
-2005—Par. (7). Pub. L. 109–58 substituted “150 percent” for “125 percent” in two places.
+<b>2005</b>—Par. (7). Pub. L. 109–58 substituted “150 percent” for “125 percent” in two places.
 
-1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
+<b>1998</b>—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
 
-1992—Par. (9)(G) to (J). Pub. L. 102–486 realigned margin of subpar. (G), added subpars. (H) and (I), and redesignated former subpar. (H) as (J).
+<b>1992</b>—Par. (9)(G) to (J). Pub. L. 102–486 realigned margin of subpar. (G), added subpars. (H) and (I), and redesignated former subpar. (H) as (J).
 
-1990—Par. (9)(G), (H). Pub. L. 101–440 added subpar. (G) and redesignated former subpar. (G) as (H).
+<b>1990</b>—Par. (9)(G), (H). Pub. L. 101–440 added subpar. (G) and redesignated former subpar. (G) as (H).
 
-1988—Par. (9)(G). Pub. L. 100–242 substituted a single comma for two consecutive commas after “determine”.
+<b>1988</b>—Par. (9)(G). Pub. L. 100–242 substituted a single comma for two consecutive commas after “determine”.
 
-1984—Par. (7)(C). Pub. L. 98–558, §401, added cl. (C).
+<b>1984</b>—Par. (7)(C). Pub. L. 98–558, §401, added cl. (C).
 
 Par. (9)(B). Pub. L. 98–558, §402(1), in amending subpar. (B) generally, substituted “, including, but not limited to” for “limited to” in provisions preceding cl. (i), “, furnaces, or boilers or any combination thereof” for “designed to substantially increase the energy efficiency of the heating system,” in cl. (i), and “minimizing energy loss through heating system, chimney, or venting devices” for “modifying flue openings which will increase the energy efficiency of the heating system,” in cl. (ii).
 
 Par. (9)(C). Pub. L. 98–558, §402(2), struck out “by rule” after “may determine,”.
 
-1980—Par. (1). Pub. L. 96–294, §577(1), substituted provisions defining “Secretary” for provisions defining “Administrator”.
+<b>1980</b>—Par. (1). Pub. L. 96–294, §577(1), substituted provisions defining “Secretary” for provisions defining “Administrator”.
 
 Pars. (7), (9)(G). Pub. L. 96–294, §577(2), substituted “Secretary” for “Administrator” wherever appearing.
 
-1978—Par. (5). Pub. L. 95–602 substituted “section 7(7) of the Rehabilitation Act of 1973” for “section 7(6) of the Rehabilitation Act of 1973”.
+<b>1978</b>—Par. (5). Pub. L. 95–602 substituted “section 7(7) of the Rehabilitation Act of 1973” for “section 7(6) of the Rehabilitation Act of 1973”.
 
 Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
 

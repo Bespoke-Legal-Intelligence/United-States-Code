@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3116 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3116 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 

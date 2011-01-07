@@ -6,23 +6,23 @@ Any person who willfully delivers or discloses to the Secretary any list, return
 
 #### Amendments
 
-2002—Pub. L. 107–276 substituted “pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527” for “pursuant to subsection (b) of section 6047 or pursuant to subsection (d) of section 6104”.
+<b>2002</b>—Pub. L. 107–276 substituted “pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527” for “pursuant to subsection (b) of section 6047 or pursuant to subsection (d) of section 6104”.
 
-1998—Pub. L. 105–277 struck out “or (e)” after “subsection (d)”.
+<b>1998</b>—Pub. L. 105–277 struck out “or (e)” after “subsection (d)”.
 
-1987—Pub. L. 100–203 inserted reference to subsec. (e) of section 6104.
+<b>1987</b>—Pub. L. 100–203 inserted reference to subsec. (e) of section 6104.
 
-1984—Pub. L. 98–369 struck out “or (c)” after “subsection (b)”.
+<b>1984</b>—Pub. L. 98–369 struck out “or (c)” after “subsection (b)”.
 
-1982—Pub. L. 97–248 substituted “$10,000 ($50,000 in the case of a corporation)” for “$1,000” wherever appearing.
+<b>1982</b>—Pub. L. 97–248 substituted “$10,000 ($50,000 in the case of a corporation)” for “$1,000” wherever appearing.
 
-1980—Pub. L. 96–603 substituted “subsection (b) or (c) of section 6047 or pursuant to subsection (d) of section 6104” for “sections 6047(b) or (c), 6056, or 6104(d)”.
+<b>1980</b>—Pub. L. 96–603 substituted “subsection (b) or (c) of section 6047 or pursuant to subsection (d) of section 6104” for “sections 6047(b) or (c), 6056, or 6104(d)”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1969—Pub. L. 91–172 substituted “sections 6047(b) or (c), 6056, or 6104(d)” for “section 6047(b) or (c)”.
+<b>1969</b>—Pub. L. 91–172 substituted “sections 6047(b) or (c), 6056, or 6104(d)” for “section 6047(b) or (c)”.
 
-1962—Pub. L. 87–792 inserted sentence providing that any person required pursuant to section 6047(b) or (c) to furnish any information to the Secretary or any other person who willfully furnishes to the Secretary or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+<b>1962</b>—Pub. L. 87–792 inserted sentence providing that any person required pursuant to section 6047(b) or (c) to furnish any information to the Secretary or any other person who willfully furnishes to the Secretary or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 #### Effective Date of 2002 Amendment
 
@@ -30,7 +30,7 @@ Pub. L. 107–276, §6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: “Th
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 applicable to requests made after the later of Dec. 31, 1998, or the 60th dayafter the Secretary of the Treasury first issues the regulations referred to in section 6104(d)(4) of this title, see section 1004(b)(3) of Pub. L. 105–277, set out as a note under section 6104 of this title.
+Amendment by Pub. L. 105–277 applicable to requests made after the later of Dec. 31, 1998, or the 60th day after the Secretary of the Treasury first issues the regulations referred to in section 6104(d)(4) of this title, see section 1004(b)(3) of Pub. L. 105–277, set out as a note under section 6104 of this title.
 
 #### Effective Date of 1987 Amendment
 

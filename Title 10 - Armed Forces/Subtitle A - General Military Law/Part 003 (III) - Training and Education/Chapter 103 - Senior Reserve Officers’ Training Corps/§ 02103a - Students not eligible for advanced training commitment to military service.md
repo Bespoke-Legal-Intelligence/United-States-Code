@@ -26,9 +26,9 @@ Parental Consent for Minors.—A member of the program who is a minor may enter 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–364 substituted “Eligibility” for “Eligibilty” in heading.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted “Eligibility” for “Eligibilty” in heading.
 
-2004—Subsec. (d). Pub. L. 108–375 struck out heading and text of subsec. (d). Text read as follows: “No contract may be entered into under subsection (a)(1) after December 31, 2006.”
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 struck out heading and text of subsec. (d). Text read as follows: “No contract may be entered into under subsection (a)(1) after December 31, 2006.”
 
 #### Effective Date
 

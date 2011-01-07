@@ -46,19 +46,19 @@ The special maritime and territorial jurisdiction provision was added in view of
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–21, §102(1), inserted “child abuse,” after “or sexual abuse,” and “or perpetrated as part of a pattern or practice of assault or torture against a child or children;” after “robbery;”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §102(1), inserted “child abuse,” after “or sexual abuse,” and “or perpetrated as part of a pattern or practice of assault or torture against a child or children;” after “robbery;”.
 
 Subsec. (c). Pub. L. 108–21, §102(2), added subsec. (c).
 
-1994—Subsec. (b). Pub. L. 103–322 amended second par. generally. Prior to amendment, second par. read as follows: “Whoever is guilty of murder in the first degree, shall suffer death unless the jury qualifies its verdict by adding thereto ‘without capital punishment’, in which event he shall be sentenced to imprisonment for life;”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 amended second par. generally. Prior to amendment, second par. read as follows: “Whoever is guilty of murder in the first degree, shall suffer death unless the jury qualifies its verdict by adding thereto ‘without capital punishment’, in which event he shall be sentenced to imprisonment for life;”.
 
-1988—Subsec. (a). Pub. L. 100–690 inserted a comma after “arson”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted a comma after “arson”.
 
-1986—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting “aggravated sexual abuse or sexual abuse” for “, rape”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting “aggravated sexual abuse or sexual abuse” for “, rape”.
 
-1984—Subsec. (a). Pub. L. 98–473 inserted “escape, murder, kidnapping, treason, espionage, sabotage,” after “arson”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted “escape, murder, kidnapping, treason, espionage, sabotage,” after “arson”.
 
 #### Effective Date of 1986 Amendments
 
-Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
+Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 

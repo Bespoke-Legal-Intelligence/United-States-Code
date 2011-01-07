@@ -6,11 +6,7 @@ As used in this section, the term “qualified officer of the United States” m
 
 (Pub. L. 87–851, §1, Oct. 23, 1962, 76 Stat. 1127; Pub. L. 90–111, §1, Oct. 23, 1967, 81 Stat. 311.)
 
-#### References in Text
-
-The mining laws, referred to in text, are classified generally to this title.
-
 #### Amendments
 
-1967—Pub. L. 90–111 extended from Oct. 23, 1967, to June 30, 1971, the period in which qualified individuals shall apply for conveyances authorized by this section.
+<b>1967</b>—Pub. L. 90–111 extended from Oct. 23, 1967, to June 30, 1971, the period in which qualified individuals shall apply for conveyances authorized by this section.
 

@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) best estimates indicate that between 2,000,000 and 3,000,000 Americans presently have Alzheimer's disease or related dementias;
 
-&emsp;(2) estimates of the number of individuals afflicted with Alzheimer's disease and related dementias are unreliable because current diagnostic procedures lack accuracy and sensitivity and because there is a need for epidemiological data on incidence and prevalence of such disease and dementias;
+&emsp;(2) estimates of the number of individuals afflicted with Alzheimer's disease and relateddementias are unreliable because current diagnostic procedures lack accuracy and sensitivity and because there is a need for epidemiological data on incidence and prevalence of such disease and dementias;
 
 &emsp;(3) studies estimate that between one-half and two-thirds of patients in nursing homes meet the clinical and mental status criteria for dementia;
 
@@ -54,13 +54,17 @@ The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531
 
 #### Amendments
 
-1992—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14),respectively, and struck out former pars. (4) to (6) which read as follows:
+<b>1992</b>—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14), respectively, and struck out former pars. (4) to (6) which read as follows:
 
 “(4) the care for individuals with Alzheimer's disease and related dementias falls primarily on their families, and such care is very often financially and emotionally devastating;
 
 “(5) the cost of caring for individuals with Alzheimer's disease and related dementias is great, and conservative estimates range between $38,000,000,000 and $42,000,000,000 per year solely for direct costs;
 
 “(6) although substantial progress has been made in recent years in identifying possible leads to the causes of Alzheimer's disease and related dementias and more progress can be expected in the near future, there is little likelihood of a breakthrough in the foreseeable future which would eliminate or substantially reduce the number of individuals with such disease and dementias or the difficulties of caring for such individuals;”.
+
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–375, §1, Jan. 4, 2011, 124 Stat. 4100, provided that: “This Act \[enacting subchapter III–A of this chapter\] may be cited as the ‘National Alzheimer's Project Act’.”
 
 #### Short Title of 1992 Amendment
 

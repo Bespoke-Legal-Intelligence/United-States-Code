@@ -22,17 +22,17 @@ This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 
 #### Amendments
 
-2007—Subsec. (b)(2). Pub. L. 110–114, §2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (b)(2). Pub. L. 110–114, §2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
 
 Pub. L. 110–114, §2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
 
 Pub. L. 110–114, §2046(1), in first sentence, substituted “year” for “two years” and “5” for “7”.
 
-1999—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every” for “Every”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every” for “Every”.
 
-1996—Subsec. (b)(2). Pub. L. 104–303 substituted “7 full” for “10 full”, “Upon submission” for “Before submission”, and “for the planning, design, or construction” for “for construction”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–303 substituted “7 full” for “10 full”, “Upon submission” for “Before submission”, and “for the planning, design, or construction” for “for construction”.
 
-1990—Subsec. (b)(2). Pub. L. 101–640 inserted after first sentence “Before submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located.”
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–640 inserted after first sentence “Before submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located.”
 
 #### Project Deauthorizations; Extension of Limitation on Period of Authorization
 

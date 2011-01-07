@@ -2,7 +2,7 @@
 
 (a)
 
-Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth in this subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
+Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth inthis subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
 
 (b)
 
@@ -14,7 +14,7 @@ Notice.—On the commencement by the United States of an action or proceeding un
 
 “In addition, you are hereby notified that there are exemptions under the law which may protect some of this property from being taken by the United States Government if \[name of judgment debtor\] can show that the exemptions apply. Below is a summary of the major exemptions which apply in most situations in the State of \[State where property is located\]:
 
-&emsp;“\[A statement summarizing in plain and understandable English the election available with respect to such State under section 3014and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a) and a statement that different property may be so exempted with respect to the State in which the debtor resides.\]
+&emsp;“\[A statement summarizing in plain and understandable English the election available with respect to such State under section 3014 and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a) and a statement that different property may be so exempted with respect to the State in which the debtor resides.\]
 
 “If you are \[name of judgment debtor\], you have a right to ask the court to return your property to you if you think the property the Government is taking qualifies under one of the above exemptions \[For a default judgment:\] or if you think you do not owe the money to the United States Government that it says you do.
 

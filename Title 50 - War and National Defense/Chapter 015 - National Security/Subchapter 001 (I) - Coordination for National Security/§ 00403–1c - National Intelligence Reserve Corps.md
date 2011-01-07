@@ -18,7 +18,7 @@ The Director of National Intelligence may provide members of the National Intell
 
 #### (e) Treatment of annuitants
 
-(1) If an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby.
+(1) If an annuitant receiving an annuity from the Civil Service Retirement and DisabilityFund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby.
 
 (2) An annuitant so reemployed shall not be considered an employee for the purposes of chapter 83 or 84 of title 5.
 

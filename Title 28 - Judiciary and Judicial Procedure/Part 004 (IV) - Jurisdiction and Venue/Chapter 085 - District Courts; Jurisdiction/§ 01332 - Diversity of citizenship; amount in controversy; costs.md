@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(cc) who is a citizen of the State in which the action was originally filed; and
 
-&emsp;&emsp;(III) principal injuries resulting from the alleged conduct or any related conduct ofeach defendant were incurred in the State in which the action was originally filed; and
+&emsp;&emsp;(III) principal injuries resulting from the alleged conduct or any related conduct of each defendant were incurred in the State in which the action was originally filed; and
 
 &emsp;(ii) during the 3-year period preceding the filing of that class action, no other class action has been filed asserting the same or similar factual allegations against any of the defendants on behalf of the same or other persons; or
 
@@ -96,7 +96,7 @@
 
 (11)(A) For purposes of this subsection and section 1453, a mass action shall be deemed to be a class action removable under paragraphs (2) through (10) if it otherwise meets the provisions of those paragraphs.
 
-(B)(i) As used in subparagraph (A), the term “mass action” means any civil action (except a civil action within the scope of section 1711(2)) in which monetary relief claims of 100 or more persons are proposed to be tried jointly on the ground that the plaintiffs’ claims involve common questions of law or fact, except that jurisdiction shall exist only over those plaintiffs whose claims in a mass action satisfy the jurisdictional amount requirements under subsection (a).
+(B)(i) As used in subparagraph (A), the term “mass action” means any civil action (except a civil action within the scope of section 1711(2))in which monetary relief claims of 100 or more persons are proposed to be tried jointly on the ground that the plaintiffs’ claims involve common questions of law or fact, except that jurisdiction shall exist only over those plaintiffs whose claims in a mass action satisfy the jurisdictional amount requirements under subsection (a).
 
 (ii) As used in subparagraph (A), the term “mass action” shall not include any civil action in which—
 
@@ -128,7 +128,7 @@ Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1341, 1342, 1345, 1354, and 1359 of this title. (See reviser's notes under said sections.)
 
-Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversityof citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§30–43. See, also, reviser's note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
+Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversity of citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§30–43. See, also, reviser's note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
 
 Words “all civil actions” were substituted for “all suits of a civil nature, at common law or in equity” in order to conform to Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -806,11 +806,11 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (d)(1)(B
 
 #### Amendments
 
-2005—Subsecs. (d), (e). Pub. L. 109–2 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2005</b>—Subsecs. (d), (e). Pub. L. 109–2 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1996—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
 
-1988—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
 
 Pub. L. 100–702, §203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
@@ -818,21 +818,21 @@ Subsec. (b). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,0
 
 Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
-1976—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 
 Subsec. (a)(3). Pub. L. 94–583 substituted “citizens or subjects of a foreign state are additional parties; and” for “foreign states or citizens or subjects thereof are additional parties”.
 
 Subsec. (a)(4). Pub. L. 94–583 added par. (4).
 
-1964—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
+<b>1964</b>—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
 
-1958—Pub. L. 85–554 included costs in section catchline.
+<b>1958</b>—Pub. L. 85–554 included costs in section catchline.
 
 Subsec. (a). Pub. L. 85–554 substituted “$10,000” for “$3,000”.
 
 Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-1956—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
+<b>1956</b>—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
 
 #### Effective Date of 2005 Amendment
 
@@ -848,7 +848,7 @@ Section 201(b) of title II of Pub. L. 100–702 provided that: “The amendments
 
 Section 202(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
-Section 203(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amendingthis section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
+Section 203(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Effective Date of 1976 Amendment
 

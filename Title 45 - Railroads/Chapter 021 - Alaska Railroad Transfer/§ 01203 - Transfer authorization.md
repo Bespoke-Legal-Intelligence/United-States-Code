@@ -88,9 +88,9 @@ Section 615 of this title, referred to in subsec. (c)(1), means section 615 of t
 
 #### Amendments
 
-2004—Subsec. (d)(2)(D). Pub. L. 108–447 added subpar. (D).
+<b>2004</b>—Subsec. (d)(2)(D). Pub. L. 108–447 added subpar. (D).
 
-2003—Subsec. (b)(1). Pub. L. 108–7 struck out at end: “In the event of reversion to the United States, pursuant to section 1209 of this title, of the State's interests in all or part of the lands subject to such easement, such easement shall terminate with respect to the lands subject to such reversion, and no new exclusive-use easement with respect to such reverted lands shall be granted except by Act of Congress.”
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–7 struck out at end: “In the event of reversion to the United States, pursuant to section 1209 of this title, of the State's interests in all or part of the lands subject to such easement, such easement shall terminate with respect to the lands subject to such reversion, and no new exclusive-use easement with respect to such reverted lands shall be granted except by Act of Congress.”
 
 #### Transfer of Alaska Railroad to State of Alaska
 

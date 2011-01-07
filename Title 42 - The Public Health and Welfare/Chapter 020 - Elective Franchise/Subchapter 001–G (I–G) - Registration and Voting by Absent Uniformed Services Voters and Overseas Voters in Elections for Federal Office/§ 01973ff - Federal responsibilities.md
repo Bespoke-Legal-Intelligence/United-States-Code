@@ -10,7 +10,7 @@ The Presidential designee shall—
 
 &emsp;(1) consult State and local election officials in carrying out this subchapter, and ensure that such officials are aware of the requirements of this Act;
 
-&emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 1973ff–1(4) <sup>1</sup> of this title;
+&emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 1973ff–1(a)(4) of this title;
 
 &emsp;(3) carry out section 1973ff–2 of this title with respect to the Federal write-in absentee ballot for absent uniformed services voters and overseas voters in general elections for Federal office;
 
@@ -52,7 +52,7 @@ The Presidential designee shall—
 
 There are authorized to be appropriated to the Presidential designee such sums as are necessary for purposes of carrying out subsection (b)(10).
 
-(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L.107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §705(a), (b)(1), (c), Oct. 29, 2002, 116 Stat. 1724, 1725; Pub. L. 108–375, div. A, title V, §566(a), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§580(b), (e), 583(a)(2), 584(a), 585(b)(1), Oct. 28, 2009, 123 Stat. 2325, 2328, 2330, 2331.)
+(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §705(a), (b)(1), (c), Oct. 29, 2002, 116 Stat. 1724, 1725; Pub. L. 108–375, div. A, title V, §566(a), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§580(b), (e), 583(a)(2), 584(a), 585(b)(1), Oct. 28, 2009, 123 Stat. 2325, 2328, 2330, 2331; Pub. L. 111–383, div. A, title X, §1075(d)(4), (5), Jan. 7, 2011, 124 Stat. 4372.)
 
 #### References in Text
 
@@ -60,9 +60,11 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–84, §585(b)(1)(A), which directed amendment of par. (2) by striking out “, for use by States in accordance with section 1973ff–3 of this title”, could not be executed because that phrase did not appear.
+<b>2011</b>—Subsec. (b)(2), (4), (11). Pub. L. 111–383, §1075(d)(4), (5), amended Pub. L. 111–84, §§584(a), 585(b)(1). See 2009 Amendment notes below.
 
-Subsec. (b)(4). Pub. L. 111–84, §585(b)(1)(B), which directed the striking out of “for use by States in accordance with section 1973ff–3 of this title”, was executed by striking “for use by the States as recommended in section 1973ff–3 of this title” before semicolon, to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84, §585(b)(1)(A), as added by Pub. L. 111–383, §1075(d)(5), substituted “section 1973ff–1(a)(4)” for “section 1973ff–1(4)”.
+
+Subsec. (b)(4). Pub. L. 111–84, §585(b)(1)(B), as added by Pub. L. 111–383, §1075(d)(5), added par. (4) and struck out former par. (4) which read as follows: “prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 of this title;”.
 
 Subsec. (b)(8). Pub. L. 111–84, §580(b), added par. (8).
 
@@ -70,21 +72,25 @@ Subsec. (b)(9). Pub. L. 111–84, §580(e), added par. (9).
 
 Subsec. (b)(10). Pub. L. 111–84, §583(a)(2)(A), added par. (10).
 
-Subsec. (b)(11). Pub. L. 111–84, §584(a), added par. (11).
+Subsec. (b)(11). Pub. L. 111–84, §584(a), as amended by Pub. L. 111–383, §1075(d)(4), added par. (11).
 
 Subsec. (d). Pub. L. 111–84, §583(a)(2)(B), added subsec. (d).
 
-2004—Subsec. (b)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
 
-2002—Subsec. (b)(1). Pub. L. 107–252, §705(a), inserted “, and ensure that such officials are aware of the requirements of this Act” before semicolon at end.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–252, §705(a), inserted “, and ensure that such officials are aware of the requirements of this Act” before semicolon at end.
 
 Subsec. (b)(6). Pub. L. 107–252, §705(c), substituted “a separate statistical analysis” for “a general assessment”.
 
 Subsec. (b)(7). Pub. L. 107–252, §705(b)(1), added par. (7).
 
-2001—Subsec. (b)(2). Pub. L. 107–107 substituted “as required under section 1973ff–1(4) of this title” for “as recommended in section 1973ff–3 of this title”.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 substituted “as required under section 1973ff–1(4) of this title” for “as recommended in section 1973ff–3 of this title”.
 
-1998—Subsec. (b)(6). Pub. L. 105–277 substituted “of uniformed services voter participation, a general assessment of overseas nonmilitary participation,” for “of voter participation”.
+<b>1998</b>—Subsec. (b)(6). Pub. L. 105–277 substituted “of uniformed services voter participation, a general assessment of overseas nonmilitary participation,” for “of voter participation”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(4), (5) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### Effective Date of 2009 Amendment
 
@@ -148,7 +154,7 @@ Coordination With State Election Officials.—The Secretary shall carry out the 
 
 “(c)
 
-Report to Congress.—Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzingthe demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
+Report to Congress.—Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzing the demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
 
 “(d)
 
@@ -201,6 +207,4 @@ Section 1. The Secretary of Defense is hereby designated as the “Presidential 
 Sec. 2. In order to effectuate the purposes of the Act \[see Short Title note above\], the Secretary of Defense is hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. Probably should be “section 1973ff–1(a)(4)”.</i>
 

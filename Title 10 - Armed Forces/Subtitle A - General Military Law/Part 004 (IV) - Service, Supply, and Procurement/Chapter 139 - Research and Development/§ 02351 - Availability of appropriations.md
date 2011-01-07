@@ -40,5 +40,5 @@ A prior section 2351, act Aug. 10, 1956, ch. 1041, 70A Stat. 133, related to pol
 
 #### Amendments
 
-1988—Pub. L. 100–370 renumbered section 2361 of this title as this section, designated such provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–370 renumbered section 2361 of this title as this section, designated such provisions as subsec. (a), and added subsec. (b).
 

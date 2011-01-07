@@ -34,11 +34,11 @@ In sections 7503(b)(2) and 7704(c), the term “use”, when applying to “narc
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–293 inserted “suspended or” after “shall be”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–293 inserted “suspended or” after “shall be”.
 
-1990—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
+<b>1990</b>—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
 
-1985—Subsec. (b). Pub. L. 99–36, §1(a)(9)(F), substituted “merchant mariner's document” for first reference to “document”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–36, §1(a)(9)(F), substituted “merchant mariner's document” for first reference to “document”.
 
 Subsec. (c). Pub. L. 99–36, §1(a)(9)(G), substituted “certificate of registry, or merchant mariner's document” for “certificate, or document”.
 

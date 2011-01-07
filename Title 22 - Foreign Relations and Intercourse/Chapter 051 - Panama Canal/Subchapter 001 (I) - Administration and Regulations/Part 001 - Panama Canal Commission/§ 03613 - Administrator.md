@@ -10,7 +10,7 @@ The Administrator shall be paid compensation in an amount, established by the Bo
 
 #### (c) Authority for dual role
 
-The Congress consents, for purposes of the 8th clause of article I, section 9 of the Constitution of the United States, to the acceptance by the individual serving as Administrator of the Commission of appointment by the Republic of Panama to the position of Administrator of the Panama Canal Authority. Such consent is effective only if that individual, while serving in both such positions, serves as Administrator of the Panama Canal Authority without compensation, except for payments by the Republic of Panama of travel and entertainment expenses, including per diem payments.
+The Congress consents, for purposes of the 8th clause of article I, section 9 of the Constitution of the United States, to the acceptance by the individual serving as Administrator of the Commission of appointment by the Republic of Panama to the position of Administrator of thePanama Canal Authority. Such consent is effective only if that individual, while serving in both such positions, serves as Administrator of the Panama Canal Authority without compensation, except for payments by the Republic of Panama of travel and entertainment expenses, including per diem payments.
 
 #### (d) Waiver of ethics and reporting requirements
 
@@ -40,9 +40,9 @@ Sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978, referred 
 
 #### Amendments
 
-1997—Subsecs. (c), (d). Pub. L. 105–85 added subsecs. (c) and (d).
+<b>1997</b>—Subsecs. (c), (d). Pub. L. 105–85 added subsecs. (c) and (d).
 
-1996—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “There shall be an Administrator of the Commission, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall hold office at the pleasure of the President.”
+<b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “There shall be an Administrator of the Commission, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall hold office at the pleasure of the President.”
 
 #### Savings Provision
 

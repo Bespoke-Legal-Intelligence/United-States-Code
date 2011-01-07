@@ -16,39 +16,47 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;(6) gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) within the United States and its sale or exchange without the United States;
 
-&emsp;(7) underwriting income other than that derived from sources within the United States as provided in section 861(a)(7); and
+&emsp;(7) underwriting income other than that derived from sources within the United States as provided in section 861(a)(7);
 
-&emsp;(8) gains, profits, and income from the disposition of a United States real property interest (as defined in section 897(c)) when the real property is located in the Virgin Islands.
+&emsp;(8) gains, profits, and income from the disposition of a United States real property interest (as defined in section 897(c)) when the real property is located in the Virgin Islands; and
+
+&emsp;(9) amounts received, directly or indirectly, from a foreign person for the provision of a guarantee of indebtedness of such person other than amounts which are derived from sources within the United States as provided in section 861(a)(9).
 
 #### (b) Taxable income from sources without United States
 
-From the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratablepart of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be treated in full as taxable income from sources without the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
+From the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be treated in full as taxable income from sources without the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 276; Pub. L. 92–178, title III, §314(b), Dec. 10, 1971, 85 Stat. 528; Pub. L. 94–455, title X, §1036(b), title XIX, §1901(b)(26)(C), Oct. 4, 1976, 90 Stat. 1633, 1798; Pub. L. 95–30, title I, §102(b)(10), May 23, 1977, 91 Stat. 138; Pub. L. 97–34, title VIII, §831(a)(2), Aug. 13, 1981, 95 Stat. 352; Pub. L. 99–514, title I, §104(b)(12), title XII, §1211(b)(1)(C), Oct. 22, 1986, 100 Stat. 2105, 2536; Pub. L. 100–647, title I, §1012(e)(4), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 276; Pub. L. 92–178, title III, §314(b), Dec. 10, 1971, 85 Stat. 528; Pub. L. 94–455, title X, §1036(b), title XIX, §1901(b)(26)(C), Oct. 4, 1976, 90 Stat. 1633, 1798; Pub. L. 95–30, title I, §102(b)(10), May 23, 1977, 91 Stat. 138; Pub. L. 97–34, title VIII, §831(a)(2), Aug. 13, 1981, 95 Stat. 352; Pub. L. 99–514, title I, §104(b)(12), title XII, §1211(b)(1)(C), Oct. 22, 1986, 100 Stat. 2105, 2536; Pub. L. 100–647, title I, §1012(e)(4), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 111–240, title II, §2122(b), Sept. 27, 2010, 124 Stat. 2568.)
 
 #### Amendments
 
-1989—Subsec. (a)(6). Pub. L. 101–239 substituted “865(i)(1)” for “865(h)(1)”.
+<b>2010</b>—Subsec. (a)(9). Pub. L. 111–240 added par. (9).
 
-1988—Subsec. (c). Pub. L. 100–647 repealed subsec. (c) which read as follows:
+<b>1989</b>—Subsec. (a)(6). Pub. L. 101–239 substituted “865(i)(1)” for “865(h)(1)”.
+
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 repealed subsec. (c) which read as follows:
 
 “(c)
 
 Cross reference.—For source of amounts attributable to certain aircraft and vessels, see section 861(e).”
 
-1986—Subsec. (a)(6). Pub. L. 99–514, §1211(b)(1)(C), substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–514, §1211(b)(1)(C), substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
 
 Subsec. (b). Pub. L. 99–514, §104(b)(12), substituted “the standard deduction” for “the zero bracket amount”.
 
-1981—Subsec. (a)(8). Pub. L. 97–34 added par. (8).
+<b>1981</b>—Subsec. (a)(8). Pub. L. 97–34 added par. (8).
 
-1977—Subsec. (b). Pub. L. 95–30 provided that, in the case of an individual who does not itemize deductions, an amount equal to the zero bracket amount shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
+<b>1977</b>—Subsec. (b). Pub. L. 95–30 provided that, in the case of an individual who does not itemize deductions, an amount equal to the zero bracket amount shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
-1976—Subsec. (a)(5), (6). Pub. L. 94–455, §1901(b)(26)(C), inserted “or exchange” after “sale”.
+<b>1976</b>—Subsec. (a)(5), (6). Pub. L. 94–455, §1901(b)(26)(C), inserted “or exchange” after “sale”.
 
 Subsec. (a)(7). Pub. L. 94–455, §1036(b), added par. (7).
 
-1971—Subsec. (c). Pub. L. 92–178 added subsec. (c).
+<b>1971</b>—Subsec. (c). Pub. L. 92–178 added subsec. (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–240 applicable to guarantees issued after Sept. 27, 2010, see section 2122(d) of Pub. L. 111–240, set out as a note under section 861 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -84,7 +92,7 @@ Amendment by Pub. L. 92–178 applicable to taxable years ending after Aug. 15, 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) ofPub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Qualified Research and Experimental Expenditures; Allocation and Apportionment; Definitions; Special Rules; Effective Dates
 

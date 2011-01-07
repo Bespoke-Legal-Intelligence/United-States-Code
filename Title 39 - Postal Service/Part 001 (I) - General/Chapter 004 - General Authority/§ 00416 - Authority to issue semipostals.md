@@ -48,7 +48,7 @@ Administrative costs.—Regulations under subsection (e) shall specifically addr
 
 &emsp;(4)
 
-Other funding not to be affected.—Amounts which have or may become available from the sale of a semipostal under this section shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished to an agency in any year.
+Other funding not to be affected.—Amounts which have or may become availablefrom the sale of a semipostal under this section shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished to an agency in any year.
 
 &emsp;(5)
 
@@ -100,13 +100,79 @@ Termination.—This section shall cease to be effective at the end of the 10-yea
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–117 amended Pub. L. 107–67. See 2001 Amendment note below.
+<b>2002</b>—Subsec. (c). Pub. L. 107–117 amended Pub. L. 107–67. See 2001 Amendment note below.
 
-2001—Subsec. (c). Pub. L. 107–67, as amended by Pub. L. 107–117, substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
+<b>2001</b>—Subsec. (c). Pub. L. 107–67, as amended by Pub. L. 107–117, substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
 
 #### Effective Date
 
 Pub. L. 106–253, §2(e), July 28, 2000, 114 Stat. 636, provided that: “The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\].”
+
+#### Multinational Species Conservation Funds Semipostal Stamp
+
+Pub. L. 111–241, Sept. 30, 2010, 124 Stat. 2605, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Multinational Species Conservation Funds Semipostal Stamp Act of 2010’.
+
+#### “SEC. 2. MULTINATIONAL SPECIES CONSERVATION FUNDS SEMIPOSTAL STAMP.
+
+“(a)
+
+In General.—In order to afford a convenient way for members of the public to contribute to funding for the operations supported by the Multinational Species Conservation Funds, the United States Postal Service shall issue a semipostal stamp (hereinafter in this Act referred to as the ‘Multinational Species Conservation Funds Semipostal Stamp’) in accordance with succeeding provisions of this section.
+
+“(b)
+
+Cost and Use.—
+
+&emsp;“(1)
+
+In general.—The Multinational Species Conservation Funds Semipostal Stamp shall be offered at a cost equal to the cost of mailing a letter weighing 1 ounce or less at the nonautomation single-piece first-ounce letter rate, in effect at the time of purchase, plus a differential of not less than 15 percent.
+
+&emsp;“(2)
+
+Voluntary use.—The use of any semipostal issued under this section shall be voluntary on the part of postal patrons.
+
+&emsp;“(3)
+
+Special rate.—The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.
+
+“(c)
+
+Other Terms and Conditions.—The issuance and sale of the Multinational Species Conservation Funds Semipostal Stamp shall be governed by the provisions of section 416 of title 39, United States Code, and regulations issued under such section, subject to subsection (b) and the following:
+
+&emsp;“(1)
+
+Disposition of proceeds.—
+
+&emsp;&emsp;“(A)
+
+In general.—All amounts becoming available from the sale of the Multinational Species Conservation Funds Semipostal Stamp (as determined under section 416(d) of such title 39) shall be transferred to the United States Fish and Wildlife Service, for the purpose described in subsection (a), through payments which shall be made at least twice a year, with the proceeds to be divided equally among the African Elephant Conservation Fund, the Asian Elephant Conservation Fund, the Great Ape Conservation Fund, the Marine Turtle Conservation Fund, the Rhinoceros and Tiger Conservation Fund, and other international wildlife conservation funds authorized by the Congress after the date of the enactment of this Act \[Sept. 30, 2010\] and administered by the Service as part of the Multinational Species Conservation Fund.
+
+&emsp;&emsp;“(B)
+
+Proceeds not to be offset.—In accordance with section 416(d)(4) of such title 39, amounts becoming available from the sale of the Multinational Species Conservation Funds Semipostal Stamp (asso determined) shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished in any year to—
+
+&emsp;&emsp;&emsp;“(i) the United States Fish and Wildlife Service; or
+
+&emsp;&emsp;&emsp;“(ii) any of the funds identified in subparagraph (A).
+
+&emsp;“(2)
+
+Duration.—The Multinational Species Conservation Funds Semipostal Stamp shall be made available to the public for a period of at least 2 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
+
+&emsp;“(3)
+
+Limitation.—The Multinational Species Conservation Funds Semipostal Stamp shall not be subject to, or taken into account for purposes of applying, any limitation under section 416(e)(1)(C) of such title 39.
+
+&emsp;“(4)
+
+Restriction on use of funds.—Amounts transferred under paragraph (1) shall not be used to fund or support the Wildlife Without Borders Program or to supplement funds made available for the Neotropical Migratory Bird Conservation Fund.
+
+“(d)
+
+Definition.—For purposes of this Act, the term ‘semipostal stamp’ refers to a stamp described in section 416(a)(1) of title 39, United States Code.”
 
 #### The 9/11 Heroes Stamp
 

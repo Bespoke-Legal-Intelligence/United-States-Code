@@ -6,7 +6,7 @@
 
 (3) Notwithstanding any other provision of law unless enacted in express limitation of this paragraph, funds in the Department of Veterans Affairs readjustment benefits account shall be available for payments under paragraph (1) of this subsection for pursuit of a program of education exclusively by correspondence in which the veteran or spouse or surviving spouse enrolls after September 30, 1981.
 
-(b) The enrollment agreement shall fully disclose the obligation of both the institution and the veteran or spouse or surviving spouse and shall prominently display the provisions for affirmance, termination, refunds, and the conditions under which payment of the allowance ismade by the Secretary to the veteran or spouse or surviving spouse. A copy of the enrollment agreement shall be furnished to each such veteran or spouse or surviving spouse at the time such veteran or spouse or surviving spouse signs such agreement. No such agreement shall be effective unless such veteran or spouse or surviving spouse shall, after the expiration of five days after the enrollment agreement is signed, have signed and submitted to the Secretary a written statement, with a signed copy to the institution, specifically affirming the enrollment agreement. In the event the veteran or spouse or surviving spouse at any time notifies the institution of such veteran's or spouse's intention not to affirm the agreement in accordance with the preceding sentence, the institution, without imposing any penalty or charging any fee shall promptly make a full refund of all amounts paid.
+(b) The enrollment agreement shall fully disclose the obligation of both the institution and the veteran or spouse or surviving spouse and shall prominently display the provisions for affirmance, termination, refunds, and the conditions under which payment of the allowance is made by the Secretary to the veteran or spouse or surviving spouse. A copy of the enrollment agreement shall be furnished to each such veteran or spouse or surviving spouse at the time such veteran or spouse or surviving spouse signs such agreement. No such agreement shall be effective unless such veteran or spouse or surviving spouse shall, after the expiration of five days after the enrollment agreement is signed, have signed and submitted to the Secretary a written statement, with a signed copy to the institution, specifically affirming the enrollment agreement. In the event the veteran or spouse or surviving spouse at any time notifies the institution of such veteran's or spouse's intention not to affirm the agreement in accordance with the preceding sentence, the institution, without imposing any penalty or charging any fee shall promptly make a full refund of all amounts paid.
 
 (c) In the event a veteran or spouse or surviving spouse elects to terminate such veteran's or spouse's enrollment under an affirmed enrollment agreement, the institution may charge the veteran or spouse or surviving spouse a registration or similar fee not in excess of 10 percent of the tuition for the course, or $50, whichever is less. Where the veteran or spouse or surviving spouse elects to terminate the agreement after completion of one or more but less than 25 percent of the total number of lessons comprising the course, the institution may retain such registration or similar fee plus 25 percent of the tuition for the course. Where the veteran or spouse or surviving spouse elects to terminate the agreement after completion of 25 percent but less than 50 percent of the lessons comprising the course, the institution may retain the full registration or similar fee plus 50 percent of the course tuition. If 50 percent or more of the lessons are completed, no refund of tuition is required.
 
@@ -14,49 +14,49 @@
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–389 substituted “five” for “ten”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–389 substituted “five” for “ten”.
 
-2006—Subsec. (a)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §301(c)(1), substituted “(D), or (E)” for “or (D)”.
 
 Pub. L. 109–444, which substituted “(D), or (E)” for “or (D)”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-1994—Subsec. (c). Pub. L. 103–446 struck out “(other than one subject to the provisions of section 3676 of this title)” before “may charge”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–446 struck out “(other than one subject to the provisions of section 3676 of this title)” before “may charge”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1786 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1786 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3452(a)(1)” for “1652(a)(1)” and “3501(a)(1)(B)” for “1701(a)(1)(B)”.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3676” for “1776”.
 
-1989—Subsecs. (a)(3), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a)(3), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1984—Subsec. (a)(2). Pub. L. 98–543 substituted “$376” for “$342”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–543 substituted “$376” for “$342”.
 
-1982—Subsec. (a)(3). Pub. L. 97–174 added par. (3).
+<b>1982</b>—Subsec. (a)(3). Pub. L. 97–174 added par. (3).
 
 Subsec. (c). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
 
-1981—Subsec. (a)(1). Pub. L. 97–35 substituted “55” for “70”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35 substituted “55” for “70”.
 
-1980—Subsec. (a)(1). Pub. L. 96–466, §604, substituted “70 percent” for “90 per centum”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–466, §604, substituted “70 percent” for “90 per centum”.
 
 Subsec. (a)(2). Pub. L. 96–466, §213(2), substituted “$342” for “$327”.
 
 Pub. L. 96–466, §203(2), substituted “$327” for “$311”.
 
-1977—Subsec. (a)(2). Pub. L. 95–202 substituted “$311” for “$292”.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–202 substituted “$311” for “$292”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, §513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–502, §513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing.
 
 Subsec. (a)(2). Pub. L. 94–502, §§501(1), 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” in two places and “$292” for “$270”.
 
 Subsecs. (b), (c). Pub. L. 94–502, §513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing and “such veteran's or spouse's” for “his”.
 
-1975—Subsec. (a)(2). Pub. L. 93–602 substituted “$270” for “$260”.
+<b>1975</b>—Subsec. (a)(2). Pub. L. 93–602 substituted “$270” for “$260”.
 
-1974—Subsec. (a)(2). Pub. L. 93–508 substituted “$260” for “220”.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–508 substituted “$260” for “220”.
 
 #### Effective Date of 2006 Amendment
 

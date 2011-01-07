@@ -58,7 +58,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially iden
 
 #### Amendments
 
-1995—Par. (13)(C). Pub. L. 104–43 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any vessel described in subparagraph (A) or (B).”
+<b>1995</b>—Par. (13)(C). Pub. L. 104–43 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any vessel described in subparagraph (A) or (B).”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

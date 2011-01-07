@@ -12,7 +12,7 @@ The provision of financial assistance under this chapter with respect to a proje
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 186 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 186 of this title as this section.
 
 Pub. L. 109–59, §1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 

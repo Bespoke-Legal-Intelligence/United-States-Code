@@ -56,7 +56,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(C) to affect the conduct of a government by assassination or kidnapping; and
 
-&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
+&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms ofthe means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
 
 &emsp;(d) “Sabotage” means activities that involve a violation of chapter 105 of title 18, or that would involve such a violation if committed against the United States.
 
@@ -102,7 +102,7 @@ As used in this subchapter:
 
 &emsp;(j) “United States”, when used in a geographic sense, means all areas under the territorial sovereignty of the United States and the Trust Territory of the Pacific Islands.
 
-&emsp;(k) “Aggrieved person” means a person who is the target of an electronic surveillance or any other person whose communications or activities were subject to electronic surveillance.
+&emsp;(k) “Aggrieved person” means a person who is the target of an electronic surveillance orany other person whose communications or activities were subject to electronic surveillance.
 
 &emsp;(<i>l</i>) “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
 
@@ -122,7 +122,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746.)
 
 #### Amendment of Section
 
@@ -130,7 +130,9 @@ As used in this subchapter:
 
 #### Amendments
 
-2008—Subsec. (a)(7). Pub. L. 110–261, §110(a)(1), added par. (7).
+<b>2010</b>—Subsecs. (a)(7) to (p). Pub. L. 111–259 realigned margins.
+
+<b>2008</b>—Subsec. (a)(7). Pub. L. 110–261, §110(a)(1), added par. (7).
 
 Subsec. (b)(1)(D), (E). Pub. L. 110–261, §110(a)(2), added subpars. (D) and (E).
 
@@ -138,15 +140,15 @@ Subsec. (e)(1)(B). Pub. L. 110–261, §110(a)(3), substituted “sabotage, inte
 
 Subsec. (p). Pub. L. 110–261, §110(a)(4), added subsec. (p).
 
-2006—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
+<b>2006</b>—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
 
-2004—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+<b>2004</b>—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
 
-2001—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
+<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
 
 Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted “72 hours” for “twenty-four hours”.
 
-1999—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
+<b>1999</b>—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
 
 #### Effective Date of 2008 Amendment
 
@@ -154,11 +156,11 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on February 28, 2010.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on February 28, 2011.
 
 “(2)
 

@@ -14,7 +14,7 @@ employee retirement income security act of 1974”.
 
 (iii) The table of sections of chapter 47 of such title 18 is amended by striking out “Welfare and Pension Plans Disclosure Act” in the item relating to section 1027 and inserting in lieu thereof “Employee Retirement Income Security Act of 1974”.
 
-(C) Section 1954 of such title 18 is amended by striking out “any plan subject to the provisions of the Welfare and Pension Plans Disclosure Act as amended” and inserting in lieu thereof “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974”; and by striking out “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended” and inserting in lieu thereof “sections 3(4) and (3)(16) <sup>1</sup> of the Employee Retirement Income Security Act of 1974”.
+(C) Section 1954 of such title 18 is amended by striking out “any plan subject to the provisionsof the Welfare and Pension Plans Disclosure Act as amended” and inserting in lieu thereof “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974”; and by striking out “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended” and inserting in lieu thereof “sections 3(4) and (3)(16) <sup>1</sup> of the Employee Retirement Income Security Act of 1974”.
 
 (D) Section 211 of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 441) is amended by striking out “Welfare and Pension Plans Disclosure Act” and inserting in lieu thereof “Employee Retirement Income Security Act of 1974”.
 
@@ -38,9 +38,11 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 
 #### Amendments
 
-1989—Subsec. (d). Pub. L. 101–239 added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “3(16)”.</i>
 

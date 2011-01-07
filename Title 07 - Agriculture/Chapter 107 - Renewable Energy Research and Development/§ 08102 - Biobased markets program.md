@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(i) designate those items (including finished products) that are or can be produced with biobased products (including biobased products for which there is only a single product or manufacturer in the category) that will be subject to the preference described in paragraph (2);
 
-&emsp;&emsp;&emsp;(ii) designate those intermediate ingredients and feedstocks that are or can be usedto produce items that will be subject to the preference described in paragraph (2);
+&emsp;&emsp;&emsp;(ii) designate those intermediate ingredients and feedstocks that are or can be used to produce items that will be subject to the preference described in paragraph (2);
 
 &emsp;&emsp;&emsp;(iii) automatically designate items composed of intermediate ingredients and feedstocks designated under clause (ii), if the content of the designated intermediate ingredients and feedstocks exceeds 50 percent of the item (unless the Secretary determines a different composition percentage is appropriate);
 

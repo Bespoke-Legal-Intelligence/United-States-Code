@@ -56,7 +56,7 @@ Standards included in regulations issued under subsections (a) and (b) of this s
 
 #### (1) Facilities
 
-&emsp;If final regulations have not been issued pursuant to this section, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under this section, and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under section 12183 of this title, except that, if such final regulations have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 12204(a) of this title, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by personswith disabilities prior to issuance of the final regulations.
+&emsp;If final regulations have not been issued pursuant to this section, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under this section, and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under section 12183 of this title, except that, if such final regulations have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 12204(a) of this title, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.
 
 #### (2) Vehicles and rail passenger cars
 
@@ -66,7 +66,7 @@ Standards included in regulations issued under subsections (a) and (b) of this s
 
 #### Amendments
 
-1995—Subsec. (a)(2)(B)(iii). Pub. L. 104–59 substituted “3 years after the date of issuance of final regulations under clause (ii)” for “7 years after July 26, 1990” in subcl. (I) and “2 years after the date of issuance of such final regulations” for “6 years after July 26, 1990” in subcl. (II).
+<b>1995</b>—Subsec. (a)(2)(B)(iii). Pub. L. 104–59 substituted “3 years after the date of issuance of final regulations under clause (ii)” for “7 years after July 26, 1990” in subcl. (I) and “2 years after the date of issuance of such final regulations” for “6 years after July 26, 1990” in subcl. (II).
 
 #### Effective Date
 

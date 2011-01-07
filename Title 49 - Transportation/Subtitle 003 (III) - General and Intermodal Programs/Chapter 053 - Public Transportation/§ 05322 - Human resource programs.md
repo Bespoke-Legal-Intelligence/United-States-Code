@@ -64,7 +64,7 @@ In this section, before clause (1), the word “make” is substituted for “pr
 
 #### Amendments
 
-2005—Pub. L. 109–59, §3022, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–59, §3022, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 

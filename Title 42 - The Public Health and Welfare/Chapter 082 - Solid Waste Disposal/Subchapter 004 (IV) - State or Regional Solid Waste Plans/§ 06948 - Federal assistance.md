@@ -86,7 +86,7 @@ Another section 5(b) of Pub. L. 96–463 amended section 6943 of this title.
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–616, §2(d), authorized appropriation of $10,000,000 for each of fiscal years 1985 through 1988.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–616, §2(d), authorized appropriation of $10,000,000 for each of fiscal years 1985 through 1988.
 
 Subsec. (a)(2)(C). Pub. L. 98–616, §2(e), authorized appropriation of $10,000,000 for each of fiscal years 1985 through 1988.
 
@@ -100,7 +100,7 @@ Subsec. (f)(4). Pub. L. 98–616, §2(g), authorized appropriation of $5,000,000
 
 Subsec. (g). Pub. L. 98–616, §502(e), redesignated second subsec. (f), relating to assistance to municipalities for energy and materials conservation and recovery planning activities, as subsec. (g).
 
-1980—Subsec. (a)(1). Pub. L. 96–482, §31(c), authorized appropriations of $20,000,000, $15,000,000, and $20,000,000 for fiscal years, 1980, 1981, and 1982, respectively, and substituted provision making appropriation available for financial assistance to States, and local, regional, and interstate authorities for development and implementation of plans approved by the Administrator, except plans referred to in section 6943(b) of this title, relating to feasibility planning for municipal waste energy and materials conservation and recovery for provision making appropriations available to State for development and implementation of State plans.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–482, §31(c), authorized appropriations of $20,000,000, $15,000,000, and $20,000,000 for fiscal years, 1980, 1981, and 1982, respectively, and substituted provision making appropriation available for financial assistance to States, and local, regional, and interstate authorities for development and implementation of plans approved by the Administrator, except plans referred to in section 6943(b) of this title, relating to feasibility planning for municipal waste energy and materials conservation and recovery for provision making appropriations available to State for development and implementation of State plans.
 
 Subsec. (a)(2)(B). Pub. L. 96–482, §32(e)(1), provided that applicants for technical and financial assistance shall not preclude or foreclose consideration of programs for recovery of recyclable materials through source separation or other resource recovery techniques.
 

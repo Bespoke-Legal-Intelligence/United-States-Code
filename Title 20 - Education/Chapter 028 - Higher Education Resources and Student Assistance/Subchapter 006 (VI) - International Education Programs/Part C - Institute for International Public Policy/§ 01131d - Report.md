@@ -12,5 +12,5 @@ Another prior section 627 of Pub. L. 89–329 was renumbered section 629, and is
 
 #### Amendments
 
-2008—Pub. L. 110–315, §618, substituted “prepare a report once every two years” for “annually prepare a report”.
+<b>2008</b>—Pub. L. 110–315, §618, substituted “prepare a report once every two years” for “annually prepare a report”.
 

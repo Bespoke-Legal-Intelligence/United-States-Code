@@ -66,7 +66,7 @@
 
 #### (B) Process for adjustments
 
-&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case in which payment is made for drugs and biologicals which were billed at the time of dispensing but which were not actually administered.
+&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case inwhich payment is made for drugs and biologicals which were billed at the time of dispensing but which were not actually administered.
 
 #### (C) Information for purposes of cost-sharing
 
@@ -222,7 +222,7 @@
 
 #### (2) Bid defined
 
-&emsp;In this section, the term “bid” means an offer to furnish a competitively biddable drug or biological for a particular price and time period.
+&emsp;In this section, the term “bid” means an offer to furnish a competitively biddable drugor biological for a particular price and time period.
 
 #### (3) Bidding on a national or regional basis
 
@@ -280,7 +280,7 @@
 
 #### (1) Application of coinsurance
 
-&emsp;Payment under this section for competitively biddable drugs and biologicals shall bein an amount equal to 80 percent of the payment basis described in subsection (d)(1) of this section.
+&emsp;Payment under this section for competitively biddable drugs and biologicals shall be in an amount equal to 80 percent of the payment basis described in subsection (d)(1) of this section.
 
 #### (2) Deductible
 
@@ -332,7 +332,7 @@ Part B of subchapter XVIII of this chapter, referred to in subsec. (c)(5)(C), is
 
 #### Amendments
 
-2006—Subsec. (a)(3)(A)(iii). Pub. L. 109–432, §108(a)(1), substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
+<b>2006</b>—Subsec. (a)(3)(A)(iii). Pub. L. 109–432, §108(a)(1), substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
 
 &emsp;“(I) shall be made only to such contractor; and
 
@@ -364,7 +364,7 @@ Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provide
 
 Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
-Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnishedby physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,5 +6,5 @@ Insurance may be made effective, as specified in the application, not later than
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 709 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 709 of this title as this section.
 

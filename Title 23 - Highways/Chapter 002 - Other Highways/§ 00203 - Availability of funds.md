@@ -6,17 +6,17 @@ Funds authorized for forest development roads and trails, public lands developme
 
 #### Amendments
 
-1998—Pub. L. 105–178 substituted “for forest development roads and trails” for “for, forest development roads and trails” in two places, inserted “refuge roads,” after “parkways,” in two places, and inserted at end “Notwithstanding any other provision of law, the authorization by the Secretary of engineering and related work for a Federal lands highways program project, or the approval by the Secretary of plans, specifications, and estimates for construction of a Federal lands highways program project, shall be deemed to constitute a contractual obligation of the Federal Government to pay the Federal share of the cost of the project.”
+<b>1998</b>—Pub. L. 105–178 substituted “for forest development roads and trails” for “for, forest development roads and trails” in two places, inserted “refuge roads,” after “parkways,” in two places, and inserted at end “Notwithstanding any other provision of law, the authorization by the Secretary of engineering and related work for a Federal lands highways program project, or the approval by the Secretary of plans, specifications, and estimates for construction of a Federal lands highways program project, shall be deemed to constitute a contractual obligation of the Federal Government to pay the Federal share of the cost of the project.”
 
-1991—Pub. L. 102–240 struck out “forest highways” before “, forest development roads” in two places.
+<b>1991</b>—Pub. L. 102–240 struck out “forest highways” before “, forest development roads” in two places.
 
-1983—Pub. L. 97–424 substituted “park road” for “park roads and trails” wherever appearing.
+<b>1983</b>—Pub. L. 97–424 substituted “park road” for “park roads and trails” wherever appearing.
 
-1976—Pub. L. 94–280 substituted “or on October 1” for “or a date not earlier than one year preceding the beginning” in first sentence and “three years” for “two years” in second sentence.
+<b>1976</b>—Pub. L. 94–280 substituted “or on October 1” for “or a date not earlier than one year preceding the beginning” in first sentence and “three years” for “two years” in second sentence.
 
-1962—Pub. L. 87–866 inserted “public lands development roads and trails,” before “park roads and trails” in two places.
+<b>1962</b>—Pub. L. 87–866 inserted “public lands development roads and trails,” before “park roads and trails” in two places.
 
-1960—Pub. L. 86–657 substituted “Funds authorized” for “Funds now authorized” in first sentence.
+<b>1960</b>—Pub. L. 86–657 substituted “Funds authorized” for “Funds now authorized” in first sentence.
 
 #### Effective Date of 1991 Amendment
 

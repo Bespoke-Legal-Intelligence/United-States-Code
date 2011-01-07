@@ -70,17 +70,17 @@ The word “male” is inserted to limit the application of the section to men. 
 
 #### Amendments
 
-1994—Subsecs. (c) to (g). Pub. L. 103–337 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+<b>1994</b>—Subsecs. (c) to (g). Pub. L. 103–337 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-1986—Subsec. (a). Pub. L. 99–433 substituted “section 5150(b)” for “section 5155(b)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433 substituted “section 5150(b)” for “section 5155(b)”.
 
-1980—Subsec. (a). Pub. L. 96–513, §325(1), substituted “as regular officers of the Navy in a grade below lieutenant commander in the line and in staff corps established by the Secretary of the Navy under section 5155(b) of this title and designated by the Secretary for the purposes of this section may be made from” for “to the active list of the Navy in the grade of ensign in the line, in the Supply Corps, and in the Civil Engineer Corps may be made from male”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §325(1), substituted “as regular officers of the Navy in a grade below lieutenant commander in the line and in staff corps established by the Secretary of the Navy under section 5155(b) of this title and designated by the Secretary for the purposes of this section may be made from” for “to the active list of the Navy in the grade of ensign in the line, in the Supply Corps, and in the Civil Engineer Corps may be made from male”.
 
 Subsec. (b). Pub. L. 96–513, §325(2), substituted “as regular officers of the Marine Corps in a grade below major may be made from” for “to the active list of the Marine Corps in the grade of second lieutenant may be made from male”.
 
 Subsec. (c). Pub. L. 96–513, §325(3), inserted “the qualifications specified in section 532(a) of this title and have”.
 
-1961—Subsec. (e)(3). Pub. L. 87–123 struck out “be designated for supply duty or” before “be assigned to”.
+<b>1961</b>—Subsec. (e)(3). Pub. L. 87–123 struck out “be designated for supply duty or” before “be assigned to”.
 
 #### Effective Date of 1980 Amendment
 

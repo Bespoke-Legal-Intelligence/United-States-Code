@@ -126,5 +126,5 @@ Section 3037b, Pub. L. 89–73, title IV, §433, as added Pub. L. 98–459, titl
 
 #### Amendments
 
-2006—Subsec. (c)(2)(B). Pub. L. 109–365 inserted before period at end “, including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in such services, projects, and programs and in the strategic plan of the Administration”.
+<b>2006</b>—Subsec. (c)(2)(B). Pub. L. 109–365 inserted before period at end “, including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in such services, projects, and programs and in the strategic plan of the Administration”.
 

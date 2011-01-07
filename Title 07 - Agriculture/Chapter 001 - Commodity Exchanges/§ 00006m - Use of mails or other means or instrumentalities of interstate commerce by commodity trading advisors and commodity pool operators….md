@@ -1,12 +1,38 @@
 ### §6m. Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law
 
-(1) It shall be unlawful for any commodity trading advisor or commodity pool operator, unless registered under this chapter, to make use of the mails or any means or instrumentality of interstate commerce in connection with hisbusiness as such commodity trading advisor or commodity pool operator: <i>Provided</i>, That the provisions of this section shall not apply to any commodity trading advisor who, during the course of the preceding twelve months, has not furnished commodity trading advice to more than fifteen persons and who does not hold himself out generally to the public as a commodity trading advisor. The provisions of this section shall not apply to any commodity trading advisor who is a (1) dealer, processor, broker, or seller in cash market transactions of any commodity specifically set forth in section 2(a) of this title prior to October 23, 1974, (or products thereof) or (2) nonprofit, voluntary membership, general farm organization, who provides advice on the sale or purchase of any commodity specifically set forth in section 2(a) of this title prior to October 23, 1974; if the advice by the person described in clause (1) or (2) of this sentence as a commodity trading advisor is solely incidental to the conduct of that person's business: <i>Provided</i>, That such person shall be subject to proceedings under section 18 of this title.
+(1) It shall be unlawful for any commodity trading advisor or commodity pool operator, unless registered under this chapter, to make use of the mails or any means or instrumentality of interstate commerce in connection with his business as such commodity trading advisor or commodity pool operator: <i>Provided</i>, That the provisions of this section shall not apply to any commodity trading advisor who, during the course of the preceding twelve months, has not furnished commodity trading advice to more than fifteen persons and who does not hold himself out generally to the public as a commodity trading advisor. The provisions of this section shall not apply to any commodity trading advisor who is a (1) dealer, processor, broker, or seller in cash market transactions of any commodity specifically set forth in section 2(a) of this title prior to October 23, 1974, (or products thereof) or (2) nonprofit, voluntary membership, general farm organization, who provides advice on the sale or purchase of any commodity specifically set forth in section 2(a) of this title prior to October 23, 1974; if the advice by the person described in clause (1) or (2) of this sentence as a commodity trading advisor is solely incidental to the conduct of that person's business: <i>Provided</i>, That such person shall be subject to proceedings under section 18 of this title.
 
 (2) Nothing in this chapter shall relieve any person of any obligation or duty, or affect the availability of any right or remedy available to the Securities and Exchange Commission or any private party arising under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] or the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] governing the issuance, offer, purchase, or sale of securities of a commodity pool, or of persons engaged in transactions with respect to such securities, or reporting by a commodity pool.
 
 (3) Subsection (1) of this section shall not apply to any commodity trading advisor that is registered with the Securities and Exchange Commission as an investment adviser whose business does not consist primarily of acting as a commodity trading advisor, as defined in section 1a(6) of this title, and that does not act as a commodity trading advisor to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.
 
-(Sept. 21, 1922, ch. 369, §4m, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, §8, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title I, §103, Jan. 11, 1983, 96 Stat. 2296; Pub. L. 106–554, §1(a)(5) \[title II, §251(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–443.)
+(Sept. 21, 1922, ch. 369, §4m, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, §8, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title I, §103, Jan. 11, 1983, 96 Stat. 2296; Pub. L. 106–554, §1(a)(5) \[title II, §251(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–443; Pub. L. 111–203, title VII, §§721(e)(2), 749(b), July 21, 2010, 124 Stat. 1671, 1747.)
+
+#### Amendment of Paragraph (3)
+
+<i>Pub. L. 111–203, title VII, §§721(e)(2), 749(b), 754, July 21, 2010, 124 Stat. 1671, 1747, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, paragraph (3) of this section is amended as follows:</i>
+
+<i>(1) by striking “section 1a(6)” and inserting “section 1a”;</i>
+
+<i>(2) by striking “(3) Subsection (1) of this section” and inserting the following:</i>
+
+<i>“(3)</i>
+
+<i>Exception.—</i>
+
+&emsp;<i>“(A)</i>
+
+<i>In general</i>.—<i>Paragraph (1)”; and</i>
+
+<i>(3) by striking “to any investment trust” and all that follows through the period at the end and inserting the following: “to any commodity pool that is engaged primarily in trading commodity interests.</i>
+
+&emsp;<i>“(B)</i>
+
+<i>Engaged primarily</i>.—<i>For purposes of subparagraph (A), a commodity trading advisor or a commodity pool shall be considered to be ‘engaged primarily’ in the business of being a commodity trading advisor or commodity pool if it is or holds itself out to the public as being engaged primarily, or proposes to engage primarily, in the business of advising on commodity interests or investing, reinvesting, owning, holding, or trading in commodity interests, respectively.</i>
+
+&emsp;<i>“(C)</i>
+
+<i>Commodity interests</i>.—<i>For purposes of this paragraph, commodity interests shall include contracts of sale of a commodity for future delivery, options on such contracts, security futures, swaps, leverage contracts, foreign exchange, spot and forward contracts on physical commodities, and any monies held in an account used for trading commodity interests.”</i>
 
 #### References in Text
 
@@ -21,6 +47,10 @@ The Securities Exchange Act of 1934, referred to in par. (2), is act June 6, 193
 1983—Pub. L. 97–444 designated existing provisions as par. (1) and added par. (2).
 
 1978—Pub. L. 95–405 inserted provisions relating to applicability of this section to commodity trading advisors who are dealers, processors, brokers, or sellers in cash market transactions of specifically listed commodities or nonprofit, voluntary membership, general farm organizations who provide advice on sale or purchase of specifically listed commodities if the advice by the person described in cl. (1) or (2) of this sentence is incidental solely to the conduct to the person's business and that such person be subject to proceedings under section 18 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date of 1983 Amendment
 

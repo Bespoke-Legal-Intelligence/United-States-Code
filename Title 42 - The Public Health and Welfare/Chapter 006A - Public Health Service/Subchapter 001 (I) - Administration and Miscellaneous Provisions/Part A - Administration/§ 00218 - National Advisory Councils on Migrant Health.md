@@ -16,7 +16,7 @@ Each member of the Council shall hold office for a term of four years, except th
 
 Section 14(a) of the Federal Advisory Committee Act shall not apply to the Council.
 
-(July 1, 1944, ch. 373, title II, §217, 58 Stat. 691; July 3, 1946, ch. 538, §5(b)–(d), 60 Stat. 422; June 16, 1948, ch. 481, §§4(a)–(c), 6(b), 62 Stat. 467, 469; June 24, 1948, ch. 621, §4(a)–(c), 62 Stat. 600; Aug. 15, 1950, ch. 714, §3(a)–(d), 64 Stat. 446; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–515, title VI, §601(a)(1), Oct. 30, 1970, 84 Stat. 1310; Pub. L. 91–616, title IV, §401, Dec. 31, 1970, 84 Stat. 1853; Pub. L. 92–157, title III, §301(b), Nov. 18, 1971, 85 Stat. 463; Pub. L. 92–218, §6(a)(1), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–255, title V, §502(a), Mar. 21, 1972, 86 Stat. 85; Pub. L. 92–423, §7(a), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–348, title II, §211(a), July 12, 1974, 88 Stat. 351; Pub. L. 94–63, title IV, §401(b), July 29, 1975, 89 Stat. 341; Pub. L. 94–371, §9, July 26, 1976, 90 Stat. 1040; Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442; Pub. L. 95–626, title I, §102(b)(1), Nov. 10, 1978, 92 Stat. 3551; Pub. L. 96–180, §13, Jan. 2, 1980, 93 Stat. 1304; Pub. L. 96–181, §14, Jan. 2, 1980, 93 Stat. 1315; Pub. L. 98–24, §2(a)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title III, §302, Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–158, §3(a)(2), (3), Nov. 20, 1985, 99 Stat. 878, 879; Pub. L. 99–570, title IV, §4004(c), Oct. 27,1986, 100 Stat. 3207–111; Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779.)
+(July 1, 1944, ch. 373, title II, §217, 58 Stat. 691; July 3, 1946, ch. 538, §5(b)–(d), 60 Stat. 422; June 16, 1948, ch. 481, §§4(a)–(c), 6(b), 62 Stat. 467, 469; June 24, 1948, ch. 621, §4(a)–(c), 62 Stat. 600; Aug. 15, 1950, ch. 714, §3(a)–(d), 64 Stat. 446; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–515, title VI, §601(a)(1), Oct. 30, 1970, 84 Stat. 1310; Pub. L. 91–616, title IV, §401, Dec. 31, 1970, 84 Stat. 1853; Pub. L. 92–157, title III, §301(b), Nov. 18, 1971, 85 Stat. 463; Pub. L. 92–218, §6(a)(1), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–255, title V, §502(a), Mar. 21, 1972, 86 Stat. 85; Pub. L. 92–423, §7(a), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–348, title II, §211(a), July 12, 1974, 88 Stat. 351; Pub. L. 94–63, title IV, §401(b), July 29, 1975, 89 Stat. 341; Pub. L. 94–371, §9, July 26, 1976, 90 Stat. 1040; Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442; Pub. L. 95–626, title I, §102(b)(1), Nov. 10, 1978, 92 Stat. 3551; Pub. L. 96–180, §13, Jan. 2, 1980, 93 Stat. 1304; Pub. L. 96–181, §14, Jan. 2, 1980, 93 Stat. 1315; Pub. L. 98–24, §2(a)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title III, §302, Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–158, §3(a)(2), (3), Nov. 20, 1985, 99 Stat. 878, 879; Pub. L. 99–570, title IV, §4004(c), Oct. 27, 1986, 100 Stat. 3207–111; Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779.)
 
 #### References in Text
 
@@ -26,11 +26,11 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d),
 
 #### Amendments
 
-1986—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
+<b>1986</b>—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
 
 Subsec. (c). Pub. L. 99–660 which directed that “section 300cc of this title” be substituted for “section 300aa of this title” could not be executed because the reference in question appeared in former subsec. (c) which was repealed by Pub. L. 99–570.
 
-1985—Subsec. (a). Pub. L. 99–158, §3(a)(2)(A), in first sentence substituted “National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism” for “National Advisory Health Council, the National Advisory Mental Health Council, the National Advisory Council on Alcohol Abuse and Alcoholism, and the National Advisory Dental Research Council”, and substituted “by the Secretary” for “by the Surgeon General with the approval of the Secretary of Health, Education, and Welfare”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–158, §3(a)(2)(A), in first sentence substituted “National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism” for “National Advisory Health Council, the National Advisory Mental Health Council, the National Advisory Council on Alcohol Abuse and Alcoholism, and the National Advisory Dental Research Council”, and substituted “by the Secretary” for “by the Surgeon General with the approval of the Secretary of Health, Education, and Welfare”.
 
 Pub. L. 99–158, §3(a)(2)(B)(i), in second sentence struck out “in the case of the National Advisory Health Council, are skilled in the sciences related to health, and” after “scientific authorities who,”.
 
@@ -44,37 +44,37 @@ Subsec. (b). Pub. L. 99–158, §3(a)(3), redesignated subsec. (c) as (b) and st
 
 Subsecs. (c) to (e), (g). Pub. L. 99–158, §3(a)(3), redesignated subsecs. (d), (e), and (g) as (c), (d), and (e), respectively.
 
-1984—Subsec. (a). Pub. L. 98–509 inserted provision requiring the Secretary to assure that the membership of the National Advisory Council on Alcohol Abuse and Alcoholism is broadly representative of experts in the fields of prevention, research, and treatment of alcohol abuse, alcoholism, and rehabilitation of alcohol abusers.
+<b>1984</b>—Subsec. (a). Pub. L. 98–509 inserted provision requiring the Secretary to assure that the membership of the National Advisory Council on Alcohol Abuse and Alcoholism is broadly representative of experts in the fields of prevention, research, and treatment of alcohol abuse, alcoholism, and rehabilitation of alcohol abusers.
 
-1983—Subsecs. (c), (d). Pub. L. 98–24 substituted “section 300aa of this title” for “section 219 of this title”.
+<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–24 substituted “section 300aa of this title” for “section 219 of this title”.
 
-1980—Subsec. (a). Pub. L. 96–180 authorized appointees to serve after the expiration of their terms until their successors have taken office.
+<b>1980</b>—Subsec. (a). Pub. L. 96–180 authorized appointees to serve after the expiration of their terms until their successors have taken office.
 
 Subsec. (e)(1). Pub. L. 96–181, in provisions relating to the eligibility for selection of members, inserted officers or employees of State and local drug abuse agencies, and inserted provision that appointed members may serve after the expiration of their terms until their successors have taken office.
 
-1978—Subsec. (f). Pub. L. 95–622 struck out subsec. (f) which related to the establishment of a National Advisory Council for the Protection of Subjects of Biomedical and Behavioral Research.
+<b>1978</b>—Subsec. (f). Pub. L. 95–622 struck out subsec. (f) which related to the establishment of a National Advisory Council for the Protection of Subjects of Biomedical and Behavioral Research.
 
 Subsec. (g)(1), (2). Pub. L. 95–626 substituted “section 254b” for “section 247d”.
 
-1976—Subsec. (d). Pub. L. 94–371 inserted provision that the Council advise the Secretary regarding policies and priorities with respect to grants and contracts in the field of alcohol abuse and alcoholism.
+<b>1976</b>—Subsec. (d). Pub. L. 94–371 inserted provision that the Council advise the Secretary regarding policies and priorities with respect to grants and contracts in the field of alcohol abuse and alcoholism.
 
-1975—Subsec. (g). Pub. L. 94–63 added subsec. (g).
+<b>1975</b>—Subsec. (g). Pub. L. 94–63 added subsec. (g).
 
-1974—Subsec. (f). Pub. L. 93–348 added subsec. (f).
+<b>1974</b>—Subsec. (f). Pub. L. 93–348 added subsec. (f).
 
-1972—Subsec. (a). Pub. L. 92–423, §7(a)(1), (2), struck out “the National Advisory Heart Council,” after “the National Advisory Council on Alcohol Abuse and Alcoholism” in two places and “heart diseases,” after “alcohol abuse and alcoholism,”, respectively.
+<b>1972</b>—Subsec. (a). Pub. L. 92–423, §7(a)(1), (2), struck out “the National Advisory Heart Council,” after “the National Advisory Council on Alcohol Abuse and Alcoholism” in two places and “heart diseases,” after “alcohol abuse and alcoholism,”, respectively.
 
 Subsec. (b). Pub. L. 92–423, §7(a)(2), struck out “heart,” after “alcohol abuse and alcoholism,”.
 
 Subsec. (e). Pub. L. 92–255 added subsec. (e).
 
-1971—Subsec. (a). Pub. L. 92–218, §6(a)(1)(A), (B), struck out reference to National Advisory Cancer Council before National Advisory Mental Health Council in two places and struck out “cancer,” before “psychiatric disorders”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–218, §6(a)(1)(A), (B), struck out reference to National Advisory Cancer Council before National Advisory Mental Health Council in two places and struck out “cancer,” before “psychiatric disorders”.
 
 Pub. L. 92–157 substituted “National Advisory Council on Alcohol Abuse and Alcoholism” for “National Advisory Council on Alcoholic Abuse and Alcoholism” in second sentence.
 
 Subsec. (b). Pub. L. 92–218, §6(a)(1)(B), struck out “cancer,” before “mental health” in listing of various diseases.
 
-1970—Subsec. (a). Pub. L. 91–616, §401(a), made subsection applicable to National Advisory Council on Alcohol Abuse and Alcoholism, and inserted alcohol abuse and alcoholism to enumeration of diseases concerning which members of such Council must be skilled, and prescribed manner in which terms of members of Council would expire.
+<b>1970</b>—Subsec. (a). Pub. L. 91–616, §401(a), made subsection applicable to National Advisory Council on Alcohol Abuse and Alcoholism, and inserted alcohol abuse and alcoholism to enumeration of diseases concerning which members of such Council must be skilled, and prescribed manner in which terms of members of Council would expire.
 
 Subsec. (b). Pub. L. 91–616, §401(b), inserted reference to National Advisory Council on Alcohol Abuse and Alcoholism authorizing the Surgeon General to utilize the services of members of such Council for additional periods.
 
@@ -82,7 +82,7 @@ Pub. L. 91–515 inserted “or committees” after “councils”.
 
 Subsec. (d). Pub. L. 91–616, §401(c), added subsec. (d).
 
-1950—Act Aug. 15, 1950, §3(d), amended section catchline to reflect addition of new advisory councils.
+<b>1950</b>—Act Aug. 15, 1950, §3(d), amended section catchline to reflect addition of new advisory councils.
 
 Subsec. (a). Act Aug. 15, 1950, §3(a), applied provisions to all of the advisory councils with regard to composition, qualifications, and appointment and tenure of members.
 
@@ -92,7 +92,7 @@ Subsec. (c). Act Aug. 15, 1950, §3(c), redesignated subsec. (e) as (c) and repe
 
 Subsecs. (d), (f), (g). Act. Aug. 15, 1950, §3(c), repealed subsecs. (d), (f), and (g).
 
-1948—Acts June 16, 1948, §4(c), and June 24, 1948, §4(c), included in section catchline the National Advisory Heart and Dental Research Councils, respectively.
+<b>1948</b>—Acts June 16, 1948, §4(c), and June 24, 1948, §4(c), included in section catchline the National Advisory Heart and Dental Research Councils, respectively.
 
 Subsec. (a). Act June 16, 1948, §6(b), substituted “National Institutes of Health” for “National Institute of Health” in second sentence.
 
@@ -102,7 +102,7 @@ Subsec. (f). Act June 16, 1948, §4(a), added subsec. (f) which established the 
 
 Subsec. (g). Act June 24, 1948, §4(a), added subsec. (g) which established the National Advisory Dental Research Council.
 
-1946—Act July 3, 1946, inserted “Mental Health” in section catchline.
+<b>1946</b>—Act July 3, 1946, inserted “Mental Health” in section catchline.
 
 Subsec. (b). Act July 3, 1946, inserted “or of the National Advisory Mental Health Council”.
 
@@ -122,7 +122,7 @@ Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, �
 
 #### Effective Date of 1972 Amendment
 
-Section 9 of Pub. L. 92–423 provided that: “This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactment of this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.”
+Section 9 of Pub. L. 92–423 provided that: “This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactmentof this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.”
 
 #### Effective Date of 1971 Amendment
 

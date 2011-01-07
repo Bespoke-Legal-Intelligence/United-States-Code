@@ -30,11 +30,11 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 #### Amendments
 
-1982—Subsec. (b)(1). Pub. L. 97–258 substituted “section 9303 of title 31, United States Code” for “6 U.S.C. 15”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–258 substituted “section 9303 of title 31, United States Code” for “6 U.S.C. 15”.
 
-1979—Subsec. (a). Pub. L. 96–39 struck out “, 5174,” after “sections 5173”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out “, 5174,” after “sections 5173”.
 
-1976—Subsec. (b)(2). Pub. L. 94–455 substituted “5601(b)” for “5601(b)(2)”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 substituted “5601(b)” for “5601(b)(2)”.
 
 #### Effective Date of 1979 Amendment
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) midshipmen.
 
-(b) To provide an annuity under section 1434 of this title, a person covered by subsection (a) may elect to receive a reduced amount of the retired pay or retainer pay to which he may become entitled as a result of service in his armedforce. Except as otherwise provided in this section, unless it is made before he completes nineteen years of service for which he is entitled to credit in the computation of his basic pay, the election must be made at least two years before the first day for which retired pay or retainer pay is granted. However, if, because of military operations, a member is assigned to an isolated station or is missing, interned in a neutral country, captured by a hostile force, or beleaguered or besieged, and for that reason is unable to make an election before completing nineteen years of that service, he may make the election, to become effective immediately, within one year after he ceases to be assigned to that station or returns to the jurisdiction of his armed force, as the case may be. A member to whom retired pay or retainer pay is granted retroactively, and who is otherwise eligible to make an election, may make the election within ninety days after receiving notice that such pay has been granted to him. An election made after August 13, 1968, is not effective if—
+(b) To provide an annuity under section 1434 of this title, a person covered by subsection (a) may elect to receive a reduced amount of the retired pay or retainer pay to which he may become entitled as a result of service in his armed force. Except as otherwise provided in this section, unless it is made before he completes nineteen years of service for which he is entitled to credit in the computation of his basic pay, the election must be made at least two years before the first day for which retired pay or retainer pay is granted. However, if, because of military operations, a member is assigned to an isolated station or is missing, interned in a neutral country, captured by a hostile force, or beleaguered or besieged, and for that reason is unable to make an election before completing nineteen years of that service, he may make the election, to become effective immediately, within one year after he ceases to be assigned to that station or returns to the jurisdiction of his armed force, as the case may be. A member to whom retired pay or retainer pay is granted retroactively, and who is otherwise eligible to make an election, may make the election within ninety days after receiving notice that such pay has been granted to him. An election made after August 13, 1968, is not effective if—
 
 &emsp;(1) the elector dies during the first thirty-day period he is entitled to retired pay as a result of a physical condition which led to his being granted retired pay under chapter 61 of title 10 with a disability of 100 per centum under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination of the per centum of his disability;
 
@@ -68,19 +68,19 @@ The change makes clear that section 1431 applies to a person who, because of mil
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–106 substituted “section 12774(a)” for “section 1376(a)”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted “section 12774(a)” for “section 1376(a)”.
 
-1989—Subsec. (b)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1985—Subsec. (b)(3). Pub. L. 99–145 substituted “surviving spouse” for “widow”.
+<b>1985</b>—Subsec. (b)(3). Pub. L. 99–145 substituted “surviving spouse” for “widow”.
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “August 13, 1968,” for “the date of enactment of this amendment”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “August 13, 1968,” for “the date of enactment of this amendment”.
 
-1968—Subsec. (b). Pub. L. 90–485, §1(1), increased from eighteen to nineteen the number of years of service the annuitant must complete, decreased from three to two years before eligibility the time required to make an election, and inserted provisions that an election made after Aug. 13, 1968 will not be effective if the conditions of cls. (1) to (3) are satisfied.
+<b>1968</b>—Subsec. (b). Pub. L. 90–485, §1(1), increased from eighteen to nineteen the number of years of service the annuitant must complete, decreased from three to two years before eligibility the time required to make an election, and inserted provisions that an election made after Aug. 13, 1968 will not be effective if the conditions of cls. (1) to (3) are satisfied.
 
 Subsec. (c). Pub. L. 90–485, §1(2), decreased from three to two years before the first day for which retired or retainer pay is granted the time required to change or revoke an election when the ground of restored mental competency is not present, inserted provision that any change or revocation in an election after the completion of 19 years of service is effective if made before the first day for which retired or retainer pay is granted, and provided for a change or revocation in an election before the first day for which retired or retainer pay is granted when there is a change in marital or dependency status, if such change or revocation of election is made within two years of such change in marital or dependency status.
 
-1961—Subsec. (a). Pub. L. 87–381 substituted “other than a list maintained under section 1376(a) of this title” for “or who are in the Retired Reserve”, redesignated pars. (4) and (5) as (2) and (3), and struck out former pars. (2) and (3) which related to reserves on an inactive status list, and members assigned to the inactive National Guard, respectively.
+<b>1961</b>—Subsec. (a). Pub. L. 87–381 substituted “other than a list maintained under section 1376(a) of this title” for “or who are in the Retired Reserve”, redesignated pars. (4) and (5) as (2) and (3), and struck out former pars. (2) and (3) which related to reserves on an inactive status list, and members assigned to the inactive National Guard, respectively.
 
 Subsec. (b). Pub. L. 87–381 required that unless the election is made before 18 years of service, it must be made at least three years before the first day for which retired or retainer pay is granted, inserted assignment to an isolated station among the reasons permitting a delayed election, changed the period within which to make such delayed election from within six months after return to the jurisdiction of his armed force, to within one year after he ceases to be assigned to the isolated station or his return to the jurisdiction of his armed force, and if the member is retroactively granted retired or retainer pay, and is eligible for an election, he may elect within 90 days after notice of such grant.
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 87–381 substituted “the first day for which retired or 
 
 Subsec. (d). Pub. L. 87–381 substituted permission to make a corrected election within 90 days after notice that the election is void for any reason, except fraud or willful intent of the member making election, with such election effective as of the date of the election it replaces, for provisions which denied the ability to revoke any election by a person retired or granted retired or retainer pay before Nov. 1, 1953, and who elected within 180 days after that date to receive reduced pay to provide for an annuity.
 
-1958—Subsec. (b). Pub. L. 85–861 struck out “in action” after “he is missing”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 struck out “in action” after “he is missing”.
 
 #### Effective Date of 1996 Amendment
 
@@ -120,7 +120,7 @@ Section 3 of Pub. L. 90–485 provided that: “For members to whom section 1431
 
 #### Election of Annuity Made Prior to August 13, 1968
 
-Section 4 of Pub. L. 90–485 provided that: “A retired member who elected an annuity under chapter 73 of title 10, United States Code \[this chapter\], before the date of enactment of this Act \[Aug. 13, 1968\], but did not make the election that was then provided by section 1434(c) of that title, may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, make that election. That election becomes effective on the first day of the month following the month in which the election is made. Under regulations prescribed under section 1444(a) of this title, on or before the effective date the retired member must pay the total additional amount that would otherwise have been deducted from his retired or retainer pay to reflect such an election, had it been effective when he retired, plus the interest which would have accrued on that additional amount up to the effective date, except that if an undue hardship or financial burden would otherwise result payment may be made in from two to twelve monthly installments when the monthly amounts involved are $25, or less, or in from two to thirty-six monthly installments when the monthly amounts involved exceed $25. No amounts by which a member's retired or retainer pay was reduced may be refunded to, or credited on behalf of, the retired member by virtue of an application made by him under this section. A retired member described in the first sentence of this section, who does not make the election provided under this section, will not be allowed under section 1436(b) of title 10, to reduce an annuity or withdraw from participation in an annuity program under that title.”
+Section 4 of Pub. L. 90–485 provided that: “A retired member who elected an annuity under chapter 73 of title 10, United States Code \[this chapter\], before the date of enactment of this Act \[Aug. 13, 1968\], but did not make the election that was then provided by section 1434(c) of that title, may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, make that election. That election becomes effective on the first day of the month following the month in which the election is made. Under regulations prescribed under section 1444(a) of this title, on or before the effective date the retired member must pay the total additional amount that would otherwise have been deducted from his retired or retainer pay to reflect such an election, had it been effective when he retired, plus the interest whichwould have accrued on that additional amount up to the effective date, except that if an undue hardship or financial burden would otherwise result payment may be made in from two to twelve monthly installments when the monthly amounts involved are $25, or less, or in from two to thirty-six monthly installments when the monthly amounts involved exceed $25. No amounts by which a member's retired or retainer pay was reduced may be refunded to, or credited on behalf of, the retired member by virtue of an application made by him under this section. A retired member described in the first sentence of this section, who does not make the election provided under this section, will not be allowed under section 1436(b) of title 10, to reduce an annuity or withdraw from participation in an annuity program under that title.”
 
 #### Elections Subject to Cost Tables Applicable on Date of Retirement; Annuities Payable to Beneficiaries Eligible Under Law in Effect the Day Prior to August 13, 1968
 
@@ -162,7 +162,7 @@ Pub. L. 86–197, §4, Aug. 25, 1959, 73 Stat. 426, provided that: “Any person
 
 #### Change or Revocation of Election by Certain Officers
 
-Effective date of change or revocation of election by certain officers, see section 3 of Pub. L. 86–155, Aug. 11, 1959, 73 Stat. 336, set out as a note under section 5701 of this title.
+Effective date of change or revocation of election by certain officers, see section 3 of Pub. L. 86–155, Aug. 11,1959, 73 Stat. 336, set out as a note under section 5701 of this title.
 
 #### Public Health Service
 

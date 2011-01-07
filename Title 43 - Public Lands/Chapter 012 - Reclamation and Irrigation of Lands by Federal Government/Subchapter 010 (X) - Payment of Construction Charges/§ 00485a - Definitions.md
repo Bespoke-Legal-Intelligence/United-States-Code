@@ -26,11 +26,11 @@ As used in this subchapter—
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of Title 41, Public Contracts, and enacted provision set out as a note under section 485j of this title. For complete classification of this Act to the Code, see section 485k of this title and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under section 485j of this title. For complete classification of this Act to the Code, see section 485k of this title and Tables.
 
 Act of June 17, 1902, referred to in subsec. (a), is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Amendments
 
-1958—Subsecs. (h) to (k). Pub. L. 85–611 repealed subsec. (h) which defined “annual returns” and “normal returns”, and redesignated subsecs. (i) to (k) as (h) to (j), respectively.
+<b>1958</b>—Subsecs. (h) to (k). Pub. L. 85–611 repealed subsec. (h) which defined “annual returns” and “normal returns”, and redesignated subsecs. (i) to (k) as (h) to (j), respectively.
 

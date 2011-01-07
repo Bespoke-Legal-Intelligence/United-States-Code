@@ -16,7 +16,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 Provisions similar to those in this section were contained in the following prior authorization acts:
 
-1980—Pub. L. 96–229, §2(e), Apr. 7, 1980, 94 Stat. 327.
+<b>1980</b>—Pub. L. 96–229, §2(e), Apr. 7, 1980, 94 Stat. 327.
 
-1977—Pub. L. 95–155, §6, Nov. 8, 1977, 91 Stat. 1259.
+<b>1977</b>—Pub. L. 95–155, §6, Nov. 8, 1977, 91 Stat. 1259.
 

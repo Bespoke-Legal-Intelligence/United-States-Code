@@ -40,9 +40,9 @@ Definitions.—In this section:
 
 #### Amendments
 
-2008—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-2004—Pub. L. 108–375 renumbered section 2489a of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2489a of this title as this section.
 
 #### Effective Date
 

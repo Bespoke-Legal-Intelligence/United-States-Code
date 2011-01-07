@@ -44,7 +44,7 @@ In carrying out his duties under this chapter, the Secretary shall, within six m
 
 #### (h) Observation, monitoring, and reporting requirements; public inspection
 
-The terms and conditions prescribed by the Secretary under this subsection shall requiresuch observation, monitoring, and reporting requirements as the Secretary deems necessary for a period of five years and shall provide for members of the public to view and inspect the system under reasonable conditions.
+The terms and conditions prescribed by the Secretary under this subsection shall require such observation, monitoring, and reporting requirements as the Secretary deems necessary for a period of five years and shall provide for members of the public to view and inspect the system under reasonable conditions.
 
 #### (i) Termination of new Federal assistance and Federal assistance programs
 

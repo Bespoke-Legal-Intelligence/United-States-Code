@@ -32,34 +32,37 @@
 | :--- | ---: |
 | [3299\.](%C2%A7%2003299%20-%20Child%20abduction%20and%20sex%20offenses.md) | Child abduction and sex offenses <sup>2</sup> |
 | [3300\.](%C2%A7%2003300%20-%20Recruitment%20or%20use%20of%20child%20soldiers.md) | Recruitment or use of child soldiers. |
+| [3301\.](%C2%A7%2003301%20-%20Securities%20fraud%20offenses.md) | Securities fraud offenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2008—Pub. L. 110–340, §2(a)(3)(B), Oct. 3, 2008, 122 Stat. 3736, added item 3300.
+<b>2010</b>—Pub. L. 111–203, title X, §1079A(b)(2), July 21, 2010, 124 Stat. 2079, added item 3301.
 
-2006—Pub. L. 109–248, title II, §211(2), July 27, 2006, 120 Stat. 616, added item 3299.
+<b>2008</b>—Pub. L. 110–340, §2(a)(3)(B), Oct. 3, 2008, 122 Stat. 3736, added item 3300.
+
+<b>2006</b>—Pub. L. 109–248, title II, §211(2), July 27, 2006, 120 Stat. 616, added item 3299.
 
 Pub. L. 109–162, title XI, §1182(b), Jan. 5, 2006, 119 Stat. 3126, added item 3298.
 
-2004—Pub. L. 108–405, title II, §204(b), Oct. 30, 2004, 118 Stat. 2271, added item 3297.
+<b>2004</b>—Pub. L. 108–405, title II, §204(b), Oct. 30, 2004, 118 Stat. 2271, added item 3297.
 
-2002—Pub. L. 107–273, div. B, title III, §3003(b), Nov. 2, 2002, 116 Stat. 1805, added item 3296.
+<b>2002</b>—Pub. L. 107–273, div. B, title III, §3003(b), Nov. 2, 2002, 116 Stat. 1805, added item 3296.
 
-1996—Pub. L. 104–132, title VII, §708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
+<b>1996</b>—Pub. L. 104–132, title VII, §708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
 
-1994—Pub. L. 103–322, title XII, §120001(c), title XXXII, §320902(d)(2), title XXXIII, §330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
+<b>1994</b>—Pub. L. 103–322, title XII, §120001(c), title XXXII, §320902(d)(2), title XXXIII, §330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
 
-1990—Pub. L. 101–647, title XII, §1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 3286 “Seduction on vessel of United States”.
+<b>1990</b>—Pub. L. 101–647, title XII, §1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 3286 “Seduction on vessel of United States”.
 
-1989—Pub. L. 101–73, title IX, §961(<i>l</i>)(2), Aug. 9, 1989, 103 Stat. 501, added item 3293.
+<b>1989</b>—Pub. L. 101–73, title IX, §961(<i>l</i>)(2), Aug. 9, 1989, 103 Stat. 501, added item 3293.
 
-1988—Pub. L. 100–690, title VII, §7081(c), Nov. 18, 1988, 102 Stat. 4407, substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
+<b>1988</b>—Pub. L. 100–690, title VII, §7081(c), Nov. 18, 1988, 102 Stat. 4407, substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
 
-1984—Pub. L. 98–473, title II, §1218(b), Oct. 12, 1984, 98 Stat. 2167, added item 3292.
+<b>1984</b>—Pub. L. 98–473, title II, §1218(b), Oct. 12, 1984, 98 Stat. 2167, added item 3292.
 
-1951—Act June 30, 1951, ch. 194, §2, 65 Stat. 107, added item 3291.
+<b>1951</b>—Act June 30, 1951, ch. 194, §2, 65 Stat. 107, added item 3291.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–21 without corresponding amendment of chapter analysis.</i>
 
@@ -90,3 +93,4 @@ Pub. L. 109–162, title XI, §1182(b), Jan. 5, 2006, 119 Stat. 3126, added item
 - [&sect; 03298 - Trafficking-related offenses](%C2%A7%2003298%20-%20Trafficking-related%20offenses.md)
 - [&sect; 03299 - Child abduction and sex offenses](%C2%A7%2003299%20-%20Child%20abduction%20and%20sex%20offenses.md)
 - [&sect; 03300 - Recruitment or use of child soldiers](%C2%A7%2003300%20-%20Recruitment%20or%20use%20of%20child%20soldiers.md)
+- [&sect; 03301 - Securities fraud offenses](%C2%A7%2003301%20-%20Securities%20fraud%20offenses.md)

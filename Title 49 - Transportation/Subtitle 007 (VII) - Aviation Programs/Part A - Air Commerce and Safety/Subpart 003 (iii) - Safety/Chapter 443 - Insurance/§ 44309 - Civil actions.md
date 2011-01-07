@@ -36,7 +36,7 @@ Time Requirements.—When an insurance claim is made under this chapter, the per
 
 Interpleader.—(1) If the Secretary admits the Government owes money under an insurance claim under this chapter and there is a dispute about the person that is entitled to payment, the Government may bring a civil action of interpleader in a district court of the United States against the persons that may be entitled to payment. The action may be brought in the judicial district for the District of Columbia or in the judicial district in which any party resides.
 
-(2) The district court may order a party not residing or found in the judicial district in which the action is brought to appear in a civil action under this subsection. The order shall be served in a reasonable manner decided by the district court. If the court decides an unknown person might assert a claim under the insurance that is the subject of the action, the court may order service on that person by publication in the Federal Register.
+(2) The district court may order a party not residing or found in the judicial district inwhich the action is brought to appear in a civil action under this subsection. The order shall be served in a reasonable manner decided by the district court. If the court decides an unknown person might assert a claim under the insurance that is the subject of the action, the court may order service on that person by publication in the Federal Register.
 
 (3) Judgment in a civil action under this subsection discharges the Government from further liability to the parties to the action and to all other persons served by publication under paragraph (2) of this subsection.
 
@@ -90,5 +90,5 @@ In subsection (d)(3), the words “in a civil action under this subsection” ar
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28 applies to an action under this subsection.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28 applies to an action under this subsection.”
 

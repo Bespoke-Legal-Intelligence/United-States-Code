@@ -32,7 +32,7 @@ Volunteers shall not be deemed employees of the United States except for the pur
 
 &emsp;(2) subchapter 1 <sup>1</sup> of chapter 81 of title 5; and
 
-&emsp;(3) claims relating to damage to, or loss of, personal property of a volunteer incident tovolunteer service, in which case the provisions of section 3721 of title 31 shall apply.
+&emsp;(3) claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
 
 #### (g) Authorization of appropriations
 
@@ -42,9 +42,9 @@ Effective with fiscal years beginning after September 30, 1984, there are author
 
 #### Amendments
 
-1990—Subsec. (f). Pub. L. 101–286 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Volunteers shall not be deemed employees of the United States except for the purposes of the tort claims provisions of title 28 and subchapter 1 of chapter 81 of title 5, relating to compensation for work injuries.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–286 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Volunteers shall not be deemed employees of the United States except for the purposes of the tort claims provisions of title 28 and subchapter 1 of chapter 81 of title 5, relating to compensation for work injuries.”
 
-1984—Subsecs. (d) to (g). Pub. L. 98–540 added subsecs. (d) to (g).
+<b>1984</b>—Subsecs. (d) to (g). Pub. L. 98–540 added subsecs. (d) to (g).
 
 <i><sup>1</sup></i><i> So in original. Probably should be subchapter “I”.</i>
 

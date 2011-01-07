@@ -34,7 +34,7 @@ In recognizing the District of Columbia as a separate circuit, the Supreme Court
 
 See section 17 of title 28, U.S.C., 1940 ed., providing, “For the purposes of sections 17–23 of this title, the District of Columbia shall be deemed to be a judicial circuit \* \* \*”, and act Dec. 23, 1944, ch. 724, 58 Stat. 925, which amended section 215 of title 28, U.S.C., 1940 ed., incorporated in section 42 of this title. Such amendment provided that for the purposes of said section 215 “the District of Columbia shall be deemed to be a judicial circuit.”
 
-Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835,56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
+Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835, 56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
 
 See also the following acts recognizing the Court of Appeals for the District of Columbia as a circuit court of appeals: Aug. 15, 1921, ch. 64, 42 Stat. 162; July 5, 1935, ch. 372, 49 Stat. 454; Aug. 24, 1937, ch. 754, 50 Stat. 751; Apr. 6, 1942, ch. 210, 56 Stat. 198; May 9, 1942, ch. 295, 56 Stat. 271. See also Rule 81(d) Federal Rules of Civil Procedure.
 
@@ -46,11 +46,11 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 
 #### Amendments
 
-1982—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
+<b>1982</b>—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
 
-1980—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
+<b>1980</b>—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
-1951—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
 
 #### Effective Date of 1982 Amendment
 
@@ -96,7 +96,7 @@ Sections 5 to 10 of Pub. L. 96–452 provided that:
 
 &emsp;“(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced, and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
 
-&emsp;“(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act \[Oct. 1, 1981\], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted, the matter shall be reheard by a court comprised as though this Act had not been enacted.
+&emsp;“(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act \[Oct. 1, 1981\], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted,the matter shall be reheard by a court comprised as though this Act had not been enacted.
 
 “Sec. 10. As used in sections 5, 6, 7, 8, and 9 of this Act, the term—
 

@@ -8,7 +8,7 @@ Until the local educational agency with authority over a school has submitted a 
 
 &emsp;&emsp;(A) the school is carrying out work under a grant awarded under section 4014 of title 20; or
 
-&emsp;&emsp;(B) an inspection that complies with the requirements of regulations promulgated under section 2643 of this title has been carried out in the school and the agency complies with the following sections of title 40 of the Code of Federal Regulations:
+&emsp;&emsp;(B) an inspection that complies with the requirements of regulations promulgatedunder section 2643 of this title has been carried out in the school and the agency complies with the following sections of title 40 of the Code of Federal Regulations:
 
 &emsp;&emsp;&emsp;(i) Paragraphs (g), (h), and (i) of section 763.90 (response actions).
 

@@ -192,13 +192,13 @@ In this section:
 
 &emsp;&emsp;(A) any maritime security, maritime safety, or environmental protection mission or activity of the Coast Guard;
 
-&emsp;&emsp;(B) any border security operation or law enforcement activity by the Department ofHomeland Security or the Department of Justice; or
+&emsp;&emsp;(B) any border security operation or law enforcement activity by the Department of Homeland Security or the Department of Justice; or
 
 &emsp;&emsp;(C) any law enforcement activity of any Federal, State, or local law enforcement agency in the Outstanding Natural Area.
 
 #### (7) Future disposition of Coast Guard facilities
 
-&emsp;If the Commandant determines, after May 8, 2008, that Coast Guard facilities within the Outstanding Natural Area exceed the needs of the Coast Guard, the Commandant may relinquish the facilities to the Secretary without removal, subject only to any environmental remediation that may be required by law.
+&emsp;If the Commandant determines, after May 8, 2008, that Coast Guard facilities within theOutstanding Natural Area exceed the needs of the Coast Guard, the Commandant may relinquish the facilities to the Secretary without removal, subject only to any environmental remediation that may be required by law.
 
 #### (e) Effect on ongoing and future Coast Guard operations
 
@@ -229,4 +229,6 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1
 #### Codification
 
 Section was enacted as part of the Consolidated Natural Resources Act of 2008, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. The word “Management” probably should not appear.</i>
 

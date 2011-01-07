@@ -22,7 +22,7 @@ Property includible in the decedent's gross estate under section 2041 (relating 
 
 #### (c) Death taxes payable out of bequests
 
-If the tax imposed by section 2001, or any estate, succession, legacy, or inheritance taxes, are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this section, then the amount deductible under this section shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
+If the tax imposed by section 2001, or any estate, succession, legacy, or inheritance taxes,are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this section, then the amount deductible under this section shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
 
 #### (d) Limitation on deduction
 
@@ -78,7 +78,7 @@ In general.—The term “reformable interest” means any interest for which a 
 
 &emsp;&emsp;(ii)
 
-Beneficiary's interest must be fixed.—The term “reformable interest” does not include any interest unless, before theremainder vests in possession, all payments to persons other than an organization described in subsection (a) are expressed either in specified dollar amounts or a fixed percentage of the fair market value of the property. For purposes of determining whether all such payments are expressed as a fixed percentage of the fair market value of the property, section 664(d)(3) shall be taken into account.
+Beneficiary's interest must be fixed.—The term “reformable interest” does not include any interest unless, before the remainder vests in possession, all payments to persons other than an organization described in subsection (a) are expressed either in specified dollar amounts or a fixed percentage of the fair market value of the property. For purposes of determining whether all such payments are expressed as a fixed percentage of the fair market value of the property, section 664(d)(3) shall be taken into account.
 
 &emsp;&emsp;(iii)
 
@@ -152,7 +152,7 @@ Qualified organization defined.—For purposes of this paragraph, the term “qu
 
 (5)
 
-Contributions to donor advised funds.—A deduction otherwise allowed under subsection\(a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if—
+Contributions to donor advised funds.—A deduction otherwise allowed under subsection (a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if—
 
 &emsp;(A) the sponsoring organization (as defined in section 4966(d)(1)) with respect to such donor advised fund is not—
 
@@ -178,7 +178,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(5) For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191).</b>
 
-&emsp;&emsp;<b>(6) For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.</b>
+&emsp;&emsp;<b>(6) For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development</b><b>Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.</b>
 
 &emsp;&emsp;<b>(7) For treatment of gifts or bequests of money accepted by the Attorney General for credit to “Commissary Funds, Federal Prisons,” as gifts or bequests to or for the use of the United States, see section 4043 of title 18, United States Code.</b>
 
@@ -204,7 +204,7 @@ Sections 1218(b) and 1234(b) of Pub. L. 109–280, which directed the amendment 
 
 #### Amendments
 
-2007—Subsecs. (g), (h). Pub. L. 110–172 redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows:
+<b>2007</b>—Subsecs. (g), (h). Pub. L. 110–172 redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
 “(1)
 
@@ -226,45 +226,45 @@ Additional contribution.—The term ‘additional contribution’ means a beques
 
 Initial fractional contribution.—The term ‘initial fractional contribution’ means, with respect to any decedent, any charitable contribution of an undivided portion of the decedent's entire interest in any tangible personal property for which a deduction was allowed under section 170.”
 
-2006—Subsec. (e)(5). Pub. L. 109–280, §1234(b), added par. (5). See Codification note above.
+<b>2006</b>—Subsec. (e)(5). Pub. L. 109–280, §1234(b), added par. (5). See Codification note above.
 
 Subsecs. (g), (h). Pub. L. 109–280, §1218(b), added subsec. (g) and redesignated former subsec. (g) as (h). See Codification note above.
 
-1997—Subsec. (a)(5). Pub. L. 105–34, §1530(c)(7), added par. (5).
+<b>1997</b>—Subsec. (a)(5). Pub. L. 105–34, §1530(c)(7), added par. (5).
 
 Subsec. (e)(3)(G). Pub. L. 105–34, §1089(b)(5), inserted “(or other proceeding pursuant to subparagraph (J)” after “reformation”.
 
 Subsec. (e)(3)(J). Pub. L. 105–34, §1089(b)(3), added subpar. (J).
 
-1996—Subsec. (g)(4). Pub. L. 104–201 amended par. (4) generally, substituting reference to Naval Historical Center for reference to Office of Naval Records and History.
+<b>1996</b>—Subsec. (g)(4). Pub. L. 104–201 amended par. (4) generally, substituting reference to Naval Historical Center for reference to Office of Naval Records and History.
 
-1987—Subsec. (a)(2), (3). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
+<b>1987</b>—Subsec. (a)(2), (3). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
 
-1986—Subsecs. (f), (g). Pub. L. 99–514 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1986</b>—Subsecs. (f), (g). Pub. L. 99–514 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1984—Subsec. (e)(3). Pub. L. 98–369, §1022(a), amended par. (3) generally, substituting provisions relating to reformations to comply with par. (2), defining “qualified reformation”, “reformable interest”, and “qualified interest”, and setting forth limitations on the deduction, a special rule where the income beneficiary dies, statute of limitations, regulations prescribed by the Secretary, and reformations permitted in the case of remainder interests in a residence or farm, pooled income funds, etc., for former par. (3), which provided: “In the case of a will executed before December 31, 1978, or a trust created before such date, if a deduction is not allowable at the time of the decedent's death because of the failure of an interest in property which passes from the decedent to a person, or for a use, described in subsection (a) to meet the requirements of subparagraph (A) or (B) of paragraph (2) of this subsection, and if the governing instrument is amended or conformed on or before December 31, 1981, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1981, (which are required to amend or conform the governing instrument), become final, so that the interest is in a trust which meets the requirements of such subparagraph (A) or (B) (as the case may be), a deduction shall nevertheless be allowed. The Secretary may, by regulation, provide for the application of the provisions of this paragraph to trusts whose governing instruments are amended or conformed in accordance with this paragraph, and such regulations may provide for any adjustments in the application of the provisions of section 508 (relating to special rules with respect to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations), to such trusts made necessary by the application of this paragraph. If, by the due date for the filing of an estate tax return (including any extension thereof), the interest is in a charitable trust which, upon allowance of a deduction, would be described in section 4947(a)(1), or the interest passes directly to a person or for a use described in subsection (a), a deduction shall be allowed as if the governing instrument was amended or conformed under this paragraph. If the amendment or conformation of the governing instrument is made after the due date for the filing of the estate tax return (including any extension thereof), the deduction shall be allowed upon the filing of a timely claim for credit or refund (as provided for in section 6511) of an overpayment resulting from the application of this paragraph. In the case of a credit or refund as a result of an amendment or conformation made pursuant to this paragraph, no interest shall be allowed for the period prior to the expiration of the 180th day after the date on which the claim for credit or refund is filed.”
+<b>1984</b>—Subsec. (e)(3). Pub. L. 98–369, §1022(a), amended par. (3) generally, substituting provisions relating to reformations to comply with par. (2), defining “qualified reformation”, “reformable interest”, and “qualified interest”, and setting forth limitations on the deduction, a special rule where the income beneficiary dies, statute of limitations, regulations prescribed by the Secretary, and reformations permitted in the case of remainder interests in a residence or farm, pooled income funds, etc., for former par. (3), which provided: “In the case of a will executed before December 31, 1978, or a trust created before such date, if a deduction is not allowable at the time of the decedent's death because of the failure of an interest in property which passes from the decedent to a person, or for a use, described in subsection (a) to meet the requirements of subparagraph (A) or (B) of paragraph (2) of this subsection, and if the governing instrument is amended or conformed on or before December 31, 1981, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1981, (which are required to amend or conform the governing instrument), become final, so that the interest is in a trust which meets the requirements of such subparagraph (A) or (B) (as the case may be), a deduction shall nevertheless be allowed. The Secretary may, by regulation, provide for the application of the provisions of this paragraph to trusts whose governing instruments are amended or conformed in accordance with this paragraph, and such regulations may provide for any adjustments in the application of the provisions of section 508 (relating to special rules with respect to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations), to such trusts made necessary by the application of this paragraph. If, by the due date for the filing of an estate tax return (including any extension thereof), the interest is in a charitable trust which, upon allowance of a deduction, would be described in section 4947(a)(1), or the interest passes directly to a person or for a use described in subsection (a), a deduction shall be allowed as if the governing instrument was amended or conformed under this paragraph. If the amendment or conformation of the governing instrument is made after the due date for the filing of the estate tax return (including any extension thereof), the deduction shall be allowed upon the filing of a timely claim for credit or refund (as provided for in section 6511) of an overpayment resulting from the application of this paragraph. In the case of a credit or refund as a result of an amendment or conformation made pursuant to this paragraph, no interest shall be allowed for the period prior to the expiration of the 180th day after the date on which the claim for credit or refund is filed.”
 
 Subsec. (f)(2). Pub. L. 98–369, §1032(b)(2), added par. (2), and redesignated former pars. (2) to (11) as pars. (3) to (12), respectively.
 
-1983—Subsec. (f)(11). Pub. L. 97–473 added par. (11).
+<b>1983</b>—Subsec. (f)(11). Pub. L. 97–473 added par. (11).
 
-1982—Subsec. (a). Pub. L. 97–248 inserted provision that rules similar to the rules of section 501(j) of this title shall apply for purposes of par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted provision that rules similar to the rules of section 501(j) of this title shall apply for purposes of par. (2).
 
 Subsec. (f)(6). Pub. L. 97–258, §3(f)(1), substituted “section 4043 of title 18, United States Code” for “section 2 of the Act of May 15, 1952, as amended by the Act of July 9, 1952 (31 U.S.C. 725s–4)”.
 
 Subsec. (f)(7). Pub. L. 97–258, §3(f)(2), substituted “section 3113(e) of title 31, United States Code” for “section 24 of the Second Liberty Bond Act (31 U.S.C. 757e)”.
 
-1981—Subsec. (e)(4). Pub. L. 97–34 added par. (4).
+<b>1981</b>—Subsec. (e)(4). Pub. L. 97–34 added par. (4).
 
-1980—Subsec. (e)(3). Pub. L. 96–605 substituted “December 31, 1978” for “December 31, 1977” and “December 31, 1981” for “December 31, 1978” in two places.
+<b>1980</b>—Subsec. (e)(3). Pub. L. 96–605 substituted “December 31, 1978” for “December 31, 1977” and “December 31, 1981” for “December 31, 1978” in two places.
 
 Pub. L. 96–222 substituted “such subparagraph (A) or (B)” for “such subparagraph (a) or (B)” and “so that the interest” for “so that interest”.
 
 Subsec. (f)(5). Pub. L. 96–465, among other changes, inserted references to the Director of the International Communication Agency and the Director of the United States International Development Cooperation Agency and substituted reference to section 25 of the State Department Basic Authorities Act of 1956 for reference to section 1021(e) of the Foreign Service Act of 1946.
 
-1978—Subsec. (e)(3). Pub. L. 95–600 inserted “or (B)” before “of paragraph (2)”, substituted “on or before December 31, 1978” for “on or before December 31, 1977” wherever appearing and “which meets the requirements of such subparagraph (a) or (B) (as the case may be),” for “which is a charitable remainder annuity trust, a charitable remainder unitrust (described in section 664), or a pooled income fund (described in section 642(c)(5)),”.
+<b>1978</b>—Subsec. (e)(3). Pub. L. 95–600 inserted “or (B)” before “of paragraph (2)”, substituted “on or before December 31, 1978” for “on or before December 31, 1977” wherever appearing and “which meets the requirements of such subparagraph (a) or (B) (as the case may be),” for “which is a charitable remainder annuity trust, a charitable remainder unitrust (described in section 664), or a pooled income fund (described in section 642(c)(5)),”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
 
 Subsec. (b). Pub. L. 94–455, §1902(a)(4)(A), struck out provisions under which a bequest in trust, if the surviving spouse of the decedent was entitled for life to all of the net income from the trust and the surviving spouse had a power of appointment over the corpus of that trust exercisable by will in favor of, among others, organizations described in subsec. (a)(2), could be deemed a transfer to the organization by the decedent under certain conditions.
 
@@ -274,19 +274,19 @@ Subsec. (e)(3). Pub. L. 94–455, §1304(a), §1906(b)(13)(A), substituted “wi
 
 Subsec. (f). Pub. L. 94–455, §1902(a)(4)(B), extended par. (2) by inserting reference to gifts, struck out par. (3) which made a cross reference to section 2 of the Act of Aug. 8, 1946 (60 Stat. 924; 5 U.S.C. 393) for construction of bequests for benefit of the library of the Post Office Department as bequests to or for the use of the United States, redesignated pars. (4)–(11) as (3)–(10), respectively, substituted “For treatment of gifts and bequests for the benefit of the Office of Naval Records and History as gifts or bequests to or for the use of the United States, see section 7222 of title 10, United States Code” for “For exemption of bequests for benefit of Office of Naval Records and Library, Navy Department, see section 2 of the Act of March 4, 1937 (50 Stat. 25; 5 U.S.C. 419b)” in par. (3) as so redesignated, substituted “For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191)” for “For exemption of bequests to or for benefit of National Park Service, see section 5 of the Act of July 10, 1935 (49 Stat. 478; 16 U.S.C. 19c)” in par. (4) as so redesignated, and corrected obsolete and inaccurate references in pars. (5)–(10) as so redesignated.
 
-1974—Subsec. (e)(3). Pub. L. 93–483 added par. (3).
+<b>1974</b>—Subsec. (e)(3). Pub. L. 93–483 added par. (3).
 
-1970—Subsec. (b)(2)(C). Pub. L. 91–614 substituted “6 months” for “one year”.
+<b>1970</b>—Subsec. (b)(2)(C). Pub. L. 91–614 substituted “6 months” for “one year”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §201(d)(4)(A) (i), inserted non-participation and non-intervention in political campaigns as an additional qualification.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §201(d)(4)(A) (i), inserted non-participation and non-intervention in political campaigns as an additional qualification.
 
 Subsec. (a)(3). Pub. L. 91–172, §201(d)(4)(A)(ii), inserted non-participation and non-intervention in political campaigns as an additional qualification.
 
 Subsec. (e). Pub. L. 91–172, §201(d)(1), substituted substantive provisions for simple reference to sections 503 and 681 of this title in which such substantive provisions were formerly set out.
 
-1958—Subsec. (e). Pub. L. 85–866 substituted “503” for “504”.
+<b>1958</b>—Subsec. (e). Pub. L. 85–866 substituted “503” for “504”.
 
-1956—Subsec. (b). Act Aug. 6, 1956, designated existing provisions as par. (1) and added par. (2).
+<b>1956</b>—Subsec. (b). Act Aug. 6, 1956, designated existing provisions as par. (1) and added par. (2).
 
 #### Change of Name
 
@@ -294,7 +294,7 @@ International Communication Agency, and Director thereof, redesignated United St
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

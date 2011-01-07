@@ -1,6 +1,6 @@
 ### §327. Employment of professional persons
 
-(a) Except as otherwise provided in this section, the trustee, with the court's approval, may employ one or more attorneys, accountants, appraisers, auctioneers, or other professional persons, that do not hold or represent an interest adverse to the estate, and that are disinterested persons, to represent or assist the trustee in carrying out the trustee's duties under this title.
+(a) Except as otherwise provided in this section, the trustee, with the court's approval, may employ one or more attorneys, accountants, appraisers, auctioneers, or other professional persons, that do not hold or represent an interest adverse to the estate, and that are disinterestedpersons, to represent or assist the trustee in carrying out the trustee's duties under this title.
 
 (b) If the trustee is authorized to operate the business of the debtor under section 721, 1202, or 1108 of this title, and if the debtor has regularly employed attorneys, accountants, or other professional persons on salary, the trustee may retain or replace such professional persons if necessary in the operation of such business.
 

@@ -6,7 +6,7 @@ Within the recreation area the Secretary is authorized to acquire lands, waters,
 
 #### (b) Manner of acquisition of lands partly within and partly without area; disposal of unutilized lands
 
-When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for suchexchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 #### (c) Acquisition of improved property used for noncommercial residential purposes; retention by owners of right of use and occupancy for residential purposes; terms; payment of fair market value
 
@@ -22,13 +22,13 @@ As used in this section, the term “improved property” means a detached, year
 
 (Pub. L. 95–344, title I, §102, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(c), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 106–154, §2(b), (e)(1), Dec. 9, 1999, 113 Stat. 1737, 1738.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–154, §2(b)(1), inserted “from willing sellers” after “purchase”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–154, §2(b)(1), inserted “from willing sellers” after “purchase”.
 
 Subsec. (d). Pub. L. 106–154, §2(e)(1), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
 
@@ -42,7 +42,5 @@ Subsec. (f). Pub. L. 106–154, §2(b)(2), struck out subsec. (f) which read as 
 
 “(4) The Secretary shall publish a revision of the boundary map referred to in section 460ii of this title to exclude from the boundaries of the recreation area any exchange lands which are used to acquire non-Federal lands under paragraph (3).”
 
-1984—Subsec. (f). Pub. L. 98–568 added subsec. (f).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>1984</b>—Subsec. (f). Pub. L. 98–568 added subsec. (f).
 

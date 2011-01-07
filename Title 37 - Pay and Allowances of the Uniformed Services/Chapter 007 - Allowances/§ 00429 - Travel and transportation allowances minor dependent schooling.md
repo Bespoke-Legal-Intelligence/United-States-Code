@@ -10,7 +10,7 @@ The Defense Dependents’ Education Act of 1978, referred to in text, is Pub. L.
 
 #### Amendments
 
-1985—Pub. L. 99–145 inserted “(20 U.S.C. 921 et seq.)”.
+<b>1985</b>—Pub. L. 99–145 inserted “(20 U.S.C. 921 et seq.)”.
 
 #### Effective Date
 

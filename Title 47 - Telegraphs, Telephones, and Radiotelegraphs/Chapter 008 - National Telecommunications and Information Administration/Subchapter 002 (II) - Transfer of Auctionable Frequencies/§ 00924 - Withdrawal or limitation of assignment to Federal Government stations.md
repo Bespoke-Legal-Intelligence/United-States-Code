@@ -10,7 +10,7 @@ The President shall—
 
 &emsp;(3) by the delayed effective date recommended by the Secretary under section 923(e) of this title (except as provided in subsection (b)(4) of this section), withdraw or limit the assignment to a Federal Government station of any frequency which the report recommends be reallocated or made available for mixed use on such delayed effective date;
 
-&emsp;(4) assign or reassign other frequencies to Federal Government stations as necessary toadjust to such withdrawal or limitation of assignments; and
+&emsp;(4) assign or reassign other frequencies to Federal Government stations as necessary to adjust to such withdrawal or limitation of assignments; and
 
 &emsp;(5) transmit a notice and description to the Commission and each House of Congress of the actions taken under this subsection.
 
@@ -54,7 +54,7 @@ The President shall—
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §3002(d)(2)(A), substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §3002(d)(2)(A), substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
 
 Subsec. (a)(2). Pub. L. 105–33, §3002(d)(2)(B), substituted “any such 6-month period” for “either such 6-month period”.
 

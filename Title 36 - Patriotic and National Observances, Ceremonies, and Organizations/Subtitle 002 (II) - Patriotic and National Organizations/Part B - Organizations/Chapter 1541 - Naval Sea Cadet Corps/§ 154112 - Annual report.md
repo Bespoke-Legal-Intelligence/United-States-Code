@@ -1,6 +1,6 @@
 ### §154112. Annual report
 
-The corporation shall submit an annual report to the Secretary of the Navy on the activities of the corporation during the prior calendar year. The Secretary shall communicate to Congress any part of the report that the Secretary considers appropriate.
+The corporation shall submit an annual report to the Secretary of the Navy on the activities ofthe corporation during the prior calendar year. The Secretary shall communicate to Congress any part of the report that the Secretary considers appropriate.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1434.)
 

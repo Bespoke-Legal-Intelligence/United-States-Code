@@ -28,7 +28,7 @@ To carry out the purposes of this subchapter, the corporation has the powers con
 
 &emsp;(7) to utilize the personnel and facilities of any other agency or department of the United States Government, with or without reimbursement, with the consent of the head of such agency or department; and
 
-&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any andall other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
+&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
 
 #### (c) Omitted
 
@@ -46,7 +46,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (g) Exemption from taxation
 
-(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
+(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
 
 (2) The receipts and disbursements of the corporation in the discharge of its functions shall be included in the totals of the budget of the United States Government. The United States is not liable for any obligation or liability incurred by the corporation.
 
@@ -66,7 +66,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (6) The advisory committee shall appoint and fix the compensation of such employees as it determines necessary to discharge its duties, including experts and consultants in accordance with the provisions of section 3109 of title 5. The corporation shall furnish to the advisory committee such professional, secretarial, and other services as the committee may request.
 
-(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homesor regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
+(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
 
@@ -82,7 +82,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), 
 
 This chapter, referred to in subsecs. (b)(3), (4), (8) and (i), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102,3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
 
 The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
@@ -94,17 +94,17 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
 
-2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
+<b>2002</b>—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
-1989—Subsec. (g)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (g)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (b)(3). Pub. L. 96–364, §403(<i>l</i>), inserted provisions respecting bylaws, etc., to carry out this subchapter.
+<b>1980</b>—Subsec. (b)(3). Pub. L. 96–364, §403(<i>l</i>), inserted provisions respecting bylaws, etc., to carry out this subchapter.
 
 Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to inclusion of receipts and disbursements in United States budget totals and nonliability of United States for obligation or liability of corporation, for provisions relating to noninclusion of receipts and disbursements in United States budget totals, exemption from limitations with respect to budget outlays, and restrictions on liability for obligation or liability incurred by the corporation.
 
-1976—Subsec. (g)(1). Pub. L. 94–455 exempted corporation from all taxation now or hereafter imposed by United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act, and chapter 23 of title 26, relating to Federal Unemployment Tax Act).
+<b>1976</b>—Subsec. (g)(1). Pub. L. 94–455 exempted corporation from all taxation now or hereafter imposed by United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act, and chapter 23 of title 26, relating to Federal Unemployment Tax Act).
 
 #### Effective Date of 2002 Amendment
 
@@ -130,5 +130,5 @@ Pub. L. 109–280, title IV, §411(d), Aug. 17, 2006, 120 Stat. 936, provided th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

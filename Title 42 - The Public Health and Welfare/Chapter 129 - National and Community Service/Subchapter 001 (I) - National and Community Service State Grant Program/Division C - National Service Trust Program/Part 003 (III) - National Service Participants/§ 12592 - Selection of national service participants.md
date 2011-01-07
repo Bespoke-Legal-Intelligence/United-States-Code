@@ -38,7 +38,7 @@ The Corporation and each State Commission shall establish a system to recruit in
 
 #### (3) Assignment
 
-&emsp;At the request of a program that receives assistance under the national service laws, theCorporation may assign an individual who receives leadership training under paragraph (1) to work with the program in a leadership position and carry out assignments not otherwise performed by regular participants. An individual assigned to a program shall be considered to be a participant of the program.
+&emsp;At the request of a program that receives assistance under the national service laws, the Corporation may assign an individual who receives leadership training under paragraph (1) to work with the program in a leadership position and carry out assignments not otherwise performed by regular participants. An individual assigned to a program shall be considered to be a participant of the program.
 
 #### (f) Evaluation of service
 
@@ -56,7 +56,7 @@ Part D of this subchapter, as in effect on the day before September 21, 1993, re
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1313(1), substituted “conducted by the entity” for “conducted by the State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, Federal agency, or other entity”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1313(1), substituted “conducted by the entity” for “conducted by the State, subdivision of a State, Indian tribe, public or privatenonprofit organization, institution of higher education, Federal agency, or other entity”.
 
 Subsec. (e)(2)(C). Pub. L. 111–13, §1313(2), inserted “, particularly those who were considered, at the time of their service, disadvantaged youth” before semicolon at end.
 

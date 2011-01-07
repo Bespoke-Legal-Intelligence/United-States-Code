@@ -50,27 +50,27 @@ Amendment of section by section 9131 of Pub. L. 99–500 and Pub. L. 99–591 is
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–181, §1063(c)(4), amended Pub. L. 109–364, §591(b)(1). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–181, §1063(c)(4), amended Pub. L. 109–364, §591(b)(1). See 2006 Amendment note below.
 
 Subsec. (c)(3). Pub. L. 110–181, §906(c)(3), struck out “Retirement” before “Board of Actuaries”.
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–364, §591(b)(1), as amended by Pub. L. 110–181, §1063(c)(4), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364, §591(b)(1), as amended by Pub. L. 110–181, §1063(c)(4), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
 
 Subsec. (a)(2)(B). Pub. L. 109–364, §591(b)(2), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
-2004—Subsec. (b)(2)(D). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
+<b>2004</b>—Subsec. (b)(2)(D). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §641(c)(5)(A), substituted “sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3)” for “sections 1465(a) and 1465(c)”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §641(c)(5)(A), substituted “sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3)” for “sections 1465(a) and 1465(c)”.
 
 Subsec. (b)(2)(D). Pub. L. 108–136, §641(c)(5)(B), added subpar. (D).
 
-1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
-1987—Subsec. (a). Pub. L. 100–26, §7(a)(3), inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–26, §7(a)(3), inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
 Subsec. (a)(1)(B), (2)(B). Pub. L. 100–26, §4(a)(1), amended Pub. L. 99–500 and 99–591, title I, §101(c) \[title IX, §9103(3)\]. See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–661 amended first sentence of subsec. (a), which after amendment by Pub. L. 99–500 and Pub. L. 99–591 was the only sentence of subsec. (a), by substituting language which was substantially identical to that substituted by Pub. L. 99–500 and Pub. L. 99–591.
+<b>1986</b>—Subsec. (a). Pub. L. 99–661 amended first sentence of subsec. (a), which after amendment by Pub. L. 99–500 and Pub. L. 99–591 was the only sentence of subsec. (a), by substituting language which was substantially identical to that substituted by Pub. L. 99–500 and Pub. L. 99–591.
 
 Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[§9131\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that is the product of—
 

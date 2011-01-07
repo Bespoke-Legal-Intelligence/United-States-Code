@@ -60,11 +60,11 @@ The programs to be developed by the States may include only the following activi
 
 #### References in Text
 
-Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (a), is title XXXI of div. C of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1824, as amended. For complete classification of title XXXI to the Code, see Tables.
+Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (a), istitle XXXI of div. C of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1824, as amended. For complete classification of title XXXI to the Code, see Tables.
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(i)(15)(D)(i), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(i)(15)(D)(i), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 108–136, §3141(i)(15)(D)(ii), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510)” for “this title”.
 
@@ -72,7 +72,7 @@ Subsec. (c)(2). Pub. L. 108–136, §3141(i)(15)(D)(iii)(I), substituted “May 
 
 Subsec. (c)(3). Pub. L. 108–136, §3141(i)(15)(D)(iii)(II), substituted “May 5, 1992,” for “18 months after the date of the enactment of this Act,”.
 
-1994—Subsec. (d). Pub. L. 103–337 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 
 #### Change of Name
 

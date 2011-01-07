@@ -46,7 +46,7 @@ This chapter.—This chapter does not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(III) the purchase of supplies or materials or articles ordinarily available in the open market;
 
-&emsp;&emsp;&emsp;(ii) any work required to be done in accordance with the provisions of the Walsh-Healey Act (41 U.S.C. 35 et seq.); and
+&emsp;&emsp;&emsp;(ii) any work required to be done in accordance with the provisions of chapter 65 of title 41; and
 
 &emsp;&emsp;&emsp;(iii) a contract in an amount that is not greater than $100,000.
 
@@ -54,7 +54,7 @@ This chapter.—This chapter does not apply to—
 
 Section 3702.—Section 3702 of this title does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(14), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(14), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(19), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -106,9 +106,9 @@ In subsection (b)(3)(A)(ii), the words “Walsh-Healey Act” are substituted fo
 
 The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, as amended, which was classified generally to subchapter II (§327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
 
-The Walsh-Healey Act, referred to in subsec. (b)(3)(A)(ii), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
-
 #### Amendments
 
-2006—Subsec. (b)(3)(B). Pub. L. 109–284 substituted “3702” for “3902” in heading and text and “paragraph (1)(B)(iii)” for “subsection (a)(2)(C)” in text.
+<b>2011</b>—Subsec. (b)(3)(A)(ii). Pub. L. 111–350 substituted “chapter 65 of title 41” for “the Walsh-Healey Act (41 U.S.C. 35 et seq.)”.
+
+<b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–284 substituted “3702” for “3902” in heading and text and “paragraph (1)(B)(iii)” for “subsection (a)(2)(C)” in text.
 

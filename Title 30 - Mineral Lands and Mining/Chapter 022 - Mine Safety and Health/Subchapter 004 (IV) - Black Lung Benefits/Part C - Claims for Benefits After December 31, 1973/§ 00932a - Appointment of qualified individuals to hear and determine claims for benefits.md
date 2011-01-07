@@ -14,7 +14,7 @@ Section was not enacted as part of the Federal Mine Safety and Health Act of 197
 
 #### Amendments
 
-2002—Pub. L. 107–275 substituted “under part B or part C” for “under part C”.
+<b>2002</b>—Pub. L. 107–275 substituted “under part B or part C” for “under part C”.
 
 #### Effective Date of 2002 Amendment
 
@@ -22,7 +22,7 @@ Amendment by Pub. L. 107–275 effective 90 days after Nov. 2, 2002, see section
 
 #### Extension of Adjudication Period Through March 1, 1979
 
-Pub. L. 95–239, §7(i), Mar. 1, 1978, 92 Stat. 100, authorized individuals appointed to hear and determine claims for benefits under this part and under section 925 of this title pursuant to this section, notwithstanding the provisions of section 932(a) of this title, to continue to adjudicate such claims during the one-year period following Mar. 1, 1978.
+Pub. L. 95–239, §7(i), Mar. 1, 1978, 92 Stat. 100, authorized individuals appointed to hear and determineclaims for benefits under this part and under section 925 of this title pursuant to this section, notwithstanding the provisions of section 932(a) of this title, to continue to adjudicate such claims during the one-year period following Mar. 1, 1978.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

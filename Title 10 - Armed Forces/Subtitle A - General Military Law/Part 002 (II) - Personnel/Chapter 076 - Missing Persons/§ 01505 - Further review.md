@@ -6,7 +6,7 @@ Subsequent Review.—The Secretary concerned shall conduct subsequent inquiries 
 
 (b)
 
-Frequency of Subsequent Reviews.—The Secretary concerned shall conduct inquiries into the whereabouts and status of a person under subsection (a) upon receipt of information that may result in a change of status of the person. The Secretary concerned shall appoint a board to conduct such inquiries.
+Frequency of Subsequent Reviews.—The Secretary concerned shall conduct inquiries into the whereabouts and status of a person under subsection (a) upon receipt of information thatmay result in a change of status of the person. The Secretary concerned shall appoint a board to conduct such inquiries.
 
 (c)
 
@@ -24,7 +24,7 @@ Conduct of Proceedings.—If it is determined that such a board should be appoin
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–201 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Subsec. (b). Pub. L. 104–201 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) In the case of a missing person who was last known to be alive or who was last suspected of being alive, the Secretary shall appoint a board to conduct an inquiry with respect to a person under this subsection—
 

@@ -78,5 +78,5 @@ Section 1207(f)(2) of Pub. L. 94–455 provided that: “The amendments made by 
 
 #### Executive Order No. 10407
 
-Ex. Ord. No. 10407, Nov. 7, 1952, 17 F.R. 10132, which related to regulations governing agreements concerning withholding of state or territorial income taxes, wasrevoked by Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, formerly set out as a note under section 5520 of this title.
+Ex. Ord. No. 10407, Nov. 7, 1952, 17 F.R. 10132, which related to regulations governing agreements concerning withholding of state or territorial income taxes, was revoked by Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, formerly set out as a note under section 5520 of this title.
 

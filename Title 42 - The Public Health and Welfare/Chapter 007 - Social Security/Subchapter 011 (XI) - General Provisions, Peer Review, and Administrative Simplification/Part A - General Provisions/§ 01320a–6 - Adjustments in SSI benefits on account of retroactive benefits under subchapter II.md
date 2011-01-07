@@ -12,7 +12,7 @@ Notwithstanding any other provision of this chapter, in any case where an indivi
 
 #### (b) “Supplemental security income benefits” defined
 
-For purposes of this section, the term “supplemental security income benefits” means benefits paid or payable by the Commissioner of Social Security under subchapter XVI of this chapter, including State supplementary payments under an agreement pursuant to section 1382e(a) of this title or an administration agreement under section 212(b) of Public Law 93–66.
+For purposes of this section, the term “supplemental security income benefits” means benefits paid or payable by the Commissioner of Social Security under subchapter XVI of this chapter, including State supplementary payments under an agreement pursuant to section 1382e(a)of this title or an administration agreement under section 212(b) of Public Law 93–66.
 
 #### (c) Reimbursement of the State
 
@@ -26,13 +26,13 @@ Section 212(b) of Pub. L. 93–66, referred to in subsec. (b), is set out as a n
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–296, §321(f)(3)(B)(ii), in last sentence substituted “subsection (a)(4) or (b) of section 406 of this title” for “section 406(a)(4) of this title”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §321(f)(3)(B)(ii), in last sentence substituted “subsection (a)(4) or (b) of section 406 of this title” for “section 406(a)(4) of this title”.
 
 Subsecs. (b), (c). Pub. L. 103–296, §108(b)(8), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Subsec. (a). Pub. L. 101–508 inserted at end “A benefit under subchapter II of this chapter shall not be reduced pursuant to the preceding sentence to the extent that any amount of such benefit would not otherwise be available for payment in full of the maximum fee which may be recovered from such benefit by an attorney pursuant to section 406(a)(4) of this title.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 inserted at end “A benefit under subchapter II of this chapter shall not be reduced pursuant to the preceding sentence to the extent that any amount of such benefit would not otherwise be available for payment in full of the maximum fee which may be recovered from such benefit by an attorney pursuant to section 406(a)(4) of this title.”
 
-1984—Pub. L. 98–369 substituted provisions relating to adjustment in supplemental security income benefits on account of retroactive benefits under subchapter II of this chapter for provisions which related to adjustment of retroactive benefits under subchapter II of this chapter on account of supplemental security income benefits.
+<b>1984</b>—Pub. L. 98–369 substituted provisions relating to adjustment in supplemental security income benefits on account of retroactive benefits under subchapter II of this chapter for provisions which related to adjustment of retroactive benefits under subchapter II of this chapter on account of supplemental security income benefits.
 
 #### Effective Date of 1994 Amendment
 

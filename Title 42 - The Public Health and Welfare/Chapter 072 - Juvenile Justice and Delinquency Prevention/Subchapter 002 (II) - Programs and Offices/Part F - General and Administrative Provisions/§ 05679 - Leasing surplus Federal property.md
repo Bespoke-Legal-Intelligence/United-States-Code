@@ -1,6 +1,6 @@
 ### §5679. Leasing surplus Federal property
 
-The Administrator may receive surplus Federal property (including facilities) and maylease such property to States and units of general local government for use in or as facilities for juvenile offenders, or for use in or as facilities for delinquency prevention and treatment activities.
+The Administrator may receive surplus Federal property (including facilities) and may lease such property to States and units of general local government for use in or as facilities for juvenile offenders, or for use in or as facilities for delinquency prevention and treatment activities.
 
 (Pub. L. 93–415, title II, §299H, as added Pub. L. 107–273, div. C, title II, §12218, Nov. 2, 2002, 116 Stat. 1893.)
 

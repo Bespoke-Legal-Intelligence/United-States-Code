@@ -22,7 +22,7 @@ July 30, 1956, ch. 795, 70 Stat. 732.
 
 #### Amendments
 
-2002—Pub. L. 107–293 reenacted section catchline and text without change.
+<b>2002</b>—Pub. L. 107–293 reenacted section catchline and text without change.
 
 #### Reaffirmation of Language
 

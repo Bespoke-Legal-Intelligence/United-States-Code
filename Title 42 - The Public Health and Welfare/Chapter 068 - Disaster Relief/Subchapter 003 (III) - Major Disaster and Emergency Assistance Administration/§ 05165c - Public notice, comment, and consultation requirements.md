@@ -34,6 +34,10 @@ The President shall promote public access to policies governing the implementati
 
 (Pub. L. 93–288, title III, §325, as added Pub. L. 106–390, title II, §203, Oct. 30, 2000, 114 Stat. 1560.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1)(A) and (b)(1), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.

@@ -10,9 +10,9 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 #### Amendments
 
-1911—Act Mar. 3, 1911, transferred to the District Courts the enforcement powers formerly lodged in the Circuit Courts.
+<b>1911</b>—Act Mar. 3, 1911, transferred to the District Courts the enforcement powers formerly lodged in the Circuit Courts.
 
-1900—Act Feb. 20, 1900, substituted “section eleven” for “section fourteen” where first appearing, which for codification purposes, was translated as “section 404 of this title”.
+<b>1900</b>—Act Feb. 20, 1900, substituted “section eleven” for “section fourteen” where first appearing, which for codification purposes, was translated as “section 404 of this title”.
 
 #### Change of Name
 

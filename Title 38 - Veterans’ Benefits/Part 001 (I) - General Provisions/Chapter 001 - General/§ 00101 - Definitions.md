@@ -38,7 +38,7 @@ For the purposes of this title—
 
 (5) The term “parent” means (except for purposes of chapter 19 of this title) a father, a mother, a father through adoption, a mother through adoption, or an individual who for a period of not less than one year stood in the relationship of a parent to a veteran at any time before the veteran's entry into active military, naval, or air service or if two persons stood in the relationship of a father or a mother for one year or more, the person who last stood in the relationship of father or mother before the veteran's last entry into active military, naval, or air service.
 
-(6) The term “Spanish-American War” (A) means the period beginning on April 21, 1898, and ending on July 4, 1902, (B) includes the Philippine Insurrection and the Boxer Rebellion, and (C) in the case of a veteran who served with the United States military forces engaged in hostilities in the Moro Province, means the period beginning on April 21, 1898, and ending on July 15, 1903.
+(6) The term “Spanish-American War” (A) means the period beginning on April 21, 1898, and ending on July 4, 1902, (B) includes the Philippine Insurrection and the Boxer Rebellion, and\(C) in the case of a veteran who served with the United States military forces engaged in hostilities in the Moro Province, means the period beginning on April 21, 1898, and ending on July 15, 1903.
 
 (7) The term “World War I” (A) means the period beginning on April 6, 1917, and ending on November 11, 1918, and (B) in the case of a veteran who served with the United States military forces in Russia, means the period beginning on April 6, 1917, and ending on April 1, 1920.
 
@@ -88,7 +88,7 @@ For the purposes of this title—
 
 &emsp;(C) in the case of members of the Army National Guard or Air National Guard of any State, full-time duty under section 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law;
 
-&emsp;(D) duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
+&emsp;(D) duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose oftraining or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
 
 &emsp;(E) authorized travel to or from such duty.
 
@@ -168,7 +168,7 @@ For the purposes of this title—
 
 (33) The term “Persian Gulf War” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I,§113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181;Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174.)
 
 #### References in Text
 
@@ -176,9 +176,9 @@ For definition of Canal Zone, referred to in par. (20), see section 3602(b) of T
 
 #### Amendments
 
-2008—Par. (4)(A). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(10)” for “section 1965(10)(B)” in introductory provisions.
+<b>2008</b>—Par. (4)(A). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(10)” for “section 1965(10)(B)” in introductory provisions.
 
-2006—Par. (25)(D). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note below.
+<b>2006</b>—Par. (25)(D). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note below.
 
 Pub. L. 109–461, §1004(b)(1), made technical amendment to directory language of Pub. L. 107–296, §1704(d). See 2002 Amendment note below.
 
@@ -186,17 +186,17 @@ Pub. L. 109–444, which made amendment identical to amendment by Pub. L. 109–
 
 Par. (27)(B). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2002—Par. (25)(D). Pub. L. 107–296, §1704(d), as amended by Pub. L. 109–461, §1004(b)(1), substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Par. (25)(D). Pub. L. 107–296, §1704(d), as amended by Pub. L. 109–461, §1004(b)(1), substituted “of Homeland Security” for “of Transportation”.
 
-2001—Par. (4)(A). Pub. L. 107–14 inserted “(other than with respect to a child who is an insurable dependent under section 1965(10)(B) of such chapter)” after “except for purposes of chapter 19 of this title” in introductory provisions.
+<b>2001</b>—Par. (4)(A). Pub. L. 107–14 inserted “(other than with respect to a child who is an insurable dependent under section 1965(10)(B) of such chapter)” after “except for purposes of chapter 19 of this title” in introductory provisions.
 
-2000—Par. (24). Pub. L. 106–419 amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The term ‘active military, naval, or air service’ includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty.”
+<b>2000</b>—Par. (24). Pub. L. 106–419 amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The term ‘active military, naval, or air service’ includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty.”
 
-1996—Par. (29). Pub. L. 104–275 amended par. (29) generally. Prior to amendment, par. (29) read as follows: “The term ‘Vietnam era’ means the period beginning August 5, 1964, and ending on May 7, 1975.”
+<b>1996</b>—Par. (29). Pub. L. 104–275 amended par. (29) generally. Prior to amendment, par. (29) read as follows: “The term ‘Vietnam era’ means the period beginning August 5, 1964, and ending on May 7, 1975.”
 
-1994—Par. (1). Pub. L. 103–446 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The terms ‘Secretary’ and ‘Administrator’ mean the Secretary of Veterans Affairs, and the terms ‘Department’ and ‘Department’ mean the Department of Veterans Affairs.”
+<b>1994</b>—Par. (1). Pub. L. 103–446 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The terms ‘Secretary’ and ‘Administrator’ mean the Secretary of Veterans Affairs, and the terms ‘Department’ and ‘Department’ mean the Department of Veterans Affairs.”
 
-1991—Par. (1). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+<b>1991</b>—Par. (1). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 Par. (4)(A). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
 
@@ -216,9 +216,9 @@ Par. (32)(B). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” f
 
 Par. (33). Pub. L. 102–25, §332(2), added par. (33).
 
-1989—Par. (1). Pub. L. 101–237 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Administrator’ means the Administrator of Veterans’ Affairs.”
+<b>1989</b>—Par. (1). Pub. L. 101–237 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Administrator’ means the Administrator of Veterans’ Affairs.”
 
-1988—Par. (22)(D). Pub. L. 100–456, §633(c)(1), substituted “training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned” for “field training or a practice cruise under chapter 103 of title 10”.
+<b>1988</b>—Par. (22)(D). Pub. L. 100–456, §633(c)(1), substituted “training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned” for “field training or a practice cruise under chapter 103 of title 10”.
 
 Par. (23)(C). Pub. L. 100–456, §633(c)(2), added subpar. (C).
 
@@ -226,13 +226,13 @@ Par. (28). Pub. L. 100–322, §103(a), substituted “who require nursing care�
 
 Par. (32)(B). Pub. L. 100–322, §311, struck out “during a period other than a period of war in which such person was held” before “under circumstances which”.
 
-1986—Pars. (22)(C), (23), (27)(F). Pub. L. 99–576, §702(1)(A), inserted “Army” before “National Guard”.
+<b>1986</b>—Pars. (22)(C), (23), (27)(F). Pub. L. 99–576, §702(1)(A), inserted “Army” before “National Guard”.
 
 Par. (31). Pub. L. 99–576, §702(1)(B), struck out “and the term ‘surviving spouse’ means a person of the opposite sex who is a widow or widower” after “husband”.
 
-1984—Par. (4)(A). Pub. L. 98–223 inserted provision that a person described in cl. (ii) of first sentence of subpar. (A) who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of the adoption.
+<b>1984</b>—Par. (4)(A). Pub. L. 98–223 inserted provision that a person described in cl. (ii) of first sentence of subpar. (A) who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of the adoption.
 
-1982—Par. (4)(A). Pub. L. 97–295, §4(2), substituted “before August 26, 1961, or within two years after the veteran's death” for “within two years after the veteran's death or the date of enactment of this sentence”.
+<b>1982</b>—Par. (4)(A). Pub. L. 97–295, §4(2), substituted “before August 26, 1961, or within two years after the veteran's death” for “within two years after the veteran's death or the date of enactment of this sentence”.
 
 Par. (22)(C). Pub. L. 97–306, §113(a)(1), struck out “and” after “of law;”.
 
@@ -240,19 +240,19 @@ Par. (22)(D), (E). Pub. L. 97–306, §113(a)(2), (3), added subpar. (D) and red
 
 Par. (25)(E). Pub. L. 97–295, §4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1981—Par. (32). Pub. L. 97–37 added par. (32).
+<b>1981</b>—Par. (32). Pub. L. 97–37 added par. (32).
 
-1979—Par. (4). Pub. L. 96–22 designated existing provisions as subpar. (A) and existing subpars. (A), (B), and (C) thereof as cls. (i), (ii), and (iii), respectively, and added subpar. (B).
+<b>1979</b>—Par. (4). Pub. L. 96–22 designated existing provisions as subpar. (A) and existing subpars. (A), (B), and (C) thereof as cls. (i), (ii), and (iii), respectively, and added subpar. (B).
 
-1978—Par. (15). Pub. L. 95–588 inserted “or other periodic” after “monthly”.
+<b>1978</b>—Par. (15). Pub. L. 95–588 inserted “or other periodic” after “monthly”.
 
-1977—Par. (18). Pub. L. 95–126 designated existing provisions as cl. (A) and added cl. (B).
+<b>1977</b>—Par. (18). Pub. L. 95–126 designated existing provisions as cl. (A) and added cl. (B).
 
 Par. (29). Pub. L. 95–202 substituted “May 7, 1975” for “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress.”
 
-1976—Par. (19). Pub. L. 94–417 struck out “of any war (including the Indian Wars)” before “disabled” and “of any war” after “care for veterans”.
+<b>1976</b>—Par. (19). Pub. L. 94–417 struck out “of any war (including the Indian Wars)” before “disabled” and “of any war” after “care for veterans”.
 
-1975—Par. (3). Pub. L. 94–169, §101(1)(A), substituted “surviving spouse” for “widow”, “person of the opposite sex” for “woman”, “spouse” for “wife” wherever appearing, “the veteran's” for “his” wherever appearing, “with the veteran” for “with him”, “person” for “man” wherever appearing and “himself or herself” for “herself”.
+<b>1975</b>—Par. (3). Pub. L. 94–169, §101(1)(A), substituted “surviving spouse” for “widow”, “person of the opposite sex” for “woman”, “spouse” for “wife” wherever appearing, “the veteran's” for “his” wherever appearing, “with the veteran” for “with him”, “person” for “man” wherever appearing and “himself or herself” for “herself”.
 
 Par. (4). Pub. L. 94–169, §101(1)(B), substituted “regular contributions toward the person's support from some individual other than the veteran or the veteran's spouse” for “regular contribution toward his support from some individual other than the veteran or his spouse”.
 
@@ -262,11 +262,11 @@ Pars. (13) to (15). Pub. L. 94–169, §101(1)(D)–(F), substituted “survivin
 
 Par. (31). Pub. L. 94–169, §101(1)(G), added par. (31).
 
-1972—Par. (4). Pub. L. 92–540 inserted provision recognizing as a legally adopted child a person who has been placed for adoption under an agreement entered into by the adopting parent or parents with an agency authorized by law to so act.
+<b>1972</b>—Par. (4). Pub. L. 92–540 inserted provision recognizing as a legally adopted child a person who has been placed for adoption under an agreement entered into by the adopting parent or parents with an agency authorized by law to so act.
 
-1971—Par. (30). Pub. L. 92–198 struck out service requirement of 90 days or more.
+<b>1971</b>—Par. (30). Pub. L. 92–198 struck out service requirement of 90 days or more.
 
-1970—Par. (4). Pub. L. 91–262 inserted provision recognizing an adopted child of a veteran as a dependent from the date of issuance of an interlocutory decree.
+<b>1970</b>—Par. (4). Pub. L. 91–262 inserted provision recognizing an adopted child of a veteran as a dependent from the date of issuance of an interlocutory decree.
 
 Par. (11). Pub. L. 91–588, §9(a), inserted reference to the Mexican border period.
 
@@ -276,29 +276,29 @@ Par. (25)(F). Pub. L. 91–621, §6(a)(2), inserted “the National Oceanic and 
 
 Par. (30). Pub. L. 91–588, §9(b), added par. (30).
 
-1969—Par. (3). Pub. L. 91–24, §16, substituted “September 16, 1962” for “enactment of the 1962 amendment to this paragraph”.
+<b>1969</b>—Par. (3). Pub. L. 91–24, §16, substituted “September 16, 1962” for “enactment of the 1962 amendment to this paragraph”.
 
 Par. (23)(A). Pub. L. 91–24, §1(a), substituted “section 206 of title 37” for “section 301 of title 37”.
 
 Par. (25)(D). Pub. L. 91–24, §1(b), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-1967—Par. (11). Pub. L. 90–77, §201(a), included Vietnam era within definition of “period of war” and substituted “the date” for “a date”.
+<b>1967</b>—Par. (11). Pub. L. 90–77, §201(a), included Vietnam era within definition of “period of war” and substituted “the date” for “a date”.
 
 Par. (29). Pub. L. 90–77, §201(b), added par. (29).
 
-1966—Par. (20). Pub. L. 89–358 defined “State” to include the Canal Zone for the purpose of section 903 and chapters 34 and 35 of this title.
+<b>1966</b>—Par. (20). Pub. L. 89–358 defined “State” to include the Canal Zone for the purpose of section 903 and chapters 34 and 35 of this title.
 
-1965—Par. (4)(C). Pub. L. 89–311 substituted “twenty-three years” for “twenty-one years”.
+<b>1965</b>—Par. (4)(C). Pub. L. 89–311 substituted “twenty-three years” for “twenty-one years”.
 
-1964—Par. (19). Pub. L. 88–450, §4(c), included within “State home” a home which furnishes nursing home care for veterans of any war.
+<b>1964</b>—Par. (19). Pub. L. 88–450, §4(c), included within “State home” a home which furnishes nursing home care for veterans of any war.
 
 Par. (28). Pub. L. 88–450, §4(d), added par. (28).
 
-1962—Par. (3). Pub. L. 87–674 inserted requirement that a widow, in cases not involving remarriage, must not, since the death of the veteran and after the enactment of this amendment, have lived with another man and held herself out openly to the public to be the wife of such other man, and struck out “(unless the purported remarriage is void)” after “who has not remarried”.
+<b>1962</b>—Par. (3). Pub. L. 87–674 inserted requirement that a widow, in cases not involving remarriage, must not, since the death of the veteran and after the enactment of this amendment, have lived with another man and held herself out openly to the public to be the wife of such other man, and struck out “(unless the purported remarriage is void)” after “who has not remarried”.
 
 Par. (26). Pub. L. 87–815 substituted “ ‘Reserve’ means a member” for “ ‘Reserves’ means members”.
 
-1959—Par. (4). Pub. L. 86–195 provided that a person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of the veteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the surviving spouse of the veteran within two years after the veteran's death or Aug. 25, 1959, the date of enactment of Pub. L. 86–195, provided that such person was not receiving regular contributions toward his support from some individual other than the veteran or his spouse, or from any public or private welfare organization.
+<b>1959</b>—Par. (4). Pub. L. 86–195 provided that a person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of the veteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the surviving spouse of the veteran within two years after the veteran's death or Aug. 25, 1959, the date of enactment of Pub. L. 86–195, provided that such person was not receiving regular contributions toward his support from some individual other than the veteran or his spouse, or from any public or private welfare organization.
 
 #### Effective Date of 2006 Amendment
 
@@ -334,13 +334,13 @@ Section 505(d) of Pub. L. 104–275 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, see section 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, seesection 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
 
 #### Effective Date of 1982 Amendment
 
 Section 113(d) of Pub. L. 97–306, as amended by Pub. L. 98–223, title II, §210, Mar. 2, 1984, 98 Stat. 45, provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[repealing former section 403 of this title\] and the provisions of subsection (c) \[set out as a note under section 8140 of Title 5, Government Organization and Employees\]—
 
-&emsp;“(1) with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravatedafter September 30, 1982, shall take effect as of October 1, 1982; and
+&emsp;“(1) with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after September 30, 1982, shall take effect as of October 1, 1982; and
 
 &emsp;“(2) with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated before October 1, 1982, shall take effect as of October 1, 1983.”
 
@@ -380,6 +380,22 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–377, §1(a), Jan. 4, 2011, 124 Stat. 4106, provided that: “This Act \[enacting section 3315A of this title, amending sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3316, 3319, 3322, 3323, 3512, 3671 to 3673, 3675, 3679, 3680, 3681, 3684, and 3689 of this title and section 2006 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3315A, 3319, 3322, 3680, and 3684 of this title and section 2006 of Title 10\] may be cited as the ‘Post-9/11 Veterans Educational Assistance Improvements Act of 2010’.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–275, §1(a), Oct. 13, 2010, 124 Stat. 2864, provided that: “This Act \[enacting sections 2021A and 2108 of this title and sections 597 to 597b of Title 50, Appendix, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, section 1316 of Title 2, The Congress, section 416 of Title 3, The President, and sections 527, 531 to 533, and 535 to 537 of Title 50, Appendix, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and section 2913 of Title 29, Labor, and amending provisions set out as notes under sections 1117, 1980A, and 5101 of this title\] may be cited as the ‘Veterans’ Benefits Act of 2010’.”
+
+Pub. L. 111–275, title I, §104(a), Oct. 13, 2010, 124 Stat. 2867, provided that: “This section \[amending section 8127 of this title and enacting provisions set out as a note under section 8127 of this title\] may be cited as the ‘Veterans Small Business Verification Act’.”
+
+Pub. L. 111–275, title V, §502(a), Oct. 13, 2010, 124 Stat. 2882, provided that: “This section \[amending sections 107, 2301, 2306, and 2402 of this title and enacting provisions set out as notes under sections 107 and 2402 of this title\] may be cited as the ‘Corey Shea Act’.”
+
+Pub. L. 111–247, §1, Sept. 30, 2010, 124 Stat. 2623, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as \[the\] ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2010’.”
+
+Pub. L. 111–163, §1(a), May 5, 2010, 124 Stat. 1130, provided that: “This Act \[enacting chapter 75 and sections 118, 1720G, 1730A, 1786, 7311A, 7321A, 7459, and 7618 of this title, amending sections 111, 542, 544, 902, 903, 1705, 1710, 1710E, 1712A, 1717, 1720, 1720D, 1729, 1781, 1782, 2012, 7306, 7311, 7332, 7361 to 7364, 7366, 7401, 7403 to 7405, 7410, 7431, 7451 to 7456, 7456A, 7612, 7618, and 7681 to 7683 of this title, renumbering sections 7364A and 7618 of this title as sections 7365 and 7619, respectively, repealing sections 7365 and 8107 of this title, enacting provisions set out as notes under sections 111, 523, 542, 1703, 1710, 1712, 1712A, 1717, 1720G, 7306, 7404, 7431, 7501, and 7681 of this title, and amending provisions set out as notes under sections 527 and 1703 of this title\] may be cited as the ‘Caregivers and Veterans Omnibus Health Services Act of 2010’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–81, §1, Oct. 22, 2009, 123 Stat. 2137, provided that: “This Act \[enacting section 117 of this title, amending section 1105 of Title 31, Money and Finance, and enacting provisions set out as a note under section 117 of this title\] may be cited as the ‘Veterans Health Care Budget Reform and Transparency Act of 2009’.”
@@ -402,7 +418,7 @@ Pub. L. 110–252, title V, §5001, June 30, 2008, 122 Stat. 2357, provided that
 
 Pub. L. 110–157, §1(a), Dec. 26, 2007, 121 Stat. 1831, provided that: “This Act \[enacting section 5317A of this title, amending sections 1114, 1160, 2306, 2408, and 3485 of this title and section 653 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 2306 and 2408 of this title\] may be cited as the ‘Dr. James Allen Veteran Vision Equity Act of 2007’.”
 
-Pub. L. 110–111, §1, Nov. 5, 2007, 121 Stat. 1035, provided that: “This Act \[enacting provisions set out asnotes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2007’.”
+Pub. L. 110–111, §1, Nov. 5, 2007, 121 Stat. 1035, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2007’.”
 
 Pub. L. 110–110, §1, Nov. 5, 2007, 121 Stat. 1031, provided that: “This Act \[enacting section 1720F of this title and provisions set out as a note under section 1720F of this title\] may be cited as the ‘Joshua Omvig Veterans Suicide Prevention Act’.”
 
@@ -434,7 +450,7 @@ Pub. L. 108–454, title I, §101, Dec. 10, 2004, 118 Stat. 3600, provided that:
 
 Pub. L. 108–445, §1, Dec. 3, 2004, 118 Stat. 2636, provided that: “This Act \[enacting section 7456A of this title, amending sections 7404, 7431 to 7433, and 7452 of this title, omitting sections 7434 to 7440 of this title, and enacting provisions set out as notes under section 7431 of this title\] may be cited as the ‘Department of Veterans Affairs Health Care Personnel Enhancement Act of 2004’.”
 
-Pub. L. 108–422, §1(a), Nov. 30, 2004, 118 Stat. 2379, provided that: “This Act \[enacting sections 1744, 7327, 7328, and 8118 of this title, amending sections 305, 1703, 1710B, 1720D, 1741, 2013, 7401, 7803, 8104, 8109, 8111, 8122, and 8164 to 8166 of this title, repealing section 8116 of this title, enacting provisions set out as notes under sections 1710B, 1744, 7327, 7328, 7451, 8110, and 8118 of this title, and amending provisions set out as a note under section 1710B of this title\] may be cited as the ‘Veterans Health Programs Improvement Act of 2004’.”
+Pub. L. 108–422, §1(a), Nov. 30, 2004, 118 Stat. 2379, provided that: “This Act \[enacting sections 1744, 7327, 7328, and 8118 of this title, amending sections 305, 1703, 1710B, 1720D, 1741, 2013, 7401, 7803, 8104, 8109, 8111, 8122, and 8164to 8166 of this title, repealing section 8116 of this title, enacting provisions set out as notes under sections 1710B, 1744, 7327, 7328, 7451, 8110, and 8118 of this title, and amending provisions set out as a note under section 1710B of this title\] may be cited as the ‘Veterans Health Programs Improvement Act of 2004’.”
 
 Pub. L. 108–363, §1, Oct. 25, 2004, 118 Stat. 1705, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2004’.”
 
@@ -452,7 +468,7 @@ Pub. L. 107–330, §1(a), Dec. 6, 2002, 116 Stat. 2820, provided that: “This 
 
 Pub. L. 107–288, §1(a), Nov. 7, 2002, 116 Stat. 2033, provided that: “This Act \[enacting sections 4112 and 4215 of this title, amending sections 3117, 4101 to 4104, 4106, 4107, 4109, 4211, 4212, and 4214 of this title, repealing section 4104A of this title, and enacting provisions set out as notes under sections 4100, 4101, 4102, 4102A, 4103A, 4106, 4107, 4211, 4214, and 4215 of this title\] may be cited as the ‘Jobs for Veterans Act’.”
 
-Pub. L. 107–287, §1, Nov. 7, 2002, 116 Stat. 2024, provided that: “This Act \[enacting sections 1785, 7325, 7326, and 8117 of this title, amending sections 308 and 8111A of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 7325 and 7326 of this title, and amending provisions set out as a note preceding section8117 of this title\] may be cited as the ‘Department of Veterans Affairs Emergency Preparedness Act of 2002’.”
+Pub. L. 107–287, §1, Nov. 7, 2002, 116 Stat. 2024, provided that: “This Act \[enacting sections 1785, 7325, 7326, and 8117 of this title, amending sections 308 and 8111A of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 7325 and 7326 of this title, and amending provisions set out as a note preceding section 8117 of this title\] may be cited as the ‘Department of Veterans Affairs Emergency Preparedness Act of 2002’.”
 
 Pub. L. 107–247, §1, Oct. 23, 2002, 116 Stat. 1517, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2002’.”
 
@@ -508,7 +524,7 @@ Pub. L. 105–33, title VIII, §8001(a), Aug. 5, 1997, 111 Stat. 663, provided t
 
 Section 1(a) of Pub. L. 104–275 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvements Act of 1996’.”
 
-Section 401 of title IV of Pub. L. 104–275 provided that: “This title \[amending sections 1315, 1965, 1967 to1971, 1973, 1974, 1977, 3017, and 3224 of this title and enacting provisions set out as notes under sections 1965 and 1968 of this title\] may be cited as the ‘Veterans’ Insurance Reform Act of 1996’.”
+Section 401 of title IV of Pub. L. 104–275 provided that: “This title \[amending sections 1315, 1965, 1967 to 1971, 1973, 1974, 1977, 3017, and 3224 of this title and enacting provisions set out as notes under sections 1965 and 1968 of this title\] may be cited as the ‘Veterans’ Insurance Reform Act of 1996’.”
 
 Pub. L. 104–263, §1, Oct. 9, 1996, 110 Stat. 3212, provided that: “This Act \[enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1996’.”
 
@@ -598,7 +614,7 @@ Pub. L. 101–94, §1, Aug. 16, 1989, 103 Stat. 617, provided that: “This Act 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–689, §1, Nov. 18, 1988, 102 Stat. 4161, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Veterans’ Benefits and Programs Improvement Act of 1988’.”
+Pub. L. 100–689, §1, Nov. 18, 1988, 102 Stat. 4161, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits and Programs Improvement Act of 1988’.”
 
 Pub. L. 100–687, div. A, §1(a), Nov. 18, 1988, 102 Stat. 4105, provided that: “This division \[see Tables for classification\] may be cited as the ‘Veterans’ Judicial Review Act’.”
 
@@ -732,7 +748,7 @@ Pub. L. 94–71, §1, Aug. 5, 1975, 89 Stat. 395, provided: “That this Act \[s
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–602, title II, §201, Jan. 2, 1975, 88 Stat. 1958, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans’ Education and Rehabilitation Equalization Amendments Act of 1974’.”
+Pub. L. 93–602, title II, §201, Jan. 2, 1975, 88 Stat. 1958, provided that: “This title \[see Tables for classification\]may be cited as the ‘Veterans’ Education and Rehabilitation Equalization Amendments Act of 1974’.”
 
 Pub. L. 93–569, §1, Dec. 31, 1974, 88 Stat. 1863, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Act of 1974’.”
 
@@ -778,7 +794,7 @@ Section 1 of Pub. L. 90–77 provided that: “This Act \[see Tables for classif
 
 #### Short Title of 1966 Amendments
 
-Pub. L. 89–785, §1, Nov. 7, 1966, 80 Stat. 1368, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans Hospitalization and Medical Services Modernization Amendments of 1966’.”
+Pub. L. 89–785, §1, Nov. 7, 1966, 80 Stat. 1368, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Hospitalization and Medical Services Modernization Amendments of 1966’.”
 
 Section 1 of Pub. L. 89–358 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Readjustment Benefits Act of 1966’.”
 

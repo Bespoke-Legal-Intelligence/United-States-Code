@@ -6,9 +6,9 @@ There are authorized to be appropriated such sums as may be necessary for the pa
 
 #### Amendments
 
-1982—Pub. L. 97–241 struck out provision that no payment of the United States for any year exceed 7 per centum of all expenses apportioned among members for that year.
+<b>1982</b>—Pub. L. 97–241 struck out provision that no payment of the United States for any year exceed 7 per centum of all expenses apportioned among members for that year.
 
-1972—Pub. L. 92–497 substituted provisions authorizing to be appropriated such sums as may be necessary for the payment of the United States of its proportionate share, except that no payment of the United States for any year shall exceed 7 per centum of all expenses apportioned among members for that year, for provisions authorizing to be appropriated such sums as may be necessary, not to exceed $25,000 annually, for the payment by the United States of its proportionate share.
+<b>1972</b>—Pub. L. 92–497 substituted provisions authorizing to be appropriated such sums as may be necessary for the payment of the United States of its proportionate share, except that no payment of the United States for any year shall exceed 7 per centum of all expenses apportioned among members for that year, for provisions authorizing to be appropriated such sums as may be necessary, not to exceed $25,000 annually, for the payment by the United States of its proportionate share.
 
 #### Annual Appropriations
 

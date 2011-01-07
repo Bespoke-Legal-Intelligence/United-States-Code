@@ -10,7 +10,7 @@ The words defined in this section shall have the following meaning when found in
 
 “Acts to regulate commerce” means subtitle IV of title 49 and the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and all Acts amendatory thereof and supplementary thereto.
 
-“Antitrust Acts” means the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890; also sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894; also the Act entitled “An Act to amend sections 73 and 76 of the Act of August 27, 1894, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’ ”, approved February 12, 1913; and also the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914.
+“Antitrust Acts” means the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890; also sections 73 to 76, inclusive, ofan Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894; also the Act entitled “An Act to amend sections 73 and 76 of the Act of August 27, 1894, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’ ”, approved February 12, 1913; and also the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914.
 
 “Banks” means the types of banks and other financial institutions referred to in section 57a(f)(2) of this title.
 
@@ -44,13 +44,13 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 
 #### Amendments
 
-2006—Pub. L. 109–455, §§2, 13, temporarily added par. defining “Foreign law enforcement agency”. See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Pub. L. 109–455, §§2, 13, temporarily added par. defining “Foreign law enforcement agency”. See Termination Date of 2006 Amendment note below.
 
-2002—Pub. L. 107–273 substituted “73 to 76” for “73 to 77” in par. defining “Antitrust Acts”.
+<b>2002</b>—Pub. L. 107–273 substituted “73 to 76” for “73 to 77” in par. defining “Antitrust Acts”.
 
-1991—Pub. L. 102–242 added par. defining “Banks”.
+<b>1991</b>—Pub. L. 102–242 added par. defining “Banks”.
 
-1938—Act Mar. 21, 1938, amended section generally.
+<b>1938</b>—Act Mar. 21, 1938, amended section generally.
 
 #### Termination Date of 2006 Amendment
 

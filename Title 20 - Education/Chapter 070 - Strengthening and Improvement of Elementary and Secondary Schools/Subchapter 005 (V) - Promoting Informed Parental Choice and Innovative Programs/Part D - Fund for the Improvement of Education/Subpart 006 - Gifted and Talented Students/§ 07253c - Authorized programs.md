@@ -66,7 +66,7 @@ Scientifically based research activities supported under this subpart—
 
 #### Amendments
 
-2002—Subsec. (e)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “such Institute” for “such Office”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “such Institute” for “such Office”.
 
 Subsec. (e)(2). Pub. L. 107–279, §404(d)(6), substituted “such Institute” for “such Office”.
 

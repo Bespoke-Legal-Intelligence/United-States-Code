@@ -40,7 +40,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–325, §3(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “some 43,000,000 Americans have one or more physical or mental disabilities, and this number is increasing as the population as a whole is growing older;”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–325, §3(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “some 43,000,000 Americans have one or more physical or mental disabilities, and this number is increasing as the population as a whole is growing older;”.
 
 Subsec. (a)(7) to (9). Pub. L. 110–325, §3(2), (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “individuals with disabilities are a discrete and insular minority who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;”.
 
@@ -54,7 +54,7 @@ Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: “This A
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out as notes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
+Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out asnotes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
 
 #### Findings and Purposes of Pub. L. 110–325
 

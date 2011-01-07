@@ -72,7 +72,7 @@ Section 44703(f)(2) of this title, referred to in subsecs. (d) and (e), was rede
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–429 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–429 added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 

@@ -16,15 +16,15 @@ The Commission shall not issue an export license under the authority of subsecti
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277 struck out “and the Director” after “Energy, and Commerce”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277 struck out “and the Director” after “Energy, and Commerce”.
 
-1978—Subsec. (a). Pub. L. 95–242 designated existing provisions as subsec. (a) and substituted “the Commission may issue general licenses for domestic activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security” for “the Commission may (a) issue general licenses for activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security, and (b) issue licenses for the export of such facilities, if the Commission determines in writing that each export will not constitute an unreasonable risk to the common defense and security”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–242 designated existing provisions as subsec. (a) and substituted “the Commission may issue general licenses for domestic activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security” for “the Commission may (a) issue general licenses for activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security, and (b) issue licenses for the export of such facilities, if the Commission determines in writing that each export will not constitute an unreasonable risk to the common defense and security”.
 
 Subsecs. (b), (c). Pub. L. 95–242 added subsecs. (b) and (c).
 
-1966—Pub. L. 89–645 substituted “section 2014(v)(2) or 2014 (cc)(2)” for “section 2014(t)(2) or 2014(aa)(2)”.
+<b>1966</b>—Pub. L. 89–645 substituted “section 2014(v)(2) or 2014 (cc)(2)” for “section 2014(t)(2) or 2014(aa)(2)”.
 
-1962—Pub. L. 87–615 substituted “section 2014(t)(2) or 2014(aa)(2)” for “section 2014(p)(2) or 2014(v)(2)”.
+<b>1962</b>—Pub. L. 87–615 substituted “section 2014(t)(2) or 2014(aa)(2)” for “section 2014(p)(2) or 2014(v)(2)”.
 
 #### Effective Date of 1998 Amendment
 

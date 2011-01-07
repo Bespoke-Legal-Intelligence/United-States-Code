@@ -14,15 +14,15 @@
 
 &emsp;(2) is not a fulltime employee of a standards development organization that engaged in such activity, and
 
-&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
+&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that islikely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
 
 (Pub. L. 98–462, §5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103–42, §3(e)(2), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §106, June 22, 2004, 118 Stat. 664.)
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–237, §106(1), inserted “, or of a standards development activity engaged in by a standards development organization” after “joint venture” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–237, §106(1), inserted “, or of a standards development activity engaged in by a standards development organization” after “joint venture” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–237, §106(2), added subsec. (c).
 
-1993—Subsec. (a). Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
 

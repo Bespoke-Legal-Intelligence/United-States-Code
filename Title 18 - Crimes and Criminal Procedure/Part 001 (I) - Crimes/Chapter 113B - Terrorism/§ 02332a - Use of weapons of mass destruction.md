@@ -2,7 +2,7 @@
 
 (a)
 
-Offense Against a National of the United States or Within the United States.—A person who, without lawful authority, uses,threatens, or attempts or conspires to use, a weapon of mass destruction—
+Offense Against a National of the United States or Within the United States.—A person who, without lawful authority, uses, threatens, or attempts or conspires to use, a weapon of mass destruction—
 
 &emsp;(1) against a national of the United States while such national is outside of the United States;
 
@@ -48,7 +48,7 @@ Definitions.—For purposes of this section—
 
 #### Amendments
 
-2004—Pub. L. 108–458, §6802(b)(1), struck out “certain” before “weapons” in section catchline.
+<b>2004</b>—Pub. L. 108–458, §6802(b)(1), struck out “certain” before “weapons” in section catchline.
 
 Subsec. (a). Pub. L. 108–458, §6802(b)(2), struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions.
 
@@ -60,17 +60,17 @@ Subsec. (b). Pub. L. 108–458, §6802(b)(3), struck out “(other than a chemic
 
 Subsec. (c)(3). Pub. L. 108–458, §6802(a)(4)–(6), added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–188, §231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
 
 Subsec. (c)(2)(C). Pub. L. 107–188, §231(d)(2), substituted “a biological agent, toxin, or vector (as those terms are defined in section 178 of this title)” for “a disease organism”.
 
-1998—Pub. L. 105–277, §201(b)(1)(A), inserted “certain” before “weapons” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §201(b)(1)(A), inserted “certain” before “weapons” in section catchline.
 
 Subsec. (a). Pub. L. 105–277, §201(b)(1)(B), inserted “(other than a chemical weapon as that term is defined in section 229F)” after “weapon of mass destruction” in introductory provisions.
 
 Subsec. (b). Pub. L. 105–277, §201(b)(1)(C), inserted “(other than a chemical weapon (as that term is defined in section 229F))” after “weapon of mass destruction”.
 
-1996—Subsec. (a). Pub. L. 104–132, §§511(c), 725(1)(A), (B), in heading, inserted “
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §§511(c), 725(1)(A), (B), in heading, inserted “
 
 Against a National of the United States or Within the United States” after “
 

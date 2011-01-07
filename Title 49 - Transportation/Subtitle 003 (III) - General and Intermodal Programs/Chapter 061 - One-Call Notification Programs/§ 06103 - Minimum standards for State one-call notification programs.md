@@ -46,7 +46,7 @@ Penalties.—To the extent the State determines appropriate and necessary to ach
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–355, §2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–355, §2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
 
 Subsec. (a)(2). Pub. L. 107–355, §2(a)(1)(B), inserted “, including all government and contract excavators” before semicolon.
 

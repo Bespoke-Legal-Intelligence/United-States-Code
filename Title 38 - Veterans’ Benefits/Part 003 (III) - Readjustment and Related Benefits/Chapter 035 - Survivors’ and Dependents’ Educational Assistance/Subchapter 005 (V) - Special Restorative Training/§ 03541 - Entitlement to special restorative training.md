@@ -8,23 +8,23 @@
 
 > Such a course, at the discretion of the Secretary, may contain elements that would contribute toward an ultimate objective of a program of education.
 
-(b) The total period of educational assistance under this subchapter and other subchapters of this chapter may not exceed the amount of entitlement as established in section 3511 of this title, except that the Secretary may extend such period in the case of any person if the Secretary finds that additional assistance is necessary to accomplish the purpose of special restorative training as stated in subsection (a) of this section.
+(b) The total period of educational assistance under this subchapter and other subchapters of this chapter may not exceed the amount of entitlement as established in section 3511 of this title, except that the Secretary may extend such period in the case of any person if the Secretary finds that additional assistance is necessary toaccomplish the purpose of special restorative training as stated in subsection (a) of this section.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1741; Pub. L. 88–361, §6, July 7, 1964, 78 Stat. 298; Pub. L. 94–502, title III, §310(21), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3541 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title I, §109(b)(1), Dec. 27, 2001, 115 Stat. 986.)
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–103 struck out “of the parent or guardian” after “request” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–103 struck out “of the parent or guardian” after “request” in introductory provisions.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1741 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1741 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3511” for “1711”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1976—Subsec. (b). Pub. L. 94–502 substituted “if the Administrator finds” for “if he finds”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted “if the Administrator finds” for “if he finds”.
 
-1964—Subsec. (b). Pub. L. 88–361 authorized the Administrator to extend the period if he finds additional assistance necessary to accomplish the purpose of special restorative training.
+<b>1964</b>—Subsec. (b). Pub. L. 88–361 authorized the Administrator to extend the period if he finds additional assistance necessary to accomplish the purpose of special restorative training.
 
 #### Effective Date of 1976 Amendment
 

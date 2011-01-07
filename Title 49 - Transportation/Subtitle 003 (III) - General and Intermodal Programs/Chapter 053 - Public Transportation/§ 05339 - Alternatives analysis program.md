@@ -16,5 +16,5 @@ Availability of Funds.—An amount made available or appropriated under section 
 
 #### Amendments
 
-2005—Pub. L. 109–59 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Effective for funds not yet expended on the effective date of this section, the Federal share for funds under this chapter for a grantee named in section 603(14) of Public Law 97–468 shall be the same as the Federal share under 23 U.S.C. section 120(b) for Federal aid highway funds apportioned to the State in which it operates.”
+<b>2005</b>—Pub. L. 109–59 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Effective for funds not yet expended on the effective date of this section, the Federal share for funds under this chapter for a grantee named in section 603(14) of Public Law 97–468 shall be the same as the Federal share under 23 U.S.C. section 120(b) for Federal aid highway funds apportioned to the State in which it operates.”
 

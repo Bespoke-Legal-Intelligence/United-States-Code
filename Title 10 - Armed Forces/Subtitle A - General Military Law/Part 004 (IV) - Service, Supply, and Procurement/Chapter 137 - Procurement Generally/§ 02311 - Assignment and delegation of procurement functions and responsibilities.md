@@ -50,31 +50,31 @@ Provisions similar to those in this section were contained in section 2308 of th
 
 #### Amendments
 
-2001—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1994—Pub. L. 103–355 substituted “Assignment and delegation of procurement functions and responsibilities” for “Delegation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.”
+<b>1994</b>—Pub. L. 103–355 substituted “Assignment and delegation of procurement functions and responsibilities” for “Delegation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.”
 
-1984—Pub. L. 98–577 struck out “(a)” before “Except as provided in” and struck out subsec. (b) which related to delegation of authority by heads of procuring activities of agencies of certain functions.
+<b>1984</b>—Pub. L. 98–577 struck out “(a)” before “Except as provided in” and struck out subsec. (b) which related to delegation of authority by heads of procuring activities of agencies of certain functions.
 
 Pub. L. 98–525 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Pub. L. 98–369 inserted provision relating to the exception provided in section 2304(d)(2) of this title and struck out provision that the power to make determinations and decisions under cls. (11)–(16) of section 2304(a) of this title could not be delegated, but that the power to make a determination or decision under section 2304(a)(11) of this title could be delegated to any other officer of official of that agency who was responsible for procurement, and only for contracts requiring the expenditure of not more than $5,000,000.
 
-1981—Pub. L. 97–86 struck out in first sentence cl. (1) designation and cl. (2) relating to authorizing of contracts in excess of three years under section 2306(g) of this title, and in second sentence substituted “$5,000,000” for “$100,000”.
+<b>1981</b>—Pub. L. 97–86 struck out in first sentence cl. (1) designation and cl. (2) relating to authorizing of contracts in excess of three years under section 2306(g) of this title, and in second sentence substituted “$5,000,000” for “$100,000”.
 
-1968—Pub. L. 90–378 designated provisions after “the power to make determinations and decisions” as cl. (1) and added cl. (2).
+<b>1968</b>—Pub. L. 90–378 designated provisions after “the power to make determinations and decisions” as cl. (1) and added cl. (2).
 
-1962—Pub. L. 87–653 substituted “delegated to any other officer” for “delegated only to a chief officer” and “$100,000” for “$25,000”.
+<b>1962</b>—Pub. L. 87–653 substituted “delegated to any other officer” for “delegated only to a chief officer” and “$100,000” for “$25,000”.
 
-1958—Pub. L. 85–800 struck out “, or section 2307(a)” after “of section 2304(a)” in first sentence.
+<b>1958</b>—Pub. L. 85–800 struck out “, or section 2307(a)” after “of section 2304(a)” in first sentence.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued afterMar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1962 Amendment
 

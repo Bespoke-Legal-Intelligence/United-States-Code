@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(2) the term “Federal juvenile delinquency program” means any juvenile delinquency program which is conducted, directly, or indirectly, or is assisted by any Federal department or agency, including any program funded under this chapter;
 
-&emsp;(3) the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides <sup>1</sup> activities that build on protectivefactors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior;
+&emsp;(3) the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides <sup>1</sup> activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior;
 
 &emsp;(4)(A) the term “Bureau of Justice Assistance” means the bureau established by section 3741 of this title;
 
@@ -58,7 +58,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense or any other individual convicted of a criminal offense;
 
-&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
+&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breakingand entering, extortion accompanied by threats of violence, and arson punishable as a felony;
 
 &emsp;(15) the term “treatment” includes but is not limited to medical, educational, special education, social, psychological, and vocational services, corrective and preventive guidance and training, and other rehabilitative services designed to protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use;
 
@@ -128,11 +128,11 @@ For purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
-2002—Par. (3). Pub. L. 107–273, §12204(1), substituted “designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior” for “to help prevent juvenile delinquency”.
+<b>2002</b>—Par. (3). Pub. L. 107–273, §12204(1), substituted “designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior” for “to help prevent juvenile delinquency”.
 
 Par. (4). Pub. L. 107–273, §12204(2), made technical amendment to references in original act which appear in text as references to sections 3741, 3711, 3722 and 3732 of this title.
 
@@ -158,19 +158,19 @@ Par. (22). Pub. L. 107–273, §12204(8)(A), redesignated cls. (i) to (iii) as s
 
 Pars. (24) to (29). Pub. L. 107–273, §12204(8)(B)–(10), added pars. (24) to (29).
 
-1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+<b>1998</b>—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
 Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 
-1992—Par. (16). Pub. L. 102–586, §1(c)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “the term ‘valid court order’ means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word ‘valid’ permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States;”.
+<b>1992</b>—Par. (16). Pub. L. 102–586, §1(c)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “the term ‘valid court order’ means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word ‘valid’ permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States;”.
 
 Pars. (19) to (23). Pub. L. 102–586, §1(c)(2)–(4), added pars. (19) to (23).
 
-1988—Par. (5). Pub. L. 100–690, §7252(b)(1), substituted “section 5611(b)” for “section 5611(c)”.
+<b>1988</b>—Par. (5). Pub. L. 100–690, §7252(b)(1), substituted “section 5611(b)” for “section 5611(c)”.
 
 Pars. (17), (18). Pub. L. 100–690, §7251(a), added pars. (17) and (18).
 
-1984—Par. (3). Pub. L. 98–473, §613(1), struck out “for neglected, abandoned, or dependent youth and other youth” before “to help” and inserted “juvenile” after “prevent”.
+<b>1984</b>—Par. (3). Pub. L. 98–473, §613(1), struck out “for neglected, abandoned, or dependent youth and other youth” before “to help” and inserted “juvenile” after “prevent”.
 
 Par. (4)(A). Pub. L. 98–473, §613(2), substituted “ ‘Bureau of Justice Assistance’ means the bureau established by section 3741 of this title” for “ ‘Office of Justice Assistance, Research, and Statistics’ means the office established by section 3781(a) of this title”.
 
@@ -182,7 +182,7 @@ Par. (14). Pub. L. 98–473, §613(4)(A), inserted “or other sex offenses puni
 
 Par. (16). Pub. L. 98–473, §613(4)(B)–(6), added par. (16).
 
-1980—Par. (1). Pub. L. 96–509, §5(a), inserted reference to special education.
+<b>1980</b>—Par. (1). Pub. L. 96–509, §5(a), inserted reference to special education.
 
 Par. (4). Pub. L. 96–509, §5(b), designated existing provisions as subpar. (B) and added subpars. (A), (C), and (D).
 
@@ -198,7 +198,7 @@ Pars. (13), (14). Pub. L. 96–509, §5(f), added pars. (13) and (14). Former pa
 
 Par. (15). Pub. L. 96–509, §5(f), (g), redesignated former par. (13) as (15), inserted reference to special education, and substituted “protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use” for “protect the public and benefit the addict or other user by eliminating his dependence on addicting or other drugs or by controlling his dependence, and his susceptibility to addiction or use”.
 
-1977—Par. (3). Pub. L. 95–115 substituted “to help prevent delinquency” for “who are in danger of becoming delinquent”.
+<b>1977</b>—Par. (3). Pub. L. 95–115 substituted “to help prevent delinquency” for “who are in danger of becoming delinquent”.
 
 #### Effective Date of 2002 Amendment
 
@@ -219,4 +219,6 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “provide”.</i>
 

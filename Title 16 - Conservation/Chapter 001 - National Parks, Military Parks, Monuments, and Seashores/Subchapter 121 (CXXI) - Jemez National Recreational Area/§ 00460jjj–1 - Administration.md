@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to National Forest System lands in a manner that will further the purposes of the recreation area. Management of the natural resources within the recreation area shall be permitted only to the extent that such management is compatible with and does not impair the purposes for which the recreation area is established. Recreational activities within the recreation area shall include (but not be limited to) hiking, camping, hunting, fishing, skiing, backpacking, rock climbing, and swimming.
+The Secretary shall administer the recreation area in accordance with this subchapter and thelaws, rules, and regulations applicable to National Forest System lands in a manner that will further the purposes of the recreation area. Management of the natural resources within the recreation area shall be permitted only to the extent that such management is compatible with and does not impair the purposes for which the recreation area is established. Recreational activities within the recreation area shall include (but not be limited to) hiking, camping, hunting, fishing, skiing, backpacking, rock climbing, and swimming.
 
 #### (b) Management plan
 
@@ -10,7 +10,7 @@ The Secretary shall, no later than 5 years after October 12, 1993, develop a man
 
 #### (c) Cultural resources
 
-In administering the recreation area, the Secretary shall give particular emphasis to thepreservation, stabilization, and protection of cultural resources located within the recreation area in furtherance of the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], and the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the “American Indian Religious Freedom Act”).
+In administering the recreation area, the Secretary shall give particular emphasis to the preservation, stabilization, and protection of cultural resources located within the recreation area in furtherance of the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], and the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the “American Indian Religious Freedom Act”).
 
 #### (d) Native Americans
 
@@ -72,7 +72,7 @@ The Secretary may permit scientific investigations within the recreation area up
 
 #### (n) Resource protection
 
-The Secretary may designate zones where, and establish periods when, any activity otherwisepermitted in the recreation area will not be permitted for reasons of public safety, administration, fish and wildlife management, protection of archaeological or cultural resources, or public use and enjoyment. Except in emergencies such designations by the Secretary shall be put into effect only after consultation with the appropriate State agencies, appropriate tribal leaders, and other affected parties.
+The Secretary may designate zones where, and establish periods when, any activity otherwise permitted in the recreation area will not be permitted for reasons of public safety, administration, fish and wildlife management, protection of archaeological or cultural resources, or public use and enjoyment. Except in emergencies such designations by the Secretary shall be put into effect only after consultation with the appropriate State agencies, appropriate tribal leaders, and other affected parties.
 
 (Pub. L. 103–104, §2, Oct. 12, 1993, 107 Stat. 1025.)
 

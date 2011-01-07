@@ -24,7 +24,11 @@
 
 (e) The standards, procedures, and limitations applicable to an injunction shall apply to relief under paragraphs (1), (2), (3), and (6) of subsection (a).
 
-(f) The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362(n) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
+(f) The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362(<i>o</i>) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
 
-(Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 141.)
+(Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 141; amended Pub. L. 111–327, §2(a)(47), Dec. 22, 2010, 124 Stat. 3562.)
+
+#### Amendments
+
+2010—Subsec. (f). Pub. L. 111–327 substituted “362(<i>o</i>)” for “362(n)”.
 

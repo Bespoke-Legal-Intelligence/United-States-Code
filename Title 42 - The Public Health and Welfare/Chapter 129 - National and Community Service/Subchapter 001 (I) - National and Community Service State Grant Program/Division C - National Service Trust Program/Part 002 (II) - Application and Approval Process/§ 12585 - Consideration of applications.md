@@ -132,7 +132,7 @@ A prior section 133 of Pub. L. 101–610 was renumbered section 199K and is clas
 
 #### Amendments
 
-2009—Subsec. (b)(2)(B). Pub. L. 111–13, §1311(1), struck out “jobs or” before “positions”.
+<b>2009</b>—Subsec. (b)(2)(B). Pub. L. 111–13, §1311(1), struck out “jobs or” before “positions”.
 
 Subsec. (d)(2). Pub. L. 111–13, §1311(2)(A)(i), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
 

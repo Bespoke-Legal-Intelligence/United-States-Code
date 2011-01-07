@@ -26,5 +26,5 @@ This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 St
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources of the House of Representatives” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources of the House of Representatives” for “Interior and Insular Affairs”.
 

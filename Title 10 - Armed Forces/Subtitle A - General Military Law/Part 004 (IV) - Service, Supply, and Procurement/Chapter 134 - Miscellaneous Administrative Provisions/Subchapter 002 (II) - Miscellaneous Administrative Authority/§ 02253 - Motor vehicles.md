@@ -24,5 +24,5 @@ Subsection (b) of this section and sections 2241(a) and 2661(a) of this title ar
 
 #### Amendments
 
-1997—Subsec. (a)(2). Pub. L. 105–85 substituted “$30,000” for “$12,000”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–85 substituted “$30,000” for “$12,000”.
 

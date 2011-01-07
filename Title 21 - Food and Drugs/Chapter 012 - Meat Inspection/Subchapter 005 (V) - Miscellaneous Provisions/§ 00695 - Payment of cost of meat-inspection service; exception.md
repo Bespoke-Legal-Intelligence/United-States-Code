@@ -16,7 +16,7 @@ Section was not enacted as part of the Federal Meat Inspection Act which is clas
 
 #### Amendments
 
-2002—Pub. L. 107–171 substituted “overtime and holiday pay paid pursuant to section 2219a of title 7.” for “overtime pursuant to section 394 of title 7.”
+<b>2002</b>—Pub. L. 107–171 substituted “overtime and holiday pay paid pursuant to section 2219a of title 7.” for “overtime pursuant to section 394 of title 7.”
 
 &nbsp;
 

@@ -66,7 +66,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers Standard 32.1–2004, entitled “Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages”.
 
-(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
+(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing FacilityGuidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
 
 (ii) Test procedures for ceiling fan light kits shall be based on the test procedures referenced in the Energy Star specifications for Residential Light Fixtures and Compact Fluorescent Light Bulbs, as in effect on August 8, 2005.
 
@@ -122,21 +122,21 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257,3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–140, §302(a), which directed amendment of subsec. (b)(1) by striking “(1)” and all that followed through the “end of the paragraph” and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for “(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).” to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §302(a), which directed amendment of subsec. (b)(1) by striking “(1)” and all that followed through the “end of the paragraph” and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for “(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).” to reflect the probable intent of Congress.
 
 Subsec. (b)(17). Pub. L. 110–140, §301(b), added par. (17).
 
 Subsec. (b)(18). Pub. L. 110–140, §324(c), added par. (18).
 
-2005—Subsec. (b)(9) to (16). Pub. L. 109–58, §135(b)(1), added pars. (9) to (16).
+<b>2005</b>—Subsec. (b)(9) to (16). Pub. L. 109–58, §135(b)(1), added pars. (9) to (16).
 
 Subsec. (f). Pub. L. 109–58, §135(b)(2), added subsec. (f).
 
-1992—Subsec. (b)(3). Pub. L. 102–486, §123(d)(1)(A), inserted “water use (in the case of showerheads, faucets, water closets and urinals),” after “energy use,”.
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–486, §123(d)(1)(A), inserted “water use (in the case of showerheads, faucets, water closets and urinals),” after “energy use,”.
 
 Subsec. (b)(4). Pub. L. 102–486, §123(d)(1)(B), in first sentence inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use” after “energy use” and “, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle” after “such cycle”, and in second sentence inserted “, water, and wastewater treatment” before period at end.
 
@@ -150,17 +150,17 @@ Pub. L. 102–486, §123(d)(2), in closing provisions inserted “or, in the cas
 
 Subsec. (e)(1) to (3). Pub. L. 102–486, §123(d)(4), substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energy efficiency or energy use” in two places in par. (2) and once in par. (3).
 
-1988—Subsec. (b)(1)(C). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (b)(1)(C). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
 Subsec. (b)(5). Pub. L. 100–357 added par. (5).
 
-1987—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) to (c).
+<b>1987</b>—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) to (c).
 
-1978—Subsec. (a)(1), (2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
 
-Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out“Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
+Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out “Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
 
 Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 

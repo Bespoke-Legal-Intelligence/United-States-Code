@@ -68,11 +68,11 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### References in Text
 
-Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I,§113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, §5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
+Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I, §113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, §5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–114, §5021(2), substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §5021(2), substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
 
 Subsec. (b)(2). Pub. L. 110–114, §5021(2)(B), designated last sentence of par. (1) as (2) and inserted heading. Former par. (2) redesignated (4).
 
@@ -82,15 +82,15 @@ Subsec. (b)(3), (4). Pub. L. 110–114, §5021(1), (3), added par. (3) and redes
 
 Subsec. (b)(5). Pub. L. 110–114, §5021(4), which directed addition of par. (5) at end of subsec. (b), was executed by adding par. (5) after par. (4) to reflect the probable intent of Congress.
 
-2005—Subsec. (b)(1). Pub. L. 109–103 substituted “$30,000,000” for “$20,000,000” in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–103 substituted “$30,000,000” for “$20,000,000” in introductory provisions.
 
-2001—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
 
-2000—Subsec. (b). Pub. L. 106–541, §342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–541, §342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
 
 Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out former par. (4) which read as follows: “the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia.”
 
-1996—Subsec. (b). Pub. L. 104–303 substituted “$7,000,000” for “$5,000,000” in introductory provisions and inserted “and Virginia” after “Maryland” in par. (4).
+<b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted “$7,000,000” for “$5,000,000” in introductory provisions and inserted “and Virginia” after “Maryland” in par. (4).
 
 #### Termination of Reporting Requirements
 

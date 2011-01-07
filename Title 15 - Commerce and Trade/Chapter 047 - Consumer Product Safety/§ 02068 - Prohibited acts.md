@@ -54,7 +54,7 @@ Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any 
 
 #### Amendments
 
-2008—Subsec. (a)(1), (2). Pub. L. 110–314, §216(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–314, §216(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which is not in conformity with an applicable consumer product safety standard under this chapter;
 
@@ -66,19 +66,19 @@ Subsec. (a)(7) to (10). Pub. L. 110–314, §216(a)(3)–(6), struck out “or�
 
 Subsec. (a)(12) to (16). Pub. L. 110–314, §216(a)(7), added pars. (12) to (16).
 
-1990—Subsec. (a)(11). Pub. L. 101–608 added par. (11).
+<b>1990</b>—Subsec. (a)(11). Pub. L. 101–608 added par. (11).
 
-1983—Subsec. (a)(7). Pub. L. 97–414, §9(j)(4)(A), substituted “section 2058(g)(2)” for “section 2058(d)(2)”.
+<b>1983</b>—Subsec. (a)(7). Pub. L. 97–414, §9(j)(4)(A), substituted “section 2058(g)(2)” for “section 2058(d)(2)”.
 
 Subsec. (a)(8). Pub. L. 97–414, §9(j)(4)(B), redesignated par. (9) as (8) and struck out former par. (8) which made it unlawful for any person to fail to comply with any rule under section 2062 of this title (relating to prior notice and description of new consumer products).
 
 Subsec. (a)(9), (10). Pub. L. 97–414, §9(j)(4)(B), redesignated par. (10), as added by Pub. L. 95–319, as (9). Former par. (9) redesignated (8).
 
-1978—Subsec. (a)(10). Pub. L. 95–631 added par. (10), providing that it be unlawful to fail to file a statement with the Commission pursuant to section 2067(b) of this title.
+<b>1978</b>—Subsec. (a)(10). Pub. L. 95–631 added par. (10), providing that it be unlawful to fail to file a statement with the Commission pursuant to section 2067(b) of this title.
 
 Pub. L. 95–319 added par. (10), providing that it be unlawful to fail to comply with any rule or requirement under section 2082 of this title.
 
-1976—Subsec. (a). Pub. L. 94–284 substituted “to” for “and to” and inserted “, and to prohibited acts” after “refund” in par. (5), inserted “or fail or refuse to establish or maintain records,” after “copying of records,” in par. (3), and added pars. (8) and (9).
+<b>1976</b>—Subsec. (a). Pub. L. 94–284 substituted “to” for “and to” and inserted “, and to prohibited acts” after “refund” in par. (5), inserted “or fail or refuse to establish or maintain records,” after “copying of records,” in par. (3), and added pars. (8) and (9).
 
 #### Effective Date of 2008 Amendment
 

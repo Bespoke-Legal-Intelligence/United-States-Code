@@ -58,7 +58,7 @@ Nothing in this part shall be construed as limiting the rights of a child with a
 
 &emsp;Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b) of this section.
 
-(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div.B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175.)
+(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175.)
 
 #### References in Text
 
@@ -66,11 +66,11 @@ The Individuals with Disabilities Education Act, referred to in subsec. (e), is 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3105(c), substituted “6 fiscal years” for “5 fiscal years”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3105(c), substituted “6 fiscal years” for “5 fiscal years”.
 
 Subsec. (f)(1). Pub. L. 106–310, §3105(d), substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994”.
 
-1993—Subsec. (c)(1), (d), (f)(1). Pub. L. 103–43, §2017(2)(A), (B), (C)(i), substituted “this part” for “this subpart”.
+<b>1993</b>—Subsec. (c)(1), (d), (f)(1). Pub. L. 103–43, §2017(2)(A), (B), (C)(i), substituted “this part” for “this subpart”.
 
 Subsec. (f)(2). Pub. L. 103–43, §2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section.”
 

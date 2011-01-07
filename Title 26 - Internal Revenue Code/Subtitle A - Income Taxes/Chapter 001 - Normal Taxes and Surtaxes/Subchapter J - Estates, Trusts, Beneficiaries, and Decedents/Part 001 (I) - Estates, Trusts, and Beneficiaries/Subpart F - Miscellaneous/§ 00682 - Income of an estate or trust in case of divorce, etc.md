@@ -16,7 +16,7 @@ For purposes of computing the taxable income of the estate or trust and the taxa
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–369 struck out “or section 71” after “subsection (a)” and struck out provision that a periodic payment under section 71 to any portion of which this part applied shall be included in the gross income of the beneficiary in the taxable year in which under this part such portion is required to be included.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 struck out “or section 71” after “subsection (a)” and struck out provision that a periodic payment under section 71 to any portion of which this part applied shall be included in the gross income of the beneficiary in the taxable year in which under this part such portion is required to be included.
 
 #### Effective Date of 1984 Amendment
 

@@ -20,7 +20,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(2) such a loan may be made for a period of up to 30 years from the making of the loan, but the Secretary may provide for periodic payments based on an amortization schedule of 50 years with a final payment of the balance due at the end of the term of the loan;
 
-&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
+&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principalamounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
 
 &emsp;(4) such a loan, when made to a consumer cooperative for cooperative housing purposes, may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
 
@@ -134,7 +134,7 @@ The Secretary may not deny assistance under this section or section 1490a of thi
 
 #### (<i>o</i>) Rental assistance payments as affecting assistance to projects or occupancy by eligible persons
 
-The Secretary may not (1) deny assistance under this section on the basis that rental assistance payments under section 1490a of thistitle may be required unless the authority to provide such assistance is not available; or (2) promulgate any regulation that would have the effect of denying occupancy to eligible persons on the basis that such persons require rental assistance payments under section 1490a of this title.
+The Secretary may not (1) deny assistance under this section on the basis that rental assistance payments under section 1490a of this title may be required unless the authority to provide such assistance is not available; or (2) promulgate any regulation that would have the effect of denying occupancy to eligible persons on the basis that such persons require rental assistance payments under section 1490a of this title.
 
 #### (p) Occupancy by low income persons and families other than very low-income persons and families
 
@@ -184,7 +184,7 @@ No fee other than a late fee may be imposed by or for the Secretary or any other
 
 #### (2) Timing
 
-&emsp;The Secretary is authorized to guarantee an equity loan under this subsection after the expiration of the 20-year period beginning on the date that an existing loan under subsection (b)of this section was made or insured. Not more than one equity loan under this subsection may be provided for any project.
+&emsp;The Secretary is authorized to guarantee an equity loan under this subsection after the expiration of the 20-year period beginning on the date that an existing loan under subsection (b) of this section was made or insured. Not more than one equity loan under this subsection may be provided for any project.
 
 #### (3) Amount of the takeout
 
@@ -226,7 +226,7 @@ The Secretary may provide for the assumption or transfer of a loan or loan oblig
 
 #### (2) Minimum State set-aside
 
-&emsp;If the amount set aside under paragraph (1) for any State is less than $750,000 in any fiscal year, the Secretary shall pool such amount together with set-aside amounts from other States whose set-aside is less than $750,000, and shall make such amounts available for such eligible entities under paragraph (1) in any such State. The Secretary shall establish a procedure to provide that any amounts pooled under this paragraph from the allocation for any State in any fiscal year that are not obligated during a reasonable period in such year shall be made available for any such eligible entities under paragraph (1) in such State. The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.
+&emsp;If the amount set aside under paragraph (1) for any State is less than $750,000 in any fiscal year, the Secretary shall pool such amount together with set-aside amounts from other States whose set-aside is less than $750,000, and shall make such amounts available forsuch eligible entities under paragraph (1) in any such State. The Secretary shall establish a procedure to provide that any amounts pooled under this paragraph from the allocation for any State in any fiscal year that are not obligated during a reasonable period in such year shall be made available for any such eligible entities under paragraph (1) in such State. The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.
 
 #### (3) Unused amounts
 
@@ -294,7 +294,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a United States district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
+&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a UnitedStates district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
 
 #### (B) Improper documentation
 
@@ -344,17 +344,17 @@ Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–289, which directed amendment of subsec. (h) by inserting “(1) Condition” after “(h)” and adding par. (2), was executed by making the insertion after “(h) Project transfers” and adding par. (2), to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (h). Pub. L. 110–289, which directed amendment of subsec. (h) by inserting “(1) Condition” after “(h)” and adding par. (2), was executed by making the insertion after “(h) Project transfers” and adding par. (2), to reflect the probable intent of Congress.
 
-2000—Subsec. (z). Pub. L. 106–569 added subsec. (z) and struck out heading and text of former subsec. (z). Text read as follows: “Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.”
+<b>2000</b>—Subsec. (z). Pub. L. 106–569 added subsec. (z) and struck out heading and text of former subsec. (z). Text read as follows: “Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.”
 
 Subsec. (aa). Pub. L. 106–569 added subsec. (aa).
 
-1998—Subsec. (b)(4) to (7). Pub. L. 105–276, §599C(b)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “no loan shall be insured under this subsection after September 30, 1998;”.
+<b>1998</b>—Subsec. (b)(4) to (7). Pub. L. 105–276, §599C(b)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “no loan shall be insured under this subsection after September 30, 1998;”.
 
 Subsec. (w)(1). Pub. L. 105–276, §599C(b)(2), substituted “each fiscal year” for “fiscal year 1998” in first sentence.
 
-1997—Subsec. (a)(2). Pub. L. 105–86, §735(b)(3)(A), substituted “up to 30 years” for “up to fifty years”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–86, §735(b)(3)(A), substituted “up to 30 years” for “up to fifty years”.
 
 Subsec. (b)(2). Pub. L. 105–86, §735(b)(3)(B)(i), added par. (2) and struck out former par. (2) which read as follows: “provide for complete amortization by periodic payments within such term as the Secretary may prescribe;”.
 
@@ -364,7 +364,7 @@ Subsec. (b)(7). Pub. L. 105–86, §735(b)(3)(B)(ii)–(iv), added par. (7).
 
 Subsec. (w)(1). Pub. L. 105–86, §735(b)(2), substituted “fiscal year 1998” for “fiscal year 1997”.
 
-1996—Subsec. (b)(4). Pub. L. 104–180, §734(a)(1), substituted “September 30, 1997” for “September 30, 1996”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–180, §734(a)(1), substituted “September 30, 1997” for “September 30, 1996”.
 
 Pub. L. 104–120, §4(b), substituted “September 30, 1996” for “September 30, 1994”.
 
@@ -402,11 +402,11 @@ Pub. L. 104–120, §4(c), substituted “fiscal year 1996” for “fiscal year
 
 Subsec. (z). Pub. L. 104–180, §734(d)(2), (e)(2), added subsec. (z) and struck out heading and text of former subsec. (z). Text consisted of 3 pars. which denied Secretary authority to refuse to make complying loan solely because facilities were in rural or remote area or to provide preference for project based on availability of particular essential service and required Secretary to give preference to proposed projects serving rural communities 20 or more miles from an urban area.
 
-1992—Subsec. (b)(4). Pub. L. 102–550, §701(e), substituted “1994” for “1992”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–550, §701(e), substituted “1994” for “1992”.
 
 Subsec. (e)(4). Pub. L. 102–550, §707(a), struck out “and” before “initial operating expenses up to”, inserted “, impact fees, local charges for installation, provision, or use of infrastructure, and local assessments for public improvements and services imposed by State and local governments” after “approved by the Secretary”, and inserted at end “Notwithstanding the first sentence of this paragraph, the term ‘development cost’ shall not include any initial operating expenses in the case of any nonprofit corporation or consumer cooperative that is financing housing under this section and has been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows: “in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and”.
+Subsec. (<i>l</i>)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows:“in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and”.
 
 Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for “, except when the Secretary determines that the continued vacancy of units that have been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
 
@@ -418,7 +418,7 @@ Subsec. (p)(5). Pub. L. 102–550, §707(b)(2)(2), added par. (5).
 
 Subsec. (r)(2). Pub. L. 102–550, §707(c), inserted before period at end “, except that the Secretary shall require a 5 percent contribution in the case of a project that is allocated a low-income housing tax credit pursuant to section 42 of title 26”.
 
-Subsec. (w)(1). Pub. L. 102–550, §708(a)(1)–(3), substituted “not less than 9 percent of the amounts available in fiscal years 1993 and 1994” for “not lessthan 7 percent of the amounts available in fiscal year 1991 and not less than 9 percent of the amounts available in fiscal year 1992” in first sentence, struck out “or under whole or partial control with a for-profit entity” after “by a for-profit entity” in second sentence, and inserted at end “A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—” and subpars. (A) to (D).
+Subsec. (w)(1). Pub. L. 102–550, §708(a)(1)–(3), substituted “not less than 9 percent of the amounts available in fiscal years 1993 and 1994” for “not less than 7 percent of the amounts available in fiscal year 1991 and not less than 9 percent of the amounts available in fiscal year 1992” in first sentence, struck out “or under whole or partial control with a for-profit entity” after “by a for-profit entity” in second sentence, and inserted at end “A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—” and subpars. (A) to (D).
 
 Subsec. (w)(2). Pub. L. 102–550, §708(a)(4), inserted at end “The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.”
 
@@ -430,11 +430,11 @@ Subsec. (y). Pub. L. 102–550, §707(e), added subsec. (y).
 
 Subsec. (z). Pub. L. 102–550, §707(f)(1), added subsec. (z).
 
-1991—Subsec. (b)(4). Pub. L. 102–142 substituted “1992” for “1991”.
+<b>1991</b>—Subsec. (b)(4). Pub. L. 102–142 substituted “1992” for “1991”.
 
 Subsec. (p)(4). Pub. L. 102–230 inserted at end “The preceding sentence shall not be interpreted as authorizing the Secretary to—” and subpars. (A) and (B).
 
-1990—Subsec. (b)(4). Pub. L. 101–625, §701(e), substituted “1991” for “1990”.
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–625, §701(e), substituted “1991” for “1990”.
 
 Subsec. (t)(3). Pub. L. 101–625, §712(a)(1), substituted “original appraised value of the project” for “original loan on the project”.
 
@@ -448,13 +448,13 @@ Subsec. (v). Pub. L. 101–625, §712(c), added subsec. (v).
 
 Subsec. (w). Pub. L. 101–625, §713, added subsec. (w).
 
-1989—Subsec. (b)(4). Pub. L. 101–137 substituted “September 30, 1990” for “September 30, 1989”.
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–137 substituted “September 30, 1990” for “September 30, 1989”.
 
 Subsec. (t). Pub. L. 101–235, §207, added subsec. (t).
 
 Subsec. (u). Pub. L. 101–235, §402, added subsec. (u).
 
-1988—Subsec. (b)(4). Pub. L. 100–242, §301(e), substituted “September 30, 1989” for “March 15, 1988”.
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–242, §301(e), substituted “September 30, 1989” for “March 15, 1988”.
 
 Subsec. (c). Pub. L. 100–242, §242, added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -476,7 +476,7 @@ Subsec. (r). Pub. L. 100–242, §263, added subsec. (r).
 
 Subsec. (s). Pub. L. 100–242, §307, added subsec. (s).
 
-1987—Subsec. (b)(4). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsec. (b)(4). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
 
 Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
 
@@ -486,7 +486,7 @@ Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”
 
 Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
 
-1986—Subsec. (b)(4). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsec. (b)(4). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
 
 Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
 
@@ -496,15 +496,15 @@ Pub. L. 99–272 directed amendment identical to Pub. L. 99–219, substituting 
 
 Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
 
-1985—Subsec. (b)(4). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsec. (b)(4). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
 
 Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
 
 Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
 
-1984—Subsec. (k)(2)(B). Pub. L. 98–479 inserted “, at the option of the applicant, either that there is a reasonable assurance that the contract for assistance will be extended or renewed, or”.
+<b>1984</b>—Subsec. (k)(2)(B). Pub. L. 98–479 inserted “, at the option of the applicant, either that there is a reasonable assurance that the contract for assistance will be extended or renewed, or”.
 
-1983—Subsec. (a)(2) to (4). Pub. L. 98–181, §512(c)(1), (2), struck out par. (2) which related to rates of interest on loans, and redesignated pars. (3) and (4) as (2) and (3), respectively.
+<b>1983</b>—Subsec. (a)(2) to (4). Pub. L. 98–181, §512(c)(1), (2), struck out par. (2) which related to rates of interest on loans, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
 Subsec. (b)(2) to (4). Pub. L. 98–181, §512(c)(3), (4), struck out par. (2) which related to rates of interest on loans and redesignated pars. (3) to (5) as (2) to (4), respectively.
 
@@ -526,11 +526,11 @@ Subsec. (d)(1). Pub. L. 98–181, §512(e), inserted provisions relating to appl
 
 Subsecs. (g) to (p). Pub. L. 98–181, §512(a), added subsecs. (g) to (p).
 
-1982—Subsec. (b)(5). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
+<b>1982</b>—Subsec. (b)(5). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
 
-1981—Subsec. (b)(5). Pub. L. 97–35 substituted “1982” for “1981”.
+<b>1981</b>—Subsec. (b)(5). Pub. L. 97–35 substituted “1982” for “1981”.
 
-1980—Subsec. (a). Pub. L. 96–399, §§503(a), 507(c)(1), inserted reference to Indian tribes in provisions preceding par. (1), and added par. (4).
+<b>1980</b>—Subsec. (a). Pub. L. 96–399, §§503(a), 507(c)(1), inserted reference to Indian tribes in provisions preceding par. (1), and added par. (4).
 
 Subsec. (b). Pub. L. 96–399, §§501(b), 503(b), 507(c)(2), inserted reference to Indian tribe in provisions preceding par. (1), in par. (5) substituted “September 30, 1981” for “October 15, 1980”, and added par. (6).
 
@@ -538,17 +538,17 @@ Pub. L. 96–372 substituted “October 15, 1980” for “September 30, 1980”
 
 Subsec. (f). Pub. L. 96–399, §502, added subsec. (f).
 
-1979—Subsec. (b)(5). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979”.
+<b>1979</b>—Subsec. (b)(5). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979”.
 
 Pub. L. 96–105 substituted “November 30, 1979” for “October 31, 1979”.
 
 Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979”.
 
-1978—Subsec. (b)(5). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
+<b>1978</b>—Subsec. (b)(5). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
 
 Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
 
-1977—Subsec. (a). Pub. L. 95–128, §507(a)(3), authorized loans for housing of handicapped persons or families.
+<b>1977</b>—Subsec. (a). Pub. L. 95–128, §507(a)(3), authorized loans for housing of handicapped persons or families.
 
 Subsec. (b). Pub. L. 95–128, §§501(b), 507(a)(3), substituted “elderly or handicapped persons or families” for “elderly persons and elderly families” in provision preceding par. (1) and “September 30, 1978” for “September 30, 1977” in par. (5).
 
@@ -562,21 +562,21 @@ Subsec. (d)(1). Pub. L. 95–128, §508(b), defined “housing” to also mean c
 
 Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and “elderly families” as families the head of which (or his spouse) is 62 years of age or over.
 
-1974—Subsec. (b)(1). Pub. L. 93–383, §510(a), struck out “$750,000 or” after “exceed” and substituted “less” for “least”.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–383, §510(a), struck out “$750,000 or” after “exceed” and substituted “less” for “least”.
 
 Subsec. (b)(5). Pub. L. 93–383, §509(b), substituted “June 30, 1977” for “October 1, 1974”.
 
 Subsec. (d)(4). Pub. L. 93–383, §510(b), inserted provisions including initial operating expenses up to 2 per centum of enumerated costs and requiring payments to be made to consultants rendering services to nonprofit corporations or consumer cooperatives providing housing and related facilities to low or moderate income families.
 
-1973—Subsec. (b)(5). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
+<b>1973</b>—Subsec. (b)(5). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
 
-1970—Subsec. (b)(1). Pub. L. 91–609 substituted “$750,000” for “$300,000”.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–609 substituted “$750,000” for “$300,000”.
 
-1969—Subsec. (b)(5). Pub. L. 91–152 substituted “October 1, 1973” for “January 1, 1970”.
+<b>1969</b>—Subsec. (b)(5). Pub. L. 91–152 substituted “October 1, 1973” for “January 1, 1970”.
 
 Pub. L. 91–78 substituted “January 1, 1970” for “October 1, 1969”.
 
-1966—Subsec. (a). Pub. L. 89–754, §§804(a), 805(a), inserted “or other persons and families of low income” after “income” and substituted “rental or cooperative housing” for “rental housing”, respectively.
+<b>1966</b>—Subsec. (a). Pub. L. 89–754, §§804(a), 805(a), inserted “or other persons and families of low income” after “income” and substituted “rental or cooperative housing” for “rental housing”, respectively.
 
 Subsec. (b). Pub. L. 89–754, §805(a), (b), substituted “rental or cooperative housing” for “rental housing” and inserted “or other persons and families of moderate income” after “families”, respectively.
 
@@ -584,9 +584,9 @@ Subsec. (d)(1). Pub. L. 89–754, §804(b), substituted in the definition of “
 
 Subsec. (d)(4). Pub. L. 89–754, §805(c), defined fees and charges as used for purposes of “development cost” to include payments to qualified consulting organizations or foundations which operate on a nonprofit basis and which render services or assistance to nonprofit corporations or consumer cooperatives who provide housing and related facilities.
 
-1965—Subsec. (b)(5). Pub. L. 89–117 substituted “October 1, 1969” for “September 30, 1965”.
+<b>1965</b>—Subsec. (b)(5). Pub. L. 89–117 substituted “October 1, 1969” for “September 30, 1965”.
 
-1964—Subsec. (b). Pub. L. 88–560 substituted “$300,000” for “$100,000” in cl. (1), and “1965” for “1964” in cl. (5).
+<b>1964</b>—Subsec. (b). Pub. L. 88–560 substituted “$300,000” for “$100,000” in cl. (1), and “1965” for “1964” in cl. (5).
 
 Pub. L. 88–340 substituted “September 30, 1964” for “June 30, 1964” in cl. (5).
 

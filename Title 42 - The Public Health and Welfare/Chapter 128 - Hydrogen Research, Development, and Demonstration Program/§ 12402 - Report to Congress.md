@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1996—Pub. L. 104–271 amended section generally, substituting provisions requiring report to Congress on chapter programs by Jan. 1, 1999, for provisions regarding preparation and contents of comprehensive 5-year program management plan for research and development activities and comprehensive large-scale hydrogen demonstration plan with respect to section 12404 demonstrations.
+<b>1996</b>—Pub. L. 104–271 amended section generally, substituting provisions requiring report to Congress on chapter programs by Jan. 1, 1999, for provisions regarding preparation and contents of comprehensive 5-year program management plan for research and development activities and comprehensive large-scale hydrogen demonstration plan with respect to section 12404 demonstrations.
 

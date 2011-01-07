@@ -38,7 +38,7 @@ Alabama is divided into three judicial districts to be known as the Northern, Mi
 
 (b) The Middle District comprises three divisions.
 
-&emsp;&emsp;(1) The Northern Division comprises the counties of Autauga, Barbour, Bullock,Butler, Chilton, Coosa, Covington, Crenshaw, Elmore, Lowndes, Montgomery, and Pike.
+&emsp;&emsp;(1) The Northern Division comprises the counties of Autauga, Barbour, Bullock, Butler, Chilton, Coosa, Covington, Crenshaw, Elmore, Lowndes, Montgomery, and Pike.
 
 &emsp;&emsp;Court for the Northern Division shall be held at Montgomery.
 
@@ -80,5 +80,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1961—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
+<b>1961</b>—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
 

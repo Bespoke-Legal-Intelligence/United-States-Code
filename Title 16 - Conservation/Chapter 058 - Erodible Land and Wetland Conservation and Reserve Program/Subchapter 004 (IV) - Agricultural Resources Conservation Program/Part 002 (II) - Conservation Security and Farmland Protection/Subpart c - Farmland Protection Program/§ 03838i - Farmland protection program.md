@@ -16,7 +16,7 @@ The purpose of the program is to protect the agricultural use and related conser
 
 #### (2) Federal share
 
-&emsp;The share of the cost provided by the Secretary for purchasing a conservation easement or other interest in eligible land shall not exceed 50 percent of the appraised fair market value of the conservation easement or other interest in eligible land.
+&emsp;The share of the cost provided by the Secretary for purchasing a conservation easementor other interest in eligible land shall not exceed 50 percent of the appraised fair market value of the conservation easement or other interest in eligible land.
 
 #### (3) Non-Federal share
 
@@ -136,7 +136,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2401(b), amended section generally. Prior to amendment, section related to establishment of farmland protection program, conservation plan requirement, and cost sharing.
+<b>2008</b>—Pub. L. 110–246, §2401(b), amended section generally. Prior to amendment, section related to establishment of farmland protection program, conservation plan requirement, and cost sharing.
 
 #### Effective Date of 2008 Amendment
 

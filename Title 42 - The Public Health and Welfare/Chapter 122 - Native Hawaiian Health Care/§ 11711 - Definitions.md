@@ -40,9 +40,11 @@ For purposes of this chapter:
 
 &emsp;&emsp;(E) improvement in physical fitness,
 
-&emsp;&emsp;(F) family planning, and
+&emsp;&emsp;(F) family planning,
 
-&emsp;&emsp;(G) control of stress.
+&emsp;&emsp;(G) control of stress, and
+
+&emsp;&emsp;(H) educational programs with the mission of improving the health, capability, and well-being of Native Hawaiians.
 
 #### (3) Native Hawaiian
 
@@ -172,9 +174,11 @@ For purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) oral traditions transmitted from generation to generation.
 
-(Pub. L. 100–579, §12, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2312, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §12, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2312, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### Codification
+
+Amendment by Pub. L. 111–148 is based on section 202(c) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
@@ -184,5 +188,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to severability.
+<b>2010</b>—Par. (2)(H). Pub. L. 111–148, which directed the amendment of section 12(2) of the Native Hawaiian Health Care Act of 1988 by adding subpar. (H), was executed by making the amendment to this section, which is section 12 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
+
+<b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to severability.
 

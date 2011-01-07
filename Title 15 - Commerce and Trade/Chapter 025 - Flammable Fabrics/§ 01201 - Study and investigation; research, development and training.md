@@ -20,11 +20,11 @@ In subsec. (a), pursuant to Pub. L. 92–573 and as amended by Pub. L. 110–314
 
 #### Amendments
 
-2008—Pub. L. 110–314 substituted “Commission” for “Secretary of Commerce” in subsecs. (a) and (b).
+<b>2008</b>—Pub. L. 110–314 substituted “Commission” for “Secretary of Commerce” in subsecs. (a) and (b).
 
-1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to the submission of an annual report by the Secretary of Health and Human Services to the President and to the Congress containing the results of a study and investigation.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out provisions relating to the submission of an annual report by the Secretary of Health and Human Services to the President and to the Congress containing the results of a study and investigation.
 
-1980—Subsec. (b). Pub. L. 96–470 struck out provision requiring the Secretary to report the results of activities under this subsection to Congress.
+<b>1980</b>—Subsec. (b). Pub. L. 96–470 struck out provision requiring the Secretary to report the results of activities under this subsection to Congress.
 
 #### Effective Date of 1981 Amendment
 

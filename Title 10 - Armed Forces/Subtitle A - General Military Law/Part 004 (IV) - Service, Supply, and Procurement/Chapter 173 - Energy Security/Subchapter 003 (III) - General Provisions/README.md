@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–417, \[div. A\], title III, §331(b)(2), Oct. 14, 2008, 122 Stat. 4420, added item 2925 and struck out former item 2925 “Annual report”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title III, §331(b)(2), Oct. 14, 2008, 122 Stat. 4420, added item 2925 and struck out former item 2925 “Annual report”.
 
 
 ---

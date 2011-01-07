@@ -18,7 +18,7 @@ Availability of Amounts To Pay for Testing.—The Secretary shall enter into a c
 
 (e)
 
-Acquiring New Bus Models.—Amounts appropriated or made available under this chapter may be obligated or expended to acquire a newbus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).
+Acquiring New Bus Models.—Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title III, §§3018, 3029(b)(8), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3020, Aug. 10, 2005, 119 Stat. 1545, 1608.)
 
@@ -82,7 +82,7 @@ This amends 49:5318(e) to correct an erroneous cross-reference.
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §3020(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise. The facility shall be established by renovating a facility built with assistance of the United States Government to train rail personnel.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §3020(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise. The facility shall be established by renovating a facility built with assistance of the United States Government to train rail personnel.”
 
 Subsec. (b). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
@@ -90,11 +90,11 @@ Subsec. (d). Pub. L. 109–59, §3020(b), substituted “to carry out this secti
 
 Subsec. (e). Pub. L. 109–59, §3020(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary has a bus testing revolving loan fund consisting of amounts authorized for the fund under section 317(b)(5) of the Surface Transportation and Uniform Relocation Assistance Act of 1987. The Secretary shall make available as repayable advances from the fund to the person operating and maintaining the facility amounts to operate and maintain the facility.”
 
-1998—Subsec. (b). Pub. L. 105–178, §3018(a), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and inserted “or organization” after “qualified person”, “, cooperative agreement, or grant” after “The contract”, and “mass transportation” after “and other”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §3018(a), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and inserted “or organization” after “qualified person”, “, cooperative agreement, or grant” after “The contract”, and “mass transportation” after “and other”.
 
 Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and “5309(m)(1)(C) of this title” for “5338(j)(5) of this title”.
 
-1994—Subsec. (e). Pub. L. 103–429 inserted “Uniform” before “Relocation”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–429 inserted “Uniform” before “Relocation”.
 
 #### Effective Date of 1994 Amendment
 

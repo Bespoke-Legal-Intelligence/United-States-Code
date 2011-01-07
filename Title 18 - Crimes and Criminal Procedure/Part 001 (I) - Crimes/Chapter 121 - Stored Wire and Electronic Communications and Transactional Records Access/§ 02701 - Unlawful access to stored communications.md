@@ -40,7 +40,7 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
 
 Subsec. (b)(1)(A). Pub. L. 107–296, §225(j)(2)(B), substituted “5 years” for “one year”.
 
@@ -48,9 +48,9 @@ Subsec. (b)(1)(B). Pub. L. 107–296, §225(j)(2)(C), substituted “10 years”
 
 Subsec. (b)(2). Pub. L. 107–296, §225(j)(2)(D), added par. (2) and struck out former par. (2) which read as follows: “a fine under this title or imprisonment for not more than six months, or both, in any other case.”
 
-1996—Subsec. (b)(1)(A), (2). Pub. L. 104–294 substituted “fine under this title” for “fine of under this title”.
+<b>1996</b>—Subsec. (b)(1)(A), (2). Pub. L. 104–294 substituted “fine under this title” for “fine of under this title”.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–322, §330016(1)(U), substituted “under this title” for “not more than $250,000”.
+<b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–322, §330016(1)(U), substituted “under this title” for “not more than $250,000”.
 
 Subsec. (b)(2). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000”.
 

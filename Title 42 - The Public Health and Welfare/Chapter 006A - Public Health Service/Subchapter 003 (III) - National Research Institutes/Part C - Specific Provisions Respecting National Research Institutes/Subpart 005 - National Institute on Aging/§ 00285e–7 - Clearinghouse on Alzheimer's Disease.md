@@ -16,7 +16,7 @@ The Clearinghouse may charge an appropriate fee for information provided through
 
 The Director of the Institute, the Director of the National Institute of Mental Health, and the Director of the National Center for Health Services Research and Health Care Technology Assessment shall provide to the Clearinghouse summaries of the findings of research conducted under part D.
 
-(July 1, 1944, ch. 373, title IV, §445E, formerly Pub. L. 99–660, title IX, §951, Nov. 14, 1986, 100Stat. 3813; renumbered §445E of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(4), Nov. 4, 1988, 102 Stat. 3057, 3058.)
+(July 1, 1944, ch. 373, title IV, §445E, formerly Pub. L. 99–660, title IX, §951, Nov. 14, 1986, 100 Stat. 3813; renumbered §445E of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(4), Nov. 4, 1988, 102 Stat. 3057, 3058.)
 
 #### References in Text
 
@@ -28,7 +28,7 @@ Section was formerly classified to section 11281 of this title prior to renumber
 
 #### Amendments
 
-1988—Pub. L. 100–607, §142(a), renumbered section 11281 of this title as this section.
+<b>1988</b>—Pub. L. 100–607, §142(a), renumbered section 11281 of this title as this section.
 
 Subsec. (a). Pub. L. 100–607, §142(d)(4)(A), substituted “the Institute” for “the National Institute on Aging” in introductory provisions.
 

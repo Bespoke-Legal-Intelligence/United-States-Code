@@ -16,7 +16,7 @@
 
 #### (3) Allotment formula
 
-&emsp;Except as provided in paragraph (4), from the amount available under paragraph (2)(B) for each fiscal year, a State shall be allottedan amount that bears the same ratio to the amount appropriated for such fiscal year as the population of the State that is under the age of 21 bears to the population of all States that is under the age of 21.
+&emsp;Except as provided in paragraph (4), from the amount available under paragraph (2)(B) for each fiscal year, a State shall be allotted an amount that bears the same ratio to the amount appropriated for such fiscal year as the population of the State that is under the age of 21 bears to the population of all States that is under the age of 21.
 
 #### (4) Exceptions
 
@@ -74,11 +74,13 @@ Section 450b of title 25, referred to in subsec. (f), has been amended, and subs
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–252, §402(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out sections 12315, 12337, and 12338 of this title, $30,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992, 1993, and 1994. Funds appropriated under this paragraph shall remain available for expenditure in the fiscal year succeeding the fiscal year for which such funds are appropriated.”
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–252, §402(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out sections 12315, 12337, and 12338 of this title, $30,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992, 1993, and 1994. Funds appropriated under this paragraph shall remain available for expenditure in the fiscal year succeeding the fiscal year for which such funds are appropriated.”
 
 Subsec. (d). Pub. L. 103–252, §402(b)(2), struck out heading and text of subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out section 12339 of this title, $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 Section 8217, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in active status. See section 12003 of this title.
 
-Section 8218, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515; amended Pub. L. 96–107, title III,§302(d), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, §1061(a)(23)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Air Force in reserve general officers in active status. See section 12004 of this title.
+Section 8218, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515; amended Pub. L. 96–107, title III, §302(d), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, §1061(a)(23)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Air Force in reserve general officers in active status. See section 12004 of this title.
 
 Section 8219, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in grades below brigadier general in active status. See section 12005(a) of this title.
 

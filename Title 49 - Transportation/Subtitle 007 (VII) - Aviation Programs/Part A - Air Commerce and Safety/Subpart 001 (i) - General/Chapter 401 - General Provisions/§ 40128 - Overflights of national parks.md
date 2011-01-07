@@ -20,7 +20,7 @@ Application for operating authority.—
 
 &emsp;&emsp;(A)
 
-Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
+Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to theAdministrator for authority to conduct the operations over the park or tribal lands.
 
 &emsp;&emsp;(B)
 
@@ -56,7 +56,7 @@ Priority.—In acting on applications under this paragraph to provide commercial
 
 &emsp;(3)
 
-Exception.—Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of the title 14, Code of Federal Regulations if—
+Exception.—Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of the <sup>1</sup> title 14, Code of Federal Regulations if—
 
 &emsp;&emsp;(A) such activity is permitted under part 119 of such title;
 
@@ -96,7 +96,7 @@ Contents.—An air tour management plan for a national park—
 
 &emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations over a national park, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictions for particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
 
-&emsp;&emsp;(C) shall apply to all commercial air tour operations over a national park that are also within 1/2 mile outside the boundary of a national park;
+&emsp;&emsp;(C) shall apply to all commercial air tour operations over a national park that are also within ½ mile outside the boundary of a national park;
 
 &emsp;&emsp;(D) shall include incentives (such as preferred commercial air tour routes and altitudes, relief from caps and curfews) for the adoption of quiet aircraft technology by commercial air tour operators conducting commercial air tour operations over a national park;
 
@@ -168,7 +168,7 @@ In general.—The Administrator, in cooperation with the Director, may grant int
 
 &emsp;&emsp;(B)
 
-Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that it would create a noise problem at the park or on the tribal lands.
+Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that itwould create a noise problem at the park or on the tribal lands.
 
 &emsp;&emsp;(C)
 
@@ -212,11 +212,11 @@ Commercial air tour operation over a national park.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “commercial air tour operation over a national park” means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within 1/2 mile outside the boundary of any national park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park), during which the aircraft flies—
+In general.—The term “commercial air tour operation over a national park” means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within ½ mile outside the boundary of any national park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park), during which the aircraft flies—
 
 &emsp;&emsp;&emsp;(i) below a minimum altitude, determined by the Administrator in cooperation with the Director, above ground level (except solely for purposes of takeoff or landing, or necessary for safe operation of an aircraft as determined under the rules and regulations of the Federal Aviation Administration requiring the pilot-in-command to take action to ensure the safe operation of the aircraft); or
 
-&emsp;&emsp;&emsp;(ii) less than 1 mile laterally from any geographic feature within the park (unless more than 1/2 mile outside the boundary).
+&emsp;&emsp;&emsp;(ii) less than 1 mile laterally from any geographic feature within the park (unless more than ½ mile outside the boundary).
 
 &emsp;&emsp;(B)
 
@@ -262,9 +262,9 @@ The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–115 inserted at end “For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.”
+<b>2005</b>—Subsec. (e). Pub. L. 109–115 inserted at end “For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.”
 
-2003—Subsec. (a)(1). Pub. L. 108–176, §323(a)(1), inserted “, as defined by this section,” after “tribal lands” in introductory provisions.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–176, §323(a)(1), inserted “, as defined by this section,” after “tribal lands” in introductory provisions.
 
 Subsec. (b)(3)(A), (B). Pub. L. 108–176, §323(a)(2), inserted “over a national park” after “operations”.
 
@@ -477,4 +477,6 @@ Quiet Aircraft Technology Report.—Not later than 2 years after the date of the
 #### “SEC. 809. ALASKA EXEMPTION.
 
 “The provisions of this title and section 40128 of title 49, United States Code, as added by section 803(a), do not apply to any land or waters located in Alaska.”
+
+<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

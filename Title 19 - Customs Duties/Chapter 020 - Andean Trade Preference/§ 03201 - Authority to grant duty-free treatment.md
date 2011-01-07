@@ -6,7 +6,7 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 #### Amendments
 
-2002—Pub. L. 107–210 inserted “(or other preferential treatment)” after “treatment”.
+<b>2002</b>—Pub. L. 107–210 inserted “(or other preferential treatment)” after “treatment”.
 
 #### Termination of Preferential Treatment
 

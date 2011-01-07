@@ -2,7 +2,7 @@
 
 #### (a) Establishment, initial boundaries
 
-The Secretary of the Interior shall acquire, by gift, purchase, condemnation, or otherwise, the lands (together with any improvements thereon) comprising the Wilson's Creek Battlefield site near Springfield, Missouri, and any other landsadjacent to such site which in his opinion are necessary or desirable to carry out the purposes of sections 430kk to 430mm of this title.
+The Secretary of the Interior shall acquire, by gift, purchase, condemnation, or otherwise, the lands (together with any improvements thereon) comprising the Wilson's Creek Battlefield site near Springfield, Missouri, and any other lands adjacent to such site which in his opinion are necessary or desirable to carry out the purposes of sections 430kk to 430mm of this title.
 
 #### (b) Expansion of boundaries
 
@@ -38,7 +38,7 @@ The boundaries of the Wilson's Creek National Battlefield, as revised by subsect
 
 #### Amendments
 
-2004—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
+<b>2004</b>—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
 
 #### Short Title of 2004 Amendment
 

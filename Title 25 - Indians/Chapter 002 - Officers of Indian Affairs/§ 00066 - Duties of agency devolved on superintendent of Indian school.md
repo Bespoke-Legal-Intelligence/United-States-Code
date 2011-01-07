@@ -8,7 +8,7 @@ The pay of any superintendent who performs agency duties in addition to those of
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required the superintendent of the Indian school to give a bond as other Indian agents.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required the superintendent of the Indian school to give a bond as other Indian agents.
 
 #### Transfer of Functions
 

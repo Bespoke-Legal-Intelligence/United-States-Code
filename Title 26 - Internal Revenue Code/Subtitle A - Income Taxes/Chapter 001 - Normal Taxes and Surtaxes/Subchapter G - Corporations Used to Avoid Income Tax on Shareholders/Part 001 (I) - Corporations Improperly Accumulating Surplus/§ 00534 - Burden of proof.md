@@ -24,7 +24,7 @@ If pursuant to section 6861(a) a jeopardy assessment is made before the mailing 
 
 #### Amendments
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1901(a)(73)(A), 1906(b)(13)(A), struck out “In the case of a notice of deficiency to which subsection (e)(2) applies and which is mailed on or before the 30th day after the date of enactment of this sentence, the notification referred to in the preceding sentence may be mailed at any time on or before such 30th day” after “section 531”, and “or his delegate” after “Secretary”.
 
@@ -32,9 +32,9 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Subsec. (e). Pub. L. 94–455, §1901(a)(73)(B), struck out subsec. (e) relating to application of provisions of section.
 
-1958—Subsec. (b). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
 
-1955—Subsec. (b). Act Aug. 11, 1955, §5, inserted second sentence relating to notice of deficiency to which subsec. (e)(2) applies.
+<b>1955</b>—Subsec. (b). Act Aug. 11, 1955, §5, inserted second sentence relating to notice of deficiency to which subsec. (e)(2) applies.
 
 Subsec. (e). Act Aug. 11, 1955, §4, permitted, in certain instances, application of this section to cases involving taxable years to which prior revenue laws apply.
 

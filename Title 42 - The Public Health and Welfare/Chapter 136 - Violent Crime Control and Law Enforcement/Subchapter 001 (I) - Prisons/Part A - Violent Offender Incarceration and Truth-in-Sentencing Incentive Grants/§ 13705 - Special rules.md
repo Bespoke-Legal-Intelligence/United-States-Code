@@ -40,9 +40,9 @@ A prior section 13705, Pub. L. 103–322, title II, §20105, Sept. 13, 1994, 108
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–273 substituted “Use of truth-in-sentencing and violent offender incarceration grants” for “Additional requirements” in heading and amended text generally, substituting provisions relating to use of funds for juveniles in adult prisons or under the jurisdiction of an adult criminal court for provisions relating to additional requirements for grant eligibility.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 substituted “Use of truth-in-sentencing and violent offender incarceration grants” for “Additional requirements” in heading and amended text generally, substituting provisions relating to use of funds for juveniles in adult prisons or under the jurisdiction of an adult criminal court for provisions relating to additional requirements for grant eligibility.
 
-1998—Subsec. (b). Pub. L. 105–277 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “To be eligible to receive a grant under section 13703 or 13704 of this title, a State shall provide assurances to the Attorney General that the State has implemented or will implement not later than 18 months after April 26, 1996, policies that provide for the recognition of the rights and needs of crime victims.”
+<b>1998</b>—Subsec. (b). Pub. L. 105–277 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “To be eligible to receive a grant under section 13703 or 13704 of this title, a State shall provide assurances to the Attorney General that the State has implemented or will implement not later than 18 months after April 26, 1996, policies that provide for the recognition of the rights and needs of crime victims.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “13701(2)”.</i>
 

@@ -48,7 +48,7 @@ United States international broadcasting shall include—
 
 The long-range interests of the United States are served by communicating directly with the peoples of the world by radio. To be effective, the Voice of America must win the attention and respect of listeners. These principles will therefore govern Voice of America (VOA) broadcasts:
 
-&emsp;(1) VOA will serve as a consistently reliable and authoritative source of news. VOA news will be accurate, objective, and comprehensive.
+&emsp;(1) VOA will serve as a consistently reliable and authoritative source of news. VOA newswill be accurate, objective, and comprehensive.
 
 &emsp;(2) VOA will represent America, not any single segment of American society, and will therefore present a balanced and comprehensive projection of significant American thought and institutions.
 
@@ -58,13 +58,13 @@ The long-range interests of the United States are served by communicating direct
 
 #### Amendments
 
-1998—Subsec. (a)(8). Pub. L. 105–292 added par. (8).
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–292 added par. (8).
 
 Subsec. (b)(3). Pub. L. 105–277, §1323(d)(1), which directed amendment of par. (3) by inserting “, including editorials, broadcast by the Voice of America, which present the views of the United States Government” after “policies”, was executed by making insertion after “policies” the second time it appears to reflect the probable intent of Congress.
 
 Subsec. (b)(4) to (10). Pub. L. 105–277, §1323(d)(2), (3), added par. (4) and redesignated former pars. (4) to (9) as (5) to (10), respectively.
 
-1994—Subsec. (c). Pub. L. 103–415 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–415 added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 

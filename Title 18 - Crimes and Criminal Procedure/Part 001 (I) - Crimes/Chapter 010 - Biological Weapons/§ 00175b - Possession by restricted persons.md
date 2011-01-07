@@ -66,7 +66,7 @@ Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
 
 Subsec. (d)(2)(G). Pub. L. 108–458, §6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
 
@@ -74,7 +74,7 @@ Subsec. (d)(2)(H). Pub. L. 108–458, §6802(c)(2), substituted “; or” for 
 
 Subsec. (d)(2)(I). Pub. L. 108–458, §6802(c)(3), added subpar. (I).
 
-2002—Pub. L. 107–273 substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
+<b>2002</b>—Pub. L. 107–273 substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
 
 Pub. L. 107–188, §231(b)(1)(B), substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
 

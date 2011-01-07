@@ -38,9 +38,9 @@ Subsec. (c) of this section, which required the Secretary to include in the repo
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–615 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The President shall submit to the Congress an annual report concerning all steps taken under subsections (a) and (b) of this section.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–615 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The President shall submit to the Congress an annual report concerning all steps taken under subsections (a) and (b) of this section.”
 
-1978—Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 Subsecs. (d), (e). Pub. L. 95–619, §501, added subsecs. (d) and (e).
 

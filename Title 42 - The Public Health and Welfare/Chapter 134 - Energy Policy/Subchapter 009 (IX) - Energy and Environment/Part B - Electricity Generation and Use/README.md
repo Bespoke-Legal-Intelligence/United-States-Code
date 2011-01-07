@@ -1,7 +1,5 @@
 Part B—Electricity Generation and Use
 
-<i><sup>1</sup></i><i> So in original. The word “from” probably should not appear.</i>
-
 
 ---
 

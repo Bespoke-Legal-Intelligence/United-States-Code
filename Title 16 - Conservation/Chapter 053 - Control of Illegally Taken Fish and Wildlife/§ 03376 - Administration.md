@@ -26,13 +26,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §8204(e)(1), substituted “sections 3372(f), 3373, and 3374” for “section 3373 and section 3374”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §8204(e)(1), substituted “sections 3372(f), 3373, and 3374” for “section 3373 and section 3374”.
 
 Subsec. (c). Pub. L. 110–246, §8204(e)(2), added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

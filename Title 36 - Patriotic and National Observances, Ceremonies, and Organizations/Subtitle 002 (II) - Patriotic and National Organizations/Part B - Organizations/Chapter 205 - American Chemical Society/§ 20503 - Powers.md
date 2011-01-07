@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-20503D36:3203 (1st sentence).DAug. 25, 1937, ch. 762, §§3 (1st sentence), 5, 50 Stat. 799.
+20503
+
+36:3203 (1st sentence).
+
+Aug. 25, 1937, ch. 762, §§3 (1st sentence), 5, 50 Stat. 799.
 
 &nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Technology Transfer Coordinator
 
-The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
+The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisorto the Secretary on all matters relating to technology transfer and commercialization.
 
 #### (b) Qualifications
 

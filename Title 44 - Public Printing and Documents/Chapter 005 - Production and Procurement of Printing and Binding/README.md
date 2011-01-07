@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1976—Pub. L. 94–553, §105(a)(2), Oct. 19, 1976, 90 Stat. 2599, struck out “; copyright” after “plates” in item 505.
+<b>1976</b>—Pub. L. 94–553, §105(a)(2), Oct. 19, 1976, 90 Stat. 2599, struck out “; copyright” after “plates” in item 505.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

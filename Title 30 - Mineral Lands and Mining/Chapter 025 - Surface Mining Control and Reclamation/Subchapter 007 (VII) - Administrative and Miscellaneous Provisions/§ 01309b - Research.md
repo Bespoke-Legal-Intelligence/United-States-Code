@@ -12,3 +12,7 @@ Section 1231(c)(6) of this title, referred to in text, was repealed and paragrap
 
 Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

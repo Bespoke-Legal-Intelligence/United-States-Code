@@ -6,7 +6,7 @@ Subject to the approval of the Senate Committee on Rules and Administration, the
 
 #### (b) Amount and period of loan; voucher
 
-Any such loan authorized pursuant to subsection (a) of this section shall be for such amount and for such period as the Senate Committee on Rules and Administration shall prescribe, and shall be made by the Secretary of the Senate to the Architect of the Capitol upon a voucher approved by the Chairman of the Senate Committee on Rules and Administration.
+Any such loan authorized pursuant to subsection (a) of this section shall be for suchamount and for such period as the Senate Committee on Rules and Administration shall prescribe, and shall be made by the Secretary of the Senate to the Architect of the Capitol upon a voucher approved by the Chairman of the Senate Committee on Rules and Administration.
 
 #### (c) Deposit, credit, and future availability of proceeds from repayment
 

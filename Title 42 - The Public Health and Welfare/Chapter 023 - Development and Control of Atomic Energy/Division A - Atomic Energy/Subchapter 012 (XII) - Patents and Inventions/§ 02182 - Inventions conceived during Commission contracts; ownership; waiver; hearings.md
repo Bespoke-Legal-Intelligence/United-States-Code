@@ -12,15 +12,15 @@ If the statement filed by the applicant should thereafter be found to contain fa
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” wherever appearing.
 
-1984—Pub. L. 98–622, in third par., substituted “the Board of Patent Appeals and Interferences” for “a Board of Patent Interferences” and “the Board of Patent Interferences”.
+<b>1984</b>—Pub. L. 98–622, in third par., substituted “the Board of Patent Appeals and Interferences” for “a Board of Patent Interferences” and “the Board of Patent Interferences”.
 
-1982—Pub. L. 97–164 substituted “United States Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals” in third par.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals” in third par.
 
-1962—Pub. L. 87–615 substituted “allowance” for “allowances” before “forward copies of the application” in first par.
+<b>1962</b>—Pub. L. 87–615 substituted “allowance” for “allowances” before “forward copies of the application” in first par.
 
-1961—Pub. L. 87–206 clarified language concerning Commission's patent rights on inventions made or conceived under contract, subcontract, or arrangement with Commission, striking out language extending Commission's patent rights to other relationships and activities in connection with Commission contracts, provided for waiver of patent rights consistent with the policy of this section and for finality of determinations of Commission, and dispensed with need for statement to Commissioner of Patents under certain circumstances.
+<b>1961</b>—Pub. L. 87–206 clarified language concerning Commission's patent rights on inventions made or conceived under contract, subcontract, or arrangement with Commission, striking out language extending Commission's patent rights to other relationships and activities in connection with Commission contracts, provided for waiver of patent rights consistent with the policy of this section and for finality of determinationsof Commission, and dispensed with need for statement to Commissioner of Patents under certain circumstances.
 
 #### Effective Date of 1999 Amendment
 

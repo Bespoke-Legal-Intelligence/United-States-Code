@@ -10,7 +10,7 @@ A candidate country referred to in subsection (a) is a candidate country that—
 
 &emsp;(1) satisfies the requirements contained in subsection (a) or (b) of section 7705 of this title; and
 
-&emsp;(2) demonstrates a significant commitment to meet the requirements of section 7706(b) ofthis title but fails to meet such requirements (including by reason of the absence or unreliability of data).
+&emsp;(2) demonstrates a significant commitment to meet the requirements of section 7706(b) of this title but fails to meet such requirements (including by reason of the absence or unreliability of data).
 
 #### (c) Administration
 
@@ -24,5 +24,5 @@ Not more than 10 percent of the amount appropriated pursuant to the authorizatio
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–13 substituted “subsection (a) or (b) of section 7705” for “subparagraphs (A) and (B) of section 7705(a)(1)”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–13 substituted “subsection (a) or (b) of section 7705” for “subparagraphs (A) and (B) of section 7705(a)(1)”.
 

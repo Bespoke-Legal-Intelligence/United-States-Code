@@ -12,13 +12,13 @@
 
 #### (2) Program requirement
 
-&emsp;Cooperative education programs assisted under this section shall provide alternating or parallel periods of academic study and of public or private employment, giving students work experience related to their academic or occupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
+&emsp;Cooperative education programs assisted under this section shall provide alternating or parallel periods of academic study and of public or private employment, giving students work experience related to their academic oroccupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
 
 #### (3) Amount of grants
 
 &emsp;(A) The amount of each grant awarded pursuant to paragraph (1)(A) to any institution of higher education or consortia of such institutions in any fiscal year shall not exceed $500,000.
 
-&emsp;(B)(i) Except as provided in clauses (ii) and (iii), the Secretary shall award grants in each fiscal year to each institution of higher education described in paragraph (1)(B) that has an application approved under subsection (b) in an amount that bears the same ratio to the amount reserved pursuant to section 1161n–1(a)(2) of this title for such fiscal year as the number of unduplicated students placed in cooperative education jobs during the preceding fiscal year by such institution of higher education (other than cooperative education jobs under section 1161n–3 of this title and asdetermined by the Secretary) bears to the total number of all such students placed in such jobs during the preceding fiscal year by all such institutions.
+&emsp;(B)(i) Except as provided in clauses (ii) and (iii), the Secretary shall award grants in each fiscal year to each institution of higher education described in paragraph (1)(B) that has an application approved under subsection (b) in an amount that bears the same ratio to the amount reserved pursuant to section 1161n–1(a)(2) of this title for such fiscal year as the number of unduplicated students placed in cooperative education jobs during the preceding fiscal year by such institution of higher education (other than cooperative education jobs under section 1161n–3 of this title and as determined by the Secretary) bears to the total number of all such students placed in such jobs during the preceding fiscal year by all such institutions.
 
 &emsp;(ii) No institution of higher education shall receive a grant pursuant to paragraph (1)(B) in any fiscal year in an amount that exceeds 25 percent of such institution's cooperative education program's personnel and operating budget for the preceding fiscal year.
 
@@ -134,7 +134,7 @@ If the Secretary determines that a recipient of funds under this section has fai
 
 #### Amendments
 
-2009—Subsec. (e)(1). Pub. L. 111–39, §801(11)(A), substituted “based on” for “because of” in introductory provisions.
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–39, §801(11)(A), substituted “based on” for “because of” in introductory provisions.
 
 Subsec. (e)(1)(D). Pub. L. 111–39, §801(11)(B), substituted “purpose of this part” for “purposes of this section”.
 

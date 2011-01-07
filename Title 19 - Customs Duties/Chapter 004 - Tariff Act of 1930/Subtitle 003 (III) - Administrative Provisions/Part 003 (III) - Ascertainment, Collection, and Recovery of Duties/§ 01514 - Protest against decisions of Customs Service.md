@@ -36,7 +36,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(D) any other matter required by the Secretary by regulation.
 
-> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
+> Only one protest may be filed for each entry of merchandise, except that where the entry coversmerchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
 
 (2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) of this section by—
 
@@ -88,7 +88,7 @@ If the Bureau of Customs and Border Protection or the Bureau of Immigration and 
 
 #### (i) Denial of preferential tariff treatment under the United States-Peru Trade Promotion Agreement
 
-If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States-Peru Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
+If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of theDepartment of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States-Peru Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
 (June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–138, title II, §205(b), Dec. 14, 2007, 121 Stat. 1476; Pub. L. 111–3, title VII, §702(c)(1), Feb. 4, 2009, 123 Stat. 110.)
 
@@ -122,15 +122,15 @@ Provisions relating to decisions of the collector, and appeals therefrom to the 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–3, in introductory provisions, substituted “section 1520 of this title (relating to refunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title)” for “and section 1520 of this title (relating to refunds)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–3, in introductory provisions, substituted “section 1520 of this title (relating to refunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title)” for “and section 1520 of this title (relating to refunds)”.
 
-2007—Subsec. (i). Pub. L. 110–138, §§107(c), 205(b), temporarily added subsec. (i). See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (i). Pub. L. 110–138, §§107(c), 205(b), temporarily added subsec. (i). See Effective and Termination Dates of 2007 Amendment note below.
 
-2006—Subsec. (c)(3). Pub. L. 109–280 realigned margins of concluding provisions.
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–280 realigned margins of concluding provisions.
 
-2005—Subsec. (h). Pub. L. 109–53, §§107(d), 206(b), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (h). Pub. L. 109–53, §§107(d), 206(b), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Subsec. (a). Pub. L. 108–429, §2103(1)(A), substituted “(relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and” for “(relating to refunds and errors)” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–429, §2103(1)(A), substituted “(relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and” for “(relating to refunds and errors)” in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 108–429, §2103(1)(B), inserted “, including the liquidation of an entry, pursuant to either section 1500 of this title or section 1504 of this title” after “thereof”.
 
@@ -142,13 +142,13 @@ Subsec. (c)(3). Pub. L. 108–429, §2103(2)(B)(i), (iii), substituted “180 da
 
 Subsec. (c)(3)(A). Pub. L. 108–429, §2103(2)(B)(ii), substituted “date of” for “notice of”.
 
-2003—Subsec. (g). Pub. L. 108–77, §§107(c), 205(b), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (g). Pub. L. 108–77, §§107(c), 205(b), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendment note below.
 
-1999—Subsec. (a)(7). Pub. L. 106–36 substituted “subsection (c) or (d) of section 1520” for “section 1520(c)”.
+<b>1999</b>—Subsec. (a)(7). Pub. L. 106–36 substituted “subsection (c) or (d) of section 1520” for “section 1520(c)”.
 
-1996—Subsec. (a). Pub. L. 104–295 substituted “and section 1520 of this title (relating to refunds and errors)” for “section 1520 of this title (relating to refunds and errors), and section 1521 of this title (relating to reliquidations on account of fraud)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–295 substituted “and section 1520 of this title (relating to refunds and errors)” for “section 1520 of this title (relating to refunds and errors), and section 1521 of this title (relating to reliquidations on account of fraud)”.
 
-1993—Pub. L. 103–182, §645(7), amended section catchline generally.
+<b>1993</b>—Pub. L. 103–182, §645(7), amended section catchline generally.
 
 Subsec. (a). Pub. L. 103–182, §645(1), in introductory provisions, substituted “Customs Service” for “appropriate customs officer”, in par. (5), inserted “or reconciliation as to the issues contained therein,” after “entry,”, in par. (6), substituted “or” for “and” at end, in par. (7), substituted a semicolon for the comma at end, and in concluding provisions, substituted “Customs Service, which” for “appropriate customs officer, who”.
 
@@ -170,17 +170,17 @@ Subsec. (d). Pub. L. 103–182, §645(6), substituted “Customs Service” for 
 
 Subsecs. (e), (f). Pub. L. 103–182, §208(3), added subsecs. (e) and (f).
 
-1988—Subsec. (b). Pub. L. 100–449 inserted “, or review by a binational panel of a determination to which section 1516a(g)(2) of this title applies is commenced pursuant to section 1516a(g) of this title and article 1904 of the United States-Canada Free-Trade Agreement” before period at end.
+<b>1988</b>—Subsec. (b). Pub. L. 100–449 inserted “, or review by a binational panel of a determination to which section 1516a(g)(2) of this title applies is commenced pursuant to section 1516a(g) of this title and article 1904 of the United States-Canada Free-Trade Agreement” before period at end.
 
-1986—Subsec. (a). Pub. L. 99–514 struck out “as defined in section 1677(9)(C), (D), (E), and (F) of this title” after “domestic interested parties”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 struck out “as defined in section 1677(9)(C), (D), (E), and (F) of this title” after “domestic interested parties”.
 
-1984—Subsec. (a). Pub. L. 98–573 substituted “section 1677(9)(C), (D), (E), and (F) of this title” for “section 1677(9)(C), (D), and (E) of this title” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–573 substituted “section 1677(9)(C), (D), (E), and (F) of this title” for “section 1677(9)(C), (D), and (E) of this title” in provisions preceding par. (1).
 
-1980—Subsec. (a). Pub. L. 96–417, §§601(5), 605, redesignated the United States Customs Court as the United States Court of International Trade, inserted in item (4) provision for decisions as to a demand for redelivery to customs custody and the phrase “, except a determination appealable under section 1337 of this title” and substituted provision for contesting denial of a protest in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title for provision for such contest in accordance with section 2632 of title 28 within the time prescribed by section 2631 of that title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–417, §§601(5), 605, redesignated the United States Customs Court as the United States Court of International Trade, inserted in item (4) provision for decisions as to a demand for redelivery to customs custody and the phrase “, except a determination appealable under section 1337 of this title” and substituted provision for contesting denial of a protest in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title for provision for such contest in accordance with section 2632 of title 28 within the time prescribed by section 2631 of that title.
 
 Subsec. (b). Pub. L. 96–417, §601(5), redesignated the United States Customs Court as the United States Court of International Trade.
 
-1979—Subsec. (a). Pub. L. 96–39, §1001(b)(3)(A), (B), inserted reference to subsection (b) of this section and substituted “section 1516 of this title (relating to petitions by domestic interested parties as defined in section 1677(9)(C), (D), and (E) of this title)” for “section 1516 of this title (relating to petitions by American manufacturers, producers, and wholesalers)” in provisions preceding par. (1).
+<b>1979</b>—Subsec. (a). Pub. L. 96–39, §1001(b)(3)(A), (B), inserted reference to subsection (b) of this section and substituted “section 1516 of this title (relating to petitions by domestic interested parties as defined in section 1677(9)(C), (D), and (E) of this title)” for “section 1516 of this title (relating to petitions by American manufacturers, producers, and wholesalers)” in provisions preceding par. (1).
 
 Subsec. (b). Pub. L. 96–39, §1001(b)(3)(D), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -190,9 +190,11 @@ Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subse
 
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
-1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
 
 #### Effective Date of 2009 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
 Pub. L. 111–3, title VII, §702(c)(2), Feb. 4, 2009, 123 Stat. 110, provided that: “The amendment made by this subsection \[amending this section\] shall apply to articles imported after the date of the enactment of this Act \[Feb. 4, 2009\].”
 
@@ -210,7 +212,7 @@ Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Centr
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, seesection 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -272,7 +274,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 &emsp;&emsp;“(ii) decisions to conduct intensified inspections or examinations of merchandise at ports of entry, and
 
-&emsp;“(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 (19U.S.C. 1514(c)(1)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 (19 U.S.C. 1516(a)(2))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion.
+&emsp;“(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 (19 U.S.C. 1514(c)(1)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 (19 U.S.C. 1516(a)(2))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion.
 
 “(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposed and final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register.
 
@@ -282,7 +284,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

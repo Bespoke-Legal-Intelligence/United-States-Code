@@ -40,7 +40,7 @@ Provisions similar to those comprising pars. (8) to (10) of this section were co
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “for records management” for “of Administrator” in section catchline.
+<b>1984</b>—Pub. L. 98–497 substituted “for records management” for “of Administrator” in section catchline.
 
 Subsec. (a). Pub. L. 98–497 designated existing first sentence as subsec. (a) and substituted “Archivist” for “Administrator” and “ensuring adequate and proper documentation of the policies and transactions of the Federal Government and ensuring proper records disposition” for “records creation, records maintenance and use, and records disposition”.
 
@@ -68,7 +68,7 @@ Subsec. (c)(9), (10). Pub. L. 98–497 redesignated pars. (9) and (10) as (7) an
 
 Subsec. (d). Pub. L. 98–497 added subsec. (d).
 
-1980—Par. (10). Pub. L. 96–511 prescribed that the report be to appropriate oversight and appropriations committees, incorporated existing provisions in cls. (A) and (B) and added cl. (C).
+<b>1980</b>—Par. (10). Pub. L. 96–511 prescribed that the report be to appropriate oversight and appropriations committees, incorporated existing provisions in cls. (A) and (B) and added cl. (C).
 
 #### Effective Date of 1984 Amendment
 

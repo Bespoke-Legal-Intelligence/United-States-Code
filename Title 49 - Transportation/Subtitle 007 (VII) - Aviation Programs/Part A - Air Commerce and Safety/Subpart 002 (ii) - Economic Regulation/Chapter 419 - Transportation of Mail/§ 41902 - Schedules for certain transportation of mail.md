@@ -130,7 +130,7 @@ Section 41906 of this title, referred to in subsec. (a), was redesignated sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–405, §2(b)(3)(A), struck out “in foreign air transportation or” after “aircraft”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–405, §2(b)(3)(A), struck out “in foreign air transportation or” after “aircraft”.
 
 Subsec. (b). Pub. L. 110–405, §2(b)(3)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Every air carrier shall file with the Secretary of Transportation and the United States Postal Service a statement showing—
 
@@ -154,9 +154,9 @@ Orders.—An order of the Postal Service under this section may become effective
 
 Proceedings Preferences.—The Secretary shall give preference to a proceeding under this section over all other proceedings before the Secretary under this subpart.”
 
-1999—Subsecs. (a), (b)(2) to (4). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
+<b>1999</b>—Subsecs. (a), (b)(2) to (4). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
 
-1994—Subsec. (a). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+<b>1994</b>—Subsec. (a). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 
 Subsec. (b)(2) to (4). Pub. L. 103–272, §4(k)(3), as amended by Pub. L. 103–429, which directed the amendment of subsec. (b) by redesignating par. (3) as (2) and substituting “clause (1)” for “clauses (1) and (2)”, striking out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignating par. (4) as (3), effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 

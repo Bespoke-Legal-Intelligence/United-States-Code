@@ -42,7 +42,7 @@ In subsection (c), the words “This section does not limit” are substituted f
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 substituted “Federal criminal law” for “title 18” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “Federal criminal law” for “title 18” in introductory provisions.
 
 Subsec. (b). Pub. L. 107–273, in introductory provisions, substituted “matter, or complaint witnessed, discovered, or” for “or complaint” and “Federal criminal law” for “title 18” and inserted “or the witness, discoverer, or recipient, as appropriate,” after “agency,”.
 

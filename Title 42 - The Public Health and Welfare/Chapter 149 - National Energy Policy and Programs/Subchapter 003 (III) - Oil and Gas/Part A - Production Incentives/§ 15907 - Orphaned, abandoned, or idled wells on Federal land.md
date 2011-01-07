@@ -8,7 +8,7 @@ The Secretary, in cooperation with the Secretary of Agriculture, shall establish
 
 The program under subsection (a) shall—
 
-&emsp;(1) include a means of ranking orphaned, abandoned, or idled wells sites for priority in remediation, reclamation, and closure, basedon public health and safety, potential environmental harm, and other land use priorities;
+&emsp;(1) include a means of ranking orphaned, abandoned, or idled wells sites for priority in remediation, reclamation, and closure, based on public health and safety, potential environmental harm, and other land use priorities;
 
 &emsp;(2) provide for identification and recovery of the costs of remediation, reclamation, and closure from persons or other entities currently providing a bond or other financial assurance required under State or Federal law for an oil or gas well that is orphaned, abandoned, or idled; and
 

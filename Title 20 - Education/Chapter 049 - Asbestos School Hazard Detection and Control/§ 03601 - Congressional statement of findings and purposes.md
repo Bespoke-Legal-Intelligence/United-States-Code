@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) exposure to asbestos fibers has been identified over a long period of time and by reputable medical and scientific evidence as significantly increasing the incidence of cancer and other severe or fatal diseases, such as asbestosis;
+&emsp;(1) exposure to asbestos fibers has been identified over a long period of time and by reputable medical and scientific evidence as significantly increasing the incidence of cancer andother severe or fatal diseases, such as asbestosis;
 
 &emsp;(2) medical evidence has suggested that children may be particularly vulnerable to environmentally induced cancers;
 

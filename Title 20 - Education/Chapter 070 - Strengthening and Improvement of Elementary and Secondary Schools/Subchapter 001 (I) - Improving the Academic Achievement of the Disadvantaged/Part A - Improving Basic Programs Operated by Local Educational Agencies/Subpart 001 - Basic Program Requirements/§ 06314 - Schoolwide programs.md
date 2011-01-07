@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(G) Plans for assisting preschool children in the transition from early childhood programs, such as Head Start, Even Start, Early Reading First, or a State-run preschool program, to local elementary school programs.
 
-&emsp;&emsp;(H) Measures to include teachers in the decisions regarding the use of academic assessments described in section 6311(b)(3) of thistitle in order to provide information on, and to improve, the achievement of individual students and the overall instructional program.
+&emsp;&emsp;(H) Measures to include teachers in the decisions regarding the use of academic assessments described in section 6311(b)(3) of this title in order to provide information on, and to improve, the achievement of individual students and the overall instructional program.
 
 &emsp;&emsp;(I) Activities to ensure that students who experience difficulty mastering the proficient or advanced levels of academic achievement standards required by section 6311(b)(1) of this title shall be provided with effective, timely additional assistance which shall include measures to ensure that students’ difficulties are identified on a timely basis and to provide sufficient information on which to base effective assistance.
 
@@ -138,5 +138,5 @@ A prior section 6314, Pub. L. 89–10, title I, §1114, as added Pub. L. 103–3
 
 #### Amendments
 
-2006—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted “the Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted “the Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 

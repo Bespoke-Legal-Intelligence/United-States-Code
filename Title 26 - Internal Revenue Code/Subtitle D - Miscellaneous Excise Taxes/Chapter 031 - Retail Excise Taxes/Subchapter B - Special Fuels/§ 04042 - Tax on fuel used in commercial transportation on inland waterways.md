@@ -29,7 +29,7 @@ There is hereby imposed a tax on any liquid used during any calendar quarter by 
 | &nbsp;&nbsp;&nbsp;Before 1990 | 10 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1990 | 11 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1991 | 13 cents&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;During 1992 | 15 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;During 1992 | 15 cents   |
 | &nbsp;&nbsp;&nbsp;During 1993 | 17 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1994 | 19 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;After 1994 | 20 cents. |
@@ -106,28 +106,28 @@ A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cros
 
 #### Amendments
 
-2007—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
 
-2004—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
+<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
 
-1993—Subsec. (b)(1)(C). Pub. L. 103–66, §13241(d)(1), added subpar. (C).
+<b>1993</b>—Subsec. (b)(1)(C). Pub. L. 103–66, §13241(d)(1), added subpar. (C).
 
 Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
-1988—Subsec. (b)(2). Pub. L. 100–647 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1)—
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1)—
 
 &emsp;“(A) the Inland Waterways Trust Fund financing rate is 10 cents a gallon, and
 
 &emsp;“(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon.”
 
-1986—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1,1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
 
 &nbsp;
 
 | <b>“If the use occurs—</b> | <b>The tax is—</b> |
 | :--- | ---: |
 | After September 30, 1980 and before October 1, 1981 | 4 cents a gallon&nbsp;&nbsp; |
-| After September 30, 1981 and before October 1, 1983 | 6 cents a gallon   |
+| After September 30, 1981 and before October 1, 1983 | 6 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1985 | 10 cents a gallon”. |
 

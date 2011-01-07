@@ -14,11 +14,11 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398 substituted “Foreign language proficiency: special pay for proficiency beneficial for intelligence interests” for “Foreign language proficiency: special pay” as section catchline.
+<b>2000</b>—Pub. L. 106–398 substituted “Foreign language proficiency: special pay for proficiency beneficial for intelligence interests” for “Foreign language proficiency: special pay” as section catchline.
 
-1996—Subsec. (c). Pub. L. 104–201 substituted “section 1602” for “section 1604(b)”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–201 substituted “section 1602” for “section 1604(b)”.
 
-1990—Pub. L. 101–510 renumbered the second section 1592 of this title as this section.
+<b>1990</b>—Pub. L. 101–510 renumbered the second section 1592 of this title as this section.
 
 #### Effective Date of 1996 Amendment
 

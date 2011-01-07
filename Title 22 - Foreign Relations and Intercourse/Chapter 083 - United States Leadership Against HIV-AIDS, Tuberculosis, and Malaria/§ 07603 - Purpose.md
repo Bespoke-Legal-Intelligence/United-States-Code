@@ -46,5 +46,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2008—Pub. L. 110–293 amended section generally. Prior to amendment, section stated the purpose of this chapter.
+<b>2008</b>—Pub. L. 110–293 amended section generally. Prior to amendment, section stated the purpose of this chapter.
 

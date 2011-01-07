@@ -30,7 +30,7 @@ There are authorized to be appropriated to carry out this section $500,000 for f
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for each of the fiscal years 1989, 1990, 1991, and 1992, $300,000 to carry out the provisions of this section.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for each of the fiscal years 1989, 1990, 1991, and 1992, $300,000 to carry out the provisions of this section.”
 
-1988—Pub. L. 100–690 struck out “, not later than 120 days after October 27, 1986,” after “the Interior shall”, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 struck out “, not later than 120 days after October 27, 1986,” after “the Interior shall”, designated existing provisions as subsec. (a), and added subsec. (b).
 

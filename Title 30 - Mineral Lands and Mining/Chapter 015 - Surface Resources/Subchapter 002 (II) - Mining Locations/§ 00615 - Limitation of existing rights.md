@@ -4,7 +4,3 @@ Nothing in this subchapter and sections 601 and 603 of this title shall be const
 
 (July 23, 1955, ch. 375, §7, 69 Stat. 372.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-

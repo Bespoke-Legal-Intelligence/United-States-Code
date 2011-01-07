@@ -18,7 +18,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-501D36:721(b).DAug. 6, 1956, ch. 974, §1(b), 70 Stat. 1049.
+501
+
+36:721(b).
+
+Aug. 6, 1956, ch. 974, §1(b), 70 Stat. 1049.
 
 &nbsp;
 

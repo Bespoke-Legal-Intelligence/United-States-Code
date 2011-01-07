@@ -28,6 +28,12 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, §2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, §1, 68 Stat. 1126.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–338, §1, Dec. 22, 2010, 124 Stat. 3590, provided that: “This Act \[amending section 549 of this title\] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2010'or ‘FOR VETS Act of 2010’.”
+
+Pub. L. 111–263, §1, Oct. 8, 2010, 124 Stat. 2787, provided that: “This Act \[amending section 502 of this title\] may be cited as the ‘Federal Supply Schedules Usage Act of 2010’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–371, §1, Oct. 8, 2008, 122 Stat. 4037, provided that: “This Act \[enacting section 14508 of this title and amending sections 14102, 14321, 14502 to 14507, 14526, 14703, and 14704 of this title\] may be cited as the ‘Appalachian Regional Development Act Amendments of 2008’.”

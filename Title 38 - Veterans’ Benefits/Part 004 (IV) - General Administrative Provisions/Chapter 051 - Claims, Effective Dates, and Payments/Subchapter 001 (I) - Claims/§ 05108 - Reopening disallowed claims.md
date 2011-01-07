@@ -6,7 +6,7 @@ If new and material evidence is presented or secured with respect to a claim whi
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3008 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3008 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 

@@ -32,7 +32,7 @@ In par. (1), “chapter 243 of title 49” substituted for “title III of the R
 
 #### Amendments
 
-1996—Par. (8). Pub. L. 104–317 amended par. generally. Prior to amendment, par. read as follows: “ ‘Special court’ means the judicial panel established under section 209 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 719).”
+<b>1996</b>—Par. (8). Pub. L. 104–317 amended par. generally. Prior to amendment, par. read as follows: “ ‘Special court’ means the judicial panel established under section 209 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 719).”
 
 #### Effective Date of 1996 Amendment
 

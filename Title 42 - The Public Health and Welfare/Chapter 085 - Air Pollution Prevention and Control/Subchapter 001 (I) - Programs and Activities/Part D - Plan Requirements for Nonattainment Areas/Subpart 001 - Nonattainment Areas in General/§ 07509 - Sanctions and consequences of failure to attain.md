@@ -42,7 +42,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 &emsp;&emsp;(viii) such other transportation-related programs as the Administrator, in consultation with the Secretary of Transportation, finds would improve air quality and would not encourage single occupancy vehicle capacity.
 
-> &emsp;In considering such measures, the State should seek to ensure adequate access to downtown, other commercial, and residential areas, and avoid increasing or relocating emissions and congestion rather than reducing them.
+> &emsp;In considering such measures, the State should seek to ensure adequate access todowntown, other commercial, and residential areas, and avoid increasing or relocating emissions and congestion rather than reducing them.
 
 #### (2) Offsets
 

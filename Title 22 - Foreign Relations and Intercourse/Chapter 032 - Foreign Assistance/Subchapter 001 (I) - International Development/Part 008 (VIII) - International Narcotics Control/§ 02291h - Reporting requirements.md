@@ -14,7 +14,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuit of its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
 
-&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperationagainst money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United StatesGovernment agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 &emsp;(3) The identity of those countries which are—
 
@@ -72,7 +72,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(vi) enacted laws for the sharing of seized narcotics assets with other governments;
 
-&emsp;&emsp;&emsp;(vii) cooperated, when requested, with appropriate law enforcement agencies ofother governments investigating financial crimes related to narcotics; and
+&emsp;&emsp;&emsp;(vii) cooperated, when requested, with appropriate law enforcement agencies of other governments investigating financial crimes related to narcotics; and
 
 &emsp;&emsp;&emsp;(viii) addressed the problem on international transportation of illegal-source currency and monetary instruments.
 
@@ -126,17 +126,17 @@ A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–69
 
 #### Amendments
 
-2006—Subsec. (a)(8). Pub. L. 109–177 added par. (8).
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–177 added par. (8).
 
-1995—Pub. L. 104–66, §1112(c)(1), struck out “for fiscal year 1995” after “Reporting requirements” in section catchline.
+<b>1995</b>—Pub. L. 104–66, §1112(c)(1), struck out “for fiscal year 1995” after “Reporting requirements” in section catchline.
 
 Subsec. (c). Pub. L. 104–66, §1112(c)(2), struck out heading and text of subsec. (c). Text read as follows: “This section applies only during fiscal year 1995. Section 2291i of this title does not apply during that fiscal year.”
 
-1994—Pub. L. 103–447, §101(f)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
+<b>1994</b>—Pub. L. 103–447, §101(f)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
 
 Subsec. (a). Pub. L. 103–447, §101(f)(1)(B)(i), substituted “March 1” for “April 1” in introductory provisions.
 
-Subsec. (a)(3)(B) to (D). Pub. L. 103–447, §101(f)(1)(B)(ii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “the significant direct or indirect sources of narcotics and psychotropic drugs and other controlled substances significantly affecting the United States;”.
+Subsec. (a)(3)(B) to (D). Pub. L. 103–447, §101(f)(1)(B)(ii), redesignated subpars. (C) and (D) as (B)and (C), respectively, and struck out former subpar. (B) which read as follows: “the significant direct or indirect sources of narcotics and psychotropic drugs and other controlled substances significantly affecting the United States;”.
 
 Subsec. (c). Pub. L. 103–447, §101(f)(1)(D), (E), redesignated subsec. (d) as (c) and amended heading and text generally. Prior to amendment, text read as follows: “This section applies only during fiscal years 1993 and 1994. Section 2291i of this title does not apply during those fiscal years.”
 

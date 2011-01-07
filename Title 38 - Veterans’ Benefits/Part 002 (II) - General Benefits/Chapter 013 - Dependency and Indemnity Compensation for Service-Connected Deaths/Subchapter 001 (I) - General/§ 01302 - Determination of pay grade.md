@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 402 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 402 of this title as this section.
 
 Subsec. (d). Pub. L. 102–54 substituted “department” for “Department”.
 
@@ -26,7 +26,7 @@ Subsec. (e). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1976—Subsec. (a). Pub. L. 94–433, §405(1), substituted “such veteran's” for “his” in two places.
+<b>1976</b>—Subsec. (a). Pub. L. 94–433, §405(1), substituted “such veteran's” for “his” in two places.
 
 Subsec. (b). Pub. L. 94–433, §405(1), substituted “such veteran's” for “his” in introductory clause and items (1) and (2) and “such veteran” for “he” in item (2).
 
@@ -36,23 +36,23 @@ Subsec. (d). Pub. L. 94–433, §405(2), substituted “such veteran's surviving
 
 Subsec. (e). Pub. L. 94–433, §405(3), substituted “such person's” for “his” in two places and “such person” for “he”.
 
-1971—Subsec. (a). Pub. L. 92–169 provided, with regard to determination of veteran's pay grade at date of his death, that in the case of a promotion after death while the veteran is in a missing status, the pay grade determination date is the date of such promotion.
+<b>1971</b>—Subsec. (a). Pub. L. 92–169 provided, with regard to determination of veteran's pay grade at date of his death, that in the case of a promotion after death while the veteran is in a missing status, the pay grade determination date is the date of such promotion.
 
-1969—Pub. L. 91–96 substituted “Determination of pay grade” for “Computation of basic pay” in section catchline.
+<b>1969</b>—Pub. L. 91–96 substituted “Determination of pay grade” for “Computation of basic pay” in section catchline.
 
 Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who died in the active service for provisions determining the basic pay of a veteran who died in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
 Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who did not die in the active service for provisions determining the basic pay of a veteran who did not die in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
-Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay”and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
+Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay” and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
 
 Subsec. (d). Pub. L. 91–96 substituted provisions determining the applicability of a higher pay grade of a veteran who had served six months or more in a pay grade higher than that specified in subsec. (a) or (b) for provisions determining the basic pay of a veteran who had served six months or more in a rank higher than that specified in the former provisions of subsec. (a) or (b).
 
 Subsec. (e). Pub. L. 91–96 redesignated former subsec. (c)(2) as (e), substituted “pay grade” for “basic pay”, and struck out “and years of service” after “responsibilities”.
 
-1966—Subsec. (d). Pub. L. 89–622 substituted “any subsequent discharge or release from active duty was under conditions other than dishonorable” for “was so serving in such rank within one hundred and twenty days before death in the active military, naval, or air service or before last discharge or release from active duty under conditions other than dishonorable”.
+<b>1966</b>—Subsec. (d). Pub. L. 89–622 substituted “any subsequent discharge or release from active duty was under conditions other than dishonorable” for “was so serving in such rank within one hundred and twenty days before death in the active military, naval, or air service or before last discharge or release from active duty under conditions other than dishonorable”.
 
-1960—Subsec. (d). Pub. L. 86–492 added subsec. (d).
+<b>1960</b>—Subsec. (d). Pub. L. 86–492 added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 
@@ -64,7 +64,7 @@ Section 3 of Pub. L. 92–169 provided that: “For the purposes of chapter 13 o
 
 #### Effective Date of 1969 Amendment
 
-Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section and sections 322 \[now 1122\], 401 \[now 1301\], 403, 411 \[now 1311\], and 421 \[now 1321\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[Oct. 27, 1969\].”
+Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section and sections 322 \[now 1122\], 401\[now 1301\], 403, 411 \[now 1311\], and 421 \[now 1321\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[Oct. 27, 1969\].”
 
 #### Effective Date of 1966 Amendment
 

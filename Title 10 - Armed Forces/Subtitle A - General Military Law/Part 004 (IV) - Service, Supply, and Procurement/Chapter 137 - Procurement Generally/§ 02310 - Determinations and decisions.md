@@ -30,13 +30,13 @@ Historical and Revision Notes
 
 Feb. 19, 1948, ch. 65, §7(a) (1st sentence), (c), 62 Stat. 24.
 
-In subsection (a), the words “required under” are substituted for the words “provided in”.
+In subsection (a), the words “required \* \* \* under” are substituted for the words “provided in”.
 
 In subsection (b), the word “person” is substituted for the word “official”. The words “to which it applies” are inserted for clarity.
 
 #### Amendments
 
-1994—Pub. L. 103–355 amended section generally. Prior to amendment, section read as follows:
+<b>1994</b>—Pub. L. 103–355 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Determinations and decisions required to be made under this chapter by the head of an agency may be made for an individual purchase or contract or, except for determinations and decisions under section 2304 or 2305 of this title, for a class of purchases or contracts. Such a determination or decision, including a determination or decision under section 2304 or 2305 of this title, is final.
 
@@ -52,27 +52,27 @@ In subsection (b), the word “person” is substituted for the word “official
 
 > Such a finding is final and shall be kept available in the agency for at least six years after the date of the determination or decision. A copy of the finding shall be submitted to the General Accounting Office with each contract to which it applies.”
 
-1985—Subsec. (a). Pub. L. 99–145 inserted “this” after “2305 of”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 inserted “this” after “2305 of”.
 
-1984—Subsec. (a). Pub. L. 98–369, §2725(1), inserted “, except for determinations and decisions under section 2304 or 2305 of title,” and “, including a determination or decision under section 2304 or 2305 of this title,”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2725(1), inserted “, except for determinations and decisions under section 2304 or 2305 of title,” and “, including a determination or decision under section 2304 or 2305 of this title,”.
 
 Subsec. (b). Pub. L. 98–369, §2725(2), amended subsec. (b) generally, striking out requirement that determinations to negotiate contracts be based on written findings by the contracting officers making the determinations.
 
-1968—Subsec. (b). Pub. L. 90–378 inserted “section 2306 (g)(1),” after “clauses (11)–(16) of section 2304(a), section 2306(c),”, and “(3) support the findings required by section 2306(g)(1),” after “kind or quality required except under such a contract,”, and redesignated former cls. (3) to (5) as (4) to (6), respectively.
+<b>1968</b>—Subsec. (b). Pub. L. 90–378 inserted “section 2306 (g)(1),” after “clauses (11)–(16) of section 2304(a), section 2306(c),”, and “(3) support the findings required by section 2306(g)(1),” after “kind or quality required except under such a contract,”, and redesignated former cls. (3) to (5) as (4) to (6), respectively.
 
-1966—Subsec. (b). Pub. L. 89–607 inserted reference to section 2313(c), added cl. (4), and redesignated former cl. (4) as (5).
+<b>1966</b>—Subsec. (b). Pub. L. 89–607 inserted reference to section 2313(c), added cl. (4), and redesignated former cl. (4) as (5).
 
-1962—Subsec. (b). Pub. L. 87–653 substituted “section 2306(c)” for “section 2306”, required decisions to negotiate contracts under section 2304(a)(2), (7), (8), (10) to (12) of this title to be based on a written finding by the person making the decision, which findings shall set out facts and circumstances illustrative of conditions described in section 2304(a)(11) to (16), indicate why the type of contract selected under section 2306(c) is likely to be less costly than any other or that its impracticable to obtain the required property or services except under such contract, indicate why advance payments under section 2307(c) would be in the public interest, or establish with respect to section 2304(a), (2), (7), (8), (10) to (12) that formal advertising would not have been feasible and practicable.
+<b>1962</b>—Subsec. (b). Pub. L. 87–653 substituted “section 2306(c)” for “section 2306”, required decisions to negotiate contracts under section 2304(a)(2), (7), (8), (10) to (12) of this title to be based on a written finding by the person making the decision, which findings shall set out facts and circumstances illustrative of conditions described in section 2304(a)(11) to (16), indicate why the type of contract selected under section 2306(c) is likely to be less costly than any other or that its impracticable to obtain the required property or services except under such contract, indicate why advance payments under section 2307(c) would be in the public interest, or establish with respect to section 2304(a), (2), (7), (8), (10) to (12) that formal advertising would not have been feasible and practicable.
 
-1958—Subsec. (b). Pub. L. 85–800 substituted “2307(c)” for “2307(a)”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–800 substituted “2307(c)” for “2307(a)”.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1962 Amendment
 

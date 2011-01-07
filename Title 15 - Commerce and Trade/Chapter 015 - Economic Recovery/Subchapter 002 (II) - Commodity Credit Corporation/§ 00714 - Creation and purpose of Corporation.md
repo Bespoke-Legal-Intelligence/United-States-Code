@@ -6,7 +6,7 @@ For the purpose of stabilizing, supporting, and protecting farm income and price
 
 #### Amendments
 
-1949—Act June 7, 1949, placed the general supervision and direction of the Commodity Credit Corporation in the Secretary of Agriculture.
+<b>1949</b>—Act June 7, 1949, placed the general supervision and direction of the Commodity Credit Corporation in the Secretary of Agriculture.
 
 #### Effective Date
 

@@ -62,7 +62,7 @@ An entity that receives a grant under this section shall use the funds made avai
 
 &emsp;(4) to identify, assess, and respond appropriately to dating violence, domestic violence, sexual assault, or stalking against teens and young adults and meet the needs of young victims of violence; and
 
-&emsp;(5) to provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault, and stalking and ensure necessary services dealingwith the health and mental health of victims are available.
+&emsp;(5) to provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault, and stalking and ensure necessary services dealing with the health and mental health of victims are available.
 
 #### (d) Grant applications
 

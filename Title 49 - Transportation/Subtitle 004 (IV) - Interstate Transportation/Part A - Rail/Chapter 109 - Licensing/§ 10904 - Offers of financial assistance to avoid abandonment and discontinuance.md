@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) if a rail carrier is in reorganization, the mean cost of capital of rail carriers not in reorganization, as determined by the Board.
 
-(b) Any rail carrier which has filed an application for abandonment or discontinuance shall provide promptly to a party considering an offer of financial assistance and shall provide concurrently to the Board—
+(b) Any rail carrier which has filed an application for abandonment or discontinuance shallprovide promptly to a party considering an offer of financial assistance and shall provide concurrently to the Board—
 
 &emsp;(1) an estimate of the annual subsidy and minimum purchase price required to keep the line or a portion of the line in operation;
 

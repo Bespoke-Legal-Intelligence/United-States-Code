@@ -18,5 +18,5 @@ Section 4308 authorizes an appropriate official to terminate the unsafe operatio
 
 #### Amendments
 
-1986—Pub. L. 99–307 substituted “individual in charge” for “operator” in two places.
+<b>1986</b>—Pub. L. 99–307 substituted “individual in charge” for “operator” in two places.
 

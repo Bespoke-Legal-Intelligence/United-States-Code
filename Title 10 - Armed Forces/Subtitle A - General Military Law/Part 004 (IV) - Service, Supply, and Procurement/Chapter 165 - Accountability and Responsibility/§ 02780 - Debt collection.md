@@ -14,9 +14,9 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary of Defense” for “The Secretary”, and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary of Defense” for “The Secretary”, and added par. (2).
 
-1996—Subsec. (b). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
 
 #### Effective Date of 2006 Amendment
 

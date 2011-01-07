@@ -18,7 +18,7 @@ In this chapter:
 
 #### Amendments
 
-1998—Par. (4). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (4). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 #### Effective Date of 1998 Amendment
 

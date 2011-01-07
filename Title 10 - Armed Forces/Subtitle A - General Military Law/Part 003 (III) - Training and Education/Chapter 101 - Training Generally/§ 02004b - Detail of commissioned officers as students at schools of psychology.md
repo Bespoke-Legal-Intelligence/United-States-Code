@@ -8,7 +8,7 @@ Detail Authorized.—The Secretary of each military department may detail commis
 
 Eligibility for Detail.—To be eligible for detail under subsection (a), an officer must be a citizen of the United States and must—
 
-&emsp;(1) have served on active duty for a period of not less than two years nor more than six years and be in the pay grade 0–3 <sup>1</sup> or below as of the time the training is to begin; and
+&emsp;(1) have served on active duty for a period of not less than two years nor more than six years and be in the pay grade O–3 or below as of the time the training is to begin; and
 
 &emsp;(2) sign an agreement that unless sooner separated the officer will—
 
@@ -26,7 +26,7 @@ Service Obligation.—(1) Except as provided in paragraph (2), the agreement of 
 
 (d)
 
-Selection of Officers for Detail.—Officers detailed for training under subsection (a)shall be selected on a competitive basis by the Secretary of the military department concerned.
+Selection of Officers for Detail.—Officers detailed for training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned.
 
 (e)
 
@@ -46,7 +46,9 @@ Failure to Complete Program.—(1) An officer who is dropped from a program of p
 
 Limitation on Details.—No agreement detailing an officer of the armed forces to an accredited school of psychology may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added Pub. L. 111–84, div. A, title V, §521(a), Oct. 28, 2009, 123 Stat. 2283.)
+(Added Pub. L. 111–84, div. A, title V, §521(a), Oct. 28, 2009, 123 Stat. 2283; amended Pub. L. 111–383, div. A, title X, §1075(b)(26), Jan. 7, 2011, 124 Stat. 4370.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “O–3”.</i>
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383 substituted “pay grade O–3” for “pay grade 0–3”.
 

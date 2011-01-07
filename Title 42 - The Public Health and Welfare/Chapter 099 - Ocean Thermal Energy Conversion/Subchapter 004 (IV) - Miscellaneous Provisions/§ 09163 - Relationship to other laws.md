@@ -16,19 +16,19 @@
 
 (1) For the purposes of the customs laws administered by the Secretary of the Treasury, ocean thermal energy conversion facilities and plantships documented under the laws of the United States and licensed under this chapter shall be deemed to be vessels.
 
-(2) Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended (19 U.S.C. 1202), and other laws codified in title 19, shall not apply to any ocean thermal energy conversionfacility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
+(2) Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended (19 U.S.C. 1202), and other laws codified in title 19, shall not apply to any ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
 
 (Pub. L. 96–320, title IV, §403, Aug. 3, 1980, 94 Stat. 998; Pub. L. 98–623, title VI, §602(a)(11), (12), (e)(6), Nov. 8, 1984, 98 Stat. 3411, 3412.)
 
 #### References in Text
 
-The customs laws, referred to in subsec. (c), are classified generally to Title 19, Customs Duties.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
-The Tariff Act of 1930, as amended, referred to in subsec. (c)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, as amended, referred to in subsec. (c)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–623, §602(a)(11), inserted “and all of which is located seaward of the highwater mark,”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–623, §602(a)(11), inserted “and all of which is located seaward of the highwater mark,”.
 
 Subsec. (c)(2). Pub. L. 98–623, §602(a)(12), substituted “ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed” for “ocean thermal energy conversion facility or plantship licensed”.
 

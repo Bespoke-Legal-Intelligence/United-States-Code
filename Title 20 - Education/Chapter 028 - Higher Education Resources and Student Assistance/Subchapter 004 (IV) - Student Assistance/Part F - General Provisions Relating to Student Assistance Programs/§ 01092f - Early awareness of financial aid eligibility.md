@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall implement, in cooperation with States, institutions of higher education,secondary schools, early intervention and outreach programs under this subchapter and part C of subchapter I of chapter 34 of title 42, other agencies and organizations involved in student financial assistance and college access, public libraries, community centers, employers, and businesses, a comprehensive system of early financial aid information in order to provide students and families with early information about financial aid and early estimates of such students’ eligibility for financial aid from multiple sources. Such system shall include the activities described in subsection (b).
+The Secretary shall implement, in cooperation with States, institutions of higher education, secondary schools, early intervention and outreach programs under this subchapter and part C of subchapter I of chapter 34 of title 42, other agencies and organizations involved in student financial assistance and college access, public libraries, community centers, employers, and businesses, a comprehensive system of early financial aid information in order to provide students and families with early information about financial aid and early estimates of such students’ eligibility for financial aid from multiple sources. Such system shall include the activities described in subsection (b).
 
 #### (b) Communication of availability of aid and aid eligibility
 
@@ -10,7 +10,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) make special efforts to notify students who receive or are eligible to receive benefits under a Federal means-tested benefit program (including the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.)), or another such benefit program as determined by the Secretary, of such students’ potential eligibility for a maximum Federal Pell Grant under subpart 1 of part A; and
+&emsp;&emsp;(A) make special efforts to notify students who receive or are eligible to receive benefits under a Federal means-tested benefit program (including the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.)), or another such benefit program as determined by the Secretary, of such students’ potential eligibility for the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which the student would be eligible; and
 
 &emsp;&emsp;(B) disseminate such informational materials, that are part of the system described in subsection (a), as the Secretary determines necessary.
 
@@ -32,9 +32,17 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 &emsp;Not later than two years after August 14, 2008, the Secretary, in coordination with States, institutions of higher education, early intervention and outreach programs under this subchapter and part C of subchapter I of chapter 34 of title 42, other agencies and organizations involved in college access and student financial aid, secondary schools, organizations that provide services to individuals that are or were homeless, to individuals in foster care, or to other disconnected individuals, local educational agencies, public libraries, community centers, businesses, employers, employment services, workforce investment boards, and movie theaters, shall implement a public awareness campaign in order to increase national awareness regarding the availability of financial aid under this title. The public awareness campaign shall disseminate accurate information regarding the availability of financial aid under this subchapter and part C of subchapter I of chapter 34 of title 42 and shall be implemented, to the extent practicable, using a variety of media, including print, television, radio, and the Internet. The Secretary shall design and implement the public awareness campaign based upon relevant independent research and the information and dissemination strategies found most effective in implementing paragraphs (1) through (3).
 
-(Pub. L. 89–329, title IV, §485E, as added Pub. L. 110–315, title IV, §490, Aug. 14, 2008, 122 Stat. 3305.)
+(Pub. L. 89–329, title IV, §485E, as added Pub. L. 110–315, title IV, §490, Aug. 14, 2008, 122 Stat. 3305; amended Pub. L. 111–152, title II, §2101(b)(5), Mar. 30, 2010, 124 Stat. 1073.)
 
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152 substituted “of such students’ potential eligibility for the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which the student would be eligible” for “of such students’ potential eligibility for a maximum Federal Pell Grant under subpart 1 of part A”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pub. L. 111–152, set out as a note under section 1070a of this title.
 

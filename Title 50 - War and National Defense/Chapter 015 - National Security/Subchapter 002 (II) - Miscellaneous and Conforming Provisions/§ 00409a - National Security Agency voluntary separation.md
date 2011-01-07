@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (c) Establishment of program
 
-Notwithstanding any other provision of law, the Director, in his sole discretion, may establish a program under which employees may, after October 1, 2000, be eligible for early retirement, offered separation pay to separate from service voluntarily, or both.
+Notwithstanding any other provision of law, the Director, in his sole discretion, may establish a program under which employees may,after October 1, 2000, be eligible for early retirement, offered separation pay to separate from service voluntarily, or both.
 
 #### (d) Early retirement
 
@@ -80,7 +80,7 @@ Under this program, early retirement and separation pay may be offered only—
 
 #### (i) Regulations
 
-Before an employee may be eligible for early retirement, separation pay, or both, under thissection, the Director shall prescribe such regulations as may be necessary to carry out this section.
+Before an employee may be eligible for early retirement, separation pay, or both, under this section, the Director shall prescribe such regulations as may be necessary to carry out this section.
 
 #### (j) Notification of exercise of authority
 
@@ -88,7 +88,7 @@ The Director may not make an offer of early retirement, separation pay, or both,
 
 #### (k) Remittance of funds
 
-In addition to any other payment that is required to be made under subchapter III of chapter 83 or chapter 84 of title 5, the National Security Agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, an amount equal to 15 percent of the final basic pay of each employee to whom a voluntary separation payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).
+In addition to any other payment that is required to be made under subchapter III of chapter 83 or chapter 84 of title 5, the National Security Agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, an amount equal to 15 percent of the final basic pay of eachemployee to whom a voluntary separation payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).
 
 (July 26, 1947, ch. 343, title III, §301, as added Pub. L. 106–567, title III, §304(a), Dec. 27, 2000, 114 Stat. 2836; amended Pub. L. 107–306, title III, §353(b)(2)(A), title VIII, §841(b), Nov. 27, 2002, 116 Stat. 2402, 2431.)
 
@@ -102,7 +102,7 @@ A prior section 301 of act July 26, 1947, ch. 343, title III, 61 Stat. 507; Apr.
 
 #### Amendments
 
-2002—Subsec. (j). Pub. L. 107–306, §841(b), substituted “Notification of exercise of authority” for “Reporting requirements” in subsec. heading and struck out “(1)
+<b>2002</b>—Subsec. (j). Pub. L. 107–306, §841(b), substituted “Notification of exercise of authority” for “Reporting requirements” in subsec. heading and struck out “(1)
 
 Notification.—” before “The Director may” and par. (2) which read as follows:
 

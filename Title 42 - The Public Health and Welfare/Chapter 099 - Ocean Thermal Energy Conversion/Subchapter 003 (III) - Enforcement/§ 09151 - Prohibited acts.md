@@ -4,7 +4,7 @@ It is unlawful for any person who is a United States citizen or national, or a f
 
 &emsp;(1) to violate any provision of this chapter; or any rule, regulation, or order issued pursuant to this chapter; or any term or condition of any license issued to such person pursuant to this chapter;
 
-&emsp;(2) to refuse to permit any Federal officer or employee authorized to monitor or enforce theprovisions of sections 9120 and 9153 of this title to enter or board an ocean thermal energy conversion facility or plantship or any vessel documented or numbered under the laws of the United States, for purposes of conducting any search or inspection in connection with the monitoring or enforcement of this chapter or any rule, regulation, order, term, or condition referred to in paragraph (1) of this section;
+&emsp;(2) to refuse to permit any Federal officer or employee authorized to monitor or enforce the provisions of sections 9120 and 9153 of this title to enter or board an ocean thermal energy conversion facility or plantship or any vessel documented or numbered under the laws of the United States, for purposes of conducting any search or inspection in connection with the monitoring or enforcement of this chapter or any rule, regulation, order, term, or condition referred to in paragraph (1) of this section;
 
 &emsp;(3) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer or employee in the conduct of any search or inspection described in paragraph (2) of this section;
 
@@ -14,9 +14,13 @@ It is unlawful for any person who is a United States citizen or national, or a f
 
 (Pub. L. 96–320, title III, §301, Aug. 3, 1980, 94 Stat. 994; Pub. L. 98–623, title VI, §602(a)(9), Nov. 8, 1984, 98 Stat. 3411.)
 
+#### References in Text
+
+This chapter, referred to in pars. (1) and (2), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+
 #### Amendments
 
-1984—Pub. L. 98–623 substituted “in or on board an ocean thermal energy conversion facility or plantship or on board any vessel” for “on board an ocean thermal energy conversion facility or plantship or other vessel” in provisions preceding par. (1).
+<b>1984</b>—Pub. L. 98–623 substituted “in or on board an ocean thermal energy conversion facility or plantship or on board any vessel” for “on board an ocean thermal energy conversion facility or plantship or other vessel” in provisions preceding par. (1).
 
 Par. (2). Pub. L. 98–623 substituted “to enter or board” for “to board”.
 

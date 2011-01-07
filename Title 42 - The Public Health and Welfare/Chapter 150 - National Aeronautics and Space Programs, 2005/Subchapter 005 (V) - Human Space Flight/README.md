@@ -5,10 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 16761 - Space Shuttle follow-on](%C2%A7%2016761%20-%20Space%20Shuttle%20follow-on.md)
-- [&sect; 16762 - Transition](%C2%A7%2016762%20-%20Transition.md)
-- [&sect; 16763 - Requirements](%C2%A7%2016763%20-%20Requirements.md)
-- [&sect; 16764 - Ground-based analog capabilities](%C2%A7%2016764%20-%20Ground-based%20analog%20capabilities.md)
-- [&sect; 16765 - ISS completion](%C2%A7%2016765%20-%20ISS%20completion.md)
-- [&sect; 16766 - ISS research](%C2%A7%2016766%20-%20ISS%20research.md)
-- [&sect; 16767 - National laboratory designation](%C2%A7%2016767%20-%20National%20laboratory%20designation.md)
+- [&sect; 16761 - Repealed or Omitted](%C2%A7%2016761%20-%20Repealed%20or%20Omitted.md)
+- [&sect; 16762 - Transferred](%C2%A7%2016762%20-%20Transferred.md)
+- [&sect; 16763 to 16765 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2016763%20to%2016765%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
+- [&sect; 16766, 16767 - Repealed or Omitted](%C2%A7%2016766%2C%2016767%20-%20Repealed%20or%20Omitted.md)

@@ -54,7 +54,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) for contract year 1999 shall be not more than $6,000; and
 
-&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount of such deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
+&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount ofsuch deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
 
 > &emsp;&emsp;If the amount of the deductible under clause (ii) is not a multiple of $50, the amount shall be rounded to the nearest multiple of $50.
 
@@ -136,7 +136,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;For purposes of paragraph (2)(A), a “religious fraternal benefit society” described in this section is an organization that—
 
-&emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Act;
+&emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exemptfrom taxation under section 501(a) of such Act;
 
 &emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, a church or convention or association of churches or an affiliated group of churches;
 
@@ -152,7 +152,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) Requirements for enrollment
 
-&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2011, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2014, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
 #### (2) Additional requirements for institutional SNPS
 
@@ -165,6 +165,8 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 &emsp;&emsp;&emsp;(ii) by an entity other than the organization offering the plan.
 
 &emsp;&emsp;(B) The plan meets the requirements described in paragraph (5).
+
+&emsp;&emsp;(C) If applicable, the plan meets the requirement described in paragraph (7).
 
 #### (3) Additional requirements for dual SNPS
 
@@ -184,6 +186,8 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(D) The plan has a contract with the State Medicaid agency to provide benefits, or arrange for benefits to be provided, for which such individual is entitled to receive as medical assistance under subchapter XIX. Such benefits may include long-term care services consistent with State policy.
 
+&emsp;&emsp;(E) If applicable, the plan meets the requirement described in paragraph (7).
+
 #### (4) Additional requirements for severe or disabling chronic condition SNPS
 
 &emsp;In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(iii), the applicable requirements described in this paragraph are as follows:
@@ -192,9 +196,11 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(B) The plan meets the requirements described in paragraph (5).
 
+&emsp;&emsp;(C) If applicable, the plan meets the requirement described in paragraph (7).
+
 #### (5) Care management requirements for all SNPS
 
-&emsp;The requirements described in this paragraph are that the organization offering a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(i)—
+&emsp;The requirements described in this paragraph are that the organization offering a specialized MA plan for special needs individuals—
 
 &emsp;&emsp;(A) have in place an evidenced-based model of care with appropriate networks of providers and specialists; and
 
@@ -206,7 +212,55 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(iii) use an interdisciplinary team in the management of care.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574.)
+#### (6) Transition and exception regarding restriction on enrollment
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (C), the Secretary shall establish procedures for the transition of applicable individuals to—
+
+&emsp;&emsp;&emsp;(i) a Medicare Advantage plan that is not a specialized MA plan for special needs individuals (as defined in subsection (b)(6)); or
+
+&emsp;&emsp;&emsp;(ii) the original medicare fee-for-service program under parts A and B.
+
+#### (B) Applicable individuals
+
+&emsp;&emsp;For purposes of clause (i), the term ‘applicable individual’ means an individual who—
+
+&emsp;&emsp;&emsp;(i) is enrolled under a specialized MA plan for special needs individuals (as defined in subsection (b)(6)); and
+
+&emsp;&emsp;&emsp;(ii) is not within the 1 or more of the classes of special needs individuals to which enrollment under the plan is restricted to.
+
+#### (C) Exception
+
+&emsp;&emsp;The Secretary shall provide for an exception to the transition described in subparagraph (A) for a limited period of time for individuals enrolled under a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) who are no longer eligible for medical assistance under subchapter XIX.
+
+#### (D) Timeline for initial transition
+
+&emsp;&emsp;The Secretary shall ensure that applicable individuals enrolled in a specialized MA plan for special needs individuals (as defined in subsection (b)(6)) prior to January 1, 2010, are transitioned to a plan or the program described in subparagraph (A) by not later than January 1, 2013.
+
+#### (7) Authority to require special needs plans be NCQA approved
+
+&emsp;For 2012 and subsequent years, the Secretary shall require that a Medicare Advantage organization offering a specialized MA plan for special needs individuals be approved by the National Committee for Quality Assurance (based on standards established by the Secretary).
+
+#### (g) Special rules for senior housing facility plans
+
+#### (1) In general
+
+&emsp;In the case of a Medicare Advantage senior housing facility plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the service area of such plan may be limited to a senior housing facility in a geographic area.
+
+#### (2) Medicare advantage senior housing facility plan described
+
+&emsp;For purposes of this subsection, a Medicare Advantage senior housing facility plan is a Medicare Advantage plan that—
+
+&emsp;&emsp;(A) restricts enrollment of individuals under this part to individuals who reside in a continuing care retirement community (as defined in section 1395w–22(<i>l</i>)(4)(B) of this title);
+
+&emsp;&emsp;(B) provides primary care services onsite and has a ratio of accessible physicians to beneficiaries that the Secretary determines is adequate;
+
+&emsp;&emsp;(C) provides transportation services for beneficiaries to specialty providers outside of the facility; and
+
+&emsp;&emsp;(D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459.)
 
 #### References in Text
 
@@ -216,7 +270,21 @@ The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classifi
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–275, §162(b), inserted concluding provisions.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–148, §3205(a), substituted “2014” for “2011”.
+
+Subsec. (f)(2)(C). Pub. L. 111–148, §3205(e)(1), added subpar. (C).
+
+Subsec. (f)(3)(E). Pub. L. 111–148, §3205(e)(2), added subpar. (E).
+
+Subsec. (f)(4)(C). Pub. L. 111–148, §3205(e)(3), added subpar. (C).
+
+Subsec. (f)(5). Pub. L. 111–148, §3205(g), struck out “described in subsection (b)(6)(B)(i)” after “individuals” in introductory provisions.
+
+Subsec. (f)(6), (7). Pub. L. 111–148, §3205(c), (e)(4), added pars. (6) and (7).
+
+Subsec. (g). Pub. L. 111–148, §3208(a), added subsec. (g).
+
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–275, §162(b), inserted concluding provisions.
 
 Subsec. (b)(6)(A). Pub. L. 110–275, §164(c)(1)(A), inserted “and that, as of January 1, 2010, meets the applicable requirements of paragraph (2), (3), or (4) of subsection (f), as the case may be” before period at end.
 
@@ -230,9 +298,9 @@ Pub. L. 110–275, §164(a), substituted “2011” for “2010”.
 
 Subsec. (f)(5). Pub. L. 110–275, §164(d)(1), added par. (5).
 
-2007—Subsec. (f). Pub. L. 110–173 substituted “2010” for “2009”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–173 substituted “2010” for “2009”.
 
-2003—Subsec. (b)(4), (5). Pub. L. 108–173, §221(b)(1), added pars. (4) and (5).
+<b>2003</b>—Subsec. (b)(4), (5). Pub. L. 108–173, §221(b)(1), added pars. (4) and (5).
 
 Subsec. (b)(6). Pub. L. 108–173, §231(b), added par. (6).
 
@@ -240,11 +308,15 @@ Subsec. (c)(5). Pub. L. 108–173, §221(d)(2), added par. (5).
 
 Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
 
-1999—Subsec. (e)(2). Pub. L. 106–113 substituted “section 1395w–21(a)(2) of this title” for “section 1395w–21(a)(2)(A) of this title” in introductory provisions.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted “section 1395w–21(a)(2) of this title” for “section 1395w–21(a)(2)(A) of this title” in introductory provisions.
 
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3208(b), Mar. 23, 2010, 124 Stat. 460, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 2010, and shall apply to plan years beginning on or after such date.”
 
 #### Effective Date of 2008 Amendment
 
@@ -262,11 +334,11 @@ Pub. L. 108–173, title II, §231(f)(2), Dec. 8, 2003, 117 Stat. 2208, provided
 
 #### Authorization To Operate; Resources for State Medicaid Agencies; Contracting Requirements
 
-Pub. L. 110–275, title I, §164(c)(2)–(4), July 15, 2008, 122 Stat. 2573, provided that:
+Pub. L. 110–275, title I, §164(c)(2)–(4), July 15, 2008, 122 Stat. 2573, as amended by Pub. L. 111–148, title III, §3205(d), Mar. 23, 2010, 124 Stat. 458, provided that:
 
 “(2)
 
-Authority to operate but no service area expansion for dual snps that do not meet certain requirements.—Notwithstanding subsection (f) of section 1859 of the Social Security Act (42 U.S.C. 1395w–28), during the period beginning on January 1, 2010, and ending on December 31, 2010, in the case of a specialized Medicare Advantage plan for special needs individuals described in subsection (b)(6)(B)(ii) of such section, as amended by this section, that does not meet the requirement described in subsection (f)(3)(D) of such section, the Secretary of Health and Human Services—
+Authority to operate but no service area expansion for dual snps that do not meet certain requirements.—Notwithstanding subsection (f) of section 1859 of the Social Security Act (42 U.S.C. 1395w–28), during the period beginning on January 1, 2010, and ending on December 31, 2012, in the case of a specialized Medicare Advantage plan for special needs individuals described in subsection (b)(6)(B)(ii) of such section, as amended by this section, that does not meet the requirement described in subsection (f)(3)(D) of such section, the Secretary of Health and Human Services—
 
 &emsp;“(A) shall permit such plan to be offered under part C of title XVIII of such Act \[this part\]; and
 
@@ -278,7 +350,7 @@ Resources for state medicaid agencies.—The Secretary of Health and Human Servi
 
 “(4)
 
-No requirement for contract.—Nothing in the provisions of, or amendments made by, this subsection\[amending this section\] shall require a State to enter into a contract with a Medicare Advantage organization with respect to a specialized MA plan for special needs individuals described in section 1859(b)(6)(B)(ii) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)(B)(ii)), as amended by this section.”
+No requirement for contract.—Nothing in the provisions of, or amendments made by, this subsection \[amending this section\] shall require a State to enter into a contract with a Medicare Advantage organization with respect to a specialized MA plan for special needs individuals described in section 1859(b)(6)(B)(ii) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)(B)(ii)), as amended by this section.”
 
 #### Panel of Clinical Advisors to Determine Conditions
 

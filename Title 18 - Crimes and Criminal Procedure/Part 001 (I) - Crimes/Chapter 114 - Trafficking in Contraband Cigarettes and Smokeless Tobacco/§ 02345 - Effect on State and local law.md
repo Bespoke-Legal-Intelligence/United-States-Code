@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–177, §121(g)(2), substituted “Effect on State and local law” for “Effect on State law” in section catchline.
+<b>2006</b>—Pub. L. 109–177, §121(g)(2), substituted “Effect on State and local law” for “Effect on State law” in section catchline.
 
 Subsec. (a). Pub. L. 109–177, §121(b)(5), (e)(1), substituted “a State or local government to enact and enforce its own” for “a State to enact and enforce” and inserted “or smokeless tobacco” after “cigarettes”.
 

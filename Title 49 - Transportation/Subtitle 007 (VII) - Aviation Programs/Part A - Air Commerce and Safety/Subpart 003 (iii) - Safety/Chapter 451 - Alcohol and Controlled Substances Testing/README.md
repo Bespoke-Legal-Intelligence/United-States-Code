@@ -14,7 +14,7 @@
 
 #### Amendments
 
-2001—Pub. L. 107–71, title I, §139(5), Nov. 19, 2001, 115 Stat. 641, added item 45107.
+<b>2001</b>—Pub. L. 107–71, title I, §139(5), Nov. 19, 2001, 115 Stat. 641, added item 45107.
 
 
 ---

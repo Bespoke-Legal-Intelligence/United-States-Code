@@ -4,15 +4,11 @@ The Secretary of the Interior is authorized, in his discretion and under such re
 
 (May 24, 1928, ch. 728, §1, 45 Stat. 728; Aug. 16, 1941, ch. 354, 55 Stat. 621.)
 
-#### References in Text
-
-The public-land laws, referred to in text, are classified generally to this title.
-
 #### Codification
 
 Section was previously classified to section 211 of former Title 49, Transportation.
 
 #### Amendments
 
-1941—Act Aug. 16, 1941, increased area of land authorized for lease as airport from six hundred and forty acres to two thousand five hundred and sixty acres.
+<b>1941</b>—Act Aug. 16, 1941, increased area of land authorized for lease as airport from six hundred and forty acres to two thousand five hundred and sixty acres.
 

@@ -58,7 +58,7 @@ Another prior section 231 of Pub. L. 89–329 was classified to section 1041 of 
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–39 substituted “assist in the graduation of” for “serve graduate” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39 substituted “assist in the graduation of” for “serve graduate” in introductory provisions.
 
 #### Effective Date of 2009 Amendment
 

@@ -16,14 +16,17 @@
 | [7112\.](%C2%A7%2007112%20-%20Licenses%20of%20masters%20or%20mates%20as%20pilots.md) | Licenses of masters or mates as pilots. |
 | [7113\.](%C2%A7%2007113%20-%20Exemption%20from%20draft.md) | Exemption from draft. |
 | [7114\.](%C2%A7%2007114%20-%20Fees.md) | Fees. |
+| [7115\.](%C2%A7%2007115%20-%20Merchant%20Mariner%20Medical%20Advisory%20Committee.md) | Merchant Mariner Medical Advisory Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1990—Pub. L. 101–380, title IV, §4102(e)(2), Aug. 18, 1990, 104 Stat. 510, substituted “Review of criminal records” for “Renewal of licenses” in item 7109.
+<b>2010</b>—Pub. L. 111–281, title II, §210(c), Oct. 15, 2010, 124 Stat. 2914, added item 7115.
 
-1984—Pub. L. 98–364, title IV, §402(8)(A), July 17, 1984, 98 Stat. 447, substituted “Oral examinations for licenses” for “Licenses for fishing vessels not subject to inspection” in item 7111.
+<b>1990</b>—Pub. L. 101–380, title IV, §4102(e)(2), Aug. 18, 1990, 104 Stat. 510, substituted “Review of criminal records” for “Renewal of licenses” in item 7109.
+
+<b>1984</b>—Pub. L. 98–364, title IV, §402(8)(A), July 17, 1984, 98 Stat. 447, substituted “Oral examinations for licenses” for “Licenses for fishing vessels not subject to inspection” in item 7111.
 
 
 ---
@@ -44,3 +47,4 @@
 - [&sect; 07112 - Licenses of masters or mates as pilots](%C2%A7%2007112%20-%20Licenses%20of%20masters%20or%20mates%20as%20pilots.md)
 - [&sect; 07113 - Exemption from draft](%C2%A7%2007113%20-%20Exemption%20from%20draft.md)
 - [&sect; 07114 - Fees](%C2%A7%2007114%20-%20Fees.md)
+- [&sect; 07115 - Merchant Mariner Medical Advisory Committee](%C2%A7%2007115%20-%20Merchant%20Mariner%20Medical%20Advisory%20Committee.md)

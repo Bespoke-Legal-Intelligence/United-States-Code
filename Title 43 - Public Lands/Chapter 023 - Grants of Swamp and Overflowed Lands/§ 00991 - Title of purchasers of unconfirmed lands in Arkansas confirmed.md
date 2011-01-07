@@ -8,8 +8,6 @@ The State of Arkansas does hereby relinquish and quitclaim to the United States 
 
 #### References in Text
 
-The public land laws, referred to in text, are classified generally to this title.
-
 Act of September 28, 1850, referred to in text, is act Sept. 28, 1850, ch. 84, 9 Stat. 519, which is not classified to the Code.
 
 Act of March 2, 1855, referred to in text, is act Mar. 2, 1855, ch. 147, 10 Stat. 634, which is not classified to the Code.

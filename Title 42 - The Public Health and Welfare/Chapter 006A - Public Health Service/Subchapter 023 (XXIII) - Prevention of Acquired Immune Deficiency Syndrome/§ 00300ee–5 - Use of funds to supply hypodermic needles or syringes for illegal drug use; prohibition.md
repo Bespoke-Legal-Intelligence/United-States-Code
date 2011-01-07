@@ -14,7 +14,7 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 
 #### Amendments
 
-1988—Pub. L. 100–690 substituted “Surgeon General of the Public Health Service” for “Surgeon General of the United States”.
+<b>1988</b>—Pub. L. 100–690 substituted “Surgeon General of the Public Health Service” for “Surgeon General of the United States”.
 
 #### Effective Date of 1988 Amendment
 

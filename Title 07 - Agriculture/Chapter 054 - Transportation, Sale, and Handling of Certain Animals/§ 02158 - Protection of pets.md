@@ -70,7 +70,7 @@
 
 #### (2) Subsequent violations
 
-&emsp;Any dealer who violates this section more than one time shall be subject to a fine of $5,000 per dog or cat acquired or sold in violation of this section.
+&emsp;Any dealer who violates this section more than one time shall be subject to a fine of$5,000 per dog or cat acquired or sold in violation of this section.
 
 #### (3) Permanent revocations
 

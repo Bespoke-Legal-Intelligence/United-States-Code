@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In carrying out the Secretary's functions under this chapter or chapter34 or 35 of this title, the Secretary may utilize the facilities and services of any other Federal department or agency. Any such utilization shall be pursuant to proper agreement with the Federal department or agency concerned; and payment to cover the cost thereof shall be made either in advance or by way of reimbursement, as may be provided in such agreement.
+In General.—In carrying out the Secretary's functions under this chapter or chapter 34 or 35 of this title, the Secretary may utilize the facilities and services of any other Federal department or agency. Any such utilization shall be pursuant to proper agreement with the Federal department or agency concerned; and payment to cover the cost thereof shall be made either in advance or by way of reimbursement, as may be provided in such agreement.
 
 (b)
 
@@ -16,13 +16,13 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-2004—Pub. L. 108–454 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–454 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1991—Pub. L. 102–83 renumbered section 1794 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1794 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary's” and “Secretary” for “Administrator's” and “Administrator”, respectively.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary's” and “Secretary” for “Administrator's” and “Administrator”, respectively.
 
-1976—Pub. L. 94–502 substituted “the Administrator's” for “his”.
+<b>1976</b>—Pub. L. 94–502 substituted “the Administrator's” for “his”.
 
 #### Effective Date of 1976 Amendment
 

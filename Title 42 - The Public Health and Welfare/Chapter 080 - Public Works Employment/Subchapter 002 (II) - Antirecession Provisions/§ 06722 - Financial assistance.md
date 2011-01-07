@@ -20,7 +20,7 @@ In no case shall the aggregate amount authorized to be appropriated under the pr
 
 No amount is authorized to be appropriated under the provisions of subsection (b) of this section for any calendar quarter if—
 
-&emsp;(1) the average rate of national unemployment during the most recent calendar quarterwhich ended three months before the beginning of such calendar quarter did not exceed 6 percent, or
+&emsp;(1) the average rate of national unemployment during the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent, or
 
 &emsp;(2) the rate of national unemployment for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent.
 
@@ -28,9 +28,9 @@ No amount is authorized to be appropriated under the provisions of subsection (b
 
 #### Amendments
 
-1977—Subsec. (b). Pub. L. 95–30, §602(a), substituted “July 1, 1977” for “July 1, 1976” in introductory provisions preceding par. (1) and in par. (2) substituted “$30,000,000 multiplied by the number of whole one-tenth” for “$62,500,000 multiplied by the number of one-half” and “such quarter exceeded 6 per centum” for “such calendar quarter exceeded 6 percent”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–30, §602(a), substituted “July 1, 1977” for “July 1, 1976” in introductory provisions preceding par. (1) and in par. (2) substituted “$30,000,000 multiplied by the number of whole one-tenth” for “$62,500,000 multiplied by the number of one-half” and “such quarter exceeded 6 per centum” for “such calendar quarter exceeded 6 percent”.
 
 Subsec. (c). Pub. L. 95–30, §602(b), substituted “five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000” for “five calendar quarters beginning with the calendar quarter which begins July 1, 1976, exceed $1,250,000,000”.
 
-1976—Subsec. (d)(1). Pub. L. 94–447 substituted “6 percent, or” for “6 percent, and”.
+<b>1976</b>—Subsec. (d)(1). Pub. L. 94–447 substituted “6 percent, or” for “6 percent, and”.
 

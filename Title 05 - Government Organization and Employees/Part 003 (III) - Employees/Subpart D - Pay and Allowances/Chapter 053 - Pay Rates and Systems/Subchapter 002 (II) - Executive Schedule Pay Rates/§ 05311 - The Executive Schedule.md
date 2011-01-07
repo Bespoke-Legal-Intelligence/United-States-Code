@@ -56,7 +56,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Plan for Authorizing Executive Level Positions in Executive Branch; Presidential Submission to Congress
 

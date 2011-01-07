@@ -40,7 +40,7 @@ In this section, the term “team nutrition network” means a statewide multidi
 
 Subject to the availability of funds for use in carrying out this section, the total amount of funds made available for a fiscal year for grants under this section shall equal not more than the sum of—
 
-&emsp;(1) the product obtained by multiplying 1/2 cent by the number of lunches reimbursed through food service programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the second preceding fiscal year in schools, institutions, and service institutions that participate in the food service programs; and
+&emsp;(1) the product obtained by multiplying ½ cent by the number of lunches reimbursed through food service programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the second preceding fiscal year in schools, institutions, and service institutions that participate in the food service programs; and
 
 &emsp;(2) the total value of funds received by the Secretary in support of this section from nongovernmental sources.
 
@@ -74,7 +74,7 @@ To be eligible to receive a grant under this section, a State agency shall submi
 
 Each State that receives a grant under this section shall appoint a team nutrition network coordinator who shall—
 
-&emsp;(1) administer and coordinate the team nutrition network within and across schools,school food authorities, and other child nutrition program providers in the State; and
+&emsp;(1) administer and coordinate the team nutrition network within and across schools, school food authorities, and other child nutrition program providers in the State; and
 
 &emsp;(2) coordinate activities of the Secretary, acting through the Food and Nutrition Service, and State agencies responsible for other children's health, education, and wellness programs to implement a comprehensive, coordinated team nutrition network program.
 
@@ -224,7 +224,7 @@ Material prepared under this section regarding agricultural commodities, food, o
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III,§§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307; Pub. L. 105–336, title II, §204, Oct. 31, 1998, 112 Stat. 3167; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title II, §205(a), June 30, 2004, 118 Stat. 782.)
+(Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307; Pub. L. 105–336, title II, §204, Oct. 31, 1998, 112 Stat. 3167; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title II, §205(a), June 30, 2004, 118 Stat. 782.)
 
 #### References in Text
 
@@ -238,13 +238,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2004—Pub. L. 108–265 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to the establishment of a system of grants to State educational agencies for the development of comprehensive nutrition education and training programs, which would include, but not be limited to, instructing students with regard to the nutritional value of foods and the relationship between food and health, training child nutrition program personnel in the principles and practices of food service management, instructing teachers in principles of nutrition education, developing and using classroom materials and curricula, and providing information to parents and caregivers regarding the nutritional value of food and the relationship between food and health.
+<b>2004</b>—Pub. L. 108–265 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to the establishment of a system of grants to State educational agencies for the development of comprehensive nutrition education and training programs, which would include, but not be limited to, instructing students with regard to the nutritional value of foods and the relationship between food and health, training child nutrition program personnel in the principles and practices of food service management, instructing teachers in principles of nutrition education, developing and using classroom materials and curricula, and providing information to parents and caregivers regarding the nutritional value of food and the relationship between food and health.
 
-1999—Subsec. (d). Pub. L. 106–78 made technical amendment to references in original act which appear in text as references to sections 1761 and 1769b–1 of this title.
+<b>1999</b>—Subsec. (d). Pub. L. 106–78 made technical amendment to references in original act which appear in text as references to sections 1761 and 1769b–1 of this title.
 
-1998—Subsec. (i). Pub. L. 105–336 inserted subsec. heading and par. (1)(A) and struck out former subsec. heading and pars. (1) to (3)(A) which provided for grants to States for nutrition education and information programs based on rate of 50 cents for each child enrolled in schools, minimum amounts to be received by States, and authorizations of appropriations; redesignated par. (3)(B) as (1)(B); and redesignated pars. (4) and (5) as (2) and (3), respectively.
+<b>1998</b>—Subsec. (i). Pub. L. 105–336 inserted subsec. heading and par. (1)(A) and struck out former subsec. heading and pars. (1) to (3)(A) which provided for grants to States for nutrition education and information programs based on rate of 50 cents for each child enrolled in schools, minimum amounts to be received by States, and authorizations of appropriations; redesignated par. (3)(B) as (1)(B); and redesignated pars. (4) and (5) as (2) and (3), respectively.
 
-1996—Subsec. (a). Pub. L. 104–193, §731(a)(1), substituted “that effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs should be encouraged.” for “that—” and pars. (1) to (5) which related to priority of proper nutrition, lack of understanding of principles of good nutrition, training school employees, role of parents, and opportunities for children to learn about importance of good nutrition.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §731(a)(1), substituted “that effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs should be encouraged.” for “that—” and pars. (1) to (5) which related to priority of proper nutrition, lack of understanding of principles of good nutrition, training school employees, role of parents, and opportunities for children to learn about importance of good nutrition.
 
 Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted “establish” for “encourage effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs by establishing”.
 
@@ -258,7 +258,7 @@ Subsec. (f)(4). Pub. L. 104–193, §731(b)(2), struck out par. (4) which read a
 
 Subsec. (g)(1). Pub. L. 104–193, §731(c), substituted “be available at any reasonable time” for “at all times be available” in second sentence.
 
-Subsec. (h)(1). Pub. L. 104–193, §731(d)(1), in second sentence, struck out “as provided in paragraph (2) of this subsection” after “needs in the State” and “as provided in paragraph (3) of this subsection” after “prepare a State plan”.
+Subsec. (h)(1). Pub. L. 104–193, §731(d)(1), in second sentence, struck out “as provided in paragraph (2) of this subsection” after “needs in the State” and “asprovided in paragraph (3) of this subsection” after “prepare a State plan”.
 
 Subsec. (h)(2). Pub. L. 104–193, §731(d)(2), struck out at end “Such assessment shall include, but not be limited to, the identification and location of all students in need of nutrition education. The assessment shall also identify State and local individual, group, and institutional resources within the State for materials, facilities, staffs, and methods related to nutrition education.”
 
@@ -274,7 +274,7 @@ Subsec. (j). Pub. L. 104–193, §731(f), struck out subsec. (j) which read as f
 
 “(2) The assessment required by paragraph (1) shall be completed not later than October 1, 1990.”
 
-1994—Subsec. (b). Pub. L. 103–448, §205(a), substituted “education and training programs” for “information and education programs”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–448, §205(a), substituted “education and training programs” for “information and education programs”.
 
 Subsec. (c). Pub. L. 103–448, §205(a), (b), substituted “education and training program” for “information and education program” in first sentence, substituted “child nutrition program personnel” for “school food service personnel” in subpar. (B), and added subpar. (E).
 
@@ -324,7 +324,7 @@ Subsec. (i)(3), (4). Pub. L. 103–448, §205(h), added par. (3) and redesignate
 
 Subsec. (j)(1). Pub. L. 103–448, §205(a), substituted “education and training program” for “information and education program”.
 
-1989—Subsec. (d)(1)(B). Pub. L. 101–147, §124(1)(A)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the food service management training of school food service personnel, and”.
+<b>1989</b>—Subsec. (d)(1)(B). Pub. L. 101–147, §124(1)(A)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the food service management training of school food service personnel, and”.
 
 Subsec. (d)(1)(C). Pub. L. 101–147, §124(1)(A)(ii), substituted “schools, child care institutions, and institutions offering summer food service programs under section 13 of the National School Lunch Act” for “schools and child care institutions”.
 
@@ -340,19 +340,19 @@ Pub. L. 101–147, §214, inserted at end “Each plan developed as required by 
 
 Pub. L. 101–147, §124(2), in subpar. (C), struck out “the National Advisory Council on Child Nutrition,” after “recommendations of”.
 
-Subsec. (i)(2). Pub. L. 101–147, §124(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1989, there is hereby authorized to be appropriated for grants to each State for the conduct of nutrition education and information programs, an amount equal to the higher of (A) 50 cents for each child enrolled in schools or in institutions within each State, or (B) $50,000 for each State. There is authorized to be appropriated for the grants referred to in the preceding sentence not more than $15,000,000 for fiscal year 1981, and not more than $5,000,000 for each subsequent fiscal year. Grants to each State from such appropriations shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within such State, except that no State shall receive an amount less than $50,000 for that year. If funds appropriated for such year are insufficient to pay the amount to which each State is entitled under the second preceding sentence, the amount of such grant shall be ratably reduced to the extent necessary so that the total of such amounts paid does not exceed the amount of appropriated funds. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.”
+Subsec. (i)(2). Pub. L. 101–147, §124(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1989, there is hereby authorized to be appropriated for grants to each State for the conduct of nutrition education and information programs, an amount equal to the higher of (A) 50 cents for each child enrolled in schools or in institutions within each State, or (B) $50,000 for each State. There is authorized to be appropriated for the grants referred to in the preceding sentence not more than $15,000,000 for fiscal year 1981, and not more than $5,000,000 for each subsequent fiscal year. Grants to each State from such appropriations shall be based on a rate of 50 cents for each childenrolled in schools or in institutions within such State, except that no State shall receive an amount less than $50,000 for that year. If funds appropriated for such year are insufficient to pay the amount to which each State is entitled under the second preceding sentence, the amount of such grant shall be ratably reduced to the extent necessary so that the total of such amounts paid does not exceed the amount of appropriated funds. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.”
 
 Subsec. (j). Pub. L. 101–147, §124(4), added subsec. (j).
 
-1986—Subsec. (d)(2), (3). Pub. L. 99–500 and Pub. L. 99–591, §372(b)(1), and Pub. L. 99–661, §4502(b)(1), amended pars. (2) and (3) identically, substituting “Health and Human Services” for “Health, Education, and Welfare” in one place in par. (2) and in two places in par. (3).
+<b>1986</b>—Subsec. (d)(2), (3). Pub. L. 99–500 and Pub. L. 99–591, §372(b)(1), and Pub. L. 99–661, §4502(b)(1), amended pars. (2) and (3) identically, substituting “Health and Human Services” for “Health, Education, and Welfare” in one place in par. (2) and in two places in par. (3).
 
 Subsecs. (i), (j). Pub. L. 99–500 and Pub. L. 99–591, §§315, 362, 372(b)(2), 373(b), and Pub. L. 99–661, §§4105, 4402, 4502(b)(2), 4503(b), amended section identically, redesignating subsec. (j) as (i), substituting “1989” for “1984” in one place and “$50,000” for “$75,000” in two places in par. (2), and substituting “Department of Education” for “Office of Education of the Department of Health, Education, and Welfare” in par. (3).
 
-1981—Subsec. (d)(6). Pub. L. 97–35, §817(f), struck out par. (6) relating to State prohibition on administration of program in nonprofit private schools and institutions.
+<b>1981</b>—Subsec. (d)(6). Pub. L. 97–35, §817(f), struck out par. (6) relating to State prohibition on administration of program in nonprofit private schools and institutions.
 
 Subsec. (j)(2). Pub. L. 97–35, §806, substituted provisions authorizing $15,000,000 for fiscal year 1981 and not more than $5,000,000 for each subsequent fiscal year for provisions authorizing $15,000,000 for the fiscal year beginning Oct. 1, 1980, and each subsequent fiscal year.
 
-1980—Subsec. (j)(2). Pub. L. 96–499 substituted “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984” for “For the fiscal year beginning October 1, 1979” and “second preceding sentence” for “preceding sentence” and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980, and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
+<b>1980</b>—Subsec. (j)(2). Pub. L. 96–499 substituted “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984” for “For the fiscal year beginning October 1, 1979” and “second preceding sentence” for “preceding sentence” and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980, and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
 
 #### Change of Name
 

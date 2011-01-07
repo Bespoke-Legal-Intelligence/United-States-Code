@@ -66,7 +66,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 &emsp;&emsp;(A) assurances that—
 
-&emsp;&emsp;&emsp;(i) prior to the placement of a participant, the applicant will consult with the appropriate local labor organization, ifany, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program, to prevent the displacement and protect the rights of such employees; and
+&emsp;&emsp;&emsp;(i) prior to the placement of a participant, the applicant will consult with the appropriate local labor organization, if any, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program, to prevent the displacement and protect the rights of such employees; and
 
 &emsp;&emsp;&emsp;(ii) the applicant will comply with the nonduplication and nondisplacement provisions of section 12637 of this title and the notice, hearing, and grievance procedures required by section 12636 of this title; and
 
@@ -158,7 +158,7 @@ Another prior section 118 of Pub. L. 101–610 was classified to section 12531 o
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1202(b)(1), inserted “through service-learning” after “community service programs”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1202(b)(1), inserted “through service-learning” after “community service programs”.
 
 Subsec. (b). Pub. L. 111–13, §1202(b)(2)(A), substituted “consortium” for “combination” in introductory provisions.
 

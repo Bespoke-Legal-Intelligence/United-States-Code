@@ -1,7 +1,5 @@
 Part B—Other Authorities and Requirements
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(C)”.</i>
-
 
 ---
 

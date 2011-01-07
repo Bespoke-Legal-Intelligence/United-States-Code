@@ -28,7 +28,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(i) establish measurable performance goals and objectives for such programs, in accordance with section 12639 of this title; and
 
-&emsp;&emsp;(ii) provide for periodic evaluation of such programs to assess the manner and extent to which the programs achieve the goals and objectives, in accordance with such section;
+&emsp;&emsp;(ii) provide for periodic evaluation of such programs to assess the manner and extent towhich the programs achieve the goals and objectives, in accordance with such section;
 
 &emsp;(5) consult with appropriate Federal agencies in administering the programs and initiatives;
 
@@ -78,9 +78,9 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;(vii) other issues that the Director determines to be relevant to the administration and organization of the service programs; and
 
-&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service;
+&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\] related to community service;
 
-&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the applicationreferred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
+&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
 
 &emsp;(13) bolster the public awareness of and recruitment efforts for the wide range of service opportunities for citizens of all ages, regardless of socioeconomic status or geographic location, through a variety of methods, including—
 
@@ -218,7 +218,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (1) Effort
 
-&emsp;The Chief Executive Officer shall ensure that the Corporation, in carrying out the recruiting and public awareness functions of the Corporation, shall expend at least the level of effort on recruitment and public awareness activities related to the programs carried out under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.) as ACTION expended on recruitment and public awareness activities related to programs under the Domestic Volunteer Service Act of 1973 during fiscal year 1993.
+&emsp;The Chief Executive Officer shall ensure that the Corporation, in carrying out the recruiting and public awareness functions of theCorporation, shall expend at least the level of effort on recruitment and public awareness activities related to the programs carried out under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.) as ACTION expended on recruitment and public awareness activities related to programs under the Domestic Volunteer Service Act of 1973 during fiscal year 1993.
 
 #### (2) Personnel
 
@@ -246,7 +246,7 @@ Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug
 
 This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (b)(17) and (g)(1), (2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. Title II of the Act is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -260,7 +260,7 @@ For the effective date of this subsection, referred to in subsec. (g)(3), see Ef
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–13, §1704(1)(A), substituted “, in collaboration with the State Commissions, shall” for “shall” in introductory provisions.
+<b>2009</b>—Subsec. (b). Pub. L. 111–13, §1704(1)(A), substituted “, in collaboration with the State Commissions, shall” for “shall” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 111–13, §1704(1)(B), inserted “, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012,” after “a strategic plan”.
 
@@ -284,9 +284,9 @@ Subsec. (f)(2)(B). Pub. L. 111–13, §1704(3), substituted “the first date th
 
 Subsecs. (h), (i). Pub. L. 111–13, §1704(4), added subsecs. (h) and (i).
 
-1994—Subsec. (g). Pub. L. 103–304 made technical amendment to directory language of Pub. L. 103–82, §203(a)(3). See 1993 Amendment note below.
+<b>1994</b>—Subsec. (g). Pub. L. 103–304 made technical amendment to directory language of Pub. L. 103–82, §203(a)(3). See 1993 Amendment note below.
 
-1993—Subsecs. (b) to (d). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193A of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter” was executed wherever appearing in the following provisions of this section, which is section 193A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress: introductory provisions and pars. (2) to (4)(A), (8), and (9)(C) of subsec. (b), introductory provisions and pars. (2), (4), (9), and (10) of subsec. (c), and subsec. (d)(2).
+<b>1993</b>—Subsecs. (b) to (d). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193A of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter” was executed wherever appearing in the following provisions of this section, which is section 193A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress: introductory provisions and pars. (2) to (4)(A), (8), and (9)(C) of subsec. (b), introductory provisions and pars. (2), (4), (9), and (10) of subsec. (c), and subsec. (d)(2).
 
 Subsec. (g). Pub. L. 103–82, §203(a)(3), as amended by Pub. L. 103–304, added subsec. (g).
 

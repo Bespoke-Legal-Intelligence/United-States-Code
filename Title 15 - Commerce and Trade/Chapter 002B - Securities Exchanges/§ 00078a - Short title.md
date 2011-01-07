@@ -6,7 +6,11 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, 78ee to 78hh, and 78mm of this title. Sections 78kk, 78<i>ll</i>, 78nn, and 78<i>oo</i> of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78<i>l</i>, 78m, 78m–1, 78n to 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78<i>o</i>–5 to 78<i>o</i>–7, 78<i>o</i>–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp of this title. Sections 78kk, 78<i>ll</i>, 78nn, and 78<i>oo</i> of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–203, title IX, §901, July 21, 2010, 124 Stat. 1822, provided that: “This title \[see Tables for classification\] may be cited as the ‘Investor Protection and Securities Reform Act of 2010’.”
 
 #### Short Title of 2006 Amendment
 
@@ -18,13 +22,13 @@ Pub. L. 108–458, title VII, §7803(a), Dec. 17, 2004, 118 Stat. 3861, provided
 
 #### Short Title of 2002 Amendments
 
-Pub. L. 107–204, title XI, §1101, July 30, 2002, 116 Stat. 807, provided that: “This title \[amending sections 77h–1,78u–3, and 78ff of this title and sections 1512 and 1513 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Corporate Fraud Accountability Act of 2002’.”
+Pub. L. 107–204, title XI, §1101, July 30, 2002, 116 Stat. 807, provided that: “This title \[amending sections 77h–1, 78u–3, and 78ff of this title and sections 1512 and 1513 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Corporate Fraud Accountability Act of 2002’.”
 
 Pub. L. 107–123, §1, Jan. 16, 2002, 115 Stat. 2390, provided that: “This Act \[enacting chapter 48 of Title 5, Government Organization and Employees, amending sections 77f, 77ggg, 78d, 78m, 78n, and 78ee of this title, sections 3132 and 5373 of Title 5, and section 1833b of Title 12, Banks and Banking, and enacting provisions set out as notes under section 78ee of this title and section 4802 of Title 5\] may be cited as the ‘Investor and Capital Markets Fee Relief Act’.”
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–366, §1, Nov. 10, 1998, 112 Stat. 3302, provided that: “This Act \[enacting section 78dd–3 of this title, amending sections 78dd–1, 78dd–2, and 78ff of this title, and enacting provisions set out as notes under section 78dd–1 of this title\] may be cited as the ‘International Anti-Bribery and Fair Competition Act of 1998’.”
+Pub. L. 105–366, §1, Nov. 10, 1998, 112 Stat. 3302, provided that: “This Act \[enacting section 78dd–3 of thistitle, amending sections 78dd–1, 78dd–2, and 78ff of this title, and enacting provisions set out as notes under section 78dd–1 of this title\] may be cited as the ‘International Anti-Bribery and Fair Competition Act of 1998’.”
 
 Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act \[amending sections 77b, 77k, 77m, 77p, 77r, 77v, 77z–1 to 77z–3, 77aa, 77ccc, 77ddd, 77mmm, 77sss, 78c, 78d, 78g, 78n, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78s, 78t, 78u–4, 78z, 78bb, 78ee, 78kk, 78<i>ll</i>, 80a–2, 80a–3, 80a–12, 80a–18, 80a–29, 80a–30, 80b–3, and 80b–18a of this title and enacting provisions set out as notes under this section and sections 77p and 78u of this title\] may be cited as the ‘Securities Litigation Uniform Standards Act of 1998’.”
 
@@ -70,13 +74,13 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions setout as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
+Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
 
 Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: “This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the ‘Foreign Corrupt Practices Act Amendments of 1988’.”
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–181, §1, Dec. 4, 1987, 101 Stat. 1249, provided that: “This Act \[enacting sections 78d–1, 78d–2, and 78<i>ll</i> of this title, amending sections 77b, 77c, 77f, 77i, 77s, 77t, 77v, 77ccc, 78c, 78d, 78f, 78k–1, 78<i>l</i>, 78m, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78q–1, 78u, 78w, 78aa, 78bb, 78kk, 78<i>lll</i>, 79h, 79r, 79x, 79y, 79z–4, 80a–2, 80a–3, 80a–5, 80a–6, 80a–9, 80a–12, 80a–15, 80a–17, 80a–18, 80a–20, 80a–21, 80a–22, 80a–24, 80a–26, 80a–28, 80a–35, 80a–41, 80a–52, 80a–53, 80a–54, 80a–56, 80b–2, 80b–3, 80b–5, 80b–9, 80b–11, 80b–13, and 80b–14 of this title, and repealing sections 78d–1, 78d–2, and 78jj of this title\] may be cited as the ‘Securities and Exchange Commission Authorization Act of 1987’.”
+Pub. L. 100–181, §1, Dec. 4, 1987, 101 Stat. 1249, provided that: “This Act \[enacting sections 78d–1, 78d–2, and 78<i>ll</i> of this title, amending sections 77b, 77c, 77f, 77i, 77s, 77t, 77v, 77ccc, 78c, 78d, 78f, 78k–1, 78<i>l</i>, 78m, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78q–1, 78u, 78w, 78aa, 78bb, 78kk, 78<i>lll</i>, 79h, 79r, 79x, 79y, 79z–4, 80a–2, 80a–3, 80a–5, 80a–6, 80a–9, 80a–12, 80a–15,80a–17, 80a–18, 80a–20, 80a–21, 80a–22, 80a–24, 80a–26, 80a–28, 80a–35, 80a–41, 80a–52, 80a–53, 80a–54, 80a–56, 80b–2, 80b–3, 80b–5, 80b–9, 80b–11, 80b–13, and 80b–14 of this title, and repealing sections 78d–1, 78d–2, and 78jj of this title\] may be cited as the ‘Securities and Exchange Commission Authorization Act of 1987’.”
 
 #### Short Title of 1986 Amendment
 

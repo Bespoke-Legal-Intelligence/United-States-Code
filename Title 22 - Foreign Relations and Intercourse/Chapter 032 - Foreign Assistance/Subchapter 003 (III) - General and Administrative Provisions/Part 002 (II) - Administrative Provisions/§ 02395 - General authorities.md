@@ -34,7 +34,7 @@ In making loans under this chapter, the President—
 
 &emsp;(2) may collect or compromise any obligations assigned to, or held by, and any legal or equitable rights accruing to him, and, as he may determine, refer any such obligations or rights to the Attorney General for suit or collection;
 
-&emsp;(3) may acquire and dispose of, upon such terms and conditions as he may determine,any property, including any instrument evidencing indebtedness or ownership (provided that equity securities may not be directly purchased although such securities may be acquired by other means such as by exercise of conversion rights or through enforcement of liens or pledges or otherwise to satisfy a previously incurred indebtedness), and guarantee payment against any such instrument;
+&emsp;(3) may acquire and dispose of, upon such terms and conditions as he may determine, any property, including any instrument evidencing indebtedness or ownership (provided that equity securities may not be directly purchased although such securities may be acquired by other means such as by exercise of conversion rights or through enforcement of liens or pledges or otherwise to satisfy a previously incurred indebtedness), and guarantee payment against any such instrument;
 
 &emsp;(4) may determine the character of, and necessity for, obligations and expenditures of funds used in making such loans and the manner in which they shall be incurred, allowed, and paid, subject to provisions of law specifically applicable to corporations of the United States Government; and
 
@@ -88,7 +88,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the original “this Act”, meaning Pub. L.87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known asthe Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
@@ -104,27 +104,27 @@ In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Governmen
 
 #### Amendments
 
-2004—Subsec. (g)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (g)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (<i>l</i>). Pub. L. 106–264 added subsec. (<i>l</i>).
+<b>2000</b>—Subsec. (<i>l</i>). Pub. L. 106–264 added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 106–309 added subsec. (m).
 
-1979—Subsec. (c). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
-1978—Subsec. (h). Pub. L. 95–424 substituted “part I (except development loans) and subpart II of part II of subchapter I” for “subparts II, V, and VI of part II of subchapter I (except development loans)”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–424 substituted “part I (except development loans) and subpart II of part II of subchapter I” for “subparts II, V, and VI of part II of subchapter I (except development loans)”.
 
-1967—Subsec. (e). Pub. L. 90–137, §302(i)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1967</b>—Subsec. (e). Pub. L. 90–137, §302(i)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g). Pub. L. 90–137, §302(i)(2), struck out “and sales” after “loans” in introductory clause.
 
-1966—Subsec. (h). Pub. L. 89–583 excluded development loans under the Alliance for Progress from the provision that contracts or agreements which entail commitments for the expenditure of funds may not extend for more than five years.
+<b>1966</b>—Subsec. (h). Pub. L. 89–583 excluded development loans under the Alliance for Progress from the provision that contracts or agreements which entail commitments for the expenditure of funds may not extend for more than five years.
 
-1965—Subsec. (g). Pub. L. 89–171 inserted “and sales” in introductory clause.
+<b>1965</b>—Subsec. (g). Pub. L. 89–171 inserted “and sales” in introductory clause.
 
-1963—Subsec. (k). Pub. L. 88–205 added subsec. (k).
+<b>1963</b>—Subsec. (k). Pub. L. 88–205 added subsec. (k).
 
-1962—Subsec. (h). Pub. L. 87–565 included sections 2211 to 2213 of this title within the limitation on the duration of contracts and agreements.
+<b>1962</b>—Subsec. (h). Pub. L. 87–565 included sections 2211 to 2213 of this title within the limitation on the duration of contracts and agreements.
 
 #### Effective Date of 1979 Amendment
 

@@ -20,9 +20,9 @@ Section was formerly classified as a note under section 3712 of this title.
 
 #### Amendments
 
-2002—Pub. L. 107–273 substituted “any fiscal year the Attorney General—” for “fiscal year 1999, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—” in introductory provisions.
+<b>2002</b>—Pub. L. 107–273 substituted “any fiscal year the Attorney General—” for “fiscal year 1999, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—” in introductory provisions.
 
-2001—Par. (1). Pub. L. 107–56, §614(1), inserted “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
+<b>2001</b>—Par. (1). Pub. L. 107–56, §614(1), inserted “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
 
 Par. (2). Pub. L. 107–56, §614, inserted “functions, including any” after “all” and “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
 

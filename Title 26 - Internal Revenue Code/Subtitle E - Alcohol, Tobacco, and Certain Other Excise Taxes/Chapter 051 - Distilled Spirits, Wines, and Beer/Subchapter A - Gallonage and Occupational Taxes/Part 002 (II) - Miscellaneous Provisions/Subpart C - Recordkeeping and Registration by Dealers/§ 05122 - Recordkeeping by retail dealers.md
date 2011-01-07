@@ -42,7 +42,7 @@ Another prior section 5122, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related t
 
 #### Amendments
 
-2005—Pub. L. 109–59, §11125(b)(6)(A), (B)(i), renumbered section 5124 of this title as this section, transferred section to this subpart so as to appear after section 5121, and substituted “Recordkeeping by retail dealers” for “Records” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(6)(A), (B)(i), renumbered section 5124 of this title as this section, transferred section to this subpart so as to appear after section 5121, and substituted “Recordkeeping by retail dealers” for “Records” in section catchline.
 
 Subsec. (c). Pub. L. 109–59, §11125(b)(6)(B)(iii), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -50,7 +50,7 @@ Pub. L. 109–59, §11125(b)(6)(B)(ii), substituted “section 5123” for “se
 
 Subsec. (d). Pub. L. 109–59, §11125(b)(6)(B)(iii), redesignated subsec. (c) as (d).
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
 
 #### Effective Date of 2005 Amendment
 

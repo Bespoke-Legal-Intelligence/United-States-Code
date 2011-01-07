@@ -2,7 +2,7 @@
 
 #### (a) Notice
 
-The President or any other Federal officer shall cause notice to be published in the Federal Register and in newspapers of general circulation in the areas affected whenever he makesany decision described in subsection (b) of this section.
+The President or any other Federal officer shall cause notice to be published in the Federal Register and in newspapers of general circulation in the areas affected whenever he makes any decision described in subsection (b) of this section.
 
 #### (b) Review of certain Federal actions
 
@@ -16,7 +16,7 @@ An action under subsection (b) of this section shall be barred unless a petition
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–620 struck out provision that any such proceeding had to be assigned for hearing at the earliest possible date and had to be expedited by the court.
+<b>1984</b>—Subsec. (c). Pub. L. 98–620 struck out provision that any such proceeding had to be assigned for hearing at the earliest possible date and had to be expedited by the court.
 
 #### Effective Date of 1984 Amendment
 

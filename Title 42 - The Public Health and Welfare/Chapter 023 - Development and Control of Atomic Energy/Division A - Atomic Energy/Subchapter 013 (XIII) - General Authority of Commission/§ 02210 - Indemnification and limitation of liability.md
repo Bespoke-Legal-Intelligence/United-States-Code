@@ -14,7 +14,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 &emsp;(ii) for any licensee licensed to operate more than one facility, if the Commission determines that the financial impact of assessing the standard annual deferred premium amount under paragraph (1) would result in undue financial hardship to such licensee or the ratepayers of such licensee.
 
-(B) In the event that the Commission assesses a lesser annual deferred premium amount undersubparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
+(B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standardannual deferred premium assessment under paragraph (1) would become due.
 
 (3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry and insurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of such licensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
 
@@ -38,7 +38,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 #### (d) Indemnification of contractors by Department of Energy
 
-(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretaryshall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
+(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
 
 (B)(i)(I) Beginning 60 days after August 20, 1988, agreements of indemnification under subparagraph (A) shall be the exclusive means of indemnification for public liability arising from activities described in such subparagraph, including activities conducted under a contract that contains an indemnification clause under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] entered into between August 1, 1987, and August 20, 1988.
 
@@ -88,7 +88,7 @@ The Commission or the Secretary, as appropriate, is authorized to collect a fee 
 
 #### (g) Use of services of private insurers
 
-In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission or the Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 5 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
+In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission or the Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
 
 #### (h) Conditions of agreements of indemnification
 
@@ -114,7 +114,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 (3)(A) Any compensation plan transmitted to the Congress pursuant to paragraph (2) shall bear an identification number and shall be transmitted to both Houses of Congress on the same day and to each House while it is in session.
 
-(B) The provisions of paragraphs (4) through (6) shall apply with respect to consideration inthe Senate of any compensation plan transmitted to the Senate pursuant to paragraph (2).
+(B) The provisions of paragraphs (4) through (6) shall apply with respect to consideration in the Senate of any compensation plan transmitted to the Senate pursuant to paragraph (2).
 
 (4) No such compensation plan may be considered approved for purposes of subsection (e)(2) of this section unless between the date of transmittal and the end of the first period of sixty calendar days of continuous session of Congress after the date on which such action is transmitted to the Senate, the Senate passes a resolution described in paragraph 6 <sup>2</sup> of this subsection.
 
@@ -160,7 +160,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 &emsp;(2) such contracts of indemnification shall cover public liability arising out of or in connection with the licensed activity; and shall include damage to property of persons indemnified, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs; and
 
-&emsp;(3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in the same manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
+&emsp;(3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in thesame manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
 
 > Any licensee may waive an exemption to which it is entitled under this subsection. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2025, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2025.
 
@@ -330,9 +330,13 @@ The Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(1), (4)(A)
 
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+#### Codification
+
+In subsec. (g), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5), as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–58, §603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)” for “$10,000,000 in any 1 year” in second proviso of third sentence.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58, §603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)” for “$10,000,000 in any 1 year” in second proviso of third sentence.
 
 Subsec. (b)(5). Pub. L. 109–58, §608, added par. (5).
 
@@ -364,15 +368,15 @@ Subsec. (t)(1). Pub. L. 109–58, §603(2), inserted “total and annual” befo
 
 Subsec. (t)(2), (3). Pub. L. 109–58, §607, added par. (2) and redesignated former par. (2) as (3).
 
-2004—Subsec. (d)(1)(A). Pub. L. 108–375 substituted “until December 31, 2006” for “until December 31, 2004”.
+<b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–375 substituted “until December 31, 2006” for “until December 31, 2004”.
 
-2003—Subsec. (c). Pub. L. 108–7 substituted “December 31, 2003” for “August 1, 2002” wherever appearing.
+<b>2003</b>—Subsec. (c). Pub. L. 108–7 substituted “December 31, 2003” for “August 1, 2002” wherever appearing.
 
-2002—Subsec. (d)(1)(A). Pub. L. 107–314 substituted “until December 31, 2004,” for “until August 1, 2002,”.
+<b>2002</b>—Subsec. (d)(1)(A). Pub. L. 107–314 substituted “until December 31, 2004,” for “until August 1, 2002,”.
 
-1998—Subsec. (p). Pub. L. 105–362 struck out par. (1) designation and struck out par. (2) which read as follows: “Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.”
+<b>1998</b>—Subsec. (p). Pub. L. 105–362 struck out par. (1) designation and struck out par. (2) which read as follows: “Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.”
 
-1988—Subsec. (a). Pub. L. 100–408, §16(e)(1), inserted “Requirement of financial protection for licensees” as heading.
+<b>1988</b>—Subsec. (a). Pub. L. 100–408, §16(e)(1), inserted “Requirement of financial protection for licensees” as heading.
 
 Pub. L. 100–408, §16(d)(4), substituted “section 2i.” for “subsection 2i. of the Atomic Energy Act of 1954, as amended”, “subsection b.” for “subsection 170b.”, and “subsection c.” for “subsection 170c.”, which for purposes of codification were translated as “section 2012(i) of this title”, “subsection (b) of this section”, and “subsection (c) of this section”, respectively, thus requiring no change in text.
 
@@ -434,7 +438,7 @@ Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” 
 
 Subsec. (n). Pub. L. 100–408, §16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
 
-Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
+Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A),\(B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
 
 Subsec. (n)(2). Pub. L. 100–408, §16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
 
@@ -464,7 +468,7 @@ Subsec. (s). Pub. L. 100–408, §14, added subsec. (s).
 
 Subsec. (t). Pub. L. 100–408, §15, added subsec. (t).
 
-1975—Subsec. (a). Pub. L. 94–197, §2, inserted provision relating to the public purposes cited in section 2012(i) of this title and “in the exercise of its licensing and regulatory authority and responsibility” after “as the Commission”, and substituted “required, it may” for “required, it shall”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–197, §2, inserted provision relating to the public purposes cited in section 2012(i) of this title and “in the exercise of its licensing and regulatory authority and responsibility” after “as the Commission”, and substituted “required, it may” for “required, it shall”.
 
 Subsec. (b). Pub. L. 94–197, §3, inserted requirement that for facilities having a rated capacity of 100,000 electrical kilowatts or more, the amount of financial protection required shall be at a reasonable cost and on reasonable terms, and requirement that financial protection be subject to such terms and conditions as the Commission, by rule, regulation or order prescribes, and established premium and funding standards and procedures for prescribing terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources. Notwithstanding the directory language that amendment be made to section 107 b. of the Atomic Energy Act of 1954, as amended, the amendment was executed to section 170 b. of the Atomic Energy Act of 1954, as amended, (subsec. (b) of this section) as the probable intent of Congress.
 
@@ -490,11 +494,11 @@ Subsec. (<i>o</i>)(3), (4). Pub. L. 94–197, §13, in par. (3) inserted provisi
 
 Subsec. (p). Pub. L. 94–197, §14, added subsec. (p).
 
-1966—Subsec. (e). Pub. L. 89–645, §2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (<i>o</i>) of this section.
+<b>1966</b>—Subsec. (e). Pub. L. 89–645, §2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (<i>o</i>) of this section.
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 89–645, §3, added subsecs. (m) to (<i>o</i>).
 
-1965—Subsec. (c). Pub. L. 89–210, §1, substituted “August 1, 1977” for “August 1, 1967” wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+<b>1965</b>—Subsec. (c). Pub. L. 89–210, §1, substituted “August 1, 1977” for “August 1, 1967” wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
 Subsec. (d). Pub. L. 89–210, §2, substituted “August 1, 1977” for “August 1, 1967,” and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
@@ -504,17 +508,17 @@ Subsec. (k). Pub. L. 89–210, §4, substituted “August 1, 1977” for “Augu
 
 Subsec. (<i>l</i>). Pub. L. 89–210, §5, substituted “August 1, 1977” for “August 1, 1967” and “in the amount of $500,000,000” for “in the maximum amount provided by subsection (e) of this section”, inserted “in the aggregate for all persons indemnified in connection with each nuclear incident”, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
-1964—Subsec. (c). Pub. L. 88–394, §2, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
+<b>1964</b>—Subsec. (c). Pub. L. 88–394, §2, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
 
 Subsec. (k). Pub. L. 88–394, §3, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
 
-1962—Subsec. (d). Pub. L. 87–615, §6, limited the amount of indemnity provided by the Commission for nuclear incidents occurring outside the United States to $100,000,000.
+<b>1962</b>—Subsec. (d). Pub. L. 87–615, §6, limited the amount of indemnity provided by the Commission for nuclear incidents occurring outside the United States to $100,000,000.
 
 Subsec. (e). Pub. L. 87–615, §7, inserted proviso limiting the aggregate liability in cases of nuclear incidents occurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted “occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia” for “caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship”.
 
-1961—Subsec. (d). Pub. L. 87–206 inserted provision for liability of contractor to extent of indemnification under this section free of defense of sovereign immunity.
+<b>1961</b>—Subsec. (d). Pub. L. 87–206 inserted provision for liability of contractor to extent of indemnification under this section free of defense of sovereign immunity.
 
-1958—Subsec. (e). Pub. L. 85–602, §2\[3\], gave the district court that has venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship, jurisdiction in cases of nuclear incidents caused by ships of the United States outside of the United States.
+<b>1958</b>—Subsec. (e). Pub. L. 85–602, §2\[3\], gave the district court that has venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship, jurisdiction in cases of nuclear incidents caused by ships of the United States outside of the United States.
 
 Subsec. (k). Pub. L. 85–744 added subsec. (k).
 
@@ -556,7 +560,7 @@ Pub. L. 106–245, §2, July 10, 2000, 114 Stat. 501, provided that: “Congress
 
 &emsp;“(3) reports of the Atomic Energy Commission and the National Institute for Occupational Safety and Health testify to the need to extend eligibility to States in which the Federal Government sponsored uranium mining and milling from 1941 through 1971;
 
-&emsp;“(4) scientific data resulting from the enactment of the Radiation\[–\]Exposed Veterans Compensation Actof 1988 (38 U.S.C. 101 note) \[Pub. L. 100–321, see Tables for classification\], and obtained from the Committee on the Biological Effects of Ionizing Radiations, and the President's Advisory Committee on Human Radiation Experiments provide medical validation for the extension of compensable radiogenic pathologies;
+&emsp;“(4) scientific data resulting from the enactment of the Radiation\[–\]Exposed Veterans Compensation Act of 1988 (38 U.S.C. 101 note) \[Pub. L. 100–321, see Tables for classification\], and obtained from the Committee on the Biological Effects of Ionizing Radiations, and the President's Advisory Committee on Human Radiation Experiments provide medical validation for the extension of compensable radiogenic pathologies;
 
 &emsp;“(5) above-ground uranium miners, millers and individuals who transported ore should be fairly compensated, in a manner similar to that provided for underground uranium miners, in cases in which those individuals suffered disease or resultant death, associated with radiation exposure, due to the failure of the Federal Government to warn and otherwise help protect citizens from the health hazards addressed by the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note); and
 
@@ -776,7 +780,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(1) the term ‘working level month of radiation’ means radiation exposure at the level of one working level every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
 
-&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3×10<sup>5</sup>) million electron volts of alpha energy per liter of air;
+&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3�0A10<sup>5</sup>) million electron volts of alpha energy per liter of air;
 
 &emsp;“(3) the term ‘nonmalignant respiratory disease’ means fibrosis of the lung, pulmonary fibrosis, corpulmonale related to fibrosis of the lung, silicosis, and pneumoconiosis;
 
@@ -1132,7 +1136,7 @@ Designation of convener.—Within 30 days of the date of the enactment of this A
 
 &emsp;“(3)
 
-Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
+Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided forradiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
 
 &emsp;“(4)
 

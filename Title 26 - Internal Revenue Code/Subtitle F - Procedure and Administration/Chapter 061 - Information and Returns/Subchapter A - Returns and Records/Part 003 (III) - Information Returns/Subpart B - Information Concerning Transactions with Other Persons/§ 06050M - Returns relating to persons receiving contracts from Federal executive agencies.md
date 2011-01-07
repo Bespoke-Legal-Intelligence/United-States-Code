@@ -56,11 +56,11 @@ This section shall not apply to contracts or licenses in any class which are bel
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2005—Subsec. (b)(1). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsec. (e). Pub. L. 100–647 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 

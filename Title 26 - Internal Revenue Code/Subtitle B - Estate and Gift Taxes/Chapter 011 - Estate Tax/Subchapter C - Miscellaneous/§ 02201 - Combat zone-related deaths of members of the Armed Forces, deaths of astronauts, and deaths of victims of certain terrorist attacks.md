@@ -12,7 +12,7 @@ For purposes of this section, the term “qualified decedent” means—
 
 &emsp;&emsp;(A) was killed in action while serving in a combat zone, as determined under section 112(c), or
 
-&emsp;&emsp;(B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of ahazard to which such decedent was subjected as an incident of such service,
+&emsp;&emsp;(B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of a hazard to which such decedent was subjected as an incident of such service,
 
 &emsp;(2) any specified terrorist victim (as defined in section 692(d)(4)), and
 
@@ -53,17 +53,17 @@ In the case of an estate to which this section applies, subsection (a) shall not
 
 #### Amendments
 
-2003—Pub. L. 108–121, §110(c)(2)(A), inserted “, deaths of astronauts,” after “Forces” in section catchline.
+<b>2003</b>—Pub. L. 108–121, §110(c)(2)(A), inserted “, deaths of astronauts,” after “Forces” in section catchline.
 
 Subsec. (b)(3). Pub. L. 108–121, §110(c)(1), added par. (3).
 
-2002—Pub. L. 107–134 amended section catchline and text of section generally, substituting present provisions for provisions which had stated that the additional estate tax as defined in former section 2011(d) should not apply to the transfer of the taxable estate of a citizen or resident of the United States dying while in active service as a member of the Armed Forces of the United States, if such decedent was killed in action while serving in a combat zone, as determined under section 112(c), or died as a result of wounds, disease, or injury suffered, while serving in a combat zone (as determined under section 112(c)), and while in line of duty, by reason of a hazard to which he was subjected as an incident of such service.
+<b>2002</b>—Pub. L. 107–134 amended section catchline and text of section generally, substituting present provisions for provisions which had stated that the additional estate tax as defined in former section 2011(d) should not apply to the transfer of the taxable estate of a citizen or resident of the United States dying while in active service as a member of the Armed Forces of the United States, if such decedent was killed in action while serving in a combat zone, as determined under section 112(c), or died as a result of wounds, disease, or injury suffered, while serving in a combat zone (as determined under section 112(c)), and while in line of duty, by reason of a hazard to which he was subjected as an incident of such service.
 
-2001—Pub. L. 107–16, §§532(c)(9)(B), 901, which temporarily added concluding provisions which read as follows: “For purposes of this section, the additional estate tax is the difference between the tax imposed by section 2001 or 2101 and the amount equal to 125 percent of the maximum credit provided by section 2011(b), as in effect before its repeal by the Economic Growth and Tax Relief Reconciliation Act of 2001.”, was repealed by Pub. L. 107–134, §103(b)(3). See Effective and Termination Dates of 2001 Amendment and Effective Date of 2002 Amendment notes below.
+<b>2001</b>—Pub. L. 107–16, §§532(c)(9)(B), 901, which temporarily added concluding provisions which read as follows: “For purposes of this section, the additional estate tax is the difference between the tax imposed by section 2001 or 2101 and the amount equal to 125 percent of the maximum credit provided by section 2011(b), as in effect before its repeal by the Economic Growth and Tax Relief Reconciliation Act of 2001.”, was repealed by Pub. L. 107–134, §103(b)(3). See Effective and Termination Dates of 2001 Amendment and Effective Date of 2002 Amendment notes below.
 
 Pub. L. 107–16, §§532(c)(9)(A), 901, which temporarily struck out “as defined in section 2011(d)” after “The additional estate tax” in introductory provisions, was repealed by Pub. L. 107–134, §103(b)(3). See Effective and Termination Dates of 2001 Amendment and Effective Date of 2002 Amendment notes below.
 
-1975—Pub. L. 93–597, as amended by Pub. L. 94–455, §1902(a)(7)(A), struck out “during an induction period (as defined in section 112(c)(5))” after “resident of the United States dying”, and substituted “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” for “Members of the Armed Forces dying during an induction period” in section catchline.
+<b>1975</b>—Pub. L. 93–597, as amended by Pub. L. 94–455, §1902(a)(7)(A), struck out “during an induction period (as defined in section 112(c)(5))” after “resident of the United States dying”, and substituted “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” for “Members of the Armed Forces dying during an induction period” in section catchline.
 
 #### Effective Date of 2003 Amendment
 
@@ -77,7 +77,7 @@ Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or af
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

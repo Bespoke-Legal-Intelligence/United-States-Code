@@ -32,5 +32,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92�
 
 #### Amendments
 
-1998—Pub. L. 105–302 designated first three undesignated paragraphs as pars. (1) to (3), respectively, and added par. (4).
+<b>1998</b>—Pub. L. 105–302 designated first three undesignated paragraphs as pars. (1) to (3), respectively, and added par. (4).
 

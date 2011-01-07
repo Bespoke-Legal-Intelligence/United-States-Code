@@ -16,15 +16,7 @@ Another prior subchapter A of chapter 31 was redesignated subchapter B by Pub. L
 
 #### Amendments
 
-1993—Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449, amended subchapter heading and analysis generally, substituting “Luxury Passenger Automobiles” for “Certain Luxury Items” in subchapter heading, striking out part analysis consisting of parts I “Imposition of taxes” and II “Rules of general applicability”, part I heading “IMPOSITION OF TAXES”, subpart analysis consisting of subparts A “Passenger vehicles, boats, and aircraft” and B “Jewelry and furs”, and subpart A heading “Passenger Vehicles, Boats, and Aircraft”, substituting “Imposition of tax” for “Passenger vehicles” in item 4001, “1st retail sale; uses, etc. treated as sales; determination of price” for “Boats” in item 4002, and “Special rules” for “Aircraft” in item 4003, and striking out item 4004 “Rules applicable to subpart A”.
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
-<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 94–455 without corresponding amendment of analysis.</i>
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
+<b>1993</b>—Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449, amended subchapter heading and analysis generally, substituting “Luxury Passenger Automobiles” for “Certain Luxury Items” in subchapter heading, striking out part analysis consisting of parts I “Imposition of taxes” and II “Rules of general applicability”, part I heading “IMPOSITION OF TAXES”, subpart analysis consisting of subparts A “Passenger vehicles, boats, and aircraft” and B “Jewelry and furs”, and subpart A heading “Passenger Vehicles, Boats, and Aircraft”, substituting “Imposition of tax” for “Passenger vehicles” in item 4001, “1st retail sale; uses, etc. treated as sales; determination of price” for “Boats” in item 4002, and “Special rules” for “Aircraft” in item 4003, and striking out item 4004 “Rules applicable to subpart A”.
 
 
 ---

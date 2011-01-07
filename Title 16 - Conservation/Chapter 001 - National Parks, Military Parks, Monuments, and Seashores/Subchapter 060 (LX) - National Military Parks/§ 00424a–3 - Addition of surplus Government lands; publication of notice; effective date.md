@@ -4,7 +4,7 @@ Effective upon publication of notice, as hereinafter provided, there shall be ad
 
 When the boundaries of the aforesaid area have been agreed upon, the General Services Administration shall furnish to the National Park Service a legal description of the lands to be added to the park, together with a map showing the boundaries and the acreage of the area.
 
-Upon the receipt by the National Park Service of such legal description and map of the area, public notice that such lands are to become a part of the Chickamauga and Chattanooga National Military Park, effective on the date of publication of such notice, shall be given in the Federal Register.
+Upon the receipt by the National Park Service of such legal description and map of the area,public notice that such lands are to become a part of the Chickamauga and Chattanooga National Military Park, effective on the date of publication of such notice, shall be given in the Federal Register.
 
 (June 24, 1948, ch. 630, 62 Stat. 646; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381.)
 

@@ -46,15 +46,15 @@ Changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal byPub. L. 89–554, §8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
-2007—Subsecs. (c), (d). Pub. L. 110–34 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “A person appointed as United States attorney under this section may serve until the qualification of a United States Attorney for such district appointed by the President under section 541 of this title.”
+<b>2007</b>—Subsecs. (c), (d). Pub. L. 110–34 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “A person appointed as United States attorney under this section may serve until the qualification of a United States Attorney for such district appointed by the President under section 541 of this title.”
 
-2006—Subsecs. (c), (d). Pub. L. 109–177 added subsec. (c) and struck out former subsecs. (c) and (d) which related to length of service of a United States attorney appointed under this section and appointment of a United States attorney by a district court after expiration of a previous appointment, respectively.
+<b>2006</b>—Subsecs. (c), (d). Pub. L. 109–177 added subsec. (c) and struck out former subsecs. (c) and (d) which related to length of service of a United States attorney appointed under this section and appointment of a United States attorney by a district court after expiration of a previous appointment, respectively.
 
-1986—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows: “The district court for a district in which the office of United States attorney is vacant may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.”
+<b>1986</b>—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows: “The district court for a district in which the office of United States attorney is vacant may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.”
 
 #### Effective Date of 2007 Amendment
 

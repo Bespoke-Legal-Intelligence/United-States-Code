@@ -12,7 +12,7 @@ Individual Notice to New Veterans.—The Secretary shall by letter advise each v
 
 Distribution of Information.—(1) The Secretary—
 
-&emsp;(A) shall distribute full information to eligible veterans and eligible dependents regardingall benefits and services to which they may be entitled under laws administered by the Secretary; and
+&emsp;(A) shall distribute full information to eligible veterans and eligible dependents regarding all benefits and services to which they may be entitled under laws administered by the Secretary; and
 
 &emsp;(B) may, to the extent feasible, distribute information on other governmental programs (including manpower and training programs) which the Secretary determines would be beneficial to veterans.
 
@@ -78,7 +78,7 @@ Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct 
 
 &emsp;“(B) services and benefits available to such veterans with respect to such health risks.
 
-“(2) The Secretary of Veterans Affairs shall annually furnish updated information on health risks described in paragraph (1)(A) to veterans referred to in paragraph (1).
+“(2) The Secretary of Veterans Affairs shall annually furnish updated information on health risks describedin paragraph (1)(A) to veterans referred to in paragraph (1).
 
 “(b)
 

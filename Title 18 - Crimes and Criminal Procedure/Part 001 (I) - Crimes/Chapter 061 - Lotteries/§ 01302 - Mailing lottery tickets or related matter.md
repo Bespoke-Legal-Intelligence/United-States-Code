@@ -28,9 +28,9 @@ Minor changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
 
-1961—Pub. L. 87–218 inserted sixth par., relating to articles described in section 1953 of this title.
+<b>1961</b>—Pub. L. 87–218 inserted sixth par., relating to articles described in section 1953 of this title.
 
-1951—Act Oct. 31, 1951, substituted a colon for a semicolon at end of opening clause.
+<b>1951</b>—Act Oct. 31, 1951, substituted a colon for a semicolon at end of opening clause.
 

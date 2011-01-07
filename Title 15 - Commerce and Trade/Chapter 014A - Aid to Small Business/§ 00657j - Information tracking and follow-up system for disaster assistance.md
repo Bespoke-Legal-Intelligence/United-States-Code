@@ -2,7 +2,7 @@
 
 #### (a) System required
 
-The Administrator shall develop, implement, or maintain a centralized information system totrack communications between personnel of the Administration and applicants for disaster assistance. The system shall ensure that whenever an applicant for disaster assistance communicates with such personnel on a matter relating to the application, the following information is recorded:
+The Administrator shall develop, implement, or maintain a centralized information system to track communications between personnel of the Administration and applicants for disaster assistance. The system shall ensure that whenever an applicant for disaster assistance communicates with such personnel on a matter relating to the application, the following information is recorded:
 
 &emsp;(1) The method of communication.
 

@@ -16,7 +16,7 @@ This Act, referred to in text, is act May 27, 1937, ch. 269, as amended generall
 
 #### Amendments
 
-1943—Act Mar. 10, 1943, amended section generally.
+<b>1943</b>—Act Mar. 10, 1943, amended section generally.
 
 #### Short Title
 

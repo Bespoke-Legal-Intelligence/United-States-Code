@@ -64,7 +64,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §2207(1), inserted “including necessary maintenance activities,” after “values,”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §2207(1), inserted “including necessary maintenance activities,” after “values,”.
 
 Subsec. (c). Pub. L. 110–246, §2207(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In determining the acceptability of easement offers, the Secretary may take into consideration—
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 110–246, §2207(2), added subsec. (c) and struck out form
 
 &emsp;“(3) the on-farm and off-farm environmental threats if the land is used for the production of agricultural commodities.”
 
-1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making cost share payments under subsection (a)(1) of this section, the Secretary shall pay the owner an amount that is not less than 50 percent but not more than 75 percent of eligible costs with respect to an easement which is not permanent, and not less than 75 percent but not more than 100 percent of eligible costs with respect to a permanent easement.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making cost share payments under subsection (a)(1) of this section, the Secretary shall pay the owner an amount that is not less than 50 percent but not more than 75 percent of eligible costs with respect to an easement which is not permanent, and not less than 75 percent but not more than 100 percent of eligible costs with respect to a permanent easement.”
 
 #### Effective Date of 2008 Amendment
 
@@ -82,7 +82,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effect of 1996 Amendments on Existing Agreements
 
-Amendments made by section 333 of Pub. L. 104–127 not to affect validity or terms of agreements enteredinto by Secretary of Agriculture under this subpart before Apr. 4, 1996, or payments required to be made in connection with such agreements, see section 333(f) of Pub. L. 104–127, set out as a note under section 3837 of this title.
+Amendments made by section 333 of Pub. L. 104–127 not to affect validity or terms of agreements entered into by Secretary of Agriculture under this subpart before Apr. 4, 1996, or payments required to be made in connection with such agreements, see section 333(f) of Pub. L. 104–127, set out as a note under section 3837 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,5 +22,5 @@ A person shall not be considered to be a Federal employee by reason of any servi
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–384 substituted “171” for “17”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–384 substituted “171” for “17”.
 

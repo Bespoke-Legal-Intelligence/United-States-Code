@@ -20,23 +20,27 @@ Not more than $86,500 of the funds derived from charges for administrative servi
 
 (Pub. L. 90–629, ch. 4, §43, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 94–329, title II, §214, June 30, 1976, 90 Stat. 746; Pub. L. 95–92, §7(d), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–92, §19(b), Oct. 29, 1979, 93 Stat. 709; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 99–83, title I, §120, Aug. 8, 1985, 99 Stat. 204; Pub. L. 101–165, title IX, §9104(b)(1), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 107–228, div. B, title XII, §1203, Sept. 30, 2002, 116 Stat. 1427.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–228 substituted “$86,500” for “$72,500”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 substituted “$86,500” for “$72,500”.
 
-1989—Subsec. (b)(3). Pub. L. 101–165 added par. (3).
+<b>1989</b>—Subsec. (b)(3). Pub. L. 101–165 added par. (3).
 
-1985—Subsec. (b). Pub. L. 99–83, §120(1), inserted “and official reception and representation expenses”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83, §120(1), inserted “and official reception and representation expenses”.
 
 Subsec. (c). Pub. L. 99–83, §120(2), added subsec. (c).
 
-1981—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which required a Presidential report to Congress no later than Jan. 15 of each year containing analysis and description of Federal personnel arms export control services performed previous fiscal year. See section 2765(a)(6) of this title.
+<b>1981</b>—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which required a Presidential report to Congress no later than Jan. 15 of each year containing analysis and description of Federal personnel arms export control services performed previous fiscal year. See section 2765(a)(6) of this title.
 
-1979—Subsec. (c). Pub. L. 96–92 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 96–92 added subsec. (c).
 
-1977—Subsec. (b). Pub. L. 95–92 substituted provisions relating to criteria for recovery of charges for administrative expenses calculated under section 2761(e)(1)(A) of this title, for provisions relating to reimbursement from amounts received for sales under sections 2761 and 2762 of this title of administrative expenses incurred by a United States government department or agency in carrying out functions under this chapter for the benefit of any foreign country.
+<b>1977</b>—Subsec. (b). Pub. L. 95–92 substituted provisions relating to criteria for recovery of charges for administrative expenses calculated under section 2761(e)(1)(A) of this title, for provisions relating to reimbursement from amounts received for sales under sections 2761 and 2762 of this title of administrative expenses incurred by a United States government department or agency in carrying out functions under this chapter for the benefit of any foreign country.
 
-1976—Pub. L. 94–329 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–329 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1985 Amendment
 

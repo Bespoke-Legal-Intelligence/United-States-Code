@@ -16,7 +16,7 @@
 
 (d) An employee against whom an action is taken under this section is entitled to appeal to the Merit Systems Protection Board under section 7701 of this title.
 
-(e) Copies of the notice of proposed action, the answer of the employee when written, and a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnishedto the Merit Systems Protection Board upon its request and to the employee affected upon the employee's request.
+(e) Copies of the notice of proposed action, the answer of the employee when written, and a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee's request.
 
 (Added Pub. L. 95–454, title IV, §411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, §1704(d)(2), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §304(c), Nov. 8, 1984, 98 Stat. 3219.)
 

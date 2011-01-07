@@ -102,7 +102,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (3) Grants
 
-&emsp;The Secretary may make competitive or noncompetitive grants, for grant periods not to exceed 5 years, to public secondary schools, institutions of higher education that award an associate's degree, other institutions of higher education, and nonprofit organizations, that the Secretary determines have made a commitment to teaching agriscience and agribusiness—
+&emsp;The Secretary may make competitive or noncompetitive grants, for grant periods not to exceed 5 years, to public secondary schools,institutions of higher education that award an associate's degree, other institutions of higher education, and nonprofit organizations, that the Secretary determines have made a commitment to teaching agriscience and agribusiness—
 
 &emsp;&emsp;(A) to enhance curricula in agricultural education;
 
@@ -124,7 +124,7 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (<i>l</i>) Report
 
-The Secretary shall submit to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
+The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 
 #### (m) Authorization of appropriations
 

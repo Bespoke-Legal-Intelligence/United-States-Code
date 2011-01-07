@@ -6,7 +6,7 @@ A decision by the Secretary denying any application for a <sup>1</sup> obsolete
 
 #### Amendments
 
-1984—Pub. L. 98–623 substituted “obsolete ship” for “Liberty ship”.
+<b>1984</b>—Pub. L. 98–623 substituted “obsolete ship” for “Liberty ship”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

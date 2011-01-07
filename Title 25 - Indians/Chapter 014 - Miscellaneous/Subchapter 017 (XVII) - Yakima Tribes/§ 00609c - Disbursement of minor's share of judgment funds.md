@@ -42,5 +42,5 @@ The United States Court of Claims, referred to in subsec. (b), and the United St
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–435 substituted “Confederated Tribes and Bands of the Yakama Indian Nation” for “Confederated Tribes and Bands of the Yakima Indian Nation”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–435 substituted “Confederated Tribes and Bands of the Yakama Indian Nation” for “Confederated Tribes and Bands of the Yakima Indian Nation”.
 

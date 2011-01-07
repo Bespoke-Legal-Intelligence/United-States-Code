@@ -48,7 +48,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(7) expand the integration of timely and relevant research within the prevention, care, and treatment of HIV/AIDS;
 
-&emsp;(8) include a plan for program monitoring, operations research, and impact evaluation and for the dissemination of a best practices report to highlight findings;
+&emsp;(8) include a plan for program monitoring, operations research, and impact evaluationand for the dissemination of a best practices report to highlight findings;
 
 &emsp;(9) support the in-country or intra-regional training, preferably through public-private partnerships, of scientific investigators, managers, and other staff who are capable of promoting the systematic uptake of clinical research findings and other evidence-based interventions into routine practice, with the goal of improving the quality, effectiveness, and local leadership of HIV/AIDS health care;
 
@@ -160,7 +160,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(28) ensure coordination between the Global AIDS Coordinator and the Malaria Coordinator and address issues of comorbidity between HIV/AIDS and malaria; and
 
-&emsp;(29) include a longer term estimate of the projected resource needs, progress toward greater sustainability and country ownership of HIV/AIDS programs, and the anticipated role of the United States in the global effortto combat HIV/AIDS during the 10-year period beginning on October 1, 2013.
+&emsp;(29) include a longer term estimate of the projected resource needs, progress toward greater sustainability and country ownership of HIV/AIDS programs, and the anticipated role of the United States in the global effort to combat HIV/AIDS during the 10-year period beginning on October 1, 2013.
 
 #### (b) Report
 
@@ -212,7 +212,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(vi) optimize delivery of services.
 
-&emsp;&emsp;(K) An analysis of United States-assisted strategies to prevent the transmission of HIV/AIDS, including methodologies to promote abstinence, monogamy, faithfulness, the correct and consistent use of male and female condoms, reductions in concurrent sexual partners, and delay of sexual debut, and of intended monitoring and evaluation approaches to measure the effectiveness of prevention programs and ensure that they are targeted to appropriate audiences.
+&emsp;&emsp;(K) An analysis of United States-assisted strategies to prevent the transmission of HIV/AIDS, including methodologies to promote abstinence, monogamy, faithfulness, the correct and consistent use of male and female condoms, reductions in concurrent sexual partners, and delay of sexual debut, and of intended monitoring and evaluationapproaches to measure the effectiveness of prevention programs and ensure that they are targeted to appropriate audiences.
 
 &emsp;&emsp;(L) Within the analysis required under subparagraph (K), an examination of additional planned means of preventing the transmission of HIV including medical male circumcision, maintenance of a safe blood supply, public education about risks to acquire HIV infection from blood exposures, promotion of universal precautions, investigation of suspected nosocomial infections and other tools.
 
@@ -324,7 +324,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (3) Contract authority
 
-&emsp;The Institute of Medicine may enter into contracts or cooperative agreements or awardgrants to conduct the study under paragraph (2).
+&emsp;The Institute of Medicine may enter into contracts or cooperative agreements or award grants to conduct the study under paragraph (2).
 
 #### (4) Authorization of appropriations
 
@@ -444,7 +444,7 @@ This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B)
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–293, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
 
 Subsec. (b). Pub. L. 110–293, §101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
 

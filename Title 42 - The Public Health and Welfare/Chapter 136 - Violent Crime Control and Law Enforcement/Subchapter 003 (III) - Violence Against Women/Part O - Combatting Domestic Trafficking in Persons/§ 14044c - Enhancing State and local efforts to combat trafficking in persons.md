@@ -20,7 +20,7 @@
 
 #### (b) Multi-disciplinary approach required
 
-Grants under subsection (a) of this section may be made only for programs in which theState or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
+Grants under subsection (a) of this section may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
 
 #### (c) Limitation on Federal share
 
@@ -38,5 +38,5 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–457 substituted “$20,000,000 for each of the fiscal years 2008 through 2011” for “$25,000,000 for each of the fiscal years 2006 and 2007”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–457 substituted “$20,000,000 for each of the fiscal years 2008 through 2011” for “$25,000,000 for each of the fiscal years 2006 and 2007”.
 

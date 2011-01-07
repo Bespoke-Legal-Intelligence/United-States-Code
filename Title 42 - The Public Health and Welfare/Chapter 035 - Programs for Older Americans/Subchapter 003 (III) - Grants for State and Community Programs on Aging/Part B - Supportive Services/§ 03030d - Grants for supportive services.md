@@ -94,7 +94,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(12), is Pub. L.
 
 #### Amendments
 
-2006—Subsec. (a)(8). Pub. L. 109–365, §311(1), inserted “(including mental health screening)” after “provide health screening”.
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–365, §311(1), inserted “(including mental health screening)” after “provide health screening”.
 
 Subsec. (a)(11). Pub. L. 109–365, §311(2), substituted “provision of services and assistive devices (including provision of assistive technology services and assistive technology devices)” for “services”.
 
@@ -104,7 +104,7 @@ Subsec. (a)(21). Pub. L. 109–365, §311(4), substituted “students” for “
 
 Subsec. (a)(23) to (25). Pub. L. 109–365, §311(5)–(7), added pars. (23) and (24) and redesignated former par. (23) as (25).
 
-2000—Subsec. (a)(2). Pub. L. 106–501, §311(1)(A), substituted “and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals” for “or both”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–501, §311(1)(A), substituted “and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals” for “or both”.
 
 Subsec. (a)(4). Pub. L. 106–501, §311(1)(B), substituted “or (D) to assist older individuals in obtaining housing for which assistance is provided under programs of the Department of Housing and Urban Development;” for “or (D) to receive applications from older individuals for housing under section 1701q of title 12;”.
 
@@ -120,13 +120,13 @@ Subsec. (a)(23). Pub. L. 106–501, §311(1)(G), (H), redesignated par. (22) as 
 
 Subsecs. (c), (d). Pub. L. 106–501, §311(2), added subsecs. (c) and (d).
 
-1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” in introductory and concluding provisions and in par. (14).
+<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” in introductory and concluding provisions and in par. (14).
 
 Subsec. (a)(15). Pub. L. 103–171, §2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title” for “clause (16) of section 3027(a) of this title”, was executed by making the substitution for “paragraph (16) of section 3027(a) of this title” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, §904(a)(15)(C). See 1992 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 
-1992—Subsec. (a)(3). Pub. L. 102–375, §312(1), (2), inserted “(including information and assistance services)” after “and services” and “, including language translation services to assist older individuals with limited-English speaking ability to obtain services under this subchapter” before semicolon at end.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–375, §312(1), (2), inserted “(including information and assistance services)” after “and services” and “, including language translation services to assist older individuals with limited-English speaking ability to obtain services under this subchapter” before semicolon at end.
 
 Subsec. (a)(4)(C). Pub. L. 102–375, §904(a)(15)(A), substituted “residences of older” for “residences of elderly”.
 
@@ -154,7 +154,7 @@ Subsec. (a)(17). Pub. L. 102–375, §312(9), inserted before semicolon at end �
 
 Subsec. (a)(19) to (22). Pub. L. 102–375, §312(10)–(12), added pars. (19) to (21) and redesignated former par. (19) as (22).
 
-1987—Subsec. (a). Pub. L. 100–175, §146(b), inserted sentence at end defining “client assessment through case management” for purposes of par. (5).
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §146(b), inserted sentence at end defining “client assessment through case management” for purposes of par. (5).
 
 Subsec. (a)(1). Pub. L. 100–175, §136(d)(1), inserted “(including mental health)” after “health”.
 
@@ -162,7 +162,7 @@ Subsec. (a)(4)(B). Pub. L. 100–175, §136(d)(2), substituted “who have physi
 
 Subsec. (a)(10). Pub. L. 100–175, §182(m), inserted “for” after “advocate”.
 
-1984—Subsec. (a)(5). Pub. L. 98–459, §312(a)(1), in amending par. (5) generally, substituted “services designed to assist older individuals in avoiding institutionalization and to assist individuals in long-term care institutions who are able to return to their communities, including client assessment through case management and integration and coordination of community services such as” for “services designed to assist older individuals in avoiding institutionalization, including” and “and letter writing services, through resource development and management to assist such individuals to live” for “letter writing services, and other similar services designed to assist such individuals to continue living”.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–459, §312(a)(1), in amending par. (5) generally, substituted “services designed to assist older individuals in avoiding institutionalization and to assist individuals in long-term care institutions who are able to return to their communities, including client assessment through case management and integration and coordination of community services such as” for “services designed to assist older individuals in avoiding institutionalization, including” and “and letter writing services, through resource development and management to assist such individuals to live” for “letter writing services, and other similar services designed to assist such individuals to continue living”.
 
 Subsec. (a)(6). Pub. L. 98–459, §312(a)(2), substituted “legal assistance” for “legal services” and “, financial counseling, and counseling regarding appropriate health and life insurance coverage” for “and financial counseling”.
 
@@ -174,7 +174,7 @@ Subsec. (b)(1). Pub. L. 98–459, §312(b)(1), struck out provision that senior 
 
 Subsec. (b)(2). Pub. L. 98–459, §312(b)(2), struck out the comma after “may be used” and substituted “centers and meeting” for “centers, to meet”.
 
-1981—Subsec. (a). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in provisions preceding par. (1).
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in provisions preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 97–115, §10(a), substituted “education and training” for “continuing education”.
 

@@ -1,6 +1,6 @@
 ### §6846. Legal authority under State law
 
-Nothing in this part shall be construed to negate or supersede State law, or the legal authority under State law of any State agency, State entity, or State public official, over programsthat are under the jurisdiction of the State agency, entity, or official.
+Nothing in this part shall be construed to negate or supersede State law, or the legal authority under State law of any State agency, State entity, or State public official, over programs that are under the jurisdiction of the State agency, entity, or official.
 
 (Pub. L. 89–10, title III, §3126, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1705.)
 

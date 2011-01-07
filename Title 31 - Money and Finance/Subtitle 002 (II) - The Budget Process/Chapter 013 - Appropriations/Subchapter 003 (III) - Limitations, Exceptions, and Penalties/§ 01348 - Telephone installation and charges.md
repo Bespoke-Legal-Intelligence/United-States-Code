@@ -56,11 +56,11 @@ In subsection (c), the words “On and after September 22, 1922 the provisions o
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–201, §1721(1), struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–201, §1721(1), struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
 
 Subsecs. (b) to (d). Pub. L. 104–201, §1721(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.”
 
-1984—Subsec. (d). Pub. L. 98–407 added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–407 added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 

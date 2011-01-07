@@ -52,7 +52,7 @@ From funds available under subsection (c) for national grants, the Secretary sha
 
 #### (1) Minimum allotment
 
-&emsp;No State shall be provided an amount under this subsection that is less than 1/2 of 1 percent of the amount provided under subsection (c) for public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
+&emsp;No State shall be provided an amount under this subsection that is less than ½ of 1 percent of the amount provided under subsection (c) for public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
 
 #### (2) Hold harmless
 
@@ -72,7 +72,7 @@ From the amount provided for grants to States under subsection (c), the Secretar
 
 #### (1) Minimum allotment
 
-&emsp;No State shall be provided an amount under this subsection that is less than 1/2 of 1 percent of the amount provided under subsection (c) for State grantees in all of the States.
+&emsp;No State shall be provided an amount under this subsection that is less than ½ of 1 percent of the amount provided under subsection (c) for State grantees in all of the States.
 
 #### (2) Hold harmless
 

@@ -6,7 +6,7 @@ Ownership of a copyright, or of any of the exclusive rights under a copyright, i
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The principle restated in section 202 is a fundamental and important one: that copyright ownership and ownership of a material object in which the copyrighted work is embodied are entirely separate things. Thus, transfer of a material object does not of itself carry any rights under the copyright, and this includes transfer of the copy or phonorecord—the original manuscript, the photographic negative, the unique painting or statue, the master tape recording, etc.—in which the work was first fixed. Conversely, transfer of a copyright does not necessarily require the conveyance of any material object.
 

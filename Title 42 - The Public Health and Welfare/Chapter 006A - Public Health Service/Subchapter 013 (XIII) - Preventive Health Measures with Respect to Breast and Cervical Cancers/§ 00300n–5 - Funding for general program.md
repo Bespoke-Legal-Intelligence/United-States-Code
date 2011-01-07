@@ -20,11 +20,11 @@ Section 300n–6, act July 1, 1944, ch. 373, title XV, §1537, as added Aug. 13,
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–18 struck out “and” after “$150,000,000 for fiscal year 1994,” and inserted before period at end “, $225,000,000 for fiscal year 2008, $245,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $255,000,000 for fiscal year 2011, and $275,000,000 for fiscal year 2012”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–18 struck out “and” after “$150,000,000 for fiscal year 1994,” and inserted before period at end “, $225,000,000 for fiscal year 2008, $245,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $255,000,000 for fiscal year 2011, and $275,000,000 for fiscal year 2012”.
 
-1998—Subsec. (a). Pub. L. 105–340 substituted “2003” for “1998”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–340 substituted “2003” for “1998”.
 
-1993—Pub. L. 103–183, §102(b), inserted “for general program” after “Funding” in section catchline.
+<b>1993</b>—Pub. L. 103–183, §102(b), inserted “for general program” after “Funding” in section catchline.
 
 Subsec. (a). Pub. L. 103–183, §103, struck out “and” after “1991,” and inserted before period at end “, $150,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998”.
 

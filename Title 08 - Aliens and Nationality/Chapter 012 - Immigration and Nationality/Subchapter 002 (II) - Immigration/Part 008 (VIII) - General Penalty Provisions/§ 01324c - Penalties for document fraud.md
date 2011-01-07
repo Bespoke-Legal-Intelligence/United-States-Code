@@ -6,7 +6,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(1) to forge, counterfeit, alter, or falsely make any document for the purpose of satisfying a requirement of this chapter or to obtain a benefit under this chapter,
 
-&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made documentin order to satisfy any requirement of this chapter or to obtain a benefit under this chapter,
+&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of this chapter or to obtain a benefit under this chapter,
 
 &emsp;(3) to use or attempt to use or to provide or attempt to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of satisfying a requirement of this chapter or obtaining a benefit under this chapter,
 
@@ -64,7 +64,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (4) Administrative appellate review
 
-&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unlesseither (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shall become the final agency decision and order under this subsection.
+&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shall become the final agency decision and order under this subsection.
 
 #### (5) Judicial review
 
@@ -89,6 +89,10 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 For purposes of this section, the term “falsely make” means to prepare or provide an application or document, with knowledge or in reckless disregard of the fact that the application or document contains a false, fictitious, or fraudulent statement or material representation, or has no basis in law or fact, or otherwise fails to state a fact which is material to the purpose for which it was submitted.
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274C, as added Pub. L. 101–649, title V, §544(a), Nov. 29, 1990, 104 Stat. 5059; amended Pub. L. 102–232, title III, §306(c)(5)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(r), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title II, §§212(a)–(d), 213, 220, title III, §§308(g)(10)(D), 379(a), Sept. 30, 1996, 110 Stat. 3009–570, 3009–571, 3009–575, 3009–625, 3009–649.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (e)(2), was in the original, “this Act”, meaning act June 27, 1952,ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -126,7 +130,7 @@ Subsec. (f). Pub. L. 104–208, §212(b), added subsec. (f).
 
 Section 212(e) of div. C of Pub. L. 104–208 provided that: “Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Amendment by section 308(g)(10)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(10)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 379(a) of Pub. L. 104–208 applicable to orders issued on or after Sept. 30, 1996, see section 379(b) of Pub. L. 104–208, set out as a note under section 1324a of this title.
 

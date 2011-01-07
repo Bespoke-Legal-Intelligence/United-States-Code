@@ -42,11 +42,11 @@ Another prior section 1202 of act July 1, 1944, was classified to section 300d�
 
 #### Amendments
 
-2007—Pub. L. 110–23, §4, amended section generally. Prior to amendment, section provided for establishment of programs for improving trauma care in rural areas.
+<b>2007</b>—Pub. L. 110–23, §4, amended section generally. Prior to amendment, section provided for establishment of programs for improving trauma care in rural areas.
 
-1998—Pub. L. 105–392, §401(a)(1), made technical corrections to directory language of Pub. L. 103–183, §601(b)(2), which renumbered this section, and to directory language of Pub. L. 103–183, §601(f)(1). See 1993 Amendment note below.
+<b>1998</b>—Pub. L. 105–392, §401(a)(1), made technical corrections to directory language of Pub. L. 103–183, §601(b)(2), which renumbered this section, and to directory language of Pub. L. 103–183, §601(f)(1). See 1993 Amendment note below.
 
-1993—Subsec. (c). Pub. L. 103–183, §601(f)(1), as amended by Pub. L. 105–392, §401(a)(1)(B), inserted “determines to be necessary to carry out this section” before period at end.
+<b>1993</b>—Subsec. (c). Pub. L. 103–183, §601(f)(1), as amended by Pub. L. 105–392, §401(a)(1)(B), inserted “determines to be necessary to carry out this section” before period at end.
 
 #### Effective Date of 1998 Amendment
 

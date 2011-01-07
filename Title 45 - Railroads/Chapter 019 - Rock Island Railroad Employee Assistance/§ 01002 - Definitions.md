@@ -22,7 +22,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-1980—Par. (5). Pub. L. 96–448 inserted “, the estate of such Company in its reorganization proceeding, or the trustee appointed in such proceeding” after “Railroad Company”. The amendment was executed by inserting amendatory text preceding the semicolon instead of the period at end of par. (5) as directed to reflect the probable intent of Congress, in view of par. (5) being enacted without a closing period.
+<b>1980</b>—Par. (5). Pub. L. 96–448 inserted “, the estate of such Company in its reorganization proceeding, or the trustee appointed in such proceeding” after “Railroad Company”. The amendment was executed by inserting amendatory text preceding the semicolon instead of the period at end of par. (5) as directed to reflect the probable intent of Congress, in view of par. (5) being enacted without a closing period.
 
 #### Effective Date of 1980 Amendment
 

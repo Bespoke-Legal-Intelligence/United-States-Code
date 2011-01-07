@@ -16,5 +16,5 @@ Section 3305 of this title, referred to in subsec. (a), was omitted from the Cod
 
 #### Amendments
 
-1968—Subsec. (b). Pub. L. 90–448 permitted any amounts authorized for any fiscal year but not appropriated to be appropriated for any succeeding fiscal year commencing prior to July 1, 1970.
+<b>1968</b>—Subsec. (b). Pub. L. 90–448 permitted any amounts authorized for any fiscal year but not appropriated to be appropriated for any succeeding fiscal year commencing prior to July 1, 1970.
 

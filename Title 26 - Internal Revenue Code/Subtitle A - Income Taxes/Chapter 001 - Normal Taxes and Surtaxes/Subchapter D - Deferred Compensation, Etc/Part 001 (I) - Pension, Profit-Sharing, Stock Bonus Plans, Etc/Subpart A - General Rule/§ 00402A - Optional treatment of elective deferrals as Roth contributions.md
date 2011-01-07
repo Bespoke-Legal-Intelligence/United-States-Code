@@ -58,6 +58,32 @@ For purposes of this section—
 
 &emsp;&emsp;Any rollover contribution to a designated Roth account under subparagraph (A) shall not be taken into account for purposes of paragraph (1).
 
+#### (4) Taxable rollovers to designated Roth accounts
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding sections 402(c), 403(b)(8), and 457(e)(16), in the case of any distribution to which this paragraph applies—
+
+&emsp;&emsp;&emsp;(i) there shall be included in gross income any amount which would be includible were it not part of a qualified rollover contribution,
+
+&emsp;&emsp;&emsp;(ii) section 72(t) shall not apply, and
+
+&emsp;&emsp;&emsp;(iii) unless the taxpayer elects not to have this clause apply, any amount required to be included in gross income for any taxable year beginning in 2010 by reason of this paragraph shall be so included ratably over the 2-taxable-year period beginning with the first taxable year beginning in 2011.
+
+> &emsp;&emsp;Any election under clause (iii) for any distributions during a taxable year may not be changed after the due date for such taxable year.
+
+#### (B) Distributions to which paragraph applies
+
+&emsp;&emsp;In the case of an applicable retirement plan which includes a qualified Roth contribution program, this paragraph shall apply to a distribution from such plan other than from a designated Roth account which is contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to the designated Roth account maintained under such plan for the benefit of the individual to whom the distribution is made.
+
+#### (C) Coordination with limit
+
+&emsp;&emsp;Any distribution to which this paragraph applies shall not be taken into account for purposes of paragraph (1).
+
+#### (D) Other rules
+
+&emsp;&emsp;The rules of subparagraphs (D), (E), and (F) of section 408A(d)(3) (as in effect for taxable years beginning after 2009) shall apply for purposes of this paragraph.
+
 #### (d) Distribution rules
 
 For purposes of this title—
@@ -96,7 +122,7 @@ For purposes of this title—
 
 #### (4) Aggregation rules
 
-&emsp;Section 72 shall be applied separately with respect to distributions and payments from a designated Roth account and other distributions and payments from the plan.
+&emsp;Section 72 shall be applied separately with respect to distributions and payments from adesignated Roth account and other distributions and payments from the plan.
 
 #### (e) Other definitions
 
@@ -106,15 +132,35 @@ For purposes of this section—
 
 &emsp;The term “applicable retirement plan” means—
 
-&emsp;&emsp;(A) an employees’ trust described in section 401(a) which is exempt from tax under section 501(a), and
+&emsp;&emsp;(A) an employees’ trust described in section 401(a) which is exempt from tax under section 501(a),
 
-&emsp;&emsp;(B) a plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b).
+&emsp;&emsp;(B) a plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b), and
+
+&emsp;&emsp;(C) an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
 #### (2) Elective deferral
 
-&emsp;The term “elective deferral” means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).
+&emsp;The term “elective deferral” means—
 
-(Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103.)
+&emsp;&emsp;(A) any elective deferral described in subparagraph (A) or (C) of section 402(g)(3), and
+
+&emsp;&emsp;(B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
+
+(Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(4). Pub. L. 111–240, §2112(a), added par. (4).
+
+Subsec. (e)(1)(C). Pub. L. 111–240, §2111(a), added subpar. (C).
+
+Subsec. (e)(2). Pub. L. 111–240, §2111(b), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘elective deferral’ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2111(c), Sept. 27, 2010, 124 Stat. 2566, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
+
+Pub. L. 111–240, title II, §2112(b), Sept. 27, 2010, 124 Stat. 2566, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Sept. 27, 2010\].”
 
 #### Effective Date
 

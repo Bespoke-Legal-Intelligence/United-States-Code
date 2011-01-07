@@ -10,7 +10,7 @@ The objective of the Program is the achievement of major measurable reductions i
 
 #### (c) Interagency Working Group
 
-Not later than 90 days after October 25, 2004, the Director shall establish an InteragencyWorking Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination. Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
+Not later than 90 days after October 25, 2004, the Director shall establish an Interagency Working Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination. Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
 
 &emsp;(1) The National Institute of Standards and Technology shall support research and development to improve building codes and standards and practices for design and construction of buildings, structures, and lifelines.
 
@@ -48,7 +48,7 @@ Not later than 90 days after October 25, 2004, the Director shall establish an I
 
 &emsp;&emsp;(B) development of cost-effective and affordable windstorm-resistant systems, structures, and materials for use in new construction and retrofit of existing construction; and
 
-&emsp;&emsp;(C) outreach and information dissemination related to cost-effective and affordable construction techniques, loss estimation and risk assessment methodologies, and other pertinent information regarding windstorm phenomena to Federal, State, and local officials, the construction industry, and the general public.
+&emsp;&emsp;(C) outreach and information dissemination related to cost-effective and affordableconstruction techniques, loss estimation and risk assessment methodologies, and other pertinent information regarding windstorm phenomena to Federal, State, and local officials, the construction industry, and the general public.
 
 #### (e) Implementation plan
 

@@ -4,6 +4,10 @@ The Director shall adopt appropriate administrative measures to assure that the 
 
 (Pub. L. 93–113, title IV, §414, Oct. 1, 1973, 87 Stat. 411.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
 #### Rural Program Report
 
 Section 16 of Pub. L. 96–143 provided that not later than Feb. 1, 1980, the Director of the ACTION Agency was to submit to appropriate committees of Congress a report specifying special needs and circumstances to be addressed in designing programs under Domestic Volunteer Service Act of 1973 \[this chapter\] for implementation in rural areas, such report to include a detailed statement of manner in which Director intended to address such needs and circumstances, together with a timetable for designing and implementing such programs.

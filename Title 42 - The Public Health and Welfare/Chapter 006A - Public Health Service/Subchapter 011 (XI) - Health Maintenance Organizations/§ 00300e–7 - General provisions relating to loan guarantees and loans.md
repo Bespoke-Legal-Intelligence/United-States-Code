@@ -44,13 +44,13 @@
 
 #### (e) Loan fund
 
-There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in suchamounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
+There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
 
 #### (f) Actions to protect interest of United States in event of default
 
 The Secretary may take such action as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this subchapter, including taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
-(July 1, 1944, ch. 373, title XIII, §1308, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 927; amended Pub. L. 94–460, title I, §109(b)(2), (c), Oct. 8, 1976, 90 Stat. 1950; Pub. L. 95–559, §4(c), Nov. 1, 1978, 92 Stat. 2132; Pub. L. 97–35, title IX, §945, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–660, title VIII, §807, Nov. 14, 1986, 100 Stat. 3800.)
+(July 1, 1944, ch. 373, title XIII, §1308, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 927; amended Pub. L. 94–460, title I, §109(b)(2), (c), Oct. 8, 1976, 90 Stat. 1950; Pub. L. 95–559, §4(c), Nov. 1, 1978, 92 Stat. 2132; Pub. L. 97–35, title IX, §945, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–514, §2,Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–660, title VIII, §807, Nov. 14, 1986, 100 Stat. 3800.)
 
 #### Codification
 
@@ -58,19 +58,19 @@ In subsec. (d)(2), “chapter 31 of title 31” and “that chapter” substitut
 
 #### Amendments
 
-1986—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (d)(2). Pub. L. 99–660 inserted “before October 1, 1986,” after “guarantees issued by him”.
 
-1981—Subsec. (b)(2). Pub. L. 97–35 inserted provisions relating to changes in the rate of interest by the Secretary, and in cl. (D) made changes in nomenclature.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–35 inserted provisions relating to changes in the rate of interest by the Secretary, and in cl. (D) made changes in nomenclature.
 
-1978—Subsec. (d). Pub. L. 95–559, §4(c)(2)(A), in pars. (1) and (2) inserted “and to take the action authorized by subsection (f) of this section” after “by him under this subchapter”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–559, §4(c)(2)(A), in pars. (1) and (2) inserted “and to take the action authorized by subsection (f) of this section” after “by him under this subchapter”.
 
 Subsec. (e). Pub. L. 95–559, §4(c)(2)(B), inserted “and to take the action authorized by subsection (f) of this section” after “loans under this subchapter”.
 
 Subsec. (f). Pub. L. 95–559, §4(c)(1), added subsec. (f).
 
-1976—Subsec. (a)(1)(A). Pub. L. 94–460, §109(c)(1), substituted “for loans with similar maturities, terms, conditions, and security” for “for similar loans”.
+<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–460, §109(c)(1), substituted “for loans with similar maturities, terms, conditions, and security” for “for similar loans”.
 
 Subsec. (b)(2)(D). Pub. L. 94–460, §109(c)(2), substituted “marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges” for “loans guaranteed under this subchapter”.
 

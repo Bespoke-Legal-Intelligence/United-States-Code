@@ -2,7 +2,7 @@
 
 #### (a) Protection, preservation, maintenance, and operation; obligation of general fund of Treasury
 
-In order to carry out the purpose of this subchapter, the Secretary of the Interior may contract and make cooperative agreements with the States of Idaho, Oregon, Washington, Montana, Wyoming, their political subdivisions or agencies, corporation, associations, the Nez Perce Tribe, or individuals, to protect, preserve, maintain, or operate any site, object, or property included within the Nez Perce National Historical Park, regardless of whether title thereto is in the United States: <i>Provided</i>, That no contract or cooperative agreement shall be made or entered into which will obligate the general fund of the Treasury unless or until Congress has appropriated money for such purpose.
+In order to carry out the purpose of this subchapter, the Secretary of the Interior may contract and make cooperative agreements with the States of Idaho, Oregon, Washington, Montana, Wyoming, their political subdivisions or agencies, corporations, associations, the Nez Perce Tribe, or individuals, to protect, preserve, maintain, or operate any site, object, or property included within the Nez Perce National Historical Park, regardless of whether title thereto is in the United States: <i>Provided</i>, That no contract or cooperative agreement shall be made or entered into which will obligate the general fund of theTreasury unless or until Congress has appropriated money for such purpose.
 
 #### (b) Erection and maintenance of tablets and markers
 
@@ -16,7 +16,7 @@ The Secretary shall consult with officials of the Nez Perce Tribe on the interpr
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–576, §2(5), substituted “States of Idaho, Oregon, Washington, Montana, Wyoming, their” for “State of Idaho, its”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–576, §2(5), substituted “States of Idaho, Oregon, Washington, Montana, Wyoming, their” for “State of Idaho, its”.
 
 Subsec. (c). Pub. L. 102–576, §2(6), added subsec. (c).
 

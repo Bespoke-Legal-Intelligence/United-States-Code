@@ -20,7 +20,7 @@ Small farm extension programs shall consist of extension programs to improve sma
 
 #### (e) Special grants programs
 
-Special grants programs shall consist of extension and research programs to strengthen research and education on national and regional issues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; todevelop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
+Special grants programs shall consist of extension and research programs to strengthen research and education on national and regional issues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; to develop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
 
 #### (f), (g) Repealed. Pub. L. 104–127, title VII, §792(a), title VIII, §871, Apr. 4, 1996, 110 Stat. 1152, 1175
 
@@ -110,7 +110,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### (B) Farm safety education
 
-&emsp;&emsp;The Secretary may make grants for the establishment of farm safety education programs that shall provide information andtraining to farm workers, timber harvesters, and farm families concerning safety in the work place, including information and training concerning—
+&emsp;&emsp;The Secretary may make grants for the establishment of farm safety education programs that shall provide information and training to farm workers, timber harvesters, and farm families concerning safety in the work place, including information and training concerning—
 
 &emsp;&emsp;&emsp;(i) the reduction of occupational injury and death rates;
 
@@ -264,7 +264,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### Effect of Amendments on Current Grant Recipients
 
-Section 2389(d) of Pub. L. 101–624 provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amountwas to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
+Section 2389(d) of Pub. L. 101–624 provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
 
 #### Rural Health Infrastructure Improvement
 

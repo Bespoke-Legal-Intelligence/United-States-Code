@@ -14,7 +14,7 @@ The terms “district” and “judicial district” means the districts enumera
 
 The term “department” means one of the executive departments enumerated in section 1 of Title 5, unless the context shows that such term was intended to describe the executive, legislative, or judicial branches of the government.
 
-The term “agency” includes any department, independent establishment, commission, administration, authority, board or bureau of the United States or any corporation in which the United States has a proprietary interest, unless the context shows that such term was intended to be used in a more limited sense.
+The term “agency” includes any department, independent establishment, commission, administration, authority, board or bureau of the United States or any corporation in which theUnited States has a proprietary interest, unless the context shows that such term was intended to be used in a more limited sense.
 
 (June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 86–3, §10, Mar. 18, 1959, 73 Stat. 9; Pub. L. 89–571, §3, Sept. 12, 1966, 80 Stat. 764; Pub. L. 95–598, title II, §213, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–417, title V, §501(10), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §114, Apr. 2, 1982, 96 Stat. 29.)
 
@@ -34,15 +34,15 @@ Section 1 of Title 5, referred to in text, is section 1 of former Title 5, Execu
 
 #### Amendments
 
-1982—Pub. L. 97–164 struck out references to the Court of Claims and to the Court of Customs and Patent Appeals in the definitions of “court of the United States” and “judge of the United States”.
+<b>1982</b>—Pub. L. 97–164 struck out references to the Court of Claims and to the Court of Customs and Patent Appeals in the definitions of “court of the United States” and “judge of the United States”.
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1966—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
+<b>1966</b>—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
 
-1959—Pub. L. 86–3 substituted “including the United States District for the District of Puerto Rico” for “including the district courts of the United States for the districts of Hawaii and Puerto Rico” in provisions defining “court of the United States”.
+<b>1959</b>—Pub. L. 86–3 substituted “including the United States District for the District of Puerto Rico” for “including the district courts of the United States for the districts of Hawaii and Puerto Rico” in provisions defining “court of the United States”.
 
 #### Effective Date of 1982 Amendment
 

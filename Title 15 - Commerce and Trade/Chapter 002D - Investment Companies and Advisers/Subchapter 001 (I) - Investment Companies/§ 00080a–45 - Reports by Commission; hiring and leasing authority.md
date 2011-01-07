@@ -18,9 +18,9 @@ Subsection (a), which required the Securities and Exchange Commission to submit 
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–550 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to appointment and compensation of employees.
+<b>1990</b>—Subsec. (b). Pub. L. 101–550 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to appointment and compensation of employees.
 
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

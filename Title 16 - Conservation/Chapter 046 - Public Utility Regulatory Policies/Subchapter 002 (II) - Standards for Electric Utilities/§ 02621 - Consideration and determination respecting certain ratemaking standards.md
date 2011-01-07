@@ -80,7 +80,7 @@ The following Federal standards are hereby established:
 
 #### (10) Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies
 
-&emsp;(A) To the extent that a State regulatory authority requires or allows electric utilitiesfor which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
+&emsp;(A) To the extent that a State regulatory authority requires or allows electric utilities for which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
 
 &emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
 
@@ -124,7 +124,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(iv) credits for consumers with large loads who enter into pre-established peak load reduction agreements that reduce a utility's planned capacity obligations.
 
-&emsp;(C) Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based metercapable of enabling the utility and customer to offer and receive such rate, respectively.
+&emsp;(C) Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based meter capable of enabling the utility and customer to offer and receive such rate, respectively.
 
 &emsp;(D) For purposes of implementing this paragraph, any reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005.
 
@@ -168,7 +168,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;&emsp;(v) allowing timely recovery of energy efficiency-related costs; and
 
-&emsp;&emsp;&emsp;(vi) offering home energy audits, offering demand response programs, publicizing the financial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
+&emsp;&emsp;&emsp;(vi) offering home energy audits, offering demand response programs, publicizing thefinancial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
 
 #### (18) Consideration of smart grid investments
 
@@ -240,19 +240,19 @@ Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repeale
 
 #### Amendments
 
-2009—Subsec. (d)(16) to (19). Pub. L. 111–5 redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
+<b>2009</b>—Subsec. (d)(16) to (19). Pub. L. 111–5 redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
 
-2007—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
+<b>2007</b>—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
 
 Pub. L. 110–140, §532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
 
-2005—Subsec. (d)(11) to (13). Pub. L. 109–58, §1251(a), added pars. (11) to (13).
+<b>2005</b>—Subsec. (d)(11) to (13). Pub. L. 109–58, §1251(a), added pars. (11) to (13).
 
 Subsec. (d)(14). Pub. L. 109–58, §1252(a), added par. (14).
 
 Subsec. (d)(15). Pub. L. 109–58, §1254(a), added par. (15).
 
-1992—Subsec. (c)(3). Pub. L. 102–486, §111(b), added par. (3).
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–486, §111(b), added par. (3).
 
 Subsec. (d)(7) to (9). Pub. L. 102–486, §111(a), added pars. (7) to (9).
 

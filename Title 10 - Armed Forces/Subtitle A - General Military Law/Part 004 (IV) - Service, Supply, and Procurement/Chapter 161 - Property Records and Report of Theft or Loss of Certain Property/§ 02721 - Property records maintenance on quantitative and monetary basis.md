@@ -42,11 +42,11 @@ In subsection (b), the words “on property records maintained under this sectio
 
 #### Amendments
 
-1991—Pub. L. 102–190, §1061(a)(17)(A), substituted section catchline for one which read “Basis: reports”.
+<b>1991</b>—Pub. L. 102–190, §1061(a)(17)(A), substituted section catchline for one which read “Basis: reports”.
 
 Pub. L. 102–190, §347(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
-1990—Pub. L. 101–510 struck out “(a)” before “Under regulations” and struck out subsec. (b) which read as follows: “The Secretary shall report once a year to Congress and the President on property records maintained under this section.”
+<b>1990</b>—Pub. L. 101–510 struck out “(a)” before “Under regulations” and struck out subsec. (b) which read as follows: “The Secretary shall report once a year to Congress and the President on property records maintained under this section.”
 
 #### Implementation of 1991 Amendment
 

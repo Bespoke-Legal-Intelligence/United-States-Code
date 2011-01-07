@@ -160,11 +160,11 @@ Another prior section 3842, Pub. L. 99–198, title XII, §1242, Dec. 23, 1985, 
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2706, amended section generally. Prior to amendment, section related to: in subsec. (a), provision of technical assistance to an eligible producer directly or through an approved third party; and, in subsec. (b), establishment of a system to certify third-party providers, transition provisions for persons that had provided assistance before May 13, 2002, and cooperative agreements or contracts with non-Federal entities.
+<b>2008</b>—Pub. L. 110–246, §2706, amended section generally. Prior to amendment, section related to: in subsec. (a), provision of technical assistance to an eligible producer directly or through an approved third party; and, in subsec. (b), establishment of a system to certify third-party providers, transition provisions for persons that had provided assistance before May 13, 2002, and cooperative agreements or contracts with non-Federal entities.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “third-party”.</i>
 

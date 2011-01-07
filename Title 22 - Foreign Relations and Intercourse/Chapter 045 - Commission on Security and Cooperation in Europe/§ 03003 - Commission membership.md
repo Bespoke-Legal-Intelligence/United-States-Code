@@ -30,7 +30,7 @@ At the beginning of each odd-numbered Congress, the Speaker of the House of Repr
 
 #### Amendments
 
-1985—Subsecs. (a), (b). Pub. L. 99–7, §1(a), in amending section generally, designated existing provisions as subsec. (a) and added subsec. (b). Prior to amendment, section read as follows: “The Commission shall be composed of fifteen members as follows:
+<b>1985</b>—Subsecs. (a), (b). Pub. L. 99–7, §1(a), in amending section generally, designated existing provisions as subsec. (a) and added subsec. (b). Prior to amendment, section read as follows: “The Commission shall be composed of fifteen members as follows:
 
 &emsp;“(1) Six Members of the House of Representatives appointed by the Speaker of the House of Representatives. Four members shall be selected from the majority party and two shall be selected, after consultation with the minority leader of the House, from the minority party. The Speaker shall designate one of the House Members as chairman.
 

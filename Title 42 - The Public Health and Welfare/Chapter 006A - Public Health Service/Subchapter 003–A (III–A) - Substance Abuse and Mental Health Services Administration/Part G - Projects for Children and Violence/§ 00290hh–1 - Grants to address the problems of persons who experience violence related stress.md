@@ -36,7 +36,7 @@ Another section 582 of act July 1, 1944, is classified to section 290kk–1 of t
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–188 substituted “2003 through 2006” for “2002 and 2003”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–188 substituted “2003 through 2006” for “2002 and 2003”.
 
 Subsec. (g). Pub. L. 107–116 added subsec. (g).
 

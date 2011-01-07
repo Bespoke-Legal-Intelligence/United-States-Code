@@ -62,13 +62,13 @@ Agreements made pursuant to this section may not be construed to prohibit any gr
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §305, reenacted heading without change and amended text generally, substituting provisions relating to counseling of individuals after testing for HIV/AIDS, appropriateness of conditions, counseling of emergency response employees, and counseling without testing, for provisions relating to counseling of individuals before and after testing, appropriateness of conditions, counseling of emergency response employees, and counseling without testing.
 
-2000—Subsec. (c)(3). Pub. L. 106–345, §321(1), in introductory provisions struck out “on” after “counseling”.
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–345, §321(1), in introductory provisions struck out “on” after “counseling”.
 
 Subsec. (c)(3)(A), (B). Pub. L. 106–345, §321(2), inserted “on” before “the availability”.
 
@@ -78,5 +78,5 @@ Subsec. (c)(3)(D). Pub. L. 106–345, §321(2), inserted “on” before “the 
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

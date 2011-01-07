@@ -2,7 +2,7 @@
 
 #### (a) Written disclosure requirements imposed upon recruiters
 
-(1) Each farm labor contractor, agricultural employer, and agricultural association which recruits any seasonal agricultural worker (other than day-haul workers described in section 1802(10)(A)(ii) of this title) shall ascertain and, upon request, disclose in writing the followinginformation when an offer of employment is made to such worker:
+(1) Each farm labor contractor, agricultural employer, and agricultural association which recruits any seasonal agricultural worker (other than day-haul workers described in section 1802(10)(A)(ii) of this title) shall ascertain and, upon request, disclose in writing the following information when an offer of employment is made to such worker:
 
 &emsp;(A) the place of employment;
 
@@ -64,7 +64,7 @@ The information required to be disclosed by subsections (a) and (b) of this sect
 
 #### Amendments
 
-1995—Subsec. (a)(1). Pub. L. 104–49 added subpar. (H) and concluding provisions.
+<b>1995</b>—Subsec. (a)(1). Pub. L. 104–49 added subpar. (H) and concluding provisions.
 
 #### Effective Date of 1995 Amendment
 

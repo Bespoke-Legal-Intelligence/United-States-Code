@@ -38,9 +38,9 @@ The Food for Peace Act, referred to in subsec. (d)(4), is act July 10, 1954, ch.
 
 #### Amendments
 
-2008—Subsec. (d)(4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (d)(4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1981—Subsec. (c)(2). Pub. L. 97–113 repealed par. (2) which required a Presidential report to Congress no later than 90 days after Nov. 13, 1979, on provision of Cambodian Disaster Relief Assistance.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–113 repealed par. (2) which required a Presidential report to Congress no later than 90 days after Nov. 13, 1979, on provision of Cambodian Disaster Relief Assistance.
 
 #### Effective Date of 2008 Amendment
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 

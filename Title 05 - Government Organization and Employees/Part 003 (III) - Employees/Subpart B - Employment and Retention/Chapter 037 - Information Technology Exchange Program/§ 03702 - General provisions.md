@@ -92,7 +92,7 @@ Duration.—An assignment under this section shall be for a period of not less t
 
 “(e)
 
-Terms and Conditions for Private Sector Employees.—An employee of a private sector organizationwho is assigned to a Department of Defense organization under this section—
+Terms and Conditions for Private Sector Employees.—An employee of a private sector organization who is assigned to a Department of Defense organization under this section—
 
 &emsp;“(1) may continue to receive pay and benefits from the private sector organization from which such employee is assigned;
 
@@ -110,7 +110,7 @@ Terms and Conditions for Private Sector Employees.—An employee of a private se
 
 &emsp;&emsp;“(F) section 1043 of the Internal Revenue Code of 1986 \[26 U.S.C. 1043\]; and
 
-&emsp;&emsp;“(G) section 27 of the Office of Federal Procurement Policy Act \[41 U.S.C. 423\]; and
+&emsp;&emsp;“(G) section 27 of the Office of Federal Procurement Policy Act \[now 41 U.S.C. 2101 et seq.\]; and
 
 &emsp;“(3) may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which such employee is assigned.
 

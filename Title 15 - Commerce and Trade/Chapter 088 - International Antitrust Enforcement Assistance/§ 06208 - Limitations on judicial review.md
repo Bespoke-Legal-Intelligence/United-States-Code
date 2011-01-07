@@ -12,7 +12,7 @@ Whether an antitrust mutual assistance agreement satisfies section 6211(2)(C) of
 
 #### (1) Administrative Procedure Act
 
-&emsp;The requirements in section 6206 of this title with respect to publication and request forpublic comment shall not be construed to create any availability of judicial review under chapter 7 of title 5.
+&emsp;The requirements in section 6206 of this title with respect to publication and request for public comment shall not be construed to create any availability of judicial review under chapter 7 of title 5.
 
 #### (2) Laws referenced in section 6204 of this title
 

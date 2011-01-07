@@ -15,17 +15,17 @@
 
 #### Amendments
 
-1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; provisional rights” after “patent” in item 154.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; provisional rights” after “patent” in item 154.
 
-1984—Pub. L. 98–622, title I, §102(b), Nov. 8, 1984, 98 Stat. 3384, added item 157.
+<b>1984</b>—Pub. L. 98–622, title I, §102(b), Nov. 8, 1984, 98 Stat. 3384, added item 157.
 
 Pub. L. 98–417, title II, §201(b), Sept. 24, 1984, 98 Stat. 1602, added item 156.
 
-1983—Pub. L. 98–127, §4(b), Oct. 13, 1983, 97 Stat. 833, added item 155A.
+<b>1983</b>—Pub. L. 98–127, §4(b), Oct. 13, 1983, 97 Stat. 833, added item 155A.
 
 Pub. L. 97–414, §11(b), Jan. 4, 1983, 96 Stat. 2066, added item 155.
 
-1965—Pub. L. 89–83, §6, July 24, 1965, 79 Stat. 261, substituted “Issue of patent” for “Time of issue of patent” in item 151.
+<b>1965</b>—Pub. L. 89–83, §6, July 24, 1965, 79 Stat. 261, substituted “Issue of patent” for “Time of issue of patent” in item 151.
 
 
 ---

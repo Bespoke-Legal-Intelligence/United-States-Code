@@ -56,7 +56,7 @@ A contract with a medicare administrative contractor under section 1395kk–1 of
 
 #### (k) Annual reporting requirement on erroneous payment recovery
 
-A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part shall require that such medicare administrative contractor submit an annual report to the Secretary describing the steps taken to recoverpayments made for items or services for which payment has been or could be made under a primary plan (as defined in section 1395y(b)(2)(A) of this title).
+A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part shall require that such medicare administrative contractor submit an annual report to the Secretary describing the steps taken to recover payments made for items or services for which payment has been or could be made under a primary plan (as defined in section 1395y(b)(2)(A) of this title).
 
 #### (<i>l</i>) Repealed. Pub. L. 108–173, title IX, §911(b)(7), Dec. 8, 2003, 117 Stat. 2383
 
@@ -64,9 +64,9 @@ A contract with a medicare administrative contractor under section 1395kk–1 of
 
 #### Amendments
 
-2006—Subsec. (c)(3)(B)(ii). Pub. L. 109–171 substituted “28 days” for “26 days”.
+<b>2006</b>—Subsec. (c)(3)(B)(ii). Pub. L. 109–171 substituted “28 days” for “26 days”.
 
-2003—Pub. L. 108–173, §911(b)(1), substituted “Provisions relating to the administration of part A” for “Use of public or private agencies or organizations to facilitate payment to providers of services” in section catchline.
+<b>2003</b>—Pub. L. 108–173, §911(b)(1), substituted “Provisions relating to the administration of part A” for “Use of public or private agencies or organizations to facilitate payment to providers of services” in section catchline.
 
 Subsec. (a). Pub. L. 108–173, §911(b)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized Secretary to enter into agreements with agencies or organizations to determine and pay amounts under this part.
 
@@ -90,17 +90,17 @@ Subsec. (k). Pub. L. 108–173, §911(b)(6), substituted “A contract with a me
 
 Subsec. (<i>l</i>). Pub. L. 108–173, §911(b)(7), struck out subsec. (<i>l</i>), which prohibited any activity pursuant to an agreement under this section that is carried out pursuant to a contract under the Medicare Integrity Program.
 
-1997—Subsec. (c)(2)(C). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
+<b>1997</b>—Subsec. (c)(2)(C). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
 
-1996—Subsec. (<i>l</i>). Pub. L. 104–191 added subsec. (<i>l</i>).
+<b>1996</b>—Subsec. (<i>l</i>). Pub. L. 104–191 added subsec. (<i>l</i>).
 
-1994—Subsec. (f)(1)(A). Pub. L. 103–432, §151(b)(2)(A), inserted “(including the agency's or organization's success in recovering payments made under this subchapter for services for which payment has been or could be made under a primary plan (as defined in section 1395y(b)(2)(A) of this title))” after “processing”.
+<b>1994</b>—Subsec. (f)(1)(A). Pub. L. 103–432, §151(b)(2)(A), inserted “(including the agency's or organization's success in recovering payments made under this subchapter for services for which payment has been or could be made under a primary plan (as defined in section 1395y(b)(2)(A) of this title))” after “processing”.
 
 Subsec. (f)(2)(A)(ii). Pub. L. 103–432, §110(d)(2), substituted “such agency's” for “such agency”.
 
 Subsec. (k). Pub. L. 103–432, §151(b)(1)(A), added subsec. (k).
 
-1993—Subsec. (c)(2)(B)(ii)(IV), (V). Pub. L. 103–66, §13568(b), substituted “period ending on or before September 30, 1993” for “period” in subcl. (IV) and added subcl. (V).
+<b>1993</b>—Subsec. (c)(2)(B)(ii)(IV), (V). Pub. L. 103–66, §13568(b), substituted “period ending on or before September 30, 1993” for “period” in subcl. (IV) and added subcl. (V).
 
 Subsec. (c)(3)(B). Pub. L. 103–66, §13568(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
@@ -108,19 +108,19 @@ Subsec. (c)(3)(B). Pub. L. 103–66, §13568(a), added cls. (i) and (ii) and str
 
 “(ii) with respect to claims received in the 12-month period beginning October 1, 1988, 14 days.”
 
-1990—Subsec. (f). Pub. L. 101–508 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, struck out “Such standards and criteria” and all that follows, which was executed by striking out “Such standards and criteria shall be published in the Federal Register, and opportunity shall be provided for public comment prior to implementation. Such standards and criteria shall include with respect to claims for services furnished under this part by any provider of services other than a hospital whether such agency or organization is able to process 75 percent of reconsiderations within 60 days (except in the case of the fiscal year 1989, 66 percent of reconsiderations) and 90 percent of reconsiderations within 90 days and the extent to which its determinations are reversed on appeal.”, and added par. (2).
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, struck out “Such standards and criteria” and all that follows, which was executed by striking out “Such standards and criteria shall be published in the Federal Register, and opportunity shall be provided for public comment prior to implementation. Such standards and criteria shall include with respect to claims for services furnished under this part by any provider of services other than a hospital whether such agency or organization is able to process 75 percent of reconsiderations within 60 days (except in the case of the fiscal year 1989, 66 percent of reconsiderations) and 90 percent of reconsiderations within 90 days and the extent to which its determinations are reversed on appeal.”, and added par. (2).
 
-1989—Subsec. (c)(1). Pub. L. 101–239, §6202(d)(1), inserted at end “The Secretary may not require, as a condition of entering into or renewing an agreement under this section or under section 1395hh of this title, that a fiscal intermediary match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which the provisions of section 1395y(b) of this title may apply.”
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §6202(d)(1), inserted at end “The Secretary may not require, as a condition of entering into or renewing an agreement under this section or under section 1395hh of this title, that a fiscal intermediary match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which the provisions of section 1395y(b) of this title may apply.”
 
 Subsec. (c)(2)(C). Pub. L. 101–239, §6003(g)(3)(D)(vi), inserted “rural primary care hospital,” after “hospital,”.
 
 Subsec. (k). Pub. L. 101–234 repealed Pub. L. 100–360, §203(f), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (j)(2). Pub. L. 100–360, §411(e)(1)(B), inserted “in the case of a request for reconsideration ofa denial,” and substituted “the disposition” for “disposition”.
+<b>1988</b>—Subsec. (j)(2). Pub. L. 100–360, §411(e)(1)(B), inserted “in the case of a request for reconsideration of a denial,” and substituted “the disposition” for “disposition”.
 
 Subsec. (k). Pub. L. 100–360, §203(f), added subsec. (k) relating to use of regional intermediaries in administration of benefits.
 
-1987—Subsec. (c)(1). Pub. L. 100–203, §4035(a)(1), inserted at end “The Secretary shall cause to have published in the Federal Register, by not later than September 1 before each fiscal year, data, standards, and methodology to be used to establish budgets for fiscal intermediaries under this section for that fiscal year, and shall cause to be published in the Federal Register for public comment, at least 90 days before such data, standards, and methodology are published, the data, standards, and methodology proposed to be used.”
+<b>1987</b>—Subsec. (c)(1). Pub. L. 100–203, §4035(a)(1), inserted at end “The Secretary shall cause to have published in the Federal Register, by not later than September 1 before each fiscal year, data, standards, and methodology to be used to establish budgets for fiscal intermediaries under this section for that fiscal year, and shall cause to be published in the Federal Register for public comment, at least 90 days before such data, standards, and methodology are published, the data, standards, and methodology proposed to be used.”
 
 Subsec. (c)(2)(C). Pub. L. 100–203, §4085(d)(1), substituted “hospice program, comprehensive outpatient rehabilitation facility, or rehabilitation agency” for “or hospice program”.
 
@@ -130,23 +130,23 @@ Subsec. (f). Pub. L. 100–203, §4023(b), inserted at end “Such standards and
 
 Subsec. (j). Pub. L. 100–203, §4032(a), added subsec. (j).
 
-1986—Subsec. (a). Pub. L. 99–509, §9352(a)(2), inserted at end “As used in this subchapter and part B of subchapter XI of this chapter, the term ‘fiscal intermediary’ means an agency or organization with a contract under this section.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9352(a)(2), inserted at end “As used in this subchapter and part B of subchapter XI of this chapter, the term ‘fiscal intermediary’ means an agency or organization with a contract under this section.”
 
 Subsec. (c). Pub. L. 99–509, §9311(b), designated existing provisions as par. (1) and added par. (2).
 
-1984—Subsec. (c). Pub. L. 98–369, §2326(d)(1), inserted provision that the Secretary, in determining the necessary and proper cost of administration with respect to each agreement, take into account the amount that is reasonable and adequate to meet the costs which must be incurred by an efficiently and economically operated agency or organization in carrying out the terms of its agreement.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §2326(d)(1), inserted provision that the Secretary, in determining the necessary and proper cost of administration with respect to each agreement, take into account the amount that is reasonable and adequate to meet the costs which must be incurred by an efficiently and economically operated agency or organization in carrying out the terms of its agreement.
 
 Subsec. (e)(4). Pub. L. 98–369, §2326(b), inserted provision that not later than July 1, 1987, the Secretary limit the number of regional agencies or organizations to not more than ten.
 
-Subsec. (f). Pub. L. 98–369, §2326(c)(1), struck out in cl. (2) “, by regulation,” after “Secretary shall establish” and inserted provision that the standards and criteria be published in the Federal Register and an opportunity be provided for public comment prior to implementation.
+Subsec. (f). Pub. L. 98–369, §2326(c)(1), struck out in cl. (2) “, by regulation,” after “Secretary shall establish”and inserted provision that the standards and criteria be published in the Federal Register and an opportunity be provided for public comment prior to implementation.
 
-1982—Subsec. (e)(5). Pub. L. 97–248 added par. (5).
+<b>1982</b>—Subsec. (e)(5). Pub. L. 97–248 added par. (5).
 
-1980—Subsec. (e)(2). Pub. L. 96–499, §930(<i>o</i>)(1), inserted “(subject to the provisions of paragraph (4))”.
+<b>1980</b>—Subsec. (e)(2). Pub. L. 96–499, §930(<i>o</i>)(1), inserted “(subject to the provisions of paragraph (4))”.
 
 Subsec. (e)(4). Pub. L. 96–499, §930(<i>o</i>)(2), added par. (4).
 
-1977—Subsec. (a). Pub. L. 95–142, §14(a)(1), inserted provisions relating to applicability to providers assigned to the agency or organization under subsec. (e) of this section.
+<b>1977</b>—Subsec. (a). Pub. L. 95–142, §14(a)(1), inserted provisions relating to applicability to providers assigned to the agency or organization under subsec. (e) of this section.
 
 Subsec. (b). Pub. L. 95–142, §14(a)(2), substituted provisions setting forth criteria for agreements by the Secretary or renewal of such agreements with agencies or organizations, for provisions setting forth criteria for agreements by the Secretary with agencies or organizations.
 
@@ -156,7 +156,7 @@ Subsec. (g). Pub. L. 95–142, §14(a)(3), (4), redesignated former subsec. (e) 
 
 Subsecs. (h), (i). Pub. L. 95–142, §14(a)(4), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
-1972—Subsec. (a). Pub. L. 92–603 inserted reference to provisions of section 1395<i>oo</i> of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603 inserted reference to provisions of section 1395<i>oo</i> of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -226,7 +226,7 @@ Section 2326(d)(3) of Pub. L. 98–369 provided that: “The amendments made by 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -262,7 +262,7 @@ Section 4032(c)(2) provided that: “The Secretary of Health and Human Services 
 
 #### Replacement of Agency, Organization, or Carrier Processing Medicare Claims; Number of Agreements and Contracts Authorized for Fiscal Years 1985 Through 1993
 
-Section 2326(a) of Pub. L. 98–369, as amended by Pub. L. 98–617, §3(a)(2), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–509, title IX, §9321(b), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 101–239, title VI, §6215(a), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §159(a), Oct. 31, 1994, 108 Stat. 4443, provided that: “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[section 1395u of this title\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing anagency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary's cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
+Section 2326(a) of Pub. L. 98–369, as amended by Pub. L. 98–617, §3(a)(2), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–509, title IX, §9321(b), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 101–239, title VI, §6215(a), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §159(a), Oct. 31, 1994, 108 Stat. 4443, provided that: “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[section 1395u of this title\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary's cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
 
 \[Section 159(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending section 2326(a) of Pub. L. 98–369, set out above\] shall apply beginning with fiscal year 1994.”\]
 

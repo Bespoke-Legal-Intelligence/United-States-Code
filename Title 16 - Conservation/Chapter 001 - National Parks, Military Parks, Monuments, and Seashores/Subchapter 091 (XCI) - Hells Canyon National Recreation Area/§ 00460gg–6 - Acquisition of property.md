@@ -34,7 +34,3 @@ Notwithstanding any other provision of law, any Federal property located within 
 
 (Pub. L. 94–199, §9, Dec. 31, 1975, 89 Stat. 1120.)
 
-#### References in Text
-
-The United States mining laws, referred to in subsec. (g), are classified generally to Title 30, Mineral Lands and Mining.
-

@@ -8,7 +8,7 @@
 
 #### (2) Conduct of programs
 
-&emsp;Programs supported under this section may be conducted through grants and contracts with public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
+&emsp;Programs supported under this section may be conducted through grants and contractswith public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
 
 #### (3) Required activities
 
@@ -42,7 +42,109 @@ Provisions similar to this section were contained in section 1721 of this title 
 
 #### Amendments
 
-2006—Subsec. (b)(2)(B). Pub. L. 109–233 substituted “chapter 63” for “subchapter II of chapter 77”.
+<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–233 substituted “chapter 63” for “subchapter II of chapter 77”.
+
+#### Veterans Energy-Related Employment Program
+
+Pub. L. 111–275, title I, §106, Oct. 13, 2010, 124 Stat. 2870, provided that:
+
+“(a)
+
+Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the ‘Veterans Energy-Related Employment Program’. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a ‘State Energy-Related Employment Program’.
+
+“(b)
+
+Eligibility for Grants.—To be eligible to receive a grant under the pilot program, a State shall submit to the Secretary an application that includes each of the following:
+
+&emsp;“(1) A proposal for the expenditure of grant funds to establish and administer a public-private partnership program designed to provide covered training, on-job training, apprenticeships, and certification classes to a significant number of eligible veterans and ensure lasting and sustainable employment in well-paying jobs in the energy industry.
+
+&emsp;“(2) Evidence that the State has—
+
+&emsp;&emsp;“(A) a population of eligible veterans of an appropriate size to carry out the State program;
+
+&emsp;&emsp;“(B) a robust and diverse energy industry; and
+
+&emsp;&emsp;“(C) the ability to carry out the State program described in the proposal under paragraph (1).
+
+&emsp;“(3) Such other information and assurances as the Secretary may require.
+
+“(c)
+
+Use of Funds.—A State that is the recipient of a grant under this section shall use the grant for the following purposes:
+
+&emsp;“(1) Making grants to energy employers to reimburse such employers for the cost of providing covered training, on-job training, apprenticeships, and certification classes to eligible veterans who are first hired by the employer on or after November 1, 2010.
+
+&emsp;“(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program.
+
+“(d)
+
+Conditions.—Under the pilot program, each grant to a State shall be subject to the following conditions:
+
+&emsp;“(1) The State shall repay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the pilot program that is not used for the purposes described in subsection (c).
+
+&emsp;“(2) The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds.
+
+“(e)
+
+Employer Requirements.—In order to receive a grant made by a State under the pilot program, an energy employer shall—
+
+&emsp;“(1) submit to the administrator of the State Energy-Related Employment Program an application that includes—
+
+&emsp;&emsp;“(A) the rate of pay, during and after training, for each eligible veteran proposed to be trained using grant funds;
+
+&emsp;&emsp;“(B) the average rate of pay for an individual employed by the energy employer in a similar position who is not an eligible veteran; and
+
+&emsp;&emsp;“(C) such other information and assurances as the administrator may require; and
+
+&emsp;“(2) agree to submit to the administrator, for each quarter, a report containing such information as the Secretary may specify.
+
+“(f)
+
+Limitation.—None of the funds made available to an energy employer through a grant under the pilot program may be used to provide training of any kind to—
+
+&emsp;“(1) a person who is not an eligible veteran; or
+
+&emsp;“(2) an eligible veteran for whom the employer has received a grant, credit, or subsidy under any other provision of law.
+
+“(g)
+
+Report to Congress.—Together with the report required to be submitted annually under section 4107(c) of title 38, United States Code, the Secretary shall submit to Congress a report on the pilot program for the year covered by such report. The report on the pilot program shall include a detailed description of activities carried out under this section and an evaluation of the program.
+
+“(h)
+
+Administrative and Reporting Costs.—Of the amounts appropriated pursuant to the authorization of appropriations under subsection (j), two percent shall be made available to the Secretary for administrative costs associated with implementing and evaluating the pilot program under this section and for preparing and submitting the report required under subsection (f). The Secretary shall determine the appropriate maximum amount of each grant awarded under this section that may be used by the recipient for administrative and reporting costs.
+
+“(i)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1) The term ‘covered training, on-job training, apprenticeships, and certification classes’ means training, on-job training, apprenticeships, and certification classes that are—
+
+&emsp;&emsp;“(A) designed to provide the veteran with skills that are particular to an energy industry and not directly transferable to employment in another industry; and
+
+&emsp;&emsp;“(B) approved as provided in paragraph (1) or (2), as appropriate, of subsection (a) of section 3687 of title 38, United States Code.
+
+&emsp;“(2) The term ‘eligible veteran’ means a veteran, as that term is defined in section 101(2) of title 38, United States Code, who is employed by an energy employer and enrolled or participating in a covered training, on-job training, apprenticeship, or certification class.
+
+&emsp;“(3) The term ‘energy employer’ means an entity that employs individuals in a trade or business in an energy industry.
+
+&emsp;“(4) The term ‘energy industry’ means any of the following industries:
+
+&emsp;&emsp;“(A) The energy-efficient building, construction, or retrofits industry.
+
+&emsp;&emsp;“(B) The renewable electric power industry, including the wind and solar energy industries.
+
+&emsp;&emsp;“(C) The biofuels industry.
+
+&emsp;&emsp;“(D) The energy efficiency assessment industry that serves the residential, commercial, or industrial sectors.
+
+&emsp;&emsp;“(E) The oil and natural gas industry.
+
+&emsp;&emsp;“(F) The nuclear industry.
+
+“(j)
+
+Appropriations.—There is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2012 through 2014, for the purpose of carrying out the pilot program under this section.”
 
 #### Coordination of Information and Assistance
 
@@ -88,7 +190,7 @@ Covered Services and Benefits.—This section applies with respect to the follow
 
 &emsp;“(2) Employment and training activities for dislocated workers under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
-&emsp;“(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the TradeAct of 1974 (29 \[19\] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor.
+&emsp;“(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the Trade Act of 1974 (29 \[19\] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor.
 
 &emsp;“(4) Educational assistance under—
 
@@ -104,7 +206,7 @@ Definition.—In this section, the term ‘veteran’ has the meaning given such
 
 #### Veterans’ Job Training Act
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22,1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 #### “short title
 
@@ -176,7 +278,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “employer job training programs
 
-“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in agrowth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply.
+“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in a growth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply.
 
 “(2) A program of job training providing training for a period of at least three but less than six months may be approved if the Administrator determines (in accordance with standards which the Administrator shall prescribe) that the purpose of this Act would be met through that program.
 
@@ -304,13 +406,13 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “inspection of records; investigations
 
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistancehas been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 
 “(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
 
-“(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
+“(d) The Administrator may administer functions under subsections (b) and (c) in accordance with anagreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
 
 #### “coordination with other programs
 

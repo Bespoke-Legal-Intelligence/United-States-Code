@@ -24,11 +24,11 @@ The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 19
 
 The Central Intelligence Agency Retirement Act, referred to in subsec. (c), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
-The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (c), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of Title 5, Government Organization and Employees, and section 6103 of Title 26, and amended provisions set outas a note under section 8331 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of Title 5 and Tables.
+The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (c), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of Title 5, Government Organization and Employees, and section 6103 of Title 26, and amended provisions set out as a note under section 8331 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of Title 5 and Tables.
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–178 substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–178 substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

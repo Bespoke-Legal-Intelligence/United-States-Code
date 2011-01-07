@@ -404,9 +404,9 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 The date of enactment of this clause, referred to in subsec. (a)(12)(C)(iii), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -414,19 +414,19 @@ A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, P
 
 #### Amendments
 
-2009—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after “For purposes of this paragraph”, designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted “The term” for “the term”, added cls. (ii) and (iii), and struck out former last sentence which read as follows: “For purposes of the 1st sentence of this subparagraph, the term ‘manufacturing facility’ includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after “For purposes of this paragraph”, designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted “The term” for “the term”, added cls. (ii) and (iii), and struck out former last sentence which read as follows: “For purposes of the 1st sentence of this subparagraph, the term ‘manufacturing facility’ includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
 
 &emsp;“(i) such facilities are located on the same site as the manufacturing facility, and
 
 &emsp;“(ii) not more than 25 percent of the net proceeds of the issue are used to provide such facilities.”
 
-2006—Subsec. (a)(4)(F), (G). Pub. L. 109–222 substituted “December 31, 2006” for “September 30, 2009”.
+<b>2006</b>—Subsec. (a)(4)(F), (G). Pub. L. 109–222 substituted “December 31, 2006” for “September 30, 2009”.
 
-2004—Subsec. (a)(4)(F). Pub. L. 108–357, §340(b), inserted at end “This subparagraph shall not apply to bonds issued after September 30, 2009.”
+<b>2004</b>—Subsec. (a)(4)(F). Pub. L. 108–357, §340(b), inserted at end “This subparagraph shall not apply to bonds issued after September 30, 2009.”
 
 Subsec. (a)(4)(G). Pub. L. 108–357, §340(a), added subpar. (G).
 
-1993—Subsec. (a)(12)(B). Pub. L. 103–66 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
+<b>1993</b>—Subsec. (a)(12)(B). Pub. L. 103–66 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
 &emsp;“(i) any manufacturing facility, or
 
@@ -434,13 +434,13 @@ Subsec. (a)(4)(G). Pub. L. 108–357, §340(a), added subpar. (G).
 
 > subparagraph (A) shall be applied by substituting ‘June 30, 1992’ for ‘December 31, 1986’.”
 
-1991—Subsec. (a)(12)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (a)(12)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Subsec. (a)(12)(B). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
+<b>1990</b>—Subsec. (a)(12)(B). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
 
-1989—Subsec. (a)(12)(B). Pub. L. 101–239 substituted “by substituting ‘September 30, 1990’ for ‘December 31, 1986’ ” for “by substituting ‘1989’ for ‘1986’ ”.
+<b>1989</b>—Subsec. (a)(12)(B). Pub. L. 101–239 substituted “by substituting ‘September 30, 1990’ for ‘December 31, 1986’ ” for “by substituting ‘1989’ for ‘1986’ ”.
 
-1988—Subsec. (a)(12)(A). Pub. L. 100–647, §1013(a)(4)(B)(ii), inserted sentence at end that for purposes of cl. (ii)(I), average maturity be determined in accordance with section 147(b)(2)(A).
+<b>1988</b>—Subsec. (a)(12)(A). Pub. L. 100–647, §1013(a)(4)(B)(ii), inserted sentence at end that for purposes of cl. (ii)(I), average maturity be determined in accordance with section 147(b)(2)(A).
 
 Subsec. (a)(12)(A)(ii). Pub. L. 100–647, §1013(a)(4)(A), inserted “(or series of bonds)” before “issued to refund” in introductory text.
 
@@ -476,7 +476,7 @@ Section 6176(b) of Pub. L. 100–647 provided that:
 
 “(1)
 
-In general.—The amendment made by subsection (a) \[amending this section\] shall apply to bondsissued after the date of the enactment of this Act \[Nov. 10, 1988\].
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].
 
 “(2)
 

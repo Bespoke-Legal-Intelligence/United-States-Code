@@ -20,9 +20,9 @@ For definition of “this chapter”, referred to in subsec. (a), see References
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–620 struck out provision that the proceedings in such a case had to be made a preferred cause and had to be expedited in every way.
+<b>1984</b>—Subsec. (a). Pub. L. 98–620 struck out provision that the proceedings in such a case had to be made a preferred cause and had to be expedited in every way.
 
-1966—Subsec. (c). Pub. L. 89–779 added subsec. (c).
+<b>1966</b>—Subsec. (c). Pub. L. 89–779 added subsec. (c).
 
 #### Effective Date of 1984 Amendment
 

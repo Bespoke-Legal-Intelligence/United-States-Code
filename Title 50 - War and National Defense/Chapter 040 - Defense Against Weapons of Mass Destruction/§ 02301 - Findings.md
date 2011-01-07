@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) The former Soviet Union produced and maintained a vast array of nuclear, biological, and chemical weapons of mass destruction.
 
-&emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
+&emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, andtechnologies capable of producing additional quantities of weapons of mass destruction.
 
 &emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(17) Traditional arms control efforts assume large state efforts with detectable manufacturing programs and weapons production programs, but are ineffective in monitoring and controlling smaller, though potentially more dangerous, unconventional proliferation efforts.
 
-&emsp;(18) Conventional counterproliferation efforts would do little to detect or prevent therapid development of a capability to suddenly manufacture several hundred chemical or biological weapons with nothing but commercial supplies and equipment.
+&emsp;(18) Conventional counterproliferation efforts would do little to detect or prevent the rapid development of a capability to suddenly manufacture several hundred chemical or biological weapons with nothing but commercial supplies and equipment.
 
 &emsp;(19) The United States lacks adequate planning and countermeasures to address the threat of nuclear, radiological, biological, and chemical terrorism.
 
@@ -106,9 +106,9 @@ Expiration.—The authority to accept, retain, and use contributions under this 
 
 Pub. L. 109–163, div. A, title X, §1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, reestablished the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack (see below) with the same membership that the Commission had as of the date the Commission's report was submitted, provided that Commissioners could elect to terminate service, and defined “Commission charter”.
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack, to coordinate such work with the Department of Homeland Security, and to submit to Congress, not later than Nov. 30, 2008, a final report on the assessment, and provided that the Commission terminate 30 days after submission of the report.
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack, to coordinate such work with the Department of Homeland Security, and to submit to Congress, not later than Nov. 30, 2008, a final report on the assessment, and provided that the Commission terminate 30 days after submission of the report.
 
-\[Pub. L. 110–181, div. A, title X, §1075(a), Jan. 28, 2008, 122 Stat. 333, which directed amendment of section 1403(a) of Pub. L. 106–398, paraphrased above, by striking “June 30, 2007” and inserting “November 30, 2008”, was treated as substituting “November 30, 2008” for “September 30, 2007” to reflect the probable intent of Congress and the amendment by Pub.L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403.\]
+\[Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(8) to section 1075(a) of Pub. L. 110–181, amending Pub. L. 106–398, §1403(a), paraphrased above, is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.\]
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
@@ -192,7 +192,7 @@ Initial Meeting of the Panel.—The panel shall conduct its first meeting not la
 
 Reports.—(1) Not later than 6 months after the date of the first meeting of the panel, the panel shall submit to the President and to Congress an initial report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
 
-“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2003, the panel shall submit to the President and to the Congress a report settingforth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
+“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2003, the panel shall submit to the President and to the Congress a report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
 
 “(i)
 

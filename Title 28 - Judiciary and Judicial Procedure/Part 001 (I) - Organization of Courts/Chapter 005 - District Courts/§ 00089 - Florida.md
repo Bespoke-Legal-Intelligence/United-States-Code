@@ -38,21 +38,21 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–702, §1021(a)(1), added Collier, Glades, and Hendry to the counties comprising the Middle District.
+<b>1988</b>—Subsec. (b). Pub. L. 100–702, §1021(a)(1), added Collier, Glades, and Hendry to the counties comprising the Middle District.
 
 Subsec. (c). Pub. L. 100–702, §1021(a)(2), struck out Collier, Glades, and Hendry from the counties comprising the Southern District.
 
-1978—Subsec. (a). Pub. L. 95–408, §4(a)(1), added Madison to the counties comprising the Northern District.
+<b>1978</b>—Subsec. (a). Pub. L. 95–408, §4(a)(1), added Madison to the counties comprising the Northern District.
 
 Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties comprising the Middle District.
 
-1970—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale.
+<b>1970</b>—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale.
 
-1962—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
+<b>1962</b>—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, andVolusia from the Southern District and created the Middle District to comprise such counties.
 
-1961—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
+<b>1961</b>—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
 
-1952—Subsec. (b). Act July 17, 1952, provided for holding court at Fort Myers and West Palm Beach.
+<b>1952</b>—Subsec. (b). Act July 17, 1952, provided for holding court at Fort Myers and West Palm Beach.
 
 #### Effective Date of 1988 Amendment
 
@@ -62,7 +62,7 @@ Section 1021(b), (c) of title X of Pub. L. 100–702 provided that:
 
 Effective Date.—(1) The amendments made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].
 
-“(2) The amendments made by subsection (a) \[amending this section\] shall apply to any action commencedin the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title \[probably should be effective date of this section\], and shall not affect any action pending in either such court on such effective date.
+“(2) The amendments made by subsection (a) \[amending this section\] shall apply to any action commenced in the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title \[probably should be effective date of this section\], and shall not affect any action pending in either such court on such effective date.
 
 “(c)
 

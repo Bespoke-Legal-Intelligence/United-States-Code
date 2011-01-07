@@ -30,7 +30,7 @@
 
 &emsp;(2) who died before attaining age 60 and at the time of his death would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before December 1, 1994) but for the fact that he was under 60 years of age;
 
-> may, upon request, be given the medical and dental care prescribed by section 1077 of thistitle in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
+> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) maynot be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
 (c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
 
@@ -106,9 +106,9 @@ June 7, 1956, ch. 374, §§102(a)(2) (as applicable to §103(a)), (3) (as applic
 
 Appropriate references are made to dental care throughout the section to reflect the fact that in certain limited situations dependents are entitled to dental care under 37:403(h)(4), restated as section 1077 of this title.
 
-In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service” are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty fortraining pursuant to a call or order that does not specify a period of thirty days or less” to reflect section 101(22) and (23) of this title.
+In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service” are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less” to reflect section 101(22) and (23) of this title.
 
-In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of title 50” to reflect section 101(22) of this title. The words “retirement” and “retirement pay” are omitted as surplusage.
+In subsection (b), the words “active duty (other than for training)” are substituted for the words “activeduty as defined in section 901(b) of title 50” to reflect section 101(22) of this title. The words “retirement” and “retirement pay” are omitted as surplusage.
 
 In subsection (c), 37:421(c) (last 28 words) is omitted as unnecessary since this subsection and section 1077 of this title are written so as to apply to subsection (b) as well as subsection (a).
 
@@ -124,19 +124,19 @@ A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use 
 
 #### Amendments
 
-2001—Subsec. (a)(2)(C). Pub. L. 107–107 struck out “, if the site was outside reasonable commuting distance from the member's residence” before period at end.
+<b>2001</b>—Subsec. (a)(2)(C). Pub. L. 107–107 struck out “, if the site was outside reasonable commuting distance from the member's residence” before period at end.
 
-2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
-1999—Subsec. (a)(2)(D). Pub. L. 106–65, §705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member's orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
+<b>1999</b>—Subsec. (a)(2)(D). Pub. L. 106–65, §705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member's orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
 
 Subsec. (a)(2)(E). Pub. L. 106–65, §578(i)(2), added subpar. (E).
 
-1998—Subsec. (e)(1). Pub. L. 105–261, §732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–261, §732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
 Subsec. (e)(3). Pub. L. 105–261, §732(2), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
 
-1997—Subsec. (a)(2). Pub. L. 105–85, §513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–85, §513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
 
 &emsp;“(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
 
@@ -148,13 +148,13 @@ Subsec. (e)(3). Pub. L. 105–261, §732(2), inserted “and” at end of subpar
 
 Subsec. (b). Pub. L. 105–85, §1073(d)(1)(D), made technical correction to directory language of Pub. L. 104–106, §703(b). See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–106, §703(b), as amended by Pub. L. 105–85, §1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §703(b), as amended by Pub. L. 105–85, §1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
 
 Subsec. (b)(2). Pub. L. 104–106, §703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
 
 Pub. L. 104–106, §1501(c)(11), substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–337, §1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337, §1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
 
 Subsec. (e)(1). Pub. L. 103–337, §704(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (3), if—
 
@@ -170,7 +170,7 @@ Subsec. (e)(3). Pub. L. 103–337, §704(b)(1), (3), inserted “former” befor
 
 Subsec. (e)(4). Pub. L. 103–337, §704(a)(2), added par. (4).
 
-1989—Subsec. (e)(3)(C). Pub. L. 101–189, §653(a)(4), substituted “one year” for “1 year”.
+<b>1989</b>—Subsec. (e)(3)(C). Pub. L. 101–189, §653(a)(4), substituted “one year” for “1 year”.
 
 Subsec. (f). Pub. L. 101–189, §731(c)(1), struck out subsec. (f) which read as follows:
 
@@ -178,25 +178,25 @@ Subsec. (f). Pub. L. 101–189, §731(c)(1), struck out subsec. (f) which read a
 
 “(2) A person referred to in paragraph (1) is a person who would qualify as a dependent under section 1072(2)(G) but for the fact that the person's final decree of divorce, dissolution, or annulment is dated on or after April 1, 1985.
 
-“(3) In this subsection, the term ‘conversion health policy’ means a health insurance plan with a privateinsurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of persons described in paragraph (2).”
+“(3) In this subsection, the term ‘conversion health policy’ means a health insurance plan with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of persons described in paragraph (2).”
 
-1988—Subsec. (f). Pub. L. 100–456 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–456 added subsec. (f).
 
-1986—Subsec. (a)(2)(B). Pub. L. 99–661, §604(f)(1)(C), inserted reference to disease.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–661, §604(f)(1)(C), inserted reference to disease.
 
 Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
-1985—Subsec. (a). Pub. L. 99–145 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A dependent of a member of a uniformed service who is on active duty for a period of more than 30 days, or of such a member who died while on that duty, is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.”
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A dependent of a member of a uniformed service who is on active duty for a period of more than 30 days, or of such a member who died while on that duty, is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.”
 
-1984—Subsecs. (b), (d). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services.
+<b>1984</b>—Subsecs. (b), (d). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services.
 
-1982—Subsec. (b). Pub. L. 97–252 provided for medical and dental care, for a dependent described in section 1072(2)(F) of this title, pursuant to clause (2) without regard to subclause (B) of such clause.
+<b>1982</b>—Subsec. (b). Pub. L. 97–252 provided for medical and dental care, for a dependent described in section 1072(2)(F) of this title, pursuant to clause (2) without regard to subclause (B) of such clause.
 
-1980—Subsecs. (b), (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsecs. (b), (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
+<b>1978</b>—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
 
-1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
+<b>1966</b>—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
 
 #### Effective Date of 1997 Amendment
 

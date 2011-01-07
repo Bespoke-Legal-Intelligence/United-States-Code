@@ -20,9 +20,9 @@ The definitions in section 40102(a) of title 49 apply to this section.
 
 (2) A person violating a customs regulation prescribed under paragraph (1)(A)–(D) of this subsection or a public health or customs law or regulation made applicable to aircraft by a regulation under paragraph (1)(A)–(D) is liable to the Government for a civil penalty of $5,000 for each violation. An aircraft involved in the violation may be seized and forfeited under the customs laws. The Secretary of the Treasury may remit or mitigate a penalty and forfeiture under this paragraph.
 
-(3) A person violating a regulation made applicable under paragraph (1)(E) of this subsection or an immigration regulation prescribed under paragraph (1)(E) is liable to the Government for a civil penalty of $5,000 for each violation. The Secretary of the Treasury or the Attorney General may remit or mitigate a penalty under this paragraph.
+(3) A person violating a regulation made applicable under paragraph (1)(E) of this subsectionor an immigration regulation prescribed under paragraph (1)(E) is liable to the Government for a civil penalty of $5,000 for each violation. The Secretary of the Treasury or the Attorney General may remit or mitigate a penalty under this paragraph.
 
-(4) In addition to any other penalty, when a controlled substance described in section 1584 of this title is found on, or to have been unloaded from, an aircraft to which this subsection applies, the owner of, or individual commanding, the aircraft is liable to the Government for the penalties provided in section 1584 of this title for each violation unless the owner or individual, by a preponderance of the evidence, demonstratesthat the owner or individual did not know, and by exercising the highest degree of care and diligence, could not have known, that a controlled substance was on the aircraft.
+(4) In addition to any other penalty, when a controlled substance described in section 1584 of this title is found on, or to have been unloaded from, an aircraft to which this subsection applies, the owner of, or individual commanding, the aircraft is liable to the Government for the penalties provided in section 1584 of this title for each violation unless the owner or individual, by a preponderance of the evidence, demonstrates that the owner or individual did not know, and by exercising the highest degree of care and diligence, could not have known, that a controlled substance was on the aircraft.
 
 (5) If a violation under this subsection is by the owner or operator of, or individual commanding, the aircraft, the aircraft is subject to a lien for the penalty.
 
@@ -60,10 +60,6 @@ Necessary amounts may be appropriated to allow the head of a department, agency,
 
 (Pub. L. 103–272, §2, July 5, 1994, 108 Stat. 1358.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (b)(1)(D), (2), are classified generally to this title.
-
 #### Codification
 
 Section was not enacted as part of the Tariff Act of 1930 which comprises this chapter.
@@ -72,5 +68,5 @@ Section is based on sections 1474 and 1509(b)–(e) of former Title 49, Transpor
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

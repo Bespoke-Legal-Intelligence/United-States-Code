@@ -10,7 +10,7 @@ Eligibility.—(1) Except as provided in this chapter, eligibility for membershi
 
 &emsp;&emsp;(i) the United States Army, Navy, Marine Corps, or Revenue-Cutter Service; or
 
-&emsp;&emsp;(ii) a State regiment that was called into active service and was subject to orders ofUnited States general officers during that period; and
+&emsp;&emsp;(ii) a State regiment that was called into active service and was subject to orders of United States general officers during that period; and
 
 &emsp;(B) was honorably discharged from, or died in, that service.
 

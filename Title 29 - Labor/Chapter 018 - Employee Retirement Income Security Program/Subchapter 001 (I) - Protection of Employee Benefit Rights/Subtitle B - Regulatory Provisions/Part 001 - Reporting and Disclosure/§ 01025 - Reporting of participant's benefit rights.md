@@ -86,7 +86,7 @@ Each administrator required to register under section 6057 of title 26 shall, be
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280, §508(a)(1), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §508(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
 
 &emsp;“(1) the total benefits accrued, and
 
@@ -96,11 +96,11 @@ Subsec. (b). Pub. L. 109–280, §508(a)(2)(B), amended heading and text of subs
 
 Subsec. (d). Pub. L. 109–280, §508(a)(2)(A), struck out heading and text of subsec. (d). Text read as follows: “Subsection (a) of this section shall apply to a plan to which more than one unaffiliated employer is required to contribute only to the extent provided in regulations prescribed by the Secretary in coordination with the Secretary of the Treasury.”
 
-1989—Subsec. (b). Pub. L. 101–239, §7894(b)(5), substituted “12-month” for “12 month”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239, §7894(b)(5), substituted “12-month” for “12 month”.
 
 Subsec. (c). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (c). Pub. L. 98–397 inserted at end “Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.”
+<b>1984</b>—Subsec. (c). Pub. L. 98–397 inserted at end “Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.”
 
 #### Effective Date of 2006 Amendment
 
@@ -124,7 +124,7 @@ Special rule for collectively bargained agreements.—In the case of a plan main
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(b)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

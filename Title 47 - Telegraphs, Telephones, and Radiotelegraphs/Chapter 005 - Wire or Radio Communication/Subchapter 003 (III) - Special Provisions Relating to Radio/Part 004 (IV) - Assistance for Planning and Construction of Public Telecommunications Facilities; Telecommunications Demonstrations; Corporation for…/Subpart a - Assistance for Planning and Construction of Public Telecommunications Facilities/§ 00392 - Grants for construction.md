@@ -2,7 +2,7 @@
 
 #### (a) Applications for grants
 
-For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projectedcosts of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
+For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
 
 &emsp;(1) the applicant is (A) a public broadcast station; (B) a noncommercial telecommunications entity; (C) a system of public telecommunications entities; (D) a nonprofit foundation, corporation, institution, or association organized primarily for educational or cultural purposes; or (E) a State or local government (or any agency thereof), or a political or special purpose subdivision of a State;
 
@@ -44,7 +44,7 @@ If, within 10 years after completion of any project for construction of public t
 
 &emsp;(2) such facilities cease to be used primarily for the provision of public telecommunications services (or the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services interferes with the provision of such public telecommunications services as required in this part);
 
-> the United States shall be entitled to recover from the applicant or other owner of such facilities the amount bearing the same ratio to the value of such facilities at the time the applicant ceases to be such an entity or at the time of such determination (as determined by agreement of the parties or by action brought in the United States district court for the district in which such facilities are situated), as the amount of the Federal participation bore to the cost of construction of such facilities.
+> the United States shall be entitled to recover from the applicant or other owner of such facilities the amount bearing the same ratio to the value of such facilities at the time the applicant ceases to be such an entity or at the time of such determination (as determined by agreement of the parties or by action brought in the United States district court for the district inwhich such facilities are situated), as the amount of the Federal participation bore to the cost of construction of such facilities.
 
 #### (h) Recordkeeping requirements
 
@@ -58,17 +58,17 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### Amendments
 
-1981—Subsec. (a)(4). Pub. L. 97–35, §1223(a), inserted provisions relating to noninterference of facilities with services required under this part, and substituted “primarily” for “only”.
+<b>1981</b>—Subsec. (a)(4). Pub. L. 97–35, §1223(a), inserted provisions relating to noninterference of facilities with services required under this part, and substituted “primarily” for “only”.
 
 Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted “primarily” for “only”, and provisions relating to interference of uses of facilities for provisions relating to good cause for release of applicant or owner from requirements.
 
-1978—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking out provisions for an 81/2 percent limit on grants and criteria for awarding grants.
+<b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking out provisions for an 8½ percent limit on grants and criteria for awarding grants.
 
-1976—Subsec. (a)(1)(C). Pub. L. 94–309, §4(a), substituted “a public or private nonprofit college or university or other educational or cultural institution which is affiliated with an eligible college or university” for “a college or university deriving its support in whole or in part from tax revenues”.
+<b>1976</b>—Subsec. (a)(1)(C). Pub. L. 94–309, §4(a), substituted “a public or private nonprofit college or university or other educational or cultural institution which is affiliated with an eligible college or university” for “a college or university deriving its support in whole or in part from tax revenues”.
 
 Subsec. (d). Pub. L. 94–309, §4(b), substituted separate provisions relating to grant criteria for television and for radio in place of single provision that Secretary shall base his determinations of whether to approve applications for grants and the amount of grants on criteria set forth in regulations and designed to achieve, with respect to noncommercial educational television channels, prompt and effective use of all such channels remaining available and, with respect to noncommercial educational television and radio broadcasting facilities, equitable geographical distribution of such facilities throughout the States and provision of such facilities which will serve the greatest number of persons in as many areas as possible and which are adaptable to the broadest educational uses.
 
-1967—Subsec. (a). Pub. L. 90–129, §103(b)(1), inserted “noncommercial” and “or radio” in introductory text.
+<b>1967</b>—Subsec. (a). Pub. L. 90–129, §103(b)(1), inserted “noncommercial” and “or radio” in introductory text.
 
 Subsec. (a)(1)(B). Pub. L. 90–129, §103(b)(2), required the State educational television agency applicant for a television facilities project to be a noncommercial agency and inserted requirement that applicant for a radio facilities project be a State educational radio agency.
 
@@ -80,7 +80,7 @@ Subsec. (a)(2) to (4). Pub. L. 90–129, §103(b)(5), struck out “television�
 
 Subsec. (a)(5). Pub. L. 90–129, §103(b)(6), added par. (5).
 
-Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for construction of noncommercial educational television and radio broadcasting facilities in any State to 81/2 per centum of fiscal year appropriation for former $1,000,000 limitation for construction of educational television broadcasting facilities in any State.
+Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for construction of noncommercial educational television and radio broadcasting facilities in any State to 8½ per centum of fiscal year appropriation for former $1,000,000 limitation for construction of educational television broadcasting facilities in any State.
 
 Subsec. (c). Pub. L. 90–129, §103(c), designated existing provisions as par. (1), restricted such provisions to noncommercial educational television broadcasting facilities, and added par. (2).
 
@@ -104,7 +104,7 @@ Section 103(b) of Pub. L. 95–567 provided that:
 
 “(1) The provisions of section 392(g) of the Communications Act of 1934 \[subsec. (g) of this section\], as added by subsection (a), shall apply to any grant made under section 392 of such Act \[this section\] before, on, or after the date of the enactment of this Act \[Nov. 2, 1978\]. Any authority and responsibilities of the Secretary of Health, Education, and Welfare regarding the administration of such grants are hereby transferred to the Secretary of Commerce.
 
-“(2) Subject to the provisions of section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], the following are hereby transferred to the Secretary of Commerce for appropriate allocation—
+“(2) Subject to the provisions of section 202 of the Budget and Accounting Procedures Act of 1950 (31U.S.C. 581c) \[31 U.S.C. 1531\], the following are hereby transferred to the Secretary of Commerce for appropriate allocation—
 
 &emsp;“(A) the personnel employed in connection with or in support of, or as an integral part of the mission of, the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 

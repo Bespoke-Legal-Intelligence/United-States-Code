@@ -34,7 +34,7 @@ Each United States person who—
 
 #### (1) In general
 
-&emsp;If any United States person fails to furnish the information described in subsection (a) at the time and in the manner required by regulations, such person shall pay a penalty equal to 10 percent of the fair market value of the property at the time of the exchange (and, in the case of a contribution described in subsection (a)(1)(B), such person shall recognize gain as if the contributed property had been sold for such value at the time of such contribution).
+&emsp;If any United States person fails to furnish the information described in subsection (a) at the time and in the manner required by regulations, such person shall pay a penalty equal to 10 percent of the fair market value of the property at the time of the exchange (and, in the case of a contribution described in subsection (a)(1)(B), such person shall recognizegain as if the contributed property had been sold for such value at the time of such contribution).
 
 #### (2) Reasonable cause exception
 
@@ -48,11 +48,11 @@ Each United States person who—
 
 #### Amendments
 
-2005—Subsec. (a)(1)(B). Pub. L. 109–135 inserted “or” at end.
+<b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–135 inserted “or” at end.
 
-1998—Subsec. (c). Pub. L. 105–206, §6011(g), made technical amendment to directory language of Pub. L. 105–206, §1144(c). See 1997 Amendment note below.
+<b>1998</b>—Subsec. (c). Pub. L. 105–206, §6011(g), made technical amendment to directory language of Pub. L. 105–206, §1144(c). See 1997 Amendment note below.
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §1144(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “transfers property to a foreign corporation in an exchange described in section 332, 351, 354, 355, 356, or 361, or”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1144(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “transfers property to a foreign corporation in an exchange described in section 332, 351, 354, 355, 356, or 361, or”.
 
 Subsec. (b). Pub. L. 105–34, §1144(b), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -78,5 +78,5 @@ Section applicable to transfers or exchanges after Dec. 31, 1984, in taxable yea
 
 #### Election of Retroactive Effect
 
-Section 1141(d)(2) of Pub. L. 105–34 provided that: “Section 1494(c) of the Internal Revenue Code of 1986shall not apply to any transfer after August 20, 1996, if all applicable reporting requirements under section 6038B of such Code (as amended by this section) are satisfied. The Secretary of the Treasury or his delegate may prescribe simplified reporting requirements under the preceding sentence.”
+Section 1141(d)(2) of Pub. L. 105–34 provided that: “Section 1494(c) of the Internal Revenue Code of 1986 shall not apply to any transfer after August 20, 1996, if all applicable reporting requirements under section 6038B of such Code (as amended by this section) are satisfied. The Secretary of the Treasury or his delegate may prescribe simplified reporting requirements under the preceding sentence.”
 

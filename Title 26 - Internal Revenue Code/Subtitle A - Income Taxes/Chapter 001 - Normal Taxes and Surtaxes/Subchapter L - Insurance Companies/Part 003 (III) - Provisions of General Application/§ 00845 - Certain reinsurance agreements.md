@@ -20,7 +20,7 @@ If the Secretary determines that any reinsurance contract has a significant tax 
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–357 substituted “amount, source, or character” for “source and character” in concluding provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357 substituted “amount, source, or character” for “source and character” in concluding provisions.
 
 #### Effective Date of 2004 Amendment
 

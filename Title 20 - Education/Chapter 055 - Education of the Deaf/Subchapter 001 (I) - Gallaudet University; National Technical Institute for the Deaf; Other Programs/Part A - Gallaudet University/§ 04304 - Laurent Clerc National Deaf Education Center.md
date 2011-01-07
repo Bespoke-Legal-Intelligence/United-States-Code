@@ -24,7 +24,7 @@
 
 &emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
+&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) studentswho are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
 
 (2) To the extent possible, the Clerc Center shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)\]. Such educational environments shall include—
 
@@ -82,7 +82,7 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(
 
 #### Amendments
 
-2008—Pub. L. 110–315, §901(1), substituted “Laurent Clerc National Deaf Education Center” for “Elementary and secondary education programs” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §901(1), substituted “Laurent Clerc National Deaf Education Center” for “Elementary and secondary education programs” in section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 110–315, §901(2), inserted “the Laurent Clerc National Deaf Education Center (referred to in this section as the ‘Clerc Center’) to carry out” after “maintain and operate”.
 
@@ -100,9 +100,9 @@ Subsec. (b)(4)(C)(vi). Pub. L. 110–315, §901(3)(C)(iii), substituted “(<i>o
 
 Subsec. (b)(5). Pub. L. 110–315, §901(3)(D), added par. (5).
 
-2004—Subsec. (b)(2). Pub. L. 108–446, which directed amendment of “section 104(b)(2) of the Education of the Deaf Act” by substituting “618(a)(1)” for “618(a)(1)(A)” in introductory provisions, was not executed to this section, which is section 104 of the Education of the Deaf Act of 1986. See 2008 Amendment note above.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–446, which directed amendment of “section 104(b)(2) of the Education of the Deaf Act” by substituting “618(a)(1)” for “618(a)(1)(A)” in introductory provisions, was not executed to this section, which is section 104 of the Education of the Deaf Act of 1986. See 2008 Amendment note above.
 
-1998—Subsec. (b)(1). Pub. L. 105–244, §912(1), inserted “and” after semicolon in subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “establish and publish priorities for research, development, and demonstration through a process that allows for public input.”
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §912(1), inserted “and” after semicolon in subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “establish and publish priorities for research, development, and demonstration through a process that allows for public input.”
 
 Subsec. (b)(2). Pub. L. 105–244, §912(2), in introductory provisions, substituted “paragraph (1)(B)” for “paragraph (1)” and “section 618(a)(1)(A)” for “section 618(b)”.
 
@@ -122,7 +122,7 @@ Subsec. (b)(4)(C). Pub. L. 105–244, §912(5), amended subpar. (C) generally. P
 
 &emsp;“(iv) Subsection (f).”
 
-1993—Pub. L. 103–73, §203(d)(1), substituted “education” for “educational” in section catchline.
+<b>1993</b>—Pub. L. 103–73, §203(d)(1), substituted “education” for “educational” in section catchline.
 
 Subsec. (a)(1). Pub. L. 103–73, §203(d)(2), in subpar. (A) substituted “deaf or hard” for “deaf and individuals who are hard”, in subpar. (B) inserted “education” after “elementary and secondary” and substituted “non-English-speaking” for “non-English speaking”, and in subpar. (C), in introductory provisions, inserted “education” after “elementary and secondary”, in cl. (i) substituted “students” for “individuals” wherever appearing and “deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent,” for “deaf,”, and in cl. (ii) substituted “students” for “individuals” wherever appearing and “deaf from grades nine through twelve, inclusive,” for “deaf,”.
 

@@ -44,7 +44,7 @@ Manufacturing Expert Defined.—In this section, the term “manufacturing exper
 
 #### Amendments
 
-1992—Pub. L. 102–484, §4238(b)(1), substituted “experts” for “managers” in section catchline.
+<b>1992</b>—Pub. L. 102–484, §4238(b)(1), substituted “experts” for “managers” in section catchline.
 
 Subsec. (a). Pub. L. 102–484, §4238(a)(1), struck out “managers and” after “manufacturing” in introductory provisions.
 

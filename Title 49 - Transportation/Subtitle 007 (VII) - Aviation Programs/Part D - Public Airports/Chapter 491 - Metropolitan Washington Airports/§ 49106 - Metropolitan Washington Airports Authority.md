@@ -12,7 +12,7 @@ Status.—The Metropolitan Washington Airports Authority shall be—
 
 &emsp;(2) independent of Virginia and its local governments, the District of Columbia, and the United States Government; and
 
-&emsp;(3) a political subdivision constituted only to operate and improve the Metropolitan Washington Airports as primary airports serving the Metropolitan Washington area.
+&emsp;(3) a political subdivision constituted only to operate and improve the MetropolitanWashington Airports as primary airports serving the Metropolitan Washington area.
 
 (b)
 
@@ -84,7 +84,7 @@ Administrative.—To assist the Secretary in carrying out this chapter, the Secr
 
 (g)
 
-Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodicreports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(i), Apr. 5, 2000, 114 Stat. 115.)
 
@@ -192,9 +192,9 @@ In subsection (g), the words “Committee on Transportation and Infrastructure�
 
 #### Amendments
 
-2000—Subsec. (c)(6)(C), (D). Pub. L. 106–181 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed.”
+<b>2000</b>—Subsec. (c)(6)(C), (D). Pub. L. 106–181 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed.”
 
-1998—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted “1986” for “1996”.
+<b>1998</b>—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted “1986” for “1996”.
 
 Subsec. (c)(3). Pub. L. 105–225, §7(c)(1)(B), substituted “to the board” for “by the board”.
 

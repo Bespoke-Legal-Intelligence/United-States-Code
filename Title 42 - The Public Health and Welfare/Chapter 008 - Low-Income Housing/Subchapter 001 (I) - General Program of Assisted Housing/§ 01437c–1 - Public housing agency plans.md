@@ -28,7 +28,7 @@
 
 &emsp;For each fiscal year after the initial submission of an annual plan under this subsection by a public housing agency, the public housing agency may comply with requirements for submission of a plan under this subsection by submitting an update of the plan for the fiscal year.
 
-#### (3) Exemption of certain PHAS from filing requirement
+#### (3) Exemption of certain PHAs from filing requirement
 
 #### (A) In general
 
@@ -44,7 +44,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means apublic housing agency that meets the following requirements:
+&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means a public housing agency that meets the following requirements:
 
 &emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(<i>o</i>) of this title administered by the agency, is 550 or fewer.
 
@@ -208,7 +208,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed to exempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
+&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed toexempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
 
 #### (B) Applicability of waiver authority
 
@@ -354,7 +354,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 #### (1) In general
 
-&emsp;In providing assistance under this subchapter, a public housing agency shall comply with the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
+&emsp;In providing assistance under this subchapter, a public housing agency shall complywith the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
 
 #### (2) Investigation and enforcement
 
@@ -370,15 +370,15 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–289, §2702(a), added par. (3).
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–289, §2702(a), added par. (3).
 
 Subsec. (e)(4). Pub. L. 110–289, §2702(b)(1), added par. (4).
 
@@ -386,7 +386,7 @@ Subsec. (f). Pub. L. 110–289, §2702(b)(1), inserted subsec. designation and h
 
 Subsec. (f)(5). Pub. L. 110–289, §2702(b)(2), added par. (5).
 
-2006—Subsec. (a)(1). Pub. L. 109–162, §603(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §603(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
 
 Subsec. (a)(2), (3). Pub. L. 109–162, §603(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
@@ -438,7 +438,7 @@ Audit and review.—Not later than 1 year after the effective date of final regu
 
 “(2)
 
-Report.—Not later than 2 years after the date on which public housing agency plans are initially required to be submitted under section 5A of the UnitedStates Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section) the Comptroller General of the United States shall submit to the Congress a report, which shall include—
+Report.—Not later than 2 years after the date on which public housing agency plans are initially required to be submitted under section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section) the Comptroller General of the United States shall submit to the Congress a report, which shall include—
 
 &emsp;“(A) a description of the results of each audit and review under paragraph (1); and
 

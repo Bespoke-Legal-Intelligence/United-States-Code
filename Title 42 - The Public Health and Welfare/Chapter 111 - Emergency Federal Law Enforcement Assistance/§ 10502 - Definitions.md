@@ -50,9 +50,9 @@ This chapter, referred to in text, was in the original “this subdivision” pr
 
 #### Amendments
 
-2006—Par. (2)(L) to (N). Pub. L. 109–177 added subpar. (L) and redesignated former subpars. (L) and (M) as (M) and (N), respectively.
+<b>2006</b>—Par. (2)(L) to (N). Pub. L. 109–177 added subpar. (L) and redesignated former subpars. (L) and (M) as (M) and (N), respectively.
 
-2002—Par. (2)(L). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
+<b>2002</b>—Par. (2)(L). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
 
 #### Effective Date of 2002 Amendment
 

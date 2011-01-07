@@ -38,15 +38,15 @@
 
 #### References in Text
 
-Title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§1921 et seq.) of Title 7,Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+Title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Amendments
 
-1998—Subsec. (k). Pub. L. 105–368 struck out “and section 3723 of this title” after “functions under this section” in two places.
+<b>1998</b>—Subsec. (k). Pub. L. 105–368 struck out “and section 3723 of this title” after “functions under this section” in two places.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1811 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1811 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
 
@@ -64,9 +64,9 @@ Subsec. (h). Pub. L. 102–83, §5(c)(1), substituted “3704” for “1804”.
 
 Subsec. (k). Pub. L. 102–83, §5(c)(1), substituted “3723” for “1823” in two places.
 
-1989—Subsecs. (b) to (d)(1), (e) to (k). Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (b) to (d)(1), (e) to (k). Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
-1988—Subsec. (a). Pub. L. 100–322, §415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–322, §415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
 
 Subsec. (b). Pub. L. 100–322, §415(c)(5), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”, “section 1810(a) or 1812” for “section 1810(a) or 1819”, and “section 1812(a)(1)(F)” for “section 1819(a)(1)(F)”.
 
@@ -76,9 +76,9 @@ Subsec. (d)(2)(B). Pub. L. 100–322, §415(c)(5)(A), (d)(2)(B), substituted “
 
 Subsec. (g). Pub. L. 100–322, §415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
 
-1987—Subsec. (d)(2)(A). Pub. L. 100–198 substituted “$36,000” for “$27,500” in two places.
+<b>1987</b>—Subsec. (d)(2)(A). Pub. L. 100–198 substituted “$36,000” for “$27,500” in two places.
 
-1982—Subsec. (c)(1). Pub. L. 97–306, §406(c)(1), substituted “manufactured home” for “mobile home”.
+<b>1982</b>—Subsec. (c)(1). Pub. L. 97–306, §406(c)(1), substituted “manufactured home” for “mobile home”.
 
 Subsec. (c)(2). Pub. L. 97–295, §4(65)(A), substituted “title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.)” for “sections 1000–1029 of title 7 or under sections 1471–1483 of title 42”.
 
@@ -88,15 +88,15 @@ Subsec. (d)(2)(B). Pub. L. 97–295, §4(65)(B), substituted “October 18, 1978
 
 Subsec. (j). Pub. L. 97–295, §4(65)(C), substituted “percent” for “per centum” wherever appearing.
 
-1980—Subsec. (b). Pub. L. 96–385, §401(c)(2), inserted “(other than the refinancing of a loan under section 1810(a)(8) or 1819(a)(1)(F))” after “section 1810(a) or 1819 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–385, §401(c)(2), inserted “(other than the refinancing of a loan under section 1810(a)(8) or 1819(a)(1)(F))” after “section 1810(a) or 1819 of this title”.
 
 Subsec. (d)(2). Pub. L. 96–385, §402(b), substituted in two places “$27,500” for “$25,000” in subpar. (A) and “$20,000” for “$17,500” in two places in subpar. (B).
 
-1978—Subsec. (d)(2)(A). Pub. L. 95–476, §105(b)(1), substituted “$25,000” for “$17,500” in two places.
+<b>1978</b>—Subsec. (d)(2)(A). Pub. L. 95–476, §105(b)(1), substituted “$25,000” for “$17,500” in two places.
 
 Subsec. (d)(2)(B). Pub. L. 95–476, §105(b)(2), substituted formula for determining maximum amount of original principal of any loan made under this section for purposes of section 1819 of this title for provision that such original amount was not to exceed amount specified by Administrator pursuant to section 1819(d) of this title and inserted provision relating to amount of guaranty entitlement under section 1810(c) of this title.
 
-1976—Subsec. (b). Pub. L. 94–324, §7(12), substituted “the Administrator shall” for “he shall” and “The Administrator” for “He”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(12), substituted “the Administrator shall” for “he shall” and “The Administrator” for “He”.
 
 Subsec. (c). Pub. L. 94–324, §7(13), substituted “the veteran” for “he” wherever appearing.
 
@@ -108,11 +108,11 @@ Subsec. (g). Pub. L. 94–324, §7(14), substituted “the Administrator” for 
 
 Subsec. (k). Pub. L. 94–324, §7(15), substituted “the Administrator's” for “his” wherever appearing and “as the Administrator” for “as he” wherever appearing.
 
-1974—Subsec. (d)(2)(A). Pub. L. 93–569 substituted “$17,500” for “$12,500” wherever appearing.
+<b>1974</b>—Subsec. (d)(2)(A). Pub. L. 93–569 substituted “$17,500” for “$12,500” wherever appearing.
 
-1971—Subsec. (g). Pub. L. 92–66 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable under prevailing conditions in the mortgage market when agreement to sell loan is made, for provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest.
+<b>1971</b>—Subsec. (g). Pub. L. 92–66 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable under prevailing conditions in the mortgage market when agreement to sell loan is made, for provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest.
 
-1970—Subsec. (a). Pub. L. 91–506, §4(1), substituted “1810 or 1819” for “1810”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–506, §4(1), substituted “1810 or 1819” for “1810”.
 
 Subsec. (b). Pub. L. 91–506, §4(1), (2), substituted “1810 or 1819” for “1810” and provided that the Administrator make, or enter into commitments to make, to any eligible veteran, a loan for any of the purposes described in section 1819 dealing with loans to purchase mobile homes and lots as well as section 1810(a) dealing with the purchase or construction of homes.
 
@@ -126,27 +126,27 @@ Subsec. (g). Pub. L. 91–506, §4(7), substituted “1810 or 1819 of this title
 
 Subsec. (h). Pub. L. 91–506, §4(8), substituted provisions permitting Administrator to exempt dwellings constructed through assistance provided by this section from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability for provisions establishing a direct loan expiration date by reference to those for guaranteed loans.
 
-Subsec. (i). Pub. L. 91–506, §4(8), substituted provisions authorizing, Administrator to make or enter intoa commitment to make, loans to assist disabled veterans in acquiring specially adapted housing if they are eligible for provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase dwellings in a housing credit shortage area provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved, authorizing the Administrator to make advances during construction of the dwelling, authorizing the Administrator to permit a private lender to purchase such loan, and permitting the Administrator to exempt dwellings constructed through assistance provided by this subsec. from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability.
+Subsec. (i). Pub. L. 91–506, §4(8), substituted provisions authorizing, Administrator to make or enter into a commitment to make, loans to assist disabled veterans in acquiring specially adapted housing if they are eligible for provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase dwellings in a housing credit shortage area provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved, authorizing the Administrator to make advances during construction of the dwelling, authorizing the Administrator to permit a private lender to purchase such loan, and permitting the Administrator to exempt dwellings constructed through assistance provided by this subsec. from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability.
 
 Subsec. (j). Pub. L. 91–506, §4(8), substituted provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase housing in a housing credit shortage area, or in any area for a disabled veteran eligible for specially adapted housing, provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved and authorizing the Administrator to make advances during construction of the dwelling for provisions authorizing the Administrator to process loan applications notwithstanding the assistance of the Voluntary Home Mortgage Credit Committee in trying to place such loans with private lenders, authorizing the Administrator to complete the processing of such loan applications unless he is notified by such Committee that it was able to place any such loan with a private lender, and defining “working days”.
 
-1969—Subsec. (d)(2), (3). Pub. L. 91–22 substituted “$21,000” for “$17,500” wherever appearing.
+<b>1969</b>—Subsec. (d)(2), (3). Pub. L. 91–22 substituted “$21,000” for “$17,500” wherever appearing.
 
-1968—Subsec. (d)(2). Pub. L. 90–301 substituted “$12,500” for “$7,500” in two places.
+<b>1968</b>—Subsec. (d)(2). Pub. L. 90–301 substituted “$12,500” for “$7,500” in two places.
 
-1967—Subsec. (d)(2). Pub. L. 90–77, §404(a), authorized an increase in amount of direct loan limits from $17,500 to $25,000 where Administrator finds cost levels so require.
+<b>1967</b>—Subsec. (d)(2). Pub. L. 90–77, §404(a), authorized an increase in amount of direct loan limits from $17,500 to $25,000 where Administrator finds cost levels so require.
 
 Subsec. (d)(3). Pub. L. 90–77, §404(b), authorized an increase in aggregate amount of direct loans to $25,000 where Administrator finds cost levels so require.
 
-1966—Subsec. (d)(2), (3), Pub. L. 89–358 substituted “$17,500” for “$15,000” wherever appearing.
+<b>1966</b>—Subsec. (d)(2), (3), Pub. L. 89–358 substituted “$17,500” for “$15,000” wherever appearing.
 
-1964—Subsec. (g). Pub. L. 88–402 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest, for provisions which permitted Administrator to sell loans only at a price not less than par.
+<b>1964</b>—Subsec. (g). Pub. L. 88–402 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest, for provisions which permitted Administrator to sell loans only at a price not less than par.
 
-1961—Subsec. (d)(2), (3). Pub. L. 87–84, §2(a), substituted “$15,000” for “$13,500” wherever appearing.
+<b>1961</b>—Subsec. (d)(2), (3). Pub. L. 87–84, §2(a), substituted “$15,000” for “$13,500” wherever appearing.
 
 Subsec. (h). Pub. L. 87–84, §2(b), substituted “to any veteran after the expiration of his entitlement pursuant to section 1803(a)(3) of this title except pursuant to a commitment issued by the Administrator before such entitlement expires” for “after July 25, 1962, except pursuant to commitments issued by the Administrator before that date.”
 
-1960—Subsec. (h). Pub. L. 86–665 substituted “1962” for “1960”.
+<b>1960</b>—Subsec. (h). Pub. L. 86–665 substituted “1962” for “1960”.
 
 #### Effective Date of 1998 Amendment
 

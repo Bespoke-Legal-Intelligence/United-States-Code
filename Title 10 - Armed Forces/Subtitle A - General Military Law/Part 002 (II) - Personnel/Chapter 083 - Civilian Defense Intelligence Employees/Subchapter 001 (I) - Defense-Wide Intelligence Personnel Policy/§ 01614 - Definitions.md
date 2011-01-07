@@ -34,11 +34,11 @@ In this subchapter:
 
 #### Amendments
 
-2003—Par. (2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Par. (2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2000—Par. (1). Pub. L. 106–398 substituted “of the Department of Defense” for “of an intelligence component of the Department of Defense or of a military department”.
+<b>2000</b>—Par. (1). Pub. L. 106–398 substituted “of the Department of Defense” for “of an intelligence component of the Department of Defense or of a military department”.
 
-1999—Par. (3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Par. (3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 #### Effective Date
 

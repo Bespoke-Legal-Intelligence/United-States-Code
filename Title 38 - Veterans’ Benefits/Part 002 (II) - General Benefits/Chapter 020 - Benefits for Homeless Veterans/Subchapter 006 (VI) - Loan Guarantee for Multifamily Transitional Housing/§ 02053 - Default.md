@@ -16,5 +16,5 @@
 
 #### Amendments
 
-2001—Pub. L. 107–95 renumbered section 3774 of this title as this section.
+<b>2001</b>—Pub. L. 107–95 renumbered section 3774 of this title as this section.
 

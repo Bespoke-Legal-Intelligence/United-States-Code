@@ -12,5 +12,5 @@ The Secretary of Commerce shall within two years after September 1, 1979, take s
 
 #### Amendments
 
-1980—Pub. L. 96–482 substituted “September 1, 1979” for “October 21, 1976”.
+<b>1980</b>—Pub. L. 96–482 substituted “September 1, 1979” for “October 21, 1976”.
 

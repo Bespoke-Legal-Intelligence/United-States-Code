@@ -10,7 +10,7 @@ Negotiated Licenses.—
 
 &emsp;(1)
 
-Authority for negotiations.—Any owners of copyright in works to which this sectionapplies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
+Authority for negotiations.—Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Definitions.—As used in this section, the following terms mean the following:
 
 &emsp;&emsp;(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
 
-(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, §5, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 108–419, §5(e), Nov. 30, 2004, 118 Stat. 2365.)
+(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, §5, Nov. 13, 1997, 111 Stat.1531; Pub. L. 108–419, §5(e), Nov. 30, 2004, 118 Stat. 2365.)
 
 #### Prior Provisions
 
@@ -50,11 +50,11 @@ A prior section 116, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–419, §5(e)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).”
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–419, §5(e)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).”
 
 Subsec. (c). Pub. L. 108–419, §5(e)(2), substituted “Determinations by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panel Determinations” in heading and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel” in text.
 
-1997—Subsec. (b)(2). Pub. L. 105–80, §5(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–80, §5(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)
 
@@ -62,7 +62,7 @@ Arbitration.—Parties to such a negotiation, within such time as may be specifi
 
 Subsec. (d). Pub. L. 105–80, §5(2), added subsec. (d).
 
-1993—Pub. L. 103–198, §3(b)(1)(A), renumbered section 116A of this title as this section.
+<b>1993</b>—Pub. L. 103–198, §3(b)(1)(A), renumbered section 116A of this title as this section.
 
 Subsec. (b). Pub. L. 103–198, §3(b)(1)(B), (C), redesignated subsec. (c) as (b), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in two places in par. (2), and struck out former subsec. (b) which related to limitation on exclusive right if licenses not negotiated.
 

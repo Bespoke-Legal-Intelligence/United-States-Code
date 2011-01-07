@@ -76,7 +76,7 @@ No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of
 
 > The preceding sentence shall not apply if it results in no person being liable for the penalty imposed by subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19, 1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19,1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744.)
 
 #### References in Text
 
@@ -84,23 +84,23 @@ The Court of Claims, referred to in subsec. (c)(2), and the United States Court 
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–206, §3307(a), inserted “or in person” after “section 6212(b)”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §3307(a), inserted “or in person” after “section 6212(b)”.
 
 Subsec. (b)(2). Pub. L. 105–206, §3307(b)(1), inserted “(or, in the case of such a notice delivered in person, such delivery)” after “paragraph (1)”.
 
 Subsec. (b)(3). Pub. L. 105–206, §3307(b)(2), inserted “or delivered in person” after “mailed” in introductory provisions and in subpar. (A).
 
-1996—Subsecs. (b), (c). Pub. L. 104–168, §901(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–168, §901(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (d). Pub. L. 104–168, §903(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 104–168, §904(a), added subsec. (e).
 
-1989—Subsec. (a). Pub. L. 101–239, §7721(c)(9), inserted “or part II of subchapter A of chapter 68” after “under section 6653”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7721(c)(9), inserted “or part II of subchapter A of chapter 68” after “under section 6653”.
 
 Subsec. (b)(1). Pub. L. 101–239, §7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
 
-1978—Pub. L. 95–628 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–628 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
 #### Effective Date of 1998 Amendment
 

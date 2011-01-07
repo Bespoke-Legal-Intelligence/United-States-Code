@@ -2,7 +2,7 @@
 
 #### (a) Collection of information
 
-Within nine months after October 11, 1996, the Secretary shall, after consultation with the GulfCouncil and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
+Within nine months after October 11, 1996, the Secretary shall, after consultation with the Gulf Council and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
 
 #### (b) Identification of stock
 
@@ -34,7 +34,7 @@ The Secretary shall, within one year of completing the programs required by this
 
 #### (f) Implementation criteria
 
-To the extent practicable, any conservation and management measure implemented under this chapter to reduce the incidental mortality of bycatch in the course of shrimp trawl fishing shall be consistent with—
+To the extent practicable, any conservation and management measure implemented underthis chapter to reduce the incidental mortality of bycatch in the course of shrimp trawl fishing shall be consistent with—
 
 &emsp;(1) measures applicable to fishing throughout the range in United States waters of the bycatch species concerned; and
 

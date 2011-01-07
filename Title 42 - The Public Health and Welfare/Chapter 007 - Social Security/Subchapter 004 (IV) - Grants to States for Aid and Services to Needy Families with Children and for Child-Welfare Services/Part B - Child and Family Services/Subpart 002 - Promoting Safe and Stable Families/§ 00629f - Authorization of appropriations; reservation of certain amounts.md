@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2007 through 2011 <sup>1</sup>
+In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2007 through 2010, and $365,000,000 for fiscal year 2011 <sup>1</sup>
 
 #### (b) Reservation of certain amounts
 
@@ -18,7 +18,7 @@ From the amount specified in subsection (a) of this section for a fiscal year, t
 
 #### (2) State court improvements
 
-&emsp;The Secretary shall reserve $10,000,000 for grants under section 629h of this title.
+&emsp;The Secretary shall reserve $30,000,000 for grants under section 629h of this title.
 
 #### (3) Indian tribes or tribal consortia
 
@@ -40,7 +40,7 @@ From the amount specified in subsection (a) of this section for a fiscal year, t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State to which an amount is paid from amounts reserved under subparagraph (A)shall use the amount to support monthly caseworker visits with children who are in foster care under the responsibility of the State, with a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.
+&emsp;&emsp;&emsp;A State to which an amount is paid from amounts reserved under subparagraph (A) shall use the amount to support monthly caseworker visits with children who are in foster care under the responsibility of the State, with a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.
 
 #### (ii) Nonsupplantation
 
@@ -58,7 +58,7 @@ From the amount specified in subsection (a) of this section for a fiscal year, t
 
 &emsp;&emsp;(D) $20,000,000 for each of fiscal years 2010 and 2011.
 
-(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243.)
+(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613.)
 
 #### References in Text
 
@@ -70,7 +70,13 @@ A prior section 436 of act Aug. 14, 1935, was classified to section 636 of this 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–288, §3(a), substituted “each of fiscal years 2007 through 2011” for “fiscal year 2006. Notwithstanding the preceding sentence, the total amount authorized to be so appropriated for fiscal year 2006 under this subsection and under this subsection (as in effect before February 8, 2006) is $345,000,000.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–242, §133(1)(A)(ii), which directed insertion of “, and $365,000,000 for fiscal year 2011” before the period, was executed by making the insertion at the end of subsec. (a) to reflect the probable intent of Congress because there was no period.
+
+Pub. L. 111–242, §133(1)(A)(i), substituted “2010” for “2011”.
+
+Subsec. (b)(2). Pub. L. 111–242, §133(1)(B), substituted “$30,000,000” for “$10,000,000”.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–288, §3(a), substituted “each of fiscal years 2007 through 2011” for “fiscal year 2006. Notwithstanding the preceding sentence, the total amount authorized to be so appropriated for fiscal year 2006 under this subsection and under this subsection (as in effect before February 8, 2006) is $345,000,000.”
 
 Pub. L. 109–171 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of this subpart $305,000,000 for each of fiscal years 2002 through 2006.”
 
@@ -81,6 +87,10 @@ Pub. L. 109–288, §5(a)(1), (3), substituted “After applying paragraphs (4) 
 Subsec. (b)(4). Pub. L. 109–288, §4(a)(1), added par. (4).
 
 Subsec. (b)(5). Pub. L. 109–288, §4(b)(1), added par. (5).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–242, §133, Sept. 30, 2010, 124 Stat. 2613, provided that the amendment made by section 133 is effective Oct. 1, 2010.
 
 #### Effective Date of 2006 Amendment
 

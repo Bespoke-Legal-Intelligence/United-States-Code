@@ -24,27 +24,27 @@
 
 #### Amendments
 
-2001—Subsec. (a)(2). Pub. L. 107–14 substituted “paragraph (1)” for “clause (1)”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–14 substituted “paragraph (1)” for “clause (1)”.
 
-1998—Subsec. (b)(1). Pub. L. 105–368 struck out “after the 18-month period beginning on the date of the enactment of this section” after “section 3674(a) of this title” in introductory provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–368 struck out “after the 18-month period beginning on the date of the enactment of this section” after “section 3674(a) of this title” in introductory provisions.
 
-1994—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “supervise functionally the provision of course-approval services by State approving agencies under this subchapter;”.
+<b>1994</b>—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “supervise functionally the provision of course-approval services by State approving agencies under this subchapter;”.
 
 Subsec. (b). Pub. L. 103–446, §606(c)(2)(A), substituted “subsection (a)(4)” for “subsection (a)(5) of this section” in pars. (1)(A) and (2).
 
 Subsec. (b)(1). Pub. L. 103–446, §606(c)(2)(B), inserted “of this title” after “section 3674(a)” in introductory provisions and subpar. (B).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1774A of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1774A of this title as this section.
 
 Subsec. (a)(2), (5). Pub. L. 102–83, §5(c)(1), substituted “3674” for “1774” in par. (2) and “3674(a)” for “1774(a)” in par. (5).
 
 Subsec. (b)(1). Pub. L. 102–83, §5(c)(1), substituted “3674(a)” for “1774(a)” in introductory provisions and in subpar. (B).
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 #### Implementation
 
-Section 13(b)(2) of Pub. L. 100–323 directed Administrator, for purposes of implementing amendments by section 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section, directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State's standards and prototype standards.
+Section 13(b)(2) of Pub. L. 100–323 directed Administrator, for purposes of implementing amendments bysection 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section, directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State's standards and prototype standards.
 
 #### Applicability of Qualification Standards to Persons Employed on May 20, 1988
 

@@ -58,9 +58,9 @@ In subsection (c)(1), before clause (A), the words “and incidents” are added
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–432 inserted at end “The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–432 inserted at end “The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.”
 
-1996—Subsec. (c)(2). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
 
 #### Pedestrian Crossing Safety
 

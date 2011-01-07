@@ -4,7 +4,7 @@
 
 #### (1) Tires and taxable fuel
 
-&emsp;Where before October 1, 2011, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2011, if claim for such credit or refund is filed with the Secretary on or before March 31, 2012, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2012, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2012, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
+&emsp;Where before October 1, 2011, any article subject to the tax imposed by section 4071 or 4081has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2011, if claim for such credit or refund is filed with the Secretary on or before March 31, 2012, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2012, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2012, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
 
 #### (2) Definitions
 
@@ -26,31 +26,31 @@ All provisions of law, including penalties, applicable in respect of the taxes i
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59 substituted “2011” for “2005” and “2012” for “2006” wherever appearing.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59 substituted “2011” for “2005” and “2012” for “2006” wherever appearing.
 
-1998—Subsec. (a)(1). Pub. L. 105–178 substituted “2005” for “1999” and “2006” for “2000” wherever appearing.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178 substituted “2005” for “1999” and “2006” for “2000” wherever appearing.
 
-1993—Subsec. (a)(1). Pub. L. 103–66 substituted “taxable fuel” for “gasoline” wherever appearing in heading and text.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66 substituted “taxable fuel” for “gasoline” wherever appearing in heading and text.
 
-1991—Subsec. (a)(1). Pub. L. 102–240 substituted “1999” for “1995” and “2000” for “1996” wherever appearing.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–240 substituted “1999” for “1995” and “2000” for “1996” wherever appearing.
 
-1990—Subsec. (a)(1). Pub. L. 101–508 substituted “1995” for “1993” and “1996” for “1994” wherever appearing.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508 substituted “1995” for “1993” and “1996” for “1994” wherever appearing.
 
-1987—Subsec. (a)(1). Pub. L. 100–17 substituted “1993” for “1988” and “1994” for “1989” wherever appearing.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–17 substituted “1993” for “1988” and “1994” for “1989” wherever appearing.
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §735(c)(12)(A), (B), substituted “Tires and gasoline” for “Trucks, tires, tubes, tread rubber, and gasoline” in heading, and in text substituted “Where before October 1, 1988, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale,” for “Where before October 1, 1988, any article subject to the tax imposed by section 4061(a)(1), 4071((a)(1), (3) or (4), or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not beenused and is intended for sale (or, in the case of tread rubber, is intended for sale or is held for use),”, and struck out provision that no credit or refund shall be allowable under this paragraph with respect to inner tubes for bicycle tires (as defined in section 4221(e)(4)(B)).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §735(c)(12)(A), (B), substituted “Tires and gasoline” for “Trucks, tires, tubes, tread rubber, and gasoline” in heading, and in text substituted “Where before October 1, 1988, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale,” for “Where before October 1, 1988, any article subject to the tax imposed by section 4061(a)(1), 4071((a)(1), (3) or (4), or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale (or, in the case of tread rubber, is intended for sale or is held for use),”, and struck out provision that no credit or refund shall be allowable under this paragraph with respect to inner tubes for bicycle tires (as defined in section 4221(e)(4)(B)).
 
 Subsec. (a)(2)(A). Pub. L. 98–369, §735(c)(12)(C), substituted “The term ‘dealer’ includes a wholesaler, jobber, distributor, or retailer” for “The term ‘dealer’ includes a wholesaler, jobber, distributor, or retailer, or, in the case of tread rubber subject to tax under section 4071(a)(4), includes any person (other than the manufacturer, producer, or importer thereof) who holds such tread rubber for sale or use”.
 
 Subsec. (c). Pub. L. 98–369, §735(c)(12)(D), substituted “4071” for “4061, 4071,”.
 
-1983—Subsec. (a)(1). Pub. L. 97–424, §516(a)(5), substituted “1989” for “1985” and “1988” for “1984” wherever appearing.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–424, §516(a)(5), substituted “1989” for “1985” and “1988” for “1984” wherever appearing.
 
-1978—Subsec. (a)(1). Pub. L. 95–618 struck out “and buses” after “Trucks” in heading.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–618 struck out “and buses” after “Trucks” in heading.
 
 Pub. L. 95–599 substituted “1984” for “1979” and “1985” for “1980” wherever appearing.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1906(a)(22), (b)(13)(A), redesignated par. (2) as (1) and struck out “or his delegate” after “Secretary”. Prior par. (1) had been repealed by Pub. L. 92–178, title IV, §401(g)(5), Dec. 10, 1971, 85 Stat. 533.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1906(a)(22), (b)(13)(A), redesignated par. (2) as (1) and struck out “or his delegate” after “Secretary”. Prior par. (1) had been repealed by Pub. L. 92–178, title IV, §401(g)(5), Dec. 10, 1971, 85 Stat. 533.
 
 Subsec. (a)(2). Pub. L. 94–455, §1906(a)(22), redesignated par. (4) as (2). Former par. (2) redesignated (1).
 
@@ -58,35 +58,35 @@ Pub. L. 94–280 substituted “1979” for “1977” in two places and “1980
 
 Subsec. (a)(4). Pub. L. 94–455, §1906(a)(22), redesignated par. (4) as (2).
 
-1971—Subsec. (a)(1). Pub. L. 92–178 struck out par. (1) which related to general rule for floor stocks refunds on passenger automobiles, etc.
+<b>1971</b>—Subsec. (a)(1). Pub. L. 92–178 struck out par. (1) which related to general rule for floor stocks refunds on passenger automobiles, etc.
 
-1970—Subsec. (a)(1). Pub. L. 91–614 substituted “January 1 of 1973, 1974, 1978, 1979, 1980, 1981, or 1982” for “January 1, 1971, January 1, 1972, January 1, 1973, or January 1, 1974”.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–614 substituted “January 1 of 1973, 1974, 1978, 1979, 1980, 1981, or 1982” for “January 1, 1971, January 1, 1972, January 1, 1973, or January 1, 1974”.
 
 Subsec. (a)(2). Pub. L. 91–605 substituted in two places “1977” for “1972” and “March 31, 1978” for “February 10, 1973”, and substituted “January 1, 1978” for “January 1, 1973”.
 
-1969—Subsec. (a)(1). Pub. L. 91–172 struck out reference to Jan. 1, 1970, and inserted reference to Jan. 1, 1974.
+<b>1969</b>—Subsec. (a)(1). Pub. L. 91–172 struck out reference to Jan. 1, 1970, and inserted reference to Jan. 1, 1974.
 
-1968—Subsec. (a)(1). Pub. L. 90–364 substituted “January 1, 1970, January 1, 1971, January 1, 1972, or January 1, 1973,” for “May 1, 1968, or January 1, 1969,”.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–364 substituted “January 1, 1970, January 1, 1971, January 1, 1972, or January 1, 1973,” for “May 1, 1968, or January 1, 1969,”.
 
 Pub. L. 90–285 substituted “May 1, 1968” for “April 1, 1968”.
 
-1966—Subsec. (a)(1). Pub. L. 89–368 substituted “January 1, 1966, April 1, 1968, or January 1, 1969,” for “January 1, 1966, 1967, 1968, or 1969,”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–368 substituted “January 1, 1966, April 1, 1968, or January 1, 1969,” for “January 1, 1966, 1967, 1968, or 1969,”.
 
-1965—Subsec. (a)(1). Pub. L. 89–44, §209(a), made floor stock refunds available with respect to passenger cars in dealers’ inventories on the various reduction dates for the passenger car tax and required claims for credit or refund to be filed on or before the 10th day of the 8th calendar month beginning after the date of the tax reduction.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–44, §209(a), made floor stock refunds available with respect to passenger cars in dealers’ inventories on the various reduction dates for the passenger car tax and required claims for credit or refund to be filed on or before the 10th day of the 8th calendar month beginning after the date of the tax reduction.
 
 Subsec. (e). Pub. L. 89–44, §209(d), repealed subsec. (e) which related to cross reference.
 
-1964—Subsec. (a)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places, “October 1, 1965” for “October 1, 1964”, and “November 10, 1965” for “November 10, 1964” in two places.
+<b>1964</b>—Subsec. (a)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places, “October 1, 1965” for “October 1, 1964”, and “November 10, 1965” for “November 10, 1964” in two places.
 
-1963—Subsec. (a)(1). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963”, in two places, “October 1, 1964” for “October 1, 1963”, and “November 10, 1964” for “November 10, 1963” in two places.
+<b>1963</b>—Subsec. (a)(1). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963”, in two places, “October 1, 1964” for “October 1, 1963”, and “November 10, 1964” for “November 10, 1963” in two places.
 
-1962—Subsec. (a)(1). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in two places, “October 1, 1963” for “October 1, 1962”, and “November 10, 1963” for “November 10, 1962” in two places.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in two places, “October 1, 1963” for “October 1, 1962”, and “November 10, 1963” for “November 10, 1962” in two places.
 
 Subsec. (d). Pub. L. 87–456 repealed subsec. (d) which related to floor stock refunds with respect to any sugar or articles composed in chief value of sugar.
 
 Pub. L. 87–535 substituted “June 30, 1967” for “December 31, 1962” after “paid and which, on”, and “September 30, 1967” for “March 31, 1963” after “delegate on or before”.
 
-1961—Subsec. (a)(1). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places, “October 1, 1962” for “October 1, 1961”, and “November 10, 1962” for “November 10, 1961” in two places.
+<b>1961</b>—Subsec. (a)(1). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places, “October 1, 1962” for “October 1, 1961”, and “November 10, 1962” for “November 10, 1961” in two places.
 
 Subsec. (a)(2). Pub. L. 87–61, §206(c), inserted tubes in heading, authorized credit or refund for articles subject to the tax imposed by section 4071(a)(3), prohibited credit or refund with respect to inner tubes for bicycle tires, and substituted “October 1, 1972” for “July 1, 1972” in two places, “February 10, 1973” for “November 10, 1972” in two places, and “January 1, 1973” for “October 1, 1972”.
 
@@ -94,21 +94,21 @@ Subsec. (a)(3). Pub. L. 87–61, §206(d), repealed par. (3) which related to 19
 
 Subsec. (d). Pub. L. 87–15 substituted “December 31, 1962” for “September 30, 1961” after “paid and which, on”, and “March 31, 1963” for “September 30, 1961” after “delegate on or before”.
 
-1960—Subsec. (a)(1). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in two places, “October 1, 1961” for “October 1, 1960”, and “November 10, 1961” for “November 10, 1960” in two places.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in two places, “October 1, 1961” for “October 1, 1960”, and “November 10, 1961” for “November 10, 1960” in two places.
 
 Subsec. (d). Pub. L. 86–592 substituted “September 30, 1961” for “June 30, 1961” after “and which, on”.
 
-1959—Subsec. (a)(1). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in two places, “October 1, 1960” for “October 1, 1959” and “November 10, 1960” for “November 10, 1959” in two places.
+<b>1959</b>—Subsec. (a)(1). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in two places, “October 1, 1960” for “October 1, 1959” and “November 10, 1960” for “November 10, 1959” in two places.
 
 Subsec. (a)(3), (4). Pub. L. 86–342 added par. (3) and redesignated former par. (3) as (4).
 
-1958—Subsec. (a)(1). Pub. L. 85–475 substituted “July 1, 1959” for “July 1, 1958” in two places, “October 1, 1959” for “October 1, 1958”, and “November 10, 1959” for “November 10, 1958” in two places.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–475 substituted “July 1, 1959” for “July 1, 1958” in two places, “October 1, 1959” for “October 1, 1958”, and “November 10, 1959” for “November 10, 1958” in two places.
 
 Subsec. (d). Pub. L. 85–859 required filing of claims for refund on or before Sept. 30, 1961.
 
-1957—Subsec. (a)(1). Pub. L. 85–12, substituted “July 1, 1958” for “April 1, 1957” in two places, “October 1, 1958” for “July 1, 1957”, and “November 10, 1958” for “August 10, 1957” in two places.
+<b>1957</b>—Subsec. (a)(1). Pub. L. 85–12, substituted “July 1, 1958” for “April 1, 1957” in two places, “October 1, 1958” for “July 1, 1957”, and “November 10, 1958” for “August 10, 1957” in two places.
 
-1956—Subsec. (a). Act June 29, 1956, in par. (1), substituted “April 1, 1957” for “April 1, 1956” in two places, “section 4061(a)(2)” for “section 4061 (a) or (b)”, and inserted provisions requiring claims for refund to be made on or before August 10, 1957, inserted provisions relating to trucks and buses, tires, tread rubber, and gasoline as par. (2), defined “dealer” in the case of tread rubber subject to tax under section 4071(a)(4) of this title in par. (3), and struck out pars. (4) and (5). Former par. (4), which related to reimbursement of dealers, was covered generally by pars. (1) and (2). Former par. (5) was covered by subsec. (b).
+<b>1956</b>—Subsec. (a). Act June 29, 1956, in par. (1), substituted “April 1, 1957” for “April 1, 1956” in two places, “section 4061(a)(2)” for “section 4061 (a) or (b)”, and inserted provisions requiring claims for refund to be made on or before August 10, 1957, inserted provisions relating to trucks and buses, tires, tread rubber, and gasoline as par. (2), defined “dealer” in the case of tread rubber subject to tax under section 4071(a)(4) of this title in par. (3), and struck out pars. (4) and (5). Former par. (4), which related to reimbursement of dealers, was covered generally by pars. (1) and (2). Former par. (5) was covered by subsec. (b).
 
 Act Mar. 29, 1956, substituted “April 1, 1957” for “April 1, 1956” in two places, and “July 1, 1957” for “July 1, 1956”.
 
@@ -120,7 +120,7 @@ Subsec. (c). Act June 29, 1956, included taxes imposed by section 4071 of this t
 
 Subsec. (d). Act May 29, 1956, substituted “1961” for “1957”.
 
-1955—Subsecs. (a), (b). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” and “July 1, 1956” for “July 1, 1955” wherever appearing.
+<b>1955</b>—Subsecs. (a), (b). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” and “July 1, 1956” for “July 1, 1955” wherever appearing.
 
 #### Effective Date of 1993 Amendment
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 95–618 applicable with respect to articles sold after Nov
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to articles sold on or after the day after Dec. 10, 1971, see section 401(h)(1) of Pub. L. 92–178, set out as a note under section 4071 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to articles sold on or after the day after Dec. 10, 1971,see section 401(h)(1) of Pub. L. 92–178, set out as a note under section 4071 of this title.
 
 #### Effective Date of 1968 Amendments
 

@@ -82,7 +82,7 @@
 
 &emsp;A student receiving a stipend described in paragraph (1) shall be engaged—
 
-&emsp;&emsp;(A) in an instructional program with stated performance goals for functional foreign language use or in a program developing such performance goals, in combination with area studies, international studies, or the international aspects of a professional studies program; and
+&emsp;&emsp;(A) in an instructional program with stated performance goals for functional foreign language use or in a program developing such performance goals, in combination with area studies, international studies, or theinternational aspects of a professional studies program; and
 
 &emsp;&emsp;(B)(i) in the case of an undergraduate student, in the intermediate or advanced study of a less commonly taught language; or
 
@@ -132,7 +132,7 @@ Another prior section 1122, Pub. L. 89–329, title VI, §602, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–315, §602(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary is authorized—
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–315, §602(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary is authorized—
 
 &emsp;“(i) to make grants to institutions of higher education, or combinations thereof, for the purpose of establishing, strengthening, and operating comprehensive foreign language and area or international studies centers and programs; and
 

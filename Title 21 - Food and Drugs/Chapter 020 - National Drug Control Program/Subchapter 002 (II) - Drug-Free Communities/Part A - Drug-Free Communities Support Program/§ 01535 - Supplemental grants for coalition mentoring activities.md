@@ -2,7 +2,7 @@
 
 #### (a) Authority to make grants
 
-As part of the program established under section 1531 of this title, the Director may award an initial grant under this subsection, and renewal grants under subsection (f) of this section, to any coalition awarded a grant under section 1532 of this title that meets the criteria specified in subsection (d) of this section in order to fund coalition mentoring activities by such coalition in support of the program.
+As part of the program established under section 1531 of this title, the Director may award aninitial grant under this subsection, and renewal grants under subsection (f) of this section, to any coalition awarded a grant under section 1532 of this title that meets the criteria specified in subsection (d) of this section in order to fund coalition mentoring activities by such coalition in support of the program.
 
 #### (b) Treatment with other grants
 
@@ -48,7 +48,7 @@ The Administrator may make a renewal grant to any coalition awarded a grant unde
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise inthe field of substance abuse may be counted as non-Federal funds raised by the coalition.
+&emsp;Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition.
 
 #### (2) Initial grants
 

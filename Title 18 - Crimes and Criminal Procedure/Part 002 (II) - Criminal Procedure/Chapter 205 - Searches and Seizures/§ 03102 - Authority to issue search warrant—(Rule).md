@@ -8,7 +8,7 @@ Federal, State or Territorial Judges, or U.S. magistrate judges authorized to is
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted “magistrates” for “Commissioners”.
+<b>1968</b>—Pub. L. 90–578 substituted “magistrates” for “Commissioners”.
 
 #### Change of Name
 

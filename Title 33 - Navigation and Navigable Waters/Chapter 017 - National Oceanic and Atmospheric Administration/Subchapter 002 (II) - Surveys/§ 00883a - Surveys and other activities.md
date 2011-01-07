@@ -1,6 +1,6 @@
 ### §883a. Surveys and other activities
 
-To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial andindustrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
+To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial and industrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
 
 (1) Hydrographic and topographic surveys;
 
@@ -16,13 +16,13 @@ To provide charts and related information for the safe navigation of marine and 
 
 #### Amendments
 
-1960—Pub. L. 86–409 struck out provisions which restricted the Coast and Geodetic Survey in the conduct of its specified activities to the United States, its Territories and possessions, and which restricted hydrographic and topographic surveys to surveys of coastal water and land areas (including offlying islands, banks, shoals, and other offshore areas), and to surveys of lakes, rivers, reservoirs, and other inland waters not otherwise provided for by statute.
+<b>1960</b>—Pub. L. 86–409 struck out provisions which restricted the Coast and Geodetic Survey in the conduct of its specified activities to the United States, its Territories and possessions, and which restricted hydrographic and topographic surveys to surveys of coastal water and land areas (including offlying islands, banks, shoals, and other offshore areas), and to surveys of lakes, rivers, reservoirs, and other inland waters not otherwise provided for by statute.
 
 #### Transfer of Functions
 
 Functions of Secretary and other officers of Department of Commerce under sections 883a to 883h of this title that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts, products, and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(1) of Title 49, Transportation.
 
-Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
+Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated withWeather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
 
 #### Great Lakes Mapping
 

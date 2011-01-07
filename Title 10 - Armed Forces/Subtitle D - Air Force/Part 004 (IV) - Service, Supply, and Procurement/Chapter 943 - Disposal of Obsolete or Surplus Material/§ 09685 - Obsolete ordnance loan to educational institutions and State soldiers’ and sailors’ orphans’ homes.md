@@ -30,5 +30,5 @@ In subsection (b), the words “to the United States” are omitted as surplusag
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “State concerned or Guam or the Virgin Islands” for “State or Territory concerned” and “State, Guam, and the Virgin Islands” for “State and Territorial”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “State concerned or Guam or the Virgin Islands” for “State or Territory concerned” and “State, Guam, and the Virgin Islands” for “State and Territorial”.
 

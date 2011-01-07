@@ -6,7 +6,7 @@ The Administrator shall, in consultation with the Office of Personnel Management
 
 #### (b) Purpose
 
-The purpose of internships and fellowships pursuant to this section shall be to provide college level students and in-service teachers with an opportunity to work with professional staff of Federal agencies involved in environmental issues and thereby gain an understanding andappreciation of such issues and the skills and abilities appropriate to such professions.
+The purpose of internships and fellowships pursuant to this section shall be to provide college level students and in-service teachers with an opportunity to work with professional staff of Federal agencies involved in environmental issues and thereby gain an understanding and appreciation of such issues and the skills and abilities appropriate to such professions.
 
 #### (c) Minimum number of internships and fellowships
 

@@ -52,7 +52,7 @@ Reimbursement for costs.—For space allotted under subsection (b), if there is 
 
 (d)
 
-Payment of Other Costs.—If an agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
+Payment of Other Costs.—If an agency has a child care facility in its space, or is asponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
 
 &emsp;(1) pay accreditation fees, including renewal fees, for the child care facility to be accredited by a nationally recognized early-childhood professional organization;
 
@@ -62,7 +62,7 @@ Payment of Other Costs.—If an agency has a child care facility in its space, o
 
 (e)
 
-Reimbursement for Employee Training.—Notwithstanding section 1345 of title 31, an agency, department, or instrumentality of the Government that provides or proposes to provide child care services for federal employees may reimburse a federal employee or any individual employed to provide child care services for travel, transportation, and subsistence expenses incurred for training classes, conferences, or othermeetings in connection with providing the services. A per diem allowance made under this subsection may not exceed the rate specified in regulations prescribed under section 5707 of title 5.
+Reimbursement for Employee Training.—Notwithstanding section 1345 of title 31, an agency, department, or instrumentality of the Government that provides or proposes to provide child care services for federal employees may reimburse a federal employee or any individual employed to provide child care services for travel, transportation, and subsistence expenses incurred for training classes, conferences, or other meetings in connection with providing the services. A per diem allowance made under this subsection may not exceed the rate specified in regulations prescribed under section 5707 of title 5.
 
 (f)
 
@@ -168,5 +168,5 @@ In subsection (g)(5), the words “in this or any other Act” are omitted as un
 
 #### Amendments
 
-2004—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

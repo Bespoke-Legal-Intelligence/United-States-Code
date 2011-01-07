@@ -8,7 +8,7 @@ In administering funds made available to carry out this Act within and outside t
 
 &emsp;(2) grants, cooperative agreements, and contracts shall be subject to full and open competition, in accordance with applicable laws; and
 
-&emsp;(3) the internal department or agency review process for such grants, cooperative agreements, and contracts shall not be subject to ad hoc or intermittent review or influence by individuals or organizations outside the United States Government except as provided under paragraphs (1) and (2).
+&emsp;(3) the internal department or agency review process for such grants, cooperative agreements, and contracts shall not be subject to ad hoc or intermittent review or influence by individuals or organizations outside the UnitedStates Government except as provided under paragraphs (1) and (2).
 
 #### (b) Eligibility
 

@@ -54,13 +54,13 @@
 
 (c) The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, titleIX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, §208(a), Dec. 22, 2006, 120 Stat. 3413.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, §208(a), Dec. 22, 2006, 120 Stat. 3413.)
 
 #### Amendments
 
-2006—Subsec. (b)(5)(A). Pub. L. 109–461 substituted “2008” for “2004”.
+<b>2006</b>—Subsec. (b)(5)(A). Pub. L. 109–461 substituted “2008” for “2004”.
 
-2002—Subsec. (b)(1). Pub. L. 107–135, §203(a)(1), inserted “(and each geographic service area of the Veterans Health Administration)” after “ensure that the Department” in introductory provisions and “(and each geographic service area of the Veterans Health Administration)” after “overall capacity of the Department” in cl. (B).
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–135, §203(a)(1), inserted “(and each geographic service area of the Veterans Health Administration)” after “ensure that the Department” in introductory provisions and “(and each geographic service area of the Veterans Health Administration)” after “overall capacity of the Department” in cl. (B).
 
 Subsec. (b)(2) to (4). Pub. L. 107–135, §203(a)(3), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
@@ -68,9 +68,9 @@ Subsec. (b)(5). Pub. L. 107–135, §203(a)(2), (b), redesignated par. (2) as (5
 
 Subsec. (b)(6). Pub. L. 107–135, §203(a)(2), redesignated par. (3) as (6).
 
-2001—Subsec. (c). Pub. L. 107–95 added subsec. (c).
+<b>2001</b>—Subsec. (c). Pub. L. 107–95 added subsec. (c).
 
-1998—Subsec. (b)(1). Pub. L. 105–368, §1005(b)(2), substituted “October 9, 1996” for “the date of the enactment of this section”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–368, §1005(b)(2), substituted “October 9, 1996” for “the date of the enactment of this section”.
 
 Subsec. (b)(2). Pub. L. 105–368, §903(a)(1), substituted “April 1, 1999, April 1, 2000, and April 1, 2001” for “April 1, 1997, April 1, 1998, and April 1, 1999”.
 

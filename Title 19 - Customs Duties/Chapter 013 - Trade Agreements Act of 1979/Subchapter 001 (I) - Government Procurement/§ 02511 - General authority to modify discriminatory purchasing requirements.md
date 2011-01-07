@@ -38,21 +38,23 @@ The authority of the President under subsection (a) of this section to waive any
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182, §381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
 
 Subsec. (b)(1). Pub. L. 103–182, §381(a)(2), inserted “or the North American Free Trade Agreement” after “the Agreement”.
 
 Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
-1988—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Termination Date of 1988 Amendment note below.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Effective and Termination Dates of 1988 Amendment note below.
 
 #### Effective Date of 1993 Amendment
 
 Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
 
-#### Termination Date of 1988 Amendment
+#### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of this title, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendments note under section 10a of Title 41, Public Contracts.
+Pub. L. 100–418, title VII, §7004, Aug. 23, 1988, 102 Stat. 1552, provided that: “The amendments made by this title \[see Tables for classification\] shall cease to be effective on April 30, 1996, unless the Congress, after reviewing the report required by section 305(k) of the Trade Agreements Act of 1979 \[former 19 U.S.C. 2515(k)\], and other relevant information, extends such date. After such date, the President may modify or terminate any or all actions taken pursuant to such amendments.”
+
+Pub. L. 100–418, title VII, §7005(f), Aug. 23, 1988, 102 Stat. 1553, provided that: “The amendments made by this section \[amending this section and sections 10a, 10b, 10c, and 10d of Title 41, Public Contracts\] shall take effect upon enactment \[Aug. 23, 1988\].”
 
 #### Effective Date
 
@@ -76,7 +78,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Responsibilities
 
-1–101. The obligations of the Agreement on Government Procurement (Agreement on Government Procurement, General Agreement on Tariffs and Trade, 12 April 1979, Geneva (GATT 1979)) apply to any procurement of eligible products by the Executive agencies listed in the Annex to this Order (eligible products are defined in Section 308 of the Trade Agreements Act of 1979; 19 U.S.C. 2518(4)). Such procurement shall be in accord with the policies and procedures of the Office of Federal Procurement Policy (41 U.S.C. 401 et seq.).
+1–101. The obligations of the Agreement on Government Procurement (Agreement on Government Procurement, General Agreement on Tariffs and Trade, 12 April 1979, Geneva (GATT 1979)) apply to any procurement of eligible products by the Executive agencies listed in the Annex to this Order (eligible products are defined in Section 308 of the Trade Agreements Act of 1979; 19 U.S.C. 2518(4)). Such procurement shall be in accord with the policies and procedures of the Office of Federal Procurement Policy (\[former\] 41 U.S.C. 401 et seq.).
 
 1–102. The United States Trade Representative, hereinafter referred to as the Trade Representative, shall be responsible for interpretation of the Agreement. The Trade Representative shall seek the advice of the interagency organization established under Section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected Executive agencies, including the Office of Federal Procurement Policy.
 
@@ -220,7 +222,7 @@ WHEREAS, the commitments made in the Agreement are intended to become part of an
 
 WHEREAS, as a result of these commitments, U.S. businesses will obtain increased access to EC member state procurement for U.S. goods and services;
 
-WHEREAS, I have determined that it is inconsistent with the public interest to apply the restrictions of the Buy American Act, as amended (41 U.S.C. 10a–10d) \[41 U.S.C. 10a, 10b, 10c\], to procurement covered by the Agreement;
+WHEREAS, I have determined that it is inconsistent with the public interest to apply the restrictions of the Buy American Act, as amended (\[former\] 41 U.S.C. 10a–10d) \[see 41 U.S.C. 8301 et seq.\], to procurement covered by the Agreement;
 
 NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and in order to implement the Agreement, it is hereby ordered as follows:
 
@@ -236,7 +238,7 @@ Sec. 5. Except for procurements by the Department of Defense, the United States 
 
 Sec. 6. This Executive order is effective immediately. Although regulatory implementation of this order must await revisions to the Federal Acquisition Regulation (FAR), it is expected that agencies listed in Annex 1, Parts A and B, of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
 
-Sec. 7. Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 421(a)), the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
+Sec. 7. Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (\[former\] 41 U.S.C. 421(a)) \[now 41 U.S.C. 1302, 1303\], the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -264,7 +266,7 @@ Department of Labor
 
 Department of State
 
-Department of Transportation (The national security consideration currently applicable to the Departmentof Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
+Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
 
 Department of the Treasury
 

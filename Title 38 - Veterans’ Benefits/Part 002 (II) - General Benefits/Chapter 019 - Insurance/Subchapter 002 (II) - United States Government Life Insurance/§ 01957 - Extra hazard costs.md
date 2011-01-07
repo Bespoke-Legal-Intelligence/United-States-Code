@@ -16,5 +16,5 @@ Public Law 816, Seventy-seventh Congress, referred to in subsec. (d), is act Dec
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 757 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing in subsecs. (b) and (c).
+<b>1991</b>—Pub. L. 102–83 renumbered section 757 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing in subsecs. (b) and (c).
 

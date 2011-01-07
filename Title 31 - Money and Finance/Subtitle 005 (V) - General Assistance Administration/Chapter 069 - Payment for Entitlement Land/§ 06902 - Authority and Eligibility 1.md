@@ -52,9 +52,9 @@ In subsection (d), the words “county or” are omitted as unnecessary because 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–333 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–333 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose.”
 
-1994—Pub. L. 103–397 amended section generally. Prior to amendment, section read as follows:
+<b>1994</b>—Pub. L. 103–397 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located. A unit may use the payment for any governmental purpose.
 
@@ -64,7 +64,7 @@ In subsection (d), the words “county or” are omitted as unnecessary because 
 
 “(d) If the total payment to a unit of general local government for a fiscal year would be less than $100, the Secretary may not make the payment.”
 
-1993—Subsec. (b). Pub. L. 103–93 substituted “acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made under State law if such lands had not been acquired” for “acquisition”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–93 substituted “acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made underState law if such lands had not been acquired” for “acquisition”.
 
 #### Effective Date of 1994 Amendment
 

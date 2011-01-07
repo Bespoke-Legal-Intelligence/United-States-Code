@@ -44,7 +44,7 @@ As used in this section—
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–627, §105(b)(1)(A), inserted “including fisheries for tuna species,” after “authority,” and struck out “traditional” after “in accordance with”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–627, §105(b)(1)(A), inserted “including fisheries for tuna species,” after “authority,” and struck out “traditional” after “in accordance with”.
 
 Subsec. (a)(2). Pub. L. 101–627, §105(b)(1)(B), substituted “tuna” for “highly migratory”.
 

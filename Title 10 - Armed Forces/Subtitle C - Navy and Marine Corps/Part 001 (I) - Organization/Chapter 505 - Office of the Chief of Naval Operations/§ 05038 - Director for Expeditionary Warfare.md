@@ -12,9 +12,9 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs” for “Office of the Deputy Chief of Naval Operations for Resources, Warfare Requirements, and Assessments”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs” for “Office of the Deputy Chief of Naval Operations for Resources, Warfare Requirements, and Assessments”.
 
-1993—Subsec. (e). Pub. L. 103–160 struck out subsec. (e) which read as follows: “This section shall cease to apply on November 1, 1997.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–160 struck out subsec. (e) which read as follows: “This section shall cease to apply on November 1, 1997.”
 
 Pub. L. 103–35 substituted “section” for “subsection”.
 

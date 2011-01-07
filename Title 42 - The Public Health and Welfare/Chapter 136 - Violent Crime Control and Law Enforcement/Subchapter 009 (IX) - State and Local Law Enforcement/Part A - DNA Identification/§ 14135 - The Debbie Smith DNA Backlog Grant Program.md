@@ -20,7 +20,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;(1) provide assurances that the State or unit of local government has implemented, or will implement not later than 120 days after the date of such application, a comprehensive plan for the expeditious DNA analysis of samples in accordance with this section;
 
-&emsp;(2) include a certification that each DNA analysis carried out under the plan shall be maintained pursuant to the privacy requirements described in section 14132(b)(3) of this title;
+&emsp;(2) include a certification that each DNA analysis carried out under the plan shall bemaintained pursuant to the privacy requirements described in section 14132(b)(3) of this title;
 
 &emsp;(3) include a certification that the State or unit of local government has determined, by statute, rule, or regulation, those offenses under State law that shall be treated for purposes of this section as qualifying State offenses;
 
@@ -72,7 +72,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (2) Quality assurance standards
 
-&emsp;(A) The Director of the Federal Bureau of Investigation shall maintain and make availableto States and units of local government a description of quality assurance protocols and practices that the Director considers adequate to assure the quality of a forensic laboratory.
+&emsp;(A) The Director of the Federal Bureau of Investigation shall maintain and make available to States and units of local government a description of quality assurance protocols and practices that the Director considers adequate to assure the quality of a forensic laboratory.
 
 &emsp;(B) For purposes of this section, a laboratory satisfies quality assurance standards if the laboratory satisfies the quality control requirements described in paragraphs (1) and (2) of section 14132(b) of this title.
 
@@ -182,7 +182,7 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 #### Amendments
 
-2008—Subsec. (c)(3). Pub. L. 110–360, §2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–360, §2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
 
 Subsec. (c)(3)(A). Pub. L. 110–360, §2(1)(A), struck out subpar. (A) which read as follows: “For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
 
@@ -196,9 +196,9 @@ Subsec. (c)(3)(B) to (D). Pub. L. 110–360, §2(1)(A), (C), added subpar. (B) a
 
 Subsec. (j). Pub. L. 110–360, §2(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
 
-2006—Subsec. (a)(1). Pub. L. 109–162 substituted “collected under applicable legal authority” for “taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted “collected under applicable legal authority” for “taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)”.
 
-2004—Pub. L. 108–405, §202(a)(1), substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
+<b>2004</b>—Pub. L. 108–405, §202(a)(1), substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
 
 Subsec. (a). Pub. L. 108–405, §202(a)(2)(A), in introductory provisions, inserted “or units of local government” after “eligible States” and “or unit of local government” after “State”.
 

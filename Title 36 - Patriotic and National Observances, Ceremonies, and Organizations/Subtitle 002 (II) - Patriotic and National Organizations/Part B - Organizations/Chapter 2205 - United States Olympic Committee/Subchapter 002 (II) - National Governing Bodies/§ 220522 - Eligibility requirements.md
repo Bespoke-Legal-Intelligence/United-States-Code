@@ -90,7 +90,7 @@ The text of 36:391(c) is omitted as executed.
 
 #### Amendments
 
-1998—Pub. L. 105–277, §142(m)(1), designated existing provisions as subsec. (a) and inserted heading.
+<b>1998</b>—Pub. L. 105–277, §142(m)(1), designated existing provisions as subsec. (a) and inserted heading.
 
 Subsec. (a)(4). Pub. L. 105–277, §142(m)(2), added par. (4) and struck out former par. (4) which read as follows: “agrees to submit, on demand by the corporation, to binding arbitration conducted in accordance with the commercial rules of the American Arbitration Association in any controversy involving—
 

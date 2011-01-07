@@ -1,6 +1,6 @@
 ### §6601. Congressional findings; priority goals
 
-(a) The Congress, recognizing the profound impact of science and technology on society, andthe interrelations of scientific, technological, economic, social, political, and institutional factors, hereby finds and declares that—
+(a) The Congress, recognizing the profound impact of science and technology on society, and the interrelations of scientific, technological, economic, social, political, and institutional factors, hereby finds and declares that—
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
@@ -58,7 +58,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1 of 1977 (42 FR 56101) \[set out in Appendix of Title 5, Government Organization and Employees\], of certain functions under the National Science and Technology Policy, Organization, and Priorities Act of 1976, hereinafter referred to as the Act (90 Stat. 459, 42 U.S.C. 6601 et seq.), from the Office of Science and Technology Policy and its Director to the Director of the National Science Foundation is hereby effective.
 
-(b) The abolition of the Intergovernmental Science, Engineering, and Technology Advisory Panel, the President's Committee on Science and Technology, and the Federal Coordinating Council for Science, Engineering and Technology (established in accordance with Titles II, III, and IV of the Act) \[sections 6611 et seq., 6631 et seq., and 6651 of this title\] and the transfer of their functions (Sections 205(b)(1), 303(a) and (b)(1),and 401 of the Act, 42 U.S.C. 6614(b)(1), 6633 (a) and (b)(1), and 6651(e)) to the President of the United States of America, provided by Section 5A of Reorganization Plan No. 1 of 1977 \[set out in Appendix of Title 5, Government Organization and Employees\], are hereby effective.
+(b) The abolition of the Intergovernmental Science, Engineering, and Technology Advisory Panel, the President's Committee on Science and Technology, and the Federal Coordinating Council for Science, Engineering and Technology (established in accordance with Titles II, III, and IV of the Act) \[sections 6611 et seq., 6631 et seq., and 6651 of this title\] and the transfer of their functions (Sections 205(b)(1), 303(a) and (b)(1), and 401 of the Act, 42 U.S.C. 6614(b)(1), 6633 (a) and (b)(1), and 6651(e)) to the President of the United States of America, provided by Section 5A of Reorganization Plan No. 1 of 1977 \[set out in Appendix of Title 5, Government Organization and Employees\], are hereby effective.
 
 Sec. 2. (a) The intergovernmental science, engineering, and technology functions under Section 205(b)(1) of the Act (42 U.S.C. 6614(b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy; <i>Except that</i>, the responsibility for fostering any policies to facilitate the transfer and utilization of research and development results is delegated to the Director of the Office of Management and Budget.
 
@@ -150,45 +150,15 @@ Sec. 5. <i>Administration</i>. (a) The Council will oversee the duties of the Fe
 
 #### Executive Order No. 12882
 
-Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 12907, Apr. 14, 1994, 59 F.R. 18291, which established the President's Committee of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13226, §4(c), Sept. 30, 2001, 66 F.R. 50524, set out below.
+Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 12907, Apr. 14, 1994, 59 F.R. 18291, which established the President's Committee of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13226, §4(c), Sept. 30, 2001, 66 F.R. 50524, formerly set out below.
 
 #### Executive Order No. 12975
 
 Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission, was revoked by Ex. Ord. No. 13316, §3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
-#### Ex. Ord. No. 13226. President's Council of Advisors on Science and Technology
+#### Executive Order No. 13226
 
-Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, §8, Sept. 29, 2005, 70 F.R. 57991, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is established the President's Council of Advisors on Science and Technology (PCAST). The PCAST shall be composed of not more than 45 members, one of whom shall be a Federal Government official designated by the President (the “Official”), and 44 of whom shall be nonfederal members appointed by the President and have diverse perspectives and expertise in science, technology, and the impact of science and technology on the Nation. The Official shall co-chair PCAST with a nonfederal member designated by the President.
-
-Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, through the Official, on matters involving science and technology policy.
-
-(b) In performance of its advisory duties, the PCAST shall assist the National Science and Technology Council (NSTC) in securing private sector involvement in its activities.
-
-(c) PCAST shall serve as the National Nanotechnology Advisory Panel under section 4 of the 21st Century Nanotechnology Research and Development Act (Public Law 108–153) \[15 U.S.C. 7503\] (Act). Nothing in this Order shall be construed to require the National Nanotechnology Advisory Panel to comply with any requirement from which it is exempted by section 4(f) of the Act.
-
-(d) PCAST shall serve as the President's Information Technology Advisory Committee under subsections 101(b) and 103(b) of the High-Performance Computing Act of 1991 (Public Law 102–194), as amended (15 U.S.C. 5511(b) and 5513(b)).
-
-Sec. 3. <i>Administration</i>. (a) The heads of the executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST co-chairs.
-
-(b) In consultation with the Official, the PCAST is authorized to convene ad hoc working groups to provide preliminary nonbinding information and advice directly to the PCAST.
-
-(c) Members shall serve without compensation for their work on the PCAST. However, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
-
-(d) Any expenses of the PCAST shall be paid from the funds available for the expenses of the Office of Science and Technology Policy.
-
-(e) The Office of Science and Technology Policy shall provide such administrative services as the PCAST may require, with the approval of the Official.
-
-Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President with respect to the PCAST under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, shall be performed by the Office of Science and Technology Policy in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-(b) The PCAST shall terminate September 30, 2005, unless extended by the President prior to that date.
-
-(c) Executive Order 12882 of November 23, 1993; Executive Order 12907 of April 14, 1994; and section 1(h) of Executive Order 13138 of September 30, 1999 \[formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees\], are hereby revoked.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, §8, Sept. 29, 2005, 70 F.R. 57991, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13539, §6, Apr. 21, 2010, 75 F.R. 21975, set out below.
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
@@ -204,7 +174,7 @@ Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, which created the President's 
 
 #### Extension of Term of President's Council on Bioethics
 
-Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003,68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of President's Council on Bioethics extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -273,6 +243,54 @@ Sec. 6. <i>General Provisions</i>.
 (d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13539. President's Council of Advisors on Science and Technology
+
+Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science, technology, and innovation, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. The President's Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of not more than 21 members, one of whom shall be the Assistant to the President for Science and Technology (the “Science Advisor”), and 20 of whom shall include distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These nonfederal members shall have diverse perspectives and expertise in science, technology, and innovation. The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the nonfederal members to serve as a Co-Chair of the PCAST with the Science Advisor.
+
+Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policy that affects science, technology, and innovation, as well as scientific and technical information that isneeded to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
+
+(i) respond to requests from the President or the Science Advisor for information, analysis, evaluation, or advice;
+
+(ii) solicit information and ideas from the broad range of stakeholders, including but not limited to the research community, the private sector, universities, national laboratories, State and local governments, foundations, and nonprofit organizations;
+
+(iii) serve as the advisory committee identified in subsections 101(b) and 103(b) of the High\[-\]Performance Computing Act of 1991 (Public Law 102–194), as amended (15 U.S.C. 5511(b) and 5513(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President's Innovation and Technology Advisory Committee; and
+
+(iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7503) (21st Century Act). In performing the functions of such advisory committee, the PCAST shall be known as the National Nanotechnology Advisory Panel. Nothing in this order shall be construed to require the National Nanotechnology Advisory Panel to comply with any requirement from which it is exempted by section 4(f) of the 21st Century Act.
+
+(b) The PCAST shall provide advice from the nonfederal sector to the National Science and Technology Council (NSTC) in response to requests from the NSTC.
+
+Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST Co-Chairs and as required for the purpose of carrying out the PCAST's functions.
+
+(b) In consultation with the Science Advisor, the PCAST is authorized to create standing subcommittees and ad hoc groups, including, but not limited to, technical advisory groups to assist the PCAST and provide preliminary information directly to the PCAST.
+
+(c) So that the PCAST may provide advice and analysis regarding classified matters, the Science Advisor may request that members of the PCAST, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive security clearance and access determinations pursuant to Executive Order 12968 of August 2, 1995, as amended, or any successor order.
+
+(d) The Office of Science and Technology Policy (OSTP) shall provide such funding and administrative and technical support as the PCAST may require.
+
+(e) Members of the PCAST shall serve without any compensation for their work on the PCAST, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
+
+Sec. 4. <i>Termination</i>. The PCAST shall terminate 2 years from the date of this order unless extended by the President.
+
+Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA) may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Director of the OSTP in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. <i>Revocation</i>. Executive Order 13226 of September 30, 2001, as amended, is hereby revoked.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,5 +6,5 @@ There are hereby authorized to be appropriated for the acquisition of lands and 
 
 #### Amendments
 
-1978—Pub. L. 95–625 increased development appropriations authorization to $24,649,000 from $22,700,000.
+<b>1978</b>—Pub. L. 95–625 increased development appropriations authorization to $24,649,000 from $22,700,000.
 

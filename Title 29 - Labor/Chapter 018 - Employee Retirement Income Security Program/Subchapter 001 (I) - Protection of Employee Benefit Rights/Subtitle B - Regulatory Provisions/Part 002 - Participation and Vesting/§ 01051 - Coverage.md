@@ -4,7 +4,7 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 
 &emsp;(1) an employee welfare benefit plan;
 
-&emsp;(2) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for aselect group of management or highly compensated employees;
+&emsp;(2) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees;
 
 &emsp;(3)(A) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under such plan are made by employers of participants in such plan, or
 
@@ -30,7 +30,7 @@ This chapter, referred to in par. (8), was in the original “this Act”, meani
 
 #### Amendments
 
-1989—Pars. (3)(A), (4), (5). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Pars. (3)(A), (4), (5). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Par. (6). Pub. L. 101–239, §7891(a)(1), substituted “section 408 of the Internal Revenue Code of 1986” for “section 408 of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 408 of title 26” thus requiring no change in text.
 
@@ -42,7 +42,7 @@ Par. (7). Pub. L. 101–239, §7894(c)(1)(A)(ii), substituted “plan; or” for
 
 Par. (8). Pub. L. 101–239, §7894(c)(1)(A)(iii), substituted “any plan” for “Any plan”.
 
-1980—Par. (8). Pub. L. 96–364 added par. (8).
+<b>1980</b>—Par. (8). Pub. L. 96–364 added par. (8).
 
 #### Effective Date of 1989 Amendment
 

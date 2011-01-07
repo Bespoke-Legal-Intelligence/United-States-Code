@@ -4,7 +4,3 @@ All withdrawals or reservations of public lands for the use of any agency of the
 
 (Pub. L. 85–337, §6, Feb. 28, 1958, 72 Stat. 30.)
 
-#### References in Text
-
-The mining laws and the mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

@@ -30,7 +30,7 @@ The report submitted under subsection (a) shall contain—
 
 #### References in Text
 
-The Combating Autism Act of 2006, referred to in subsec. (b)(1), (2), is Pub. L. 109–416, Dec. 19, 2006, 120 Stat. 2821. For complete classification of this Act to theCode, see Short Title of 2006 Amendment note set out under section 201 of this title and Tables.
+The Combating Autism Act of 2006, referred to in subsec. (b)(1), (2), is Pub. L. 109–416, Dec. 19, 2006, 120 Stat. 2821. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 201 of this title and Tables.
 
 #### Codification
 

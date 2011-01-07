@@ -8,7 +8,7 @@ Whenever required to carry out the objective of this chapter, including but not 
 
 &emsp;(B) the Administrator or his authorized representative (including an authorized contractor acting as a representative of the Administrator), upon presentation of his credentials—
 
-&emsp;&emsp;(i) shall have a right of entry to, upon, or through any premises in which an effluentsource is located or in which any records required to be maintained under clause (A) of this subsection are located, and
+&emsp;&emsp;(i) shall have a right of entry to, upon, or through any premises in which an effluent source is located or in which any records required to be maintained under clause (A) of this subsection are located, and
 
 &emsp;&emsp;(ii) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under clause (A), and sample any effluents which the owner or operator of such source is required to sample under such clause.
 
@@ -28,7 +28,7 @@ Notwithstanding any limitation contained in this section or any other provision 
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–4, §406(d)(1), substituted “1345, and 1364” for “and 1364” in cl. (4).
+<b>1987</b>—Subsec. (a). Pub. L. 100–4, §406(d)(1), substituted “1345, and 1364” for “and 1364” in cl. (4).
 
 Subsec. (a)(B). Pub. L. 100–4, §310(a)(2), inserted “(including an authorized contractor acting as a representative of the Administrator)” after “representative”.
 
@@ -36,5 +36,5 @@ Subsec. (b). Pub. L. 100–4, §310(a)(1), substituted a period and “Any autho
 
 Subsec. (d). Pub. L. 100–4, §310(b), added subsec. (d).
 
-1977—Subsec. (a)(4). Pub. L. 95–217 inserted “1344 (relating to State permit programs),” after “sections 1315, 1321, 1342,” in provisions preceding subpar. (A).
+<b>1977</b>—Subsec. (a)(4). Pub. L. 95–217 inserted “1344 (relating to State permit programs),” after “sections 1315, 1321, 1342,” in provisions preceding subpar. (A).
 

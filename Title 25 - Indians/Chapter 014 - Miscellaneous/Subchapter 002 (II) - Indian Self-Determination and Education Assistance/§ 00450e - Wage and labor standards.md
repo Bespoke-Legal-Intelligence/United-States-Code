@@ -32,7 +32,7 @@ In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–413, §102(3), substituted “or subcontractors (excluding tribes and tribal organizations)” for “of subcontractors”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–413, §102(3), substituted “or subcontractors (excluding tribes and tribal organizations)” for “of subcontractors”.
 
 Subsec. (c). Pub. L. 103–413, §102(4), added subsec. (c).
 

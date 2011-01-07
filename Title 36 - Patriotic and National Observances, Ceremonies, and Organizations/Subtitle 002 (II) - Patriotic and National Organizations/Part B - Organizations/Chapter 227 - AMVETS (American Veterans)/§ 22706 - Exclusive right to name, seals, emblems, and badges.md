@@ -24,5 +24,5 @@ The words “sole and” and “have and” are omitted as unnecessary. The word
 
 #### Amendments
 
-2002—Pub. L. 107–241 substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)”.
+<b>2002</b>—Pub. L. 107–241 substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)”.
 

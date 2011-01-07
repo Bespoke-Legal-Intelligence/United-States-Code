@@ -80,7 +80,7 @@ Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104�
 
 1986—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
 
-1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as expertsor consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
+1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
 
 #### Effective Date of 1986 Amendment; Regulations
 
@@ -104,7 +104,7 @@ Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 570
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705,and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
 
 #### eTravel Service
 
@@ -142,7 +142,7 @@ In General.—Under regulations issued by the Administrator of General Services 
 
 “(b)
 
-Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type orclass of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
+Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type or class of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
 
 “(c)
 
@@ -192,7 +192,7 @@ Regulations.—Within 270 days after the date of the enactment of this Act \[Oct
 
 &emsp;“(2) specify the procedures for effecting under subsection (d) a deduction from pay owed to an employee, and ensure that the due process protections provided to employees under such procedures are no less than the protections provided to employees pursuant to section 3716 of title 31, United States Code;
 
-&emsp;“(3) provide that any deduction under subsection (d) from pay owed to an employee may occur only after reimbursement of the employee for the expenses of Government travel with respect to which the deduction is made; and
+&emsp;“(3) provide that any deduction under subsection (d) from pay owed to an employee may occur only after reimbursement of the employee for the expensesof Government travel with respect to which the deduction is made; and
 
 &emsp;“(4) require agencies to promptly reimburse employees for expenses charged on a travel charge card pursuant to this section, and by no later than 30 days after the submission of a claim for reimbursement.
 

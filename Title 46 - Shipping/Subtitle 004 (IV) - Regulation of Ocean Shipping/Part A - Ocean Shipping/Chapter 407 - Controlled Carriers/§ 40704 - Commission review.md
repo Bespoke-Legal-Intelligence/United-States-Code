@@ -18,7 +18,7 @@ Suspension Pending Determination.—
 
 &emsp;(1)
 
-Not yet effective.—Pending a determination of the lawfulness of a rate, charge, classification, rule, or regulation in a proceeding under subsection (c), the Commission maysuspend the rate, charge, classification, rule, or regulation at any time before its effective date.
+Not yet effective.—Pending a determination of the lawfulness of a rate, charge, classification, rule, or regulation in a proceeding under subsection (c), the Commission may suspend the rate, charge, classification, rule, or regulation at any time before its effective date.
 
 &emsp;(2)
 

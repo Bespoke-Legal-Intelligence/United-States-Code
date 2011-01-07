@@ -44,15 +44,15 @@ For purposes of this subchapter:
 
 #### Amendments
 
-2002—Par. (4)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
+<b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
 
 Par. (5)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
 
-1994—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
 Par. (5)(A). Pub. L. 103–382, §394(c)(2), substituted “section 8801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 
-1990—Pub. L. 101–637, §14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
+<b>1990</b>—Pub. L. 101–637, §14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
 
 Pars. (1), (2). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 

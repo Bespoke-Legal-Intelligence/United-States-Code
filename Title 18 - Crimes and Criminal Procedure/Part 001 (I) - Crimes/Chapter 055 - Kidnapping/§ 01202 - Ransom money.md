@@ -18,7 +18,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §320601(b), designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1994</b>—Pub. L. 103–322, §320601(b), designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 Subsec. (a). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 

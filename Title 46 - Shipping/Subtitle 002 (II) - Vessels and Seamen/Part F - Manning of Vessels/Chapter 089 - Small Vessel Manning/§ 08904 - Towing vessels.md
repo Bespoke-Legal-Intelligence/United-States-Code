@@ -22,9 +22,9 @@ Section 8904 requires that a 26-foot or larger towing vessel be operated by a li
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–293 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–293 added subsec. (c).
 
-1986—Pub. L. 99–640 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–640 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1986 Amendment
 

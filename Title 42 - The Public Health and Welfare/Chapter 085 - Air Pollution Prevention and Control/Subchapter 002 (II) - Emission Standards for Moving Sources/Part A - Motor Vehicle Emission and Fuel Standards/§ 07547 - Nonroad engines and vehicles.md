@@ -36,7 +36,7 @@ A prior section 213 of act July 14, 1955, was renumbered section 214 by Pub. L. 
 
 #### Amendments
 
-1990—Pub. L. 101–549 amended section generally, substituting present provisions for provisions requiring Administrator and Secretary of Transportation to conduct study on fuel economy improvement for new motor vehicles manufactured during and after model year 1980.
+<b>1990</b>—Pub. L. 101–549 amended section generally, substituting present provisions for provisions requiring Administrator and Secretary of Transportation to conduct study on fuel economy improvement for new motor vehicles manufactured during and after model year 1980.
 
 #### Regulations Relating to Standards To Reduce Emissions
 

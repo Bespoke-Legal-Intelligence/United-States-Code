@@ -36,7 +36,7 @@
 
 &emsp;(C) had its appraised salvage value determined by the Coast Guard and is qualified for documentation as a wrecked vessel under section 12112 of this title.
 
-(2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under section 12112 of this title before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
+(2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under section12112 of this title before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 
 (3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under section 12112 of this title before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(ii) after January 1, 1996, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(iii) after January 1, 1997, if the vessel is 26 years old or older and has a single hull, or is31 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(iii) after January 1, 1997, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(iv) after January 1, 1998, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
 
@@ -100,7 +100,7 @@
 
 &emsp;(B) a vessel that has a double bottom or double sides may not operate after January 1, 2015.
 
-(d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
+(d) The operation of barges described in subsection (b)(5) outside waters described in thatsubsection shall be on any conditions as the Secretary may require.
 
 (e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
@@ -140,11 +140,11 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments
 
-2006—Subsec. (c)(1)(C), (2), (3). Pub. L. 109–304 substituted “documentation as a wrecked vessel under section 12112 of this title” for “documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14)”.
+<b>2006</b>—Subsec. (c)(1)(C), (2), (3). Pub. L. 109–304 substituted “documentation as a wrecked vessel under section 12112 of this title” for “documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14)”.
 
-1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 
-1996—Subsec. (b)(2). Pub. L. 104–324, §715(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–324, §715(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
 
 Subsec. (b)(4) to (6). Pub. L. 104–324, §1103(1), added pars. (4) to (6).
 
@@ -164,7 +164,7 @@ Section applicable to incidents occurring after Aug. 18, 1990, see section 1020 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Tank Vessels Over 5,000 Gross Tons To Comply Until January 1, 2015, With Environmentally Protective Structural and Operational Requirements
 
@@ -172,7 +172,7 @@ Pub. L. 101–380, title IV, §4115(b), Aug. 18, 1990, 104 Stat. 520, provided t
 
 #### Study on Other Structural and Operational Tank Vessel Requirements
 
-Pub. L. 101–380, title IV, §4115(e), Aug. 18, 1990, 104 Stat. 520, as amended by Pub. L. 105–383, title IV, §423, Nov. 13, 1998, 112 Stat. 3440; Pub. L. 108–293, title VII, §705, Aug. 9, 2004, 118 Stat. 1075; Pub. L. 109–241, title IX, §901(n), July 11, 2006, 120 Stat. 565, provided that:
+Pub. L. 101–380, title IV, §4115(e), Aug. 18, 1990, 104 Stat. 520, as amended by Pub. L. 105–383, title IV, §423,Nov. 13, 1998, 112 Stat. 3440; Pub. L. 108–293, title VII, §705, Aug. 9, 2004, 118 Stat. 1075; Pub. L. 109–241, title IX, §901(n), July 11, 2006, 120 Stat. 565, provided that:
 
 “(1)
 

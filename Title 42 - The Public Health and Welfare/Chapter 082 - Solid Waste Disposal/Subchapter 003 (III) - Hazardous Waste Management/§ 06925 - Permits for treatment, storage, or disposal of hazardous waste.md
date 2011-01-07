@@ -74,7 +74,7 @@ Notwithstanding subsection (a) through (e) of this section, any surface coal min
 
 &emsp;(B) shall provide for the receipt and treatment by the facility of only those types and quantities of hazardous waste which the Administrator deems necessary for purposes of determining the efficacy and performance capabilities of the technology or process and the effects of such technology or process on human health and the environment, and
 
-&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including,but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>1</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testing and providing of information to the Administrator with respect to the operation of the facility.
+&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including, but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>1</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testingand providing of information to the Administrator with respect to the operation of the facility.
 
 > The Administrator may apply the criteria set forth in this paragraph in establishing the conditions of each permit without separate establishment of regulations implementing such criteria.
 
@@ -106,7 +106,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (4) The Administrator (or the State, in the case of a State with an authorized program), after notice and opportunity for comment, may modify the requirements of paragraph (1) for any surface impoundment if the owner or operator demonstrates that such surface impoundment is located, designed and operated so as to assure that there will be no migration of any hazardous constitutent <sup>2</sup> into ground water or surface water at any future time. The Administrator or the State shall take into account locational criteria established under section 6924(<i>o</i>)(7) of this title.
 
-(5) The owner or operator of any surface impoundment potentially subject to paragraph (1) who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect tosuch surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
+(5) The owner or operator of any surface impoundment potentially subject to paragraph (1) who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect to such surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
 
 &emsp;(A) an application for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility, if not previously submitted;
 
@@ -136,9 +136,9 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (9) In the case of any surface impoundment which has been excluded by paragraph (2) on the basis of a liner meeting the definition under paragraph (12)(A)(ii), at the closure of such impoundment the Administrator shall require the owner or operator of such impoundment to remove or decontaminate all waste residues, all contaminated liner material, and contaminated soil to the extent practicable. If all contaminated soil is not removed or decontaminated, the owner or operator of such impoundment shall be required to comply with appropriate post-closure requirements, including but not limited to ground water monitoring and corrective action.
 
-(10) Any incremental cost attributable to the requirements of this subsection or section6924(<i>o</i>) of this title shall not be considered by the Administrator (or the State, in the case of a State with an authorized program under section 1342 of title 33)—
+(10) Any incremental cost attributable to the requirements of this subsection or section 6924(<i>o</i>) of this title shall not be considered by the Administrator (or the State, in the case of a State with an authorized program under section 1342 of title 33)—
 
-&emsp;(A) in establishing effluent limitations and standards under section 1311, 1314, 1316, 1317, or 1342 of title 33 based on effluent limitations guidelines and standards promulgated any time before twelve months after November 8, 1984; or
+&emsp;(A) in establishing effluent limitations and standards under section 1311, 1314, 1316, 1317, or 1342 of title 33 based on effluent limitationsguidelines and standards promulgated any time before twelve months after November 8, 1984; or
 
 &emsp;(B) in establishing any other effluent limitations to carry out the provisions of section 1311, 1317, or 1342 of title 33 on or before October 1, 1986.
 
@@ -174,11 +174,11 @@ The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–119, §4(6), substituted “polychlorinated” for “polycholorinated”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–119, §4(6), substituted “polychlorinated” for “polycholorinated”.
 
 Subsec. (e)(1)(C). Pub. L. 104–119, §4(7), inserted comma at end of subpar. (C).
 
-1984—Subsec. (a). Pub. L. 98–616, §211, substituted “an existing facility or planning to construct a new” for “a”, inserted “and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste”, and inserted at end “No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §211, substituted “an existing facility or planning to construct a new” for “a”, inserted “and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste”, and inserted at end “No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.”
 
 Subsec. (c)(1), (2). Pub. L. 98–616, §213(c), designated existing provisions as par. (1) and added par. (2).
 
@@ -194,11 +194,11 @@ Subsec. (i). Pub. L. 98–616, §243(c), added subsec. (i).
 
 Subsec. (j). Pub. L. 98–616, §215, added subsec. (j).
 
-1980—Subsec. (e)(1). Pub. L. 96–482, §10, substituted “November 19, 1980” for “October 21, 1976”.
+<b>1980</b>—Subsec. (e)(1). Pub. L. 96–482, §10, substituted “November 19, 1980” for “October 21, 1976”.
 
 Subsec. (f). Pub. L. 96–482, §11, added subsec. (f).
 
-1978—Subsec (a). Pub. L. 95–609 inserted “treatment, storage, or” after “and after such date the”.
+<b>1978</b>—Subsec (a). Pub. L. 95–609 inserted “treatment, storage, or” after “and after such date the”.
 
 #### Transfer of Functions
 

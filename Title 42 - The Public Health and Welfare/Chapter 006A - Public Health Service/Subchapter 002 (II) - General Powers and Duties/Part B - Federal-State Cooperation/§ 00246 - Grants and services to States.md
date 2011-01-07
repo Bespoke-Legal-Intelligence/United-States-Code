@@ -52,21 +52,21 @@ The Secretary is also authorized, during the period beginning July 1, 1966, and 
 
 #### Amendments
 
-1991—Subsec. (a)(2)(B). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”, “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “such Department” for “such Administration”.
+<b>1991</b>—Subsec. (a)(2)(B). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”, “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “such Department” for “such Administration”.
 
-1985—Subsec. (g). Pub. L. 99–117 directed that subsec. (g) be repealed. Previously, subsec. (g) was repealed by Pub. L. 96–398. See 1980 Amendment note below.
+<b>1985</b>—Subsec. (g). Pub. L. 99–117 directed that subsec. (g) be repealed. Previously, subsec. (g) was repealed by Pub. L. 96–398. See 1980 Amendment note below.
 
-1981—Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to grants for services, form, manner, etc., of application, review of activities undertaken, allotments, and authorization of appropriations.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to grants for services, form, manner, etc.,of application, review of activities undertaken, allotments, and authorization of appropriations.
 
-1980—Subsec. (g). Pub. L. 96–398 struck out subsec. (g) which related to application, procedures applicable, amount, etc., for State mental health program grants.
+<b>1980</b>—Subsec. (g). Pub. L. 96–398 struck out subsec. (g) which related to application, procedures applicable, amount, etc., for State mental health program grants.
 
-1979—Subsec. (d)(2)(C)(ii). Pub. L. 96–32, §6(e), substituted “uniform national health program reporting system” for “uniform national reporting system”.
+<b>1979</b>—Subsec. (d)(2)(C)(ii). Pub. L. 96–32, §6(e), substituted “uniform national health program reporting system” for “uniform national reporting system”.
 
 Subsec. (d)(4)(A). Pub. L. 96–32, §6(f), in provision following subd. (II) of cl. (ii), substituted “the preceding provisions of this subparagraph” for “clauses (i) and (ii)” and “amount” for “amounts” and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amount which bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
 
 Subsec. (g)(2)(D)(iv). Pub. L. 96–79 substituted “a plan which is consistent with the State health plan in effect for the State under section 300m–3(c) of this title and” for “a plan”.
 
-1978—Subsec. (d). Pub. L. 95–626, §201(b)(2), completely revised subsec. (d) under which the Secretary is authorized to make grants to State health authorities to assist in meeting the costs of providing comprehensive public health services by including requirements that the States submit an application outlining how funds will be used to supplement non-Federal support for the provision of public health services in the State, by setting out formulae under which funds will be made available to States including definitions of “applicable grant computation percentage” and “State and local expenditures for comprehensive public health services”, by requiring implementation of a national health program reporting system to assure accountability for expenditure of funds, and by authorizing appropriations of $150,000,000 for fiscal year ending Sept. 30, 1980, and $170,000,000 for fiscal year ending Sept. 30, 1981.
+<b>1978</b>—Subsec. (d). Pub. L. 95–626, §201(b)(2), completely revised subsec. (d) under which the Secretary is authorized to make grants to State health authorities to assist in meeting the costs of providing comprehensive public health services by including requirements that the States submit an application outlining how funds will be used to supplement non-Federal support for the provision of public health services in the State, by setting out formulae under which funds will be made available to States including definitions of “applicable grant computation percentage” and “State and local expenditures for comprehensive public health services”, by requiring implementation of a national health program reporting system to assure accountability for expenditure of funds, and by authorizing appropriations of $150,000,000 for fiscal year ending Sept. 30, 1980, and $170,000,000 for fiscal year ending Sept. 30, 1981.
 
 Subsec. (d)(7)(A). Pub. L. 95–626, §201(a)(1), inserted provision authorizing an appropriation of $103,000,000 for fiscal year ending Sept. 30, 1979.
 
@@ -76,17 +76,17 @@ Subsec. (f). Pub. L. 95–454 designated existing provisions of section 403 of P
 
 Subsec. (g). Pub. L. 95–622 substituted provisions relating to grants for State mental health programs for provisions relating to regulations and amendments with respect to grants to States under subsecs. (a) and (d) and reduction and suspension of subsec. (a) and (d) grant payments.
 
-1977—Subsec. (d)(7)(A). Pub. L. 95–83, §302(a), substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $106,750,000 for fiscal year ending Sept. 30, 1978.
+<b>1977</b>—Subsec. (d)(7)(A). Pub. L. 95–83, §302(a), substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $106,750,000 for fiscal year ending Sept. 30, 1978.
 
 Subsec. (d)(7)(B). Pub. L. 95–83, §302(b), substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $12,680,000 for fiscal year ending Sept. 30, 1978.
 
-1976—Subsec. (g)(4)(B). Pub. L. 94–484 defined “State” to include the Northern Mariana Islands.
+<b>1976</b>—Subsec. (g)(4)(B). Pub. L. 94–484 defined “State” to include the Northern Mariana Islands.
 
-1975—Subsec. (d). Pub. L. 94–63, §§102, 701(a), substituted provisions relating to grants made pursuant to allotments to State health and mental health authorities for meeting the costs of providing comprehensive public health services, for provisions relating to grants made pursuant to appropriations for fiscal year ending June 30, 1968 to fiscal year ending June 30, 1975, to State health or mental health authorities to aid in the establishment and maintenance of adequate public health services, including the training of personnel for State and local health work.
+<b>1975</b>—Subsec. (d). Pub. L. 94–63, §§102, 701(a), substituted provisions relating to grants made pursuant to allotments to State health and mental health authorities for meeting the costs of providing comprehensive public health services, for provisions relating to grants made pursuant to appropriations for fiscal year ending June 30, 1968 to fiscal year ending June 30, 1975, to State health or mental health authorities to aid in the establishment and maintenance of adequate public health services, including the training of personnel for State and local health work.
 
-Subsec. (e). Pub. L. 94–63, §§501(b), 701(b), struck out subsec. (e) which authorized appropriations from fiscalyear ending June 30, 1968 through fiscal year ending June 30, 1975 for project grants for health services and related training, set forth procedures for making such grants, and prohibited grants after the fiscal year ending June 30, 1975, for provisions of this chapter amended by title VII of the Health Revenue Sharing and Health Services Act of 1975.
+Subsec. (e). Pub. L. 94–63, §§501(b), 701(b), struck out subsec. (e) which authorized appropriations from fiscal year ending June 30, 1968 through fiscal year ending June 30, 1975 for project grants for health services and related training, set forth procedures for making such grants, and prohibited grants after the fiscal year ending June 30, 1975, for provisions of this chapter amended by title VII of the Health Revenue Sharing and Health Services Act of 1975.
 
-1973—Subsec. (a)(1). Pub. L. 93–45, §106(a)(1), authorized appropriations of $10,000,000 for fiscal year ending June 30, 1974.
+<b>1973</b>—Subsec. (a)(1). Pub. L. 93–45, §106(a)(1), authorized appropriations of $10,000,000 for fiscal year ending June 30, 1974.
 
 Subsec. (b)(1)(A). Pub. L. 93–45, §106(a)(2), (b), authorized appropriations of $25,100,000 for fiscal year ending June 30, 1974, and extended period for making project grants from June 30, 1973, to June 30, 1974.
 
@@ -98,11 +98,11 @@ Subsec. (e). Pub. L. 93–151 prohibited use of appropriated funds for lead base
 
 Pub. L. 93–45, §106(a)(5), authorized appropriations of $230,700,000 for fiscal year ending June 30, 1974, and prohibited any grant for such fiscal year to cover cost of services described in cl. (1) or (2) of the first sentence if a grant or contract to cover cost of such services may be made or entered into from funds authorized to be appropriated for such fiscal year under an appropriations authorization in any provision of this chapter (other than this subsection) amended by title I of the Health Programs Extension Act of 1973.
 
-1972—Subsec. (d)(2)(K). Pub. L. 92–255 required State plans to provide for licensing of facilities for treatment and rehabilitation of persons with drug abuse and other drug dependence problems and for expansion of State mental health programs and other prevention and treatment programs in the field of drug abuse and drug dependence.
+<b>1972</b>—Subsec. (d)(2)(K). Pub. L. 92–255 required State plans to provide for licensing of facilities for treatment and rehabilitation of persons with drug abuse and other drug dependence problems and for expansion of State mental health programs and other prevention and treatment programs in the field of drug abuse and drug dependence.
 
-1971—Subsec. (f). Pub. L. 91–648, §403(a), as amended by Pub. L. 94–454, §602(c), repealed subsec. (f) which authorized the Secretary to arrange the interchange of personnel with States to aid in discharge of responsibilities in field of health care, except as subsec. (b) applied to commissioned officers of the Public Health Service. See 1978 Amendment note above.
+<b>1971</b>—Subsec. (f). Pub. L. 91–648, §403(a), as amended by Pub. L. 94–454, §602(c), repealed subsec. (f) which authorized the Secretary to arrange the interchange of personnel with States to aid in discharge of responsibilities in field of health care, except as subsec. (b) applied to commissioned officers of the Public Health Service. See 1978 Amendment note above.
 
-1970—Pub. L. 91–515, §282, substituted “Secretary” for “Surgeon General” in subsecs. (a)(1), (a)(2)(C), (E) to (H), (K), (a)(3)(B), (a)(4), (b)(1)(A), (c), (d)(1), (d)(2)(C), (F) to (H), (J), (d)(4)(A), (d)(6), and (g)(1) to (3).
+<b>1970</b>—Pub. L. 91–515, §282, substituted “Secretary” for “Surgeon General” in subsecs. (a)(1), (a)(2)(C), (E) to (H), (K), (a)(3)(B), (a)(4), (b)(1)(A), (c), (d)(1), (d)(2)(C), (F) to (H), (J), (d)(4)(A), (d)(6), and (g)(1) to (3).
 
 Subsec. (a)(1). Pub. L. 91–515, §220(a), extended period for making grants to States from June 30, 1970 to June 30, 1973, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
 
@@ -130,7 +130,7 @@ Subsec. (e). Pub. L. 91–515, §260(a), (b), (c)(1), inserted provisions author
 
 Pub. L. 91–296, §401(b)(1)(D), struck out provision for use of up to 1 per centum of appropriation for grants under subsec. (e) by the Secretary for evaluation.
 
-1967—Subsec. (a)(1). Pub. L. 90–174, §2(a)(1), extended period for making grants to States from June 30, 1968, to June 30, 1970, increased appropriations authorization for fiscal year ending June 30, 1968, from $5,000,000 to $7,000,000, and authorized appropriations of $10,000,000 and $15,000,000 for fiscal years ending June 30, 1969, and 1970, respectively.
+<b>1967</b>—Subsec. (a)(1). Pub. L. 90–174, §2(a)(1), extended period for making grants to States from June 30, 1968, to June 30, 1970, increased appropriations authorization for fiscal year ending June 30, 1968, from $5,000,000 to $7,000,000, and authorized appropriations of $10,000,000 and $15,000,000 for fiscal years ending June 30, 1969, and 1970, respectively.
 
 Subsec. (a)(2)(I) to (K). Pub. L. 90–174, §2(a)(2), added subpar. (I) and redesignated former subpars. (I) and (J) as (J) and (K), respectively.
 
@@ -146,7 +146,7 @@ Subsec. (d)(5). Pub. L. 90–174, §2(d)(2), made Federal share of 662/3 per cen
 
 Subsec. (d)(7). Pub. L. 90–174, §2(d)(3), provided for an allocation of 70 per centum of funds for provision under the State plan of services in communities of the State.
 
-Subsec. (e). Pub. L. 90–174, §§2(e), 3(b)(2), 8(b), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $90,000,000, authorized appropriations of $95,000,000 and $80,000,000 forfiscal years ending June 30, 1969, and 1970, respectively, inserted “(including related training)” after “providing services” in cl. (1), substituted “developing” for “stimulating” and inserted “(including related training)” after “health services” in cl. (2), struck out cl. (3) which authorized grants to cover part of cost of undertaking studies, demonstrations, or training designed to develop new methods or improve existing methods of providing health services, and made program evaluation funds available for any fiscal year ending after June 30, 1968.
+Subsec. (e). Pub. L. 90–174, §§2(e), 3(b)(2), 8(b), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $90,000,000, authorized appropriations of $95,000,000 and $80,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, inserted “(including related training)” after “providing services” in cl. (1), substituted “developing” for “stimulating” and inserted “(including related training)” after “health services” in cl. (2), struck out cl. (3) which authorized grants to cover part of cost of undertaking studies, demonstrations, or training designed to develop new methods or improve existing methods of providing health services, and made program evaluation funds available for any fiscal year ending after June 30, 1968.
 
 Subsec. (f)(5). Pub. L. 90–174, §12(d)(1), inserted “for” before “the expenses of travel”.
 
@@ -154,7 +154,7 @@ Subsec. (f)(6), (8). Pub. L. 90–174, §12(d)(2), substituted “Department” 
 
 Subsec. (g)(4)(B). Pub. L. 90–174, §2(f), defined “State” to include the Trust Territory of the Pacific Islands.
 
-1966—Subsec. (a). Pub. L. 89–749 substituted provisions authorizing the Surgeon General to make grants to States to assist in comprehensive and continuing planning for their current and future health needs, authorizing appropriations therefor, setting out the requirements for an acceptable State plan for comprehensive State health planning, covering the allotting of the appropriated sums to the States, and the payment of the allotted funds, for provisions authorizing the Surgeon General, through the use of grants and other assistance, to help local programs of prevention, treatment, and control of venereal diseases, covering the payment of the costs of assistance by personnel of the Public Health Service to assist in carrying out the purposes of the section with respect to venereal disease, and authorizing the appropriation of funds.
+<b>1966</b>—Subsec. (a). Pub. L. 89–749 substituted provisions authorizing the Surgeon General to make grants to States to assist in comprehensive and continuing planning for their current and future health needs, authorizing appropriations therefor, setting out the requirements for an acceptable State plan for comprehensive State health planning, covering the allotting of the appropriated sums to the States, and the payment of the allotted funds, for provisions authorizing the Surgeon General, through the use of grants and other assistance, to help local programs of prevention, treatment, and control of venereal diseases, covering the payment of the costs of assistance by personnel of the Public Health Service to assist in carrying out the purposes of the section with respect to venereal disease, and authorizing the appropriation of funds.
 
 Subsec. (b). Pub. L. 89–749 substituted provisions for project grants by the Surgeon General covering the development of comprehensive regional, metropolitan, or local coordination of existing and planned health facilities and persons required for providing services and the authorization of appropriations of $5,000,000 for fiscal 1967 and $7,500,000 for fiscal 1968 for provisions authorizing the appropriation of funds to enable the Surgeon General to aid in the development of measures for the local prevention, treatment, and control of tuberculosis.
 
@@ -162,7 +162,7 @@ Subsec. (c). Pub. L. 89–749 substituted provisions for project grants for the 
 
 Subsec. (d). Pub. L. 89–749 substituted provisions authorizing grants by the Surgeon General to State health or mental health authorities to assist in establishing and maintaining adequate public health services, setting out the requirements for an acceptable State plan for the supplying of public health services, authorizing an appropriation of $62,500,000 for fiscal 1968, the allotment of appropriated funds, payments to States, and the determination of the Federal share for provisions covering the allotment of appropriated funds among the several States on the basis of population, incidence of venereal disease, tuberculosis, mental health problems, and the financial needs of the various States.
 
-Subsec. (e). Pub. L. 89–749 substituted provisions for project grants for health services development to public or private nonprofit agencies and for the authorization of an appropriation of $62,500,000 for fiscal 1968 for provisions covering the establishment and maintenance of community programs of heart disease control and the allotments and appropriations therefor.
+Subsec. (e). Pub. L. 89–749 substituted provisions for project grants for health services development to public or private nonprofit agencies and for the authorization of an appropriation of $62,500,000 for fiscal 1968 forprovisions covering the establishment and maintenance of community programs of heart disease control and the allotments and appropriations therefor.
 
 Subsec. (f). Pub. L. 89–749 substituted provisions covering the interchange of personnel with States, the application of statutes covering Federal employees to interchanged personnel, and the coverage of State officers and employees, for provisions for the determination and certification of amounts paid to each State from allotments thereto.
 
@@ -170,19 +170,19 @@ Subsec. (g). Pub. L. 89–749 substituted provisions for consultation with State
 
 Subsecs. (h) to (m). Pub. L. 89–749 struck out subsecs. (h) to (m) which dealt, respectively, with requirement that State funds be provided for same purpose as that for which allotted funds are spent, cessation of Federal aid and procedures in connection therewith, promulgation of rules and regulations and consultation with State health authorities precedent thereto, availability of appropriated funds for administrative expenses including printing and travel expenses, applicability of section to Guam and Samoa, and reduction of payments commensurate to expense of detailing of Public Health Service personnel to States.
 
-1965—Subsec. (c). Pub. L. 89–109 substituted “first six fiscal years ending after June 30, 1961” for “first five fiscal years ending after June 30, 1961” and “$5,000,000” for “$2,500,000”.
+<b>1965</b>—Subsec. (c). Pub. L. 89–109 substituted “first six fiscal years ending after June 30, 1961” for “first five fiscal years ending after June 30, 1961” and “$5,000,000” for “$2,500,000”.
 
-1962—Subsec. (<i>l</i>). Pub. L. 87–688 inserted “and American Samoa”, “or American Samoa”, and “or American Samoa, respectively” after “Guam”.
+<b>1962</b>—Subsec. (<i>l</i>). Pub. L. 87–688 inserted “and American Samoa”, “or American Samoa”, and “or American Samoa, respectively” after “Guam”.
 
-1961—Subsec. (c). Pub. L. 87–395, §2(a)–(c), substituted “of the first five fiscal years ending after June 30, 1961, the sum of $50,000,000” for “fiscal year a sum not to exceed $30,000,000”, “such amount as may be necessary” for “an amount, not to exceed $3,000,000”, “$2,500,000” for “$1,000,000”, and provided that when an appropriating act provides that the amounts it specifies are available only for allotments and payments for such services and activities under this subsection as specified in such act, the requirements of subsec. (h) shall apply to such allotments and payments.
+<b>1961</b>—Subsec. (c). Pub. L. 87–395, §2(a)–(c), substituted “of the first five fiscal years ending after June 30, 1961, the sum of $50,000,000” for “fiscal year a sum not to exceed $30,000,000”, “such amount as may be necessary” for “an amount, not to exceed $3,000,000”, “$2,500,000” for “$1,000,000”, and provided that when an appropriating act provides that the amounts it specifies are available only for allotments and payments for such services and activities under this subsection as specified in such act, the requirements of subsec. (h) shall apply to such allotments and payments.
 
 Subsec. (m). Pub. L. 87–395, §2(d), added subsec. (m).
 
-1958—Subsec. (c). Pub. L. 85–544 designated existing provisions of second sentence as cl. (1) and added cl. (2).
+<b>1958</b>—Subsec. (c). Pub. L. 85–544 designated existing provisions of second sentence as cl. (1) and added cl. (2).
 
-1956—Subsec. (<i>l</i>). Act Aug. 1, 1956, added subsec. (<i>l</i>).
+<b>1956</b>—Subsec. (<i>l</i>). Act Aug. 1, 1956, added subsec. (<i>l</i>).
 
-1948—Subsec. (e). Act June 16, 1948, §5(a), added subsec. (e) to provide for community programs of heart disease control. Former subsec. (e) redesignated (f).
+<b>1948</b>—Subsec. (e). Act June 16, 1948, §5(a), added subsec. (e) to provide for community programs of heart disease control. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Act June 16, 1948, §5(a), (b), redesignated former subsec. (e) as (f) and inserted proviso relating to determination and certification of amounts to be paid under subsec. (e). Former subsec. (f) redesignated (g).
 
@@ -194,7 +194,7 @@ Subsec. (i). Act June 16, 1948, §5(a), (e), redesignated former subsec. (h) as 
 
 Subsecs. (j), (k). Act June 16, 1948, §5(a), redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-1946—Subsec. (c). Act July 3, 1946, increased annual appropriation from $20,000,000 to $30,000,000, and increased annual amount available to provide demonstrations and to train personnel for State and local health work from $2,000,000 to $3,000,000.
+<b>1946</b>—Subsec. (c). Act July 3, 1946, increased annual appropriation from $20,000,000 to $30,000,000, and increased annual amount available to provide demonstrations and to train personnel for State and local health work from $2,000,000 to $3,000,000.
 
 Subsec. (d). Act July 3, 1946, provided that Surgeon General shall give special consideration to the extent of the mental health problem as well as other special problems.
 
@@ -242,7 +242,7 @@ Section 3(b) of Pub. L. 90–174 provided that the amendment of this section, th
 
 #### Effective Date of 1966 Amendment
 
-Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
+Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\]shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
 
 #### Effective Date of 1962 Amendment
 
@@ -280,7 +280,7 @@ Section 201(b)(1) of Pub. L. 95–626 provided that: “The Congress finds and d
 
 &emsp;“(C) the Federal contribution to funds for public health programs should serve as an incentive to an additional investment by State and local governments;
 
-&emsp;“(D) existing categorical programs of Federal financial assistance to combat specific public health problems should be supplemented by a national program of stable generic support for such public health activities as the prevention and control of environmental health hazards, prevention and control of diseases, prevention and control of health problems ofparticularly vulnerable population groups, and development and regulation of health care facilities and health services delivery systems; and
+&emsp;“(D) existing categorical programs of Federal financial assistance to combat specific public health problems should be supplemented by a national program of stable generic support for such public health activities as the prevention and control of environmental health hazards, prevention and control of diseases, prevention and control of health problems of particularly vulnerable population groups, and development and regulation of health care facilities and health services delivery systems; and
 
 &emsp;“(E) the States and their communities, not the Federal Government, should have primary responsibility for identifying and measuring the impact of public health problems and the allocation of resources for their amelioration.”
 
@@ -306,7 +306,7 @@ Section 2 of Pub. L. 85–544, which had limited the authority of the Surgeon Ge
 
 #### Grants to States To Provide for Vaccination Against Poliomyelitis
 
-The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863, 69 Stat. 704, as amended Feb. 15, 1956, ch. 39, 70 Stat. 18, authorized appropriations to remain available until close of June 30, 1957 and provided for allotments to States, State application for funds, payments to States, use of funds paid to States, furnishing of vaccine by Surgeon General, diversion of Federal funds, supervision over exercise of functions, and definitions.
+The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863, 69 Stat. 704, as amended Feb.15, 1956, ch. 39, 70 Stat. 18, authorized appropriations to remain available until close of June 30, 1957 and provided for allotments to States, State application for funds, payments to States, use of funds paid to States, furnishing of vaccine by Surgeon General, diversion of Federal funds, supervision over exercise of functions, and definitions.
 
 #### Applicability of Reorganization Plan No. 3 of 1966
 

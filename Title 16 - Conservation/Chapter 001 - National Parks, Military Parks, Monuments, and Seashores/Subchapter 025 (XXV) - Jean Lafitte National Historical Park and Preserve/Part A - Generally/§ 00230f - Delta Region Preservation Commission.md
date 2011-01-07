@@ -28,7 +28,7 @@ Members of the Commission shall serve without compensation as such. The Secretar
 
 #### (c) Functions
 
-The function of the Commission shall be to advise the Secretary in the selection of sites for inclusion in the park, in the development and implementation of a general management plan, and in the development and implementation of a comprehensive interpretive program of the natural, historic, and cultural resources of the region. The Commission shall inform interested members of the public, the State of Louisianaand its political subdivisions, and interested Federal agencies with respect to existing and proposed actions and programs having a material effect on the perpetuation of a high-quality natural and cultural environment in the delta region.
+The function of the Commission shall be to advise the Secretary in the selection of sites for inclusion in the park, in the development and implementation of a general management plan, and in the development and implementation of a comprehensive interpretive program of the natural, historic, and cultural resources of the region. The Commission shall inform interested members of the public, the State of Louisiana and its political subdivisions, and interested Federal agencies with respect to existing and proposed actions and programs having a material effect on the perpetuation of a high-quality natural and cultural environment in the delta region.
 
 #### (d) Majority voting; generally; single parish or municipality
 
@@ -42,13 +42,13 @@ The Directors of the Heritage Conservation and Recreation Service and the Nation
 
 #### Amendments
 
-1988—Subsec. (a)(6), (7). Pub. L. 100–355, §2(1), (2), which directed that in par. (6) “region;” be substituted for “region; and” and that in par. (7) “Arts; and” be substituted for “Arts.” could not be executed because of prior amendment by section 401(q)(3) of Pub. L. 96–87.
+<b>1988</b>—Subsec. (a)(6), (7). Pub. L. 100–355, §2(1), (2), which directed that in par. (6) “region;” be substituted for “region; and” and that in par. (7) “Arts; and” be substituted for “Arts.” could not be executed because of prior amendment by section 401(q)(3) of Pub. L. 96–87.
 
 Subsec. (a)(8). Pub. L. 100–355, §2(3), added par. (8) relating to appointment of member with experience as folklorist familiar with cultures of Mississippi Delta Region.
 
 Subsec. (e). Pub. L. 100–250 substituted “twenty” for “ten”.
 
-1979—Subsec. (a)(8). Pub. L. 96–87, §401(q)(3), added par. (8).
+<b>1979</b>—Subsec. (a)(8). Pub. L. 96–87, §401(q)(3), added par. (8).
 
 Subsec. (e). Pub. L. 96–87, §401(q)(4), provided that the Commission terminate ten years from November 10, 1978.
 

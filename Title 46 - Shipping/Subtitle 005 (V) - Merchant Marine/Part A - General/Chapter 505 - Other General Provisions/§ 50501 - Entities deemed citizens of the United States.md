@@ -36,7 +36,7 @@ Percent Corporate Interest.—At least 75 percent of the interest in a corporati
 
 &emsp;(2) at least 75 percent of the voting power in the corporation is vested in citizens of the United States;
 
-&emsp;(3) there is no contract or understanding by which more than 25 percent of the votingpower in the corporation may be exercised, directly or indirectly, in behalf of a person not a citizen of the United States; and
+&emsp;(3) there is no contract or understanding by which more than 25 percent of the voting power in the corporation may be exercised, directly or indirectly, in behalf of a person not a citizen of the United States; and
 
 &emsp;(4) there is no other means by which control of more than 25 percent of any interest in the corporation is given to or permitted to be exercised by a person not a citizen of the United States.
 

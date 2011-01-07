@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§600c, 608 (R.S. §§236, 823, 848, 855; June 10, 1921, ch. 18, §305, 42 Stat. 24; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Oct. 13, 1941, ch. 431, §2, 55 Stat. 736; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088).
+Based on title 28, U.S.C., 1940 ed., §§600c, 608 (R.S. §§236, 823, 848, 855; June 10, 1921, ch. 18, §305, 42 Stat. 24; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Oct.13, 1941, ch. 431, §2, 55 Stat. 736; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088).
 
 Section consolidates parts of sections 600c and 608 of title 28, U.S.C., 1940 ed., relating to payment of witnesses. Other provisions of such sections are incorporated in sections 1821 and 1871 of this title.
 
@@ -36,7 +36,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1986—Pub. L. 99–651 amended section generally. Prior to amendment, section read as follows:
+<b>1986</b>—Pub. L. 99–651 amended section generally. Prior to amendment, section read as follows:
 
 “In any case wherein the United States or an officer or agency thereof, is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States Attorney or Assistant United States Attorney, and in the proceedings before a United States Commissioner, on the certificate of such commissioner.
 
@@ -44,7 +44,7 @@ Changes were made in phraseology.
 
 “Fees and mileage need not be tendered to the witness upon service of a subpena issued in behalf of the United States or an officer or agency thereof, or upon service of a subpena issued on behalf of a party, authorized to proceed in forma pauperis, where the payment thereof is to be made by the United States marshal as authorized in this section.”
 
-1965—Pub. L. 89–162 inserted provisions that, in all proceedings in forma pauperis, for a writ of habeas corpus, or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis on the certificate of the district judge and that fees and mileage need not be tendered to the witness upon service of a subpena issued on behalf of a party authorized to proceed in forma pauperis where the payment thereof is to be made by the United States marshal as authorized in this section.
+<b>1965</b>—Pub. L. 89–162 inserted provisions that, in all proceedings in forma pauperis, for a writ of habeas corpus, or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis on the certificate of the district judge and that fees and mileage need not be tendered to the witness upon service of a subpena issued on behalf of a party authorized to proceed in forma pauperis where the payment thereof is to be made by the United States marshal as authorized in this section.
 
 #### Change of Name
 
@@ -52,5 +52,5 @@ Changes were made in phraseology.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set outas a note under section 3006A of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
 

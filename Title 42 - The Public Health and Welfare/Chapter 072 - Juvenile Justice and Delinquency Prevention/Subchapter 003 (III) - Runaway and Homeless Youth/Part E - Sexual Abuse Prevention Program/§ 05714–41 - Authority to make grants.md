@@ -12,5 +12,5 @@ In selecting applicants to receive grants under subsection (a) of this section, 
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–378 inserted “public and” after “priority to”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–378 inserted “public and” after “priority to”.
 

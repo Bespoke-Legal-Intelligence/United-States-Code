@@ -1,5 +1,5 @@
 
-35 U.S.C.<br>United States Code, 2009 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+35 U.S.C.<br>United States Code, 2010 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 35—PATENTS
 
@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
 
-1984—Pub. L. 98–622, title IV, §403(b), Nov. 8, 1984, 98 Stat. 3392, added item IV.
+<b>1984</b>—Pub. L. 98–622, title IV, §403(b), Nov. 8, 1984, 98 Stat. 3392, added item IV.
 
 Table Showing Disposition of All Sections of Former Title 35
 

@@ -10,9 +10,9 @@ Section 3 of the World War Veterans’ Act, 1924, referred to in text, is sectio
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 753 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 753 of this title as this section.
 
-1979—Pub. L. 96–128 substituted “such person's” for “his”.
+<b>1979</b>—Pub. L. 96–128 substituted “such person's” for “his”.
 
 #### Effective Date of 1979 Amendment
 

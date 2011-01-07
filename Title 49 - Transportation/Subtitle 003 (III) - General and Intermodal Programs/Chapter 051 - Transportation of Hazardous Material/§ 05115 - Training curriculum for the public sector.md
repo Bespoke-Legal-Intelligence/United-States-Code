@@ -82,7 +82,7 @@ This amends 49:5115(b)(1)(C) to make a cross-reference more precise.
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §7113(a), inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: “Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7113(a), inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: “Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams.”
 
 Subsec. (b). Pub. L. 109–59, §7113(b)(1), substituted “maintained and updated” for “developed” in introductory provisions.
 
@@ -98,7 +98,7 @@ Subsec. (d)(2). Pub. L. 109–59, §7126, substituted “Secretary” for “Sec
 
 Pub. L. 109–59, §7113(d)(3), inserted “and distribute” after “publish” and substituted “list of programs and courses maintained and updated under this section and of any programs utilizing such courses” for “list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material”.
 
-1994—Subsec. (b)(1)(C). Pub. L. 103–429 substituted “126(g)” for “126”.
+<b>1994</b>—Subsec. (b)(1)(C). Pub. L. 103–429 substituted “126(g)” for “126”.
 
 #### Change of Name
 

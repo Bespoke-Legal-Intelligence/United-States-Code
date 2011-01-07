@@ -14,9 +14,9 @@ Last sentence of this section was deleted as executed.
 
 #### Amendments
 
-1970—Pub. L. 91–369 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1970</b>—Pub. L. 91–369 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1969—Pub. L. 91–167 substituted “four hundred” for “two hundred” as the number of apprentices which the Public Printer may employ at one time.
+<b>1969</b>—Pub. L. 91–167 substituted “four hundred” for “two hundred” as the number of apprentices which the Public Printer may employ at one time.
 
 #### Repeals
 

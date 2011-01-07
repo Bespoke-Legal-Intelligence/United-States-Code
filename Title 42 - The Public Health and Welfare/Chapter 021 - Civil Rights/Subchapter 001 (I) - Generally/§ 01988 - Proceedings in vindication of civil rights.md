@@ -24,7 +24,7 @@ Civil Rights,’ ” meaning title 24 of the Revised Statutes, consisting of R.
 
 Title 70 of the Revised Statutes, referred to in subsec. (a), was in the original “Title ‘
 
-Crimes,’ ” meaning title 70 of the Revised Statutes, consisting of R.S. §§5323 to5550. For complete classification of R.S. §§5323 to 5550, see Tables.
+Crimes,’ ” meaning title 70 of the Revised Statutes, consisting of R.S. §§5323 to 5550. For complete classification of R.S. §§5323 to 5550, see Tables.
 
 Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, as amended, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, which is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
@@ -42,23 +42,23 @@ Section was formerly classified to section 729 of Title 28 prior to the general 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–274 inserted “the Religious Land Use and Institutionalized Persons Act of 2000,” after “Religious Freedom Restoration Act of 1993,” and deleted comma after “section 13981 of this title,”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–274 inserted “the Religious Land Use and Institutionalized Persons Act of 2000,” after “Religious Freedom Restoration Act of 1993,” and deleted comma after “section 13981 of this title,”.
 
-1996—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission takenin such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
 
-1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
 
-1993—Subsec. (b). Pub. L. 103–141 inserted “the Religious Freedom Restoration Act of 1993,” before “or title VI”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–141 inserted “the Religious Freedom Restoration Act of 1993,” before “or title VI”.
 
-1991—Subsec. (a). Pub. L. 102–166, §113(a)(1), designated first sentence of existing provisions as subsec. (a).
+<b>1991</b>—Subsec. (a). Pub. L. 102–166, §113(a)(1), designated first sentence of existing provisions as subsec. (a).
 
 Subsec. (b). Pub. L. 102–166, §§103, 113(a)(1), designated second sentence of existing provisions as subsec. (b) and inserted “1981a,” after “1981,”.
 
 Subsec. (c). Pub. L. 102–166, §113(a)(2), added subsec. (c).
 
-1980—Pub. L. 96–481 struck out “or in any civil action or proceeding, by or on behalf of the United States of America, to enforce, or charging a violation of, a provision of the United States Internal Revenue Code,”.
+<b>1980</b>—Pub. L. 96–481 struck out “or in any civil action or proceeding, by or on behalf of the United States of America, to enforce, or charging a violation of, a provision of the United States Internal Revenue Code,”.
 
-1976—Pub. L. 94–559 authorized the court, in its discretion, to allow a reasonable attorney's fee as part of the prevailing party's costs.
+<b>1976</b>—Pub. L. 94–559 authorized the court, in its discretion, to allow a reasonable attorney's fee as part of the prevailing party's costs.
 
 #### Effective Date of 1991 Amendment
 

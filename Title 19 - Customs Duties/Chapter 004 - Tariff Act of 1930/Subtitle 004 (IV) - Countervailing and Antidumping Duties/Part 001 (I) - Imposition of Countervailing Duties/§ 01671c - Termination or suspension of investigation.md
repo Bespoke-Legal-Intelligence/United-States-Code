@@ -52,7 +52,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (1) General rule
 
-&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effectof exports to the United States of the subject merchandise.
+&emsp;If the administering authority determines that extraordinary circumstances are presentin a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
 
 #### (2) Certain additional requirements
 
@@ -236,7 +236,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §217(a), designated existing provisions as subpar. (A), inserted heading, realigned margin, and added subpar. (B).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §217(a), designated existing provisions as subpar. (A), inserted heading, realigned margin, and added subpar. (B).
 
 Subsec. (a)(2)(A). Pub. L. 103–465, §§233(a)(5)(D), 270(a)(1)(E), substituted “countervailable subsidy” for “subsidy” and “subject merchandise” for “merchandise that is subject to the investigation”.
 
@@ -280,13 +280,13 @@ Subsec. (j). Pub. L. 103–465, §233(a)(5)(M), substituted “subject merchandi
 
 Subsec. (<i>l</i>). Pub. L. 103–465, §218(a)(1), added subsec. (<i>l</i>).
 
-1988—Subsecs. (g)(2), (h)(1). Pub. L. 100–418 substituted “subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title” for “subparagraph (C), (D), (E), and (F) of section 1677(9) of this title”.
+<b>1988</b>—Subsecs. (g)(2), (h)(1). Pub. L. 100–418 substituted “subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title” for “subparagraph (C), (D), (E), and (F) of section 1677(9) of this title”.
 
-1986—Subsec. (d)(2), (3). Pub. L. 99–514, §1886(a)(4)(A), added par. (2) and redesignated former par. (2) as (3).
+<b>1986</b>—Subsec. (d)(2), (3). Pub. L. 99–514, §1886(a)(4)(A), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (i)(1)(D). Pub. L. 99–514, §1886(a)(4)(B), substituted “intentional” for “international”.
 
-1984—Subsec. (a). Pub. L. 98–573, §604(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An investigation under this part may be terminated by either the administering authority or the Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1671b(b) of this title.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §604(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An investigation under this part may be terminated by either the administering authority or the Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1671b(b) of this title.”
 
 Subsec. (d)(1). Pub. L. 98–573, §604(a)(2)(A), inserted provision, following subpar. (B), that in applying subpar. (A) with respect to any quantitative restriction agreement under subsec. (c) of this section, the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsec. (a)(2)(B)(i), (ii), and (iii) of this section as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsec. (a)(2)(C)(i) and (ii) of this section.
 

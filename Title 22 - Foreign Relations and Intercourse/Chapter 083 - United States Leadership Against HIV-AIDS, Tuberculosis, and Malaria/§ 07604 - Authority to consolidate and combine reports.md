@@ -1,6 +1,6 @@
 ### §7604. Authority to consolidate and combine reports
 
-With respect to the reports required by this chapter to be submitted by the President, to ensure an efficient use of resources, the President may, in his discretion and notwithstanding any other provision of this chapter, consolidate or combine any of these reports, except for the report required by section 7611 of this title, so long as the required elements of each report are addressed and reported within a 90-day period from the original deadline date for submission of the report specified in this chapter. The President may also enter into contracts with organizations with relevant expertise to develop, originate, or contribute to any of the reports required by this chapter to be submitted by the President, with the exception of the 5-year strategy.
+With respect to the reports required by this chapter to be submitted by the President, to ensure an efficient use of resources, the President may, in his discretion and notwithstanding any other provision of this chapter, consolidate or combine any of these reports, except for the report required by section 7611 of this title, so long as the required elements of each report are addressed and reported within a 90-day period from the original deadline date for submission of thereport specified in this chapter. The President may also enter into contracts with organizations with relevant expertise to develop, originate, or contribute to any of the reports required by this chapter to be submitted by the President, with the exception of the 5-year strategy.
 
 (Pub. L. 108–25, §5, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, §5, July 30, 2008, 122 Stat. 2922.)
 
@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2008—Pub. L. 110–293 inserted “, with the exception of the 5-year strategy” before the period at end.
+<b>2008</b>—Pub. L. 110–293 inserted “, with the exception of the 5-year strategy” before the period at end.
 
 #### Delegation of Functions
 

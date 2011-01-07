@@ -114,13 +114,13 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–311 substituted “section 243(d)(4)” for “section 243(c)(4)”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–311 substituted “section 243(d)(4)” for “section 243(c)(4)”.
 
-1988—Subsec. (a). Pub. L. 100–647 struck out at end “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 struck out at end “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
 
-1987—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
 
 Subsec. (a)(1). Pub. L. 99–514, §611(a)(4), substituted “80 percent” for “85 percent”.
 

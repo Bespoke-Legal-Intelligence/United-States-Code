@@ -16,7 +16,7 @@
 
 #### (c) Distribution of grant during academic year
 
-Nothing in this section shall be construed to prohibit an institution from making paymentsof varying amounts from a supplemental grant to a student during an academic year to cover costs for a period which are not applicable to other periods of such academic year.
+Nothing in this section shall be construed to prohibit an institution from making payments of varying amounts from a supplemental grant to a student during an academic year to cover costs for a period which are not applicable to other periods of such academic year.
 
 (Pub. L. 89–329, title IV, §413B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1328; amended Pub. L. 102–325, title IV, §403(c), July 23, 1992, 106 Stat. 505.)
 
@@ -26,7 +26,7 @@ A prior section 1070b–1, Pub. L. 89–329, title IV, §413B, as added Pub. L. 
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–325, §403(c)(1), substituted “Except as provided in paragraph (3), from” for “From” in introductory provisions and inserted “or in a program of study abroad that is approved for credit by the institution at which the student is enrolled” after “course of study at the institution” in subpar. (A).
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §403(c)(1), substituted “Except as provided in paragraph (3), from” for “From” in introductory provisions and inserted “or in a program of study abroad that is approved for credit by the institution at which the student is enrolled” after “course of study at the institution” in subpar. (A).
 
 Subsec. (a)(3). Pub. L. 102–325, §403(c)(2), added par. (3).
 

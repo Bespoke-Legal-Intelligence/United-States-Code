@@ -61,23 +61,25 @@
 
 #### Amendments
 
-2007—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
+<b>2007</b>—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
 
-2004—Pub. L. 108–458, title IV, §4013(b), Dec. 17, 2004, 118 Stat. 3720, added item 44925.
+<b>2004</b>—Pub. L. 108–458, title IV, §4013(b), Dec. 17, 2004, 118 Stat. 3720, added item 44925.
 
 Pub. L. 108–334, title V, §515(c), Oct. 18, 2004, 118 Stat. 1318, added item 44945.
 
-2003—Pub. L. 108–176, title VI, §§605(b)(3), 611(b)(2), Dec. 12, 2003, 117 Stat. 2568, 2572, added items 44923 and 44924.
+<b>2003</b>—Pub. L. 108–176, title VI, §§605(b)(3), 611(b)(2), Dec. 12, 2003, 117 Stat. 2568, 2572, added items 44923 and 44924.
 
 Pub. L. 108–7, div. I, title III, §351(c), Feb. 20, 2003, 117 Stat. 420, added item 44922.
 
-2002—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
+<b>2002</b>—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
 
-2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603,607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+<b>2001</b>—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 
-1996—Pub. L. 104–264, title III, §312(b), Oct. 9, 1996, 110 Stat. 3254, added item 44916.
+<b>1996</b>—Pub. L. 104–264, title III, §312(b), Oct. 9, 1996, 110 Stat. 3254, added item 44916.
+
+<i><sup>1</sup></i><i> Editorially supplied. Section added by Pub. L. 107–71 without corresponding amendment of chapter analysis.</i>
 
 
 ---

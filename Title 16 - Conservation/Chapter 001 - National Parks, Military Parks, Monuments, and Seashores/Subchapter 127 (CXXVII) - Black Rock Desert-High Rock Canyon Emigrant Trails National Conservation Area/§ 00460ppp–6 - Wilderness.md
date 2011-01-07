@@ -26,7 +26,7 @@ In furtherance of the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131 et 
 
 #### (b) Administration of wilderness areas
 
-Subject to valid existing rights, each wilderness area designated by this subchapter shall be administered by the Secretary in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference toDecember 21, 2000, and any reference to the Secretary of Agriculture shall be deemed to be a reference to the Secretary of the Interior.
+Subject to valid existing rights, each wilderness area designated by this subchapter shall be administered by the Secretary in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to December 21, 2000, and any reference to the Secretary of Agriculture shall be deemed to be a reference to the Secretary of the Interior.
 
 #### (c) Maps and legal description
 
@@ -34,7 +34,7 @@ As soon as practicable after December 21, 2000, the Secretary shall submit to Co
 
 #### (d) Grazing
 
-Within the wilderness areas designated under subsection (a) of this section, the grazing of livestock, where established prior to December 21, 2000, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as long as such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act and section 101(f) of Public Law 101–628.
+Within the wilderness areas designated under subsection (a) of this section, the grazing of livestock, where established prior to December 21, 2000, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as longas such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act and section 101(f) of Public Law 101–628.
 
 #### (e) Hunting, trapping, and fishing
 
@@ -74,7 +74,7 @@ Section is comprised of section 1(a)(4) \[div. B, title I, §125 \[§8\]\] of Pu
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–63, §135(a), substituted “October 3, 2001” for “July 19, 2000” wherever appearing.
+<b>2001</b>—Subsec. (a). Pub. L. 107–63, §135(a), substituted “October 3, 2001” for “July 19, 2000” wherever appearing.
 
 Subsecs. (e) to (g). Pub. L. 107–63, §135(c)–(e), added subsecs. (e) to (g).
 

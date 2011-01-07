@@ -76,7 +76,7 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 &emsp;(9) individuals with significant disabilities who are seeking or receiving services at the center will be notified by the center of the existence of, the availability of, and how to contact, the client assistance program;
 
-&emsp;(10) aggressive outreach regarding services provided through the center will be conducted in an effort to reach populations of individualswith significant disabilities that are unserved or underserved by programs under this subchapter, especially minority groups and urban and rural populations;
+&emsp;(10) aggressive outreach regarding services provided through the center will be conducted in an effort to reach populations of individuals with significant disabilities that are unserved or underserved by programs under this subchapter, especially minority groups and urban and rural populations;
 
 &emsp;(11) staff at centers for independent living will receive training on how to serve such unserved and underserved populations, including minority groups and urban and rural populations;
 
@@ -94,5 +94,5 @@ A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 1
 
 #### Amendments
 
-1998—Subsec. (c)(7). Pub. L. 105–332 substituted “management;” for “management, including making arrangements for an annual independent fiscal audit, notwithstanding section 7502(a)(2)(A) of title 31;”.
+<b>1998</b>—Subsec. (c)(7). Pub. L. 105–332 substituted “management;” for “management, including making arrangements for an annual independent fiscal audit, notwithstanding section 7502(a)(2)(A) of title 31;”.
 

@@ -28,11 +28,11 @@ The Director shall—
 
 &emsp;&emsp;(C) test such strategies and widely disseminate those strategies for which there is scientific evidence of effectiveness; and
 
-&emsp;&emsp;(D) determine the most effective approaches for disseminating research findings to health disparity populations, including minority populations.
+&emsp;&emsp;(D) determine the most effective approaches for disseminating research findingsto health disparity populations, including minority populations.
 
 #### (2) Use of certain strategies
 
-&emsp;In carrying out this section, the Director shall implement research strategies and mechanisms that will enhance the involvement of individuals who are members of minority health disparity populations or other health disparity populations, health services researchers who are such individuals, institutions that train such individuals as researchers, members of minority health disparity populations or other health disparity populations for whom the Agency is attempting to improve the quality and outcomes of care, and representatives of appropriate tribal or other community-based organizations with respect to health disparity populations. Such researchstrategies and mechanisms may include the use of—
+&emsp;In carrying out this section, the Director shall implement research strategies and mechanisms that will enhance the involvement of individuals who are members of minority health disparity populations or other health disparity populations, health services researchers who are such individuals, institutions that train such individuals as researchers, members of minority health disparity populations or other health disparity populations for whom the Agency is attempting to improve the quality and outcomes of care, and representatives of appropriate tribal or other community-based organizations with respect to health disparity populations. Such research strategies and mechanisms may include the use of—
 
 &emsp;&emsp;(A) centers of excellence that can demonstrate, either individually or through consortia, a combination of multi-disciplinary expertise in outcomes or quality improvement research, linkages to relevant sites of care, and a demonstrated capacity to involve members and communities of health disparity populations, including minority health disparity populations, in the planning, conduct, dissemination, and translation of research;
 
@@ -60,11 +60,11 @@ The Director shall—
 
 For purposes of this section:
 
-&emsp;(1) The term “health disparity population” has the meaning given such term in section 287c–31 of this title, except that in addition to the meaning so given, the Director may determine that such term includes populations for which there is a significant disparity in the quality, outcomes, cost, or use of health care services or access to or satisfaction with such services as compared to the general population.
+&emsp;(1) The term “health disparity population” has the meaning given such term in section 285t of this title, except that in addition to the meaning so given, the Director may determine that such term includes populations for which there is a significant disparity in the quality, outcomes, cost, or use of health care services or access to or satisfaction with such services as compared to the general population.
 
 &emsp;(2) The term “minority”, with respect to populations, refers to racial and ethnic minority groups as defined in section 300u–6 of this title.
 
-(July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 106–525, title II, §201(a)(2), Nov. 22, 2000, 114 Stat. 2505.)
+(July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 106–525, title II, §201(a)(2), Nov. 22, 2000, 114 Stat. 2505; amended Pub. L. 111–148, title X, §10334(c)(3)(B), Mar. 23, 2010, 124 Stat. 974.)
 
 #### Prior Provisions
 
@@ -77,4 +77,8 @@ Prior sections 299a–2 and 299a–3 were omitted in the general amendment of th
 Section 299a–2, act July 1, 1944, ch. 373, title IX, §904, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2191; amended Pub. L. 102–410, §4(a), Oct. 13, 1992, 106 Stat. 2095; Pub. L. 103–43, title XX, §2013(1), June 10, 1993, 107 Stat. 214, related to health care technology assessment. See section 299b–5 of this title.
 
 Section 299a–3, act July 1, 1944, ch. 373, title IX, §905, as added Pub. L. 105–115, title IV, §409, Nov. 21, 1997, 111 Stat. 2371, established demonstration program regarding centers for education and research on therapeutics. See section 299b–1(b) of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–148 substituted “285t” for “287c–31”.
 

@@ -40,11 +40,11 @@ Section was enacted as part of the National Organ Transplant Act, and not as par
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–144, §2(1), inserted at end “The preceding sentence does not apply with respect to human organ paired donation.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–144, §2(1), inserted at end “The preceding sentence does not apply with respect to human organ paired donation.”
 
 Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
 
-1988—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘human organ’ means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation.”
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘human organ’ means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation.”
 
 #### No Impact on Social Security Trust Fund
 

@@ -18,11 +18,11 @@ Members of school advisory committees established under this section shall serve
 
 #### Amendments
 
-1985—Subsec. (a)(1). Pub. L. 99–145, §1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–145, §1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
 
 Subsec. (b). Pub. L. 99–145, §1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
 
-1979—Subsec. (a)(1). Pub. L. 96–88, §508(j)(1), substituted “parents” for “representatives of sponsors”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–88, §508(j)(1), substituted “parents” for “representatives of sponsors”.
 
 Subsec. (b). Pub. L. 96–88, §508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
 

@@ -14,10 +14,6 @@ The Administrator may accept and utilize such voluntary and uncompensated servic
 
 (Aug. 20, 1937, ch. 720, §10, 50 Stat. 736; Oct. 23, 1945, ch. 433, §5, 59 Stat. 547; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 95–91, title III, §§301(b), 302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
 
-#### References in Text
-
-The civil-service laws, referred to in subsecs. (a) and (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsecs. (a) and (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -26,9 +22,9 @@ Provisions of the second and fourth sentences of subsec. (b) which authorized th
 
 #### Amendments
 
-1949—Subsecs. (a) and (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsecs. (a) and (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-1945—Act Oct. 23, 1945, added subsecs. (a) and (c), designated existing provisions as subsec. (b), and amended such provisions generally.
+<b>1945</b>—Act Oct. 23, 1945, added subsecs. (a) and (c), designated existing provisions as subsec. (b), and amended such provisions generally.
 
 #### Repeals
 

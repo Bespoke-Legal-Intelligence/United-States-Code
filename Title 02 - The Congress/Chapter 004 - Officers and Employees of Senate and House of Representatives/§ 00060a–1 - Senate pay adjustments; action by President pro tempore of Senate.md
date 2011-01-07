@@ -52,7 +52,7 @@ Section 101(i) \[title III, §311(c)\] of Pub. L. 100–202 provided that: “No
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of Title 5, Government Organization and Employees.
 
 #### Order of the President Pro Tempore of the United States Senate
 
@@ -258,7 +258,7 @@ Pub. L. 89–301, §11(g), (h), Oct. 29, 1965, 79 Stat. 1121, provided that:
 
 “(g) Notwithstanding the provision referred to in subsection (h), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Chief Reporter of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, the Chief Clerk of the Senate, the Chaplain of the Senate, and the Postmaster and Assistant Postmaster of the Senate are hereby increased by 3.6 per centum.
 
-“(h) The paragraph imposing limitations on basic and gross compensation of officers and employees of theSenate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended by striking out ‘$22,945’ and inserting in lieu thereof ‘$23,770’.” \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+“(h) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended by striking out ‘$22,945’ and inserting in lieu thereof ‘$23,770’.” \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1964
 
@@ -308,5 +308,5 @@ Act Oct. 24, 1951, ch. 554, §2(e), 65 Stat. 614, provided that: “The rates of
 
 #### Increase in Compensation of Officers of Senate and House—1949
 
-Act Oct. 28, 1949, ch. 783, title I, §101(d), 63 Stat. 974, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
+Act Oct. 28, 1949, ch. 783, title I, §101(d), 63 Stat. 974, provided that: “The rates of basic compensation of eachof the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
 

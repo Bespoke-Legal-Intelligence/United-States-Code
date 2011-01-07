@@ -12,15 +12,15 @@ The Federal reclamation laws, referred to in text, are identified in section 620
 
 #### Codification
 
-The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended this section are only a part of said subsec. (a). The remainder of subsec. (a), amended section 620 of this title and enacted provisions set out as notes under sections 620 and 620k of this title.
+The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended this section are only a part ofsaid subsec. (a). The remainder of subsec. (a), amended section 620 of this title and enacted provisions set out as notes under sections 620 and 620k of this title.
 
 #### Amendments
 
-1968—Pub. L. 90–537 substituted Basalt, Middle Park (including Troublesome, Rabbit Ear, and Azure units), Upper Gunnison (including the East River, Ohio Creek, and Tomichi Creek units), Lower Yampa (including Juniper and Great Northern units), and Upper Yampa (including Hayden Mesa, Wessels, and Toponas units) projects for Parshall, Troublesome, Rabbit Ear, San Miguel, West Divide, Tomichi Creek, East River, Ohio Creek, Dallas Creek, Dolores, Fruit Growers Extension, and Animas-La Plata projects, added Ute Indian unit of the Central Utah Project, San Juan County (Utah), Price River, Grand County (Utah), Gray Canyon, and Juniper (Utah) projects, and that portion of the Sublette projects consisting of a diversion of water from the Green River to the North Platte River Basin in Wyoming to the list of participating projects, and inserted proviso that planning report for Ute Indian unit of Central Utah project be completed on or before December 31, 1974.
+<b>1968</b>—Pub. L. 90–537 substituted Basalt, Middle Park (including Troublesome, Rabbit Ear, and Azure units), Upper Gunnison (including the East River, Ohio Creek, and Tomichi Creek units), Lower Yampa (including Juniper and Great Northern units), and Upper Yampa (including Hayden Mesa, Wessels, and Toponas units) projects for Parshall, Troublesome, Rabbit Ear, San Miguel, West Divide, Tomichi Creek, East River, Ohio Creek, Dallas Creek, Dolores, Fruit Growers Extension, and Animas-La Plata projects, added Ute Indian unit of the Central Utah Project, San Juan County (Utah), Price River, Grand County (Utah), Gray Canyon, and Juniper (Utah) projects, and that portion of the Sublette projects consisting of a diversion of water from the Green River to the North Platte River Basin in Wyoming to the list of participating projects, and inserted proviso that planning report for Ute Indian unit of Central Utah project be completed on or before December 31, 1974.
 
-1964—Pub. L. 88–568 struck out “, Fruitland Mesa, Bostwick Park” and “, Savery-Pot Hook” after “Ohio Creek” and “Dallas Creek”, respectively.
+<b>1964</b>—Pub. L. 88–568 struck out “, Fruitland Mesa, Bostwick Park” and “, Savery-Pot Hook” after “Ohio Creek” and “Dallas Creek”, respectively.
 
-1962—Pub. L. 87–483 struck out “San Juan-Chama, Navajo” after “Gooseberry,” in first sentence.
+<b>1962</b>—Pub. L. 87–483 struck out “San Juan-Chama, Navajo” after “Gooseberry,” in first sentence.
 
 #### Storage of Water at Abiquiu Dam in New Mexico
 

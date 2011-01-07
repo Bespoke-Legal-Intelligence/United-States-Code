@@ -4,7 +4,3 @@ Taxes and assessments on property and incomes, internal-revenue taxes, license f
 
 (June 22, 1936, ch. 699, §36, 49 Stat. 1816.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
-

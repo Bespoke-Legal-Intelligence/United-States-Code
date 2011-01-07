@@ -50,7 +50,7 @@ The Corporation, including its franchise, capital, reserves, surplus, advances, 
 
 The Corporation shall publish, and make available to applicants for insurance, reinsurance, guarantees, financing, or other assistance made available by the Corporation under this subpart, the policy guidelines of the Corporation relating to its programs.
 
-(Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, §104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, §227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, §2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, §318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, §8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, §705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, §302(a), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–513, title V, §576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, §107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, §579(a), Nov. 26, 1997, 111 Stat. 2435; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, §104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, §227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, §2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, §318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, §8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, §705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, §302(a), Nov. 28, 1989, 103 Stat.1311; Pub. L. 101–513, title V, §576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, §107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, §579(a), Nov. 26, 1997, 111 Stat. 2435; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -62,29 +62,29 @@ Amendment by Pub. L. 100–461 is based on sections 108 and 110(a)(2) of title I
 
 #### Amendments
 
-2004—Subsec. (c)(2) to (4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsec. (c)(2) to (4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-1997—Subsec. (f). Pub. L. 105–118 inserted “, or Pakistan” after “China”.
+<b>1997</b>—Subsec. (f). Pub. L. 105–118 inserted “, or Pakistan” after “China”.
 
-1992—Subsec. (d). Pub. L. 102–549, after “legal and arbitral proceedings;”, inserted “to enter into limited-term contracts with nationals of the United States for personal services to carry out activities in the United States and abroad under subsections (d) and (e) of section 2194 of this title;”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–549, after “legal and arbitral proceedings;”, inserted “to enter into limited-term contracts with nationals of the United States for personal services to carry out activities in the United States and abroad under subsections (d) and (e) of section 2194 of this title;”.
 
-1990—Subsec. (f). Pub. L. 101–513 inserted “or any other East European country,” after “Hungary,”.
+<b>1990</b>—Subsec. (f). Pub. L. 101–513 inserted “or any other East European country,” after “Hungary,”.
 
-1989—Subsec. (f). Pub. L. 101–179 inserted “, Poland, Hungary,” after “Yugoslavia”.
+<b>1989</b>—Subsec. (f). Pub. L. 101–179 inserted “, Poland, Hungary,” after “Yugoslavia”.
 
 Pub. L. 101–167, which directed amendment of subsec. (f) by inserting “Poland, Hungary,” after “Yugoslavia,”, did not take effect due to similar amendment by section 302(a) of Pub. L. 101–179. See amendment note above and section 302(c) of Pub. L. 101–179, set out below.
 
-1988—Subsec. (f). Pub. L. 100–461, which directed that “, Romania,” be struck out, was executed by striking out “, Romania” after “Yugoslavia”, as the probable intent of Congress, because no comma followed “Romania” in original.
+<b>1988</b>—Subsec. (f). Pub. L. 100–461, which directed that “, Romania,” be struck out, was executed by striking out “, Romania” after “Yugoslavia”, as the probable intent of Congress, because no comma followed “Romania” in original.
 
 Subsec. (g). Pub. L. 100–461 made technical amendment to reference to section 2151p(c) of this title to reflect renumbering of corresponding section of original act.
 
-1985—Subsec. (c). Pub. L. 99–204, §11, amended subsec. (c) generally, designating existing provisions as par. (1), substituting “chapter 91 of title 31” for “the Government Corporation Control Act”, and adding pars. (2) to (4).
+<b>1985</b>—Subsec. (c). Pub. L. 99–204, §11, amended subsec. (c) generally, designating existing provisions as par. (1), substituting “chapter 91 of title 31” for “the Government Corporation Control Act”, and adding pars. (2) to (4).
 
 Subsec. (g). Pub. L. 99–204, §4(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Within six months after August 27, 1974, the Corporation shall develop and implement specific criteria intended to minimize the potential environmental implications of projects undertaken by investors abroad in accordance with any of the programs authorized by this subpart.”
 
 Subsecs. (j), (k). Pub. L. 99–204, §§12, 13, added subsecs. (j) and (k).
 
-1981—Subsec. (d). Pub. L. 97–65, §8(1), inserted provision authorizing the Corporation to collect or compromise any obligations assigned to or held by the Corporation, including any legal or equitable rights accruing to the Corporation.
+<b>1981</b>—Subsec. (d). Pub. L. 97–65, §8(1), inserted provision authorizing the Corporation to collect or compromise any obligations assigned to or held by the Corporation, including any legal or equitable rights accruing to the Corporation.
 
 Subsec. (e). Pub. L. 97–65, §8(2)(A), and Pub. L. 97–113, §705(b)(2), made identical amendments by substituting references to Inspector General for references to Auditor-General wherever appearing.
 
@@ -92,9 +92,9 @@ Pub. L. 97–65, §8(2)(B), substituted language referring to Inspector General'
 
 Subsecs. (f) to (<i>l</i>). Pub. L. 97–65, §8(3), redesignated subsecs. (g), (h), (i), and (<i>l</i>) as (f), (g), (h), and (i), respectively. Former subsecs. (f) providing for the establishment of an Advisory Council, (j) providing limits for projects involving the exploration for or the mining of or other extraction of copper, and (k) prohibiting the granting of insurance, reinsurance, guaranty, financing, or other financial support for projects to establish or expand production or processing of palm oil, sugar, or citrus crops for export, were struck out.
 
-1980—Subsec. (g). Pub. L. 96–327 substituted “Yugoslavia, Romania or the People's Republic of China” for “Yugoslavia or Romania”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–327 substituted “Yugoslavia, Romania or the People's Republic of China” for “Yugoslavia or Romania”.
 
-1978—Subsec. (b). Pub. L. 95–268, §7(1), struck out provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
+<b>1978</b>—Subsec. (b). Pub. L. 95–268, §7(1), struck out provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
 
 Subsec. (d). Pub. L. 95–598 substituted “any priority” for “the priority”.
 
@@ -104,11 +104,11 @@ Subsecs. (i) to (k). Pub. L. 95–268, §7(3), added subsecs. (i) to (k).
 
 Subsec. (<i>l</i>). Pub. L. 95–268, §8, added subsec. (<i>l</i>).
 
-1974—Subsec. (b). Pub. L. 93–390, §2(5)(A), inserted provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
+<b>1974</b>—Subsec. (b). Pub. L. 93–390, §2(5)(A), inserted provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
 
 Subsec. (h). Pub. L. 93–390, §2(5)(B), added subsec. (h).
 
-1972—Subsec. (d). Pub. L. 92–310 struck out provisions which authorized the Corporation to require bonds of officers and employees and to pay premiums therefor.
+<b>1972</b>—Subsec. (d). Pub. L. 92–310 struck out provisions which authorized the Corporation to require bonds of officers and employees and to pay premiums therefor.
 
 Subsec. (g). Pub. L. 92–226 added subsec. (g).
 
@@ -126,7 +126,7 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 #### Enhancement of Nongovernmental Sector in Poland and Hungary
 
-Section 302(b) of Pub. L. 101–179 provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
+Section 302(b) of Pub. L. 101–179 provided that: “In accordance with its mandate to foster private initiativeand competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
 
 #### Avoidance of Duplicative Amendments
 

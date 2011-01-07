@@ -8,7 +8,7 @@ Appropriations made for contingent expenses of the Senate shall not be used for 
 
 Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, ch. 17, the Urgent Deficiency Appropriation Act for the fiscal year 1902, as those provisions relate to appropriations for contingent expenses of Senate. Provisions of that proviso relating to appropriations for expenses of House of Representatives are classified to section 95a of this title.
 
-Section was formerly classified to section 671 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 671 of Title 31 prior to the general revision and enactment of Title31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Actions by Board.—The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b)or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
+Civil Actions by Board.—The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
 
 (b)
 
@@ -70,7 +70,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
 49 App.:1903(a)(1)(A).
 
-In this section, the words “section 1132, 1134(b) or (f)(1) (related to an aircraft accident), or 1155(a) of this title” are substituted for “issued under this chapter” and “provisions of this chapter” because those sections restate the relevant provisions of 49 App.:ch. 20 carried out by the National Transportation Safety Board.
+In this section, the words “section 1132, 1134(b) or (f)(1) (related to an aircraft accident), or 1155(a) of thistitle” are substituted for “issued under this chapter” and “provisions of this chapter” because those sections restate the relevant provisions of 49 App.:ch. 20 carried out by the National Transportation Safety Board.
 
 In subsections (a) and (b), the word “rule” is omitted as being synonymous with “regulation”. The word “requirement” is omitted as being included in “order”. The words “or any term, condition, or limitation of any certificate or permit” are omitted because the National Transportation Safety Board does not have authority to issue certificates or permits.
 
@@ -82,7 +82,7 @@ In subsection (c), the words “civil action” are substituted for “proceedin
 
 #### Amendments
 
-2000—Pub. L. 106–181 inserted “1136(g)(2),” before “or 1155(a)” in subsecs. (a), (b)(1), and (c).
+<b>2000</b>—Pub. L. 106–181 inserted “1136(g)(2),” before “or 1155(a)” in subsecs. (a), (b)(1), and (c).
 
 #### Effective Date of 2000 Amendment
 

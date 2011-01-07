@@ -18,7 +18,7 @@ Powers.—In carrying out its duties under this subtitle, a Commission may—
 
 &emsp;(7) accept, use, and dispose of gifts or donations or services or real, personal, tangible, or intangible property;
 
-&emsp;(8) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State\(including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
+&emsp;(8) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
 
 &emsp;(9) maintain a government relations office in the District of Columbia and establish and maintain a central office at such location in its region as the Commission may select.
 

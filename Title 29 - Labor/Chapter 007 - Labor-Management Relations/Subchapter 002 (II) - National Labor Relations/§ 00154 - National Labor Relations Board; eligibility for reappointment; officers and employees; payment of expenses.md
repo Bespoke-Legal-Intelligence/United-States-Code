@@ -14,7 +14,7 @@ In subsec. (a), “administrative law judge's” and “administrative law judge
 
 #### Amendments
 
-1947—Act June 23, 1947, amended section generally by increasing Board members’ salaries from $10,000 to $12,000 per annum, by providing a salary of $12,000 per annum for the General Counsel, striking out former subsec. (b) relating to termination of “Old Board”, and redesignating subsec. (c) relating to payment of expenses of Board as subsec. (b).
+<b>1947</b>—Act June 23, 1947, amended section generally by increasing Board members’ salaries from $10,000 to $12,000 per annum, by providing a salary of $12,000 per annum for the General Counsel, striking out former subsec. (b) relating to termination of “Old Board”, and redesignating subsec. (c) relating to payment of expenses of Board as subsec. (b).
 
 #### Effective Date of 1947 Amendment
 

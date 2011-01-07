@@ -22,7 +22,7 @@ Removal of Notice.—Protection under this title is not affected by the removal,
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 <b>Effect of Omission on Copyright Protection.</b> The provisions of section 405(a) make clear that the notice requirements of sections 401, 402, and 403 are not absolute and that, unlike the law now in effect, the outright omission of a copyright notice does not automatically forfeit protection and throw the work into the public domain. This not only represents a major change in the theoretical framework of American copyright law, but it also seems certain to have immediate practical consequences in a great many individual cases. Under the proposed law a work published without any copyright notice will still be subject to statutory protection for at least 5 years, whether the omission was partial or total, unintentional or deliberate.
 
@@ -48,7 +48,7 @@ Under section 405(b) an innocent infringer who acts “in reliance upon an autho
 
 The purpose of the second sentence of subsection (b) is to give the courts broad discretion to balance the equities within the framework of section 405 \[this section\]. Where an infringer made profits from infringing acts committed innocently before receiving notice from the copyright owner, the court may allow or withhold their recovery in light of the circumstances. The court may enjoin an infringement or may permit its continuation on condition that the copyright owner be paid a reasonable license fee.
 
-<b>Removal of Notice by Others.</b> Subsection (c) of section 405 involves the situation arising when, followingan authorized publication with notice, someone further down the chain of commerce removes, destroys, or obliterates the notice. The courts dealing with this problem under the present law, especially in connection with copyright notices on the selvage of textile fabrics, have generally upheld the validity of a notice that was securely attached to the copies when they left the control of the copyright owner, even though removal of the notice at some later stage was likely. This conclusion is incorporated in subsection (c).
+<b>Removal of Notice by Others.</b> Subsection (c) of section 405 involves the situation arising when, following an authorized publication with notice, someone further down the chain of commerce removes, destroys, or obliterates the notice. The courts dealing with this problem under the present law, especially in connection with copyright notices on the selvage of textile fabrics, have generally upheld the validity of a notice that was securely attached to the copies when they left the control of the copyright owner, even though removal of the notice at some later stage was likely. This conclusion is incorporated in subsection (c).
 
 #### References in Text
 
@@ -56,9 +56,9 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–80 substituted “condition for permitting the continuation” for “condition or permitting the continuation”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–80 substituted “condition for permitting the continuation” for “condition or permitting the continuation”.
 
-1988—Pub. L. 100–568, §7(e)(3), substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
+<b>1988</b>—Pub. L. 100–568, §7(e)(3), substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
 
 Subsec. (a). Pub. L. 100–568, §7(e)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in” for “The omission of the copyright notice prescribed by”.
 

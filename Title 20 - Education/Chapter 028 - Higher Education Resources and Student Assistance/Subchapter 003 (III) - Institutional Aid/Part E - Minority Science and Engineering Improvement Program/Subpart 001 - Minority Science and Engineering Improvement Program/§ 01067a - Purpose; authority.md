@@ -20,9 +20,9 @@ A prior section 351 of Pub. L. 89–329 was renumbered section 391 and is classi
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 3444(a)(1) of this title.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 3444(a)(1) of this title.
 
-1992—Subsec. (b). Pub. L. 102–325 inserted “, particularly minority women,” after “ethnic minorities”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–325 inserted “, particularly minority women,” after “ethnic minorities”.
 
 #### Effective Date of 2009 Amendment
 

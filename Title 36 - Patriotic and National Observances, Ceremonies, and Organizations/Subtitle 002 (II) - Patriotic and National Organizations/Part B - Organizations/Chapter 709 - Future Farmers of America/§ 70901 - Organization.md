@@ -20,9 +20,17 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-70901D36:271.DAug. 30, 1950, ch. 823, §§1, 2, 20, 64 Stat. 563, 567.
+70901
 
-&nbsp;D36:272.D&nbsp;
+36:271.
+
+Aug. 30, 1950, ch. 823, §§1, 2, 20, 64 Stat. 563, 567.
+
+&nbsp;
+
+36:272.
+
+&nbsp;
 
 &nbsp;
 

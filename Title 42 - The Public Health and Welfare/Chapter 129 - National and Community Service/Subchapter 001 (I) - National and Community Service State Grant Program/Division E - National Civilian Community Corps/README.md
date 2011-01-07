@@ -10,9 +10,7 @@ This division is comprised of subtitle E, §§151–165, of title I of Pub. L. 1
 
 #### Amendments
 
-2009—Pub. L. 111–13, title I, §1517, Apr. 21, 2009, 123 Stat. 1529, inserted division heading and struck out former heading.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2009</b>—Pub. L. 111–13, title I, §1517, Apr. 21, 2009, 123 Stat. 1529, inserted division heading and struck out former heading.
 
 
 ---

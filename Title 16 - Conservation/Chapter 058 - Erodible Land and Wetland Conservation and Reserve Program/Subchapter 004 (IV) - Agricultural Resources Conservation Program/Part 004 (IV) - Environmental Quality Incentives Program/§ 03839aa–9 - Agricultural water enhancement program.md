@@ -176,7 +176,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2510, amended section generally. Prior to amendment, section related to ground and surface water conservation.
+<b>2008</b>—Pub. L. 110–246, §2510, amended section generally. Prior to amendment, section related to ground and surface water conservation.
 
 #### Effective Date of 2008 Amendment
 
@@ -187,4 +187,6 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Pub. L. 110–234, title II, §2903(b), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, §4(a), title II, §2903(b), June 18, 2008, 122 Stat. 1664, 1819, provided that: “During the period beginning on the date of the enactment of this Act \[June 18, 2008\] and ending on September 30, 2008, the Secretary of Agriculture shall continue to carry out the ground and surface water conservation program under section 1240I of the Food Security Act of 1985 (16 U.S.C. 3839aa–9), as in effect before the amendment made by section 2510, using the terms, conditions, and funds available to the Secretary to carry out such program on the day before the date of the enactment of this Act.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Secretary”.</i>
 

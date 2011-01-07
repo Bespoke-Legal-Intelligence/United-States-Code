@@ -34,7 +34,7 @@ Penalties.—A person who violates this section or section 2261A shall be fined 
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–162, §117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
 
 Pub. L. 109–162, §116(a)(1), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
@@ -42,7 +42,7 @@ Subsec. (a)(2). Pub. L. 109–162, §116(a)(2), which directed substitution of �
 
 Subsec. (b)(6). Pub. L. 109–162, §114(b), added par. (6).
 
-2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
 “(1)
 
@@ -52,5 +52,5 @@ Crossing a state line.—A person who travels across a State line or enters or l
 
 Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud and, in the course or as a result of that conduct, intentionally commits a crime of violence and thereby causes bodily injury to the person's spouse or intimate partner, shall be punished as provided in subsection (b).”
 
-1996—Subsec. (b). Pub. L. 104–201 inserted “or section 2261A” after “this section” in introductory provisions and substituted “victim” for “offender's spouse or intimate partner” in pars. (1) to (3).
+<b>1996</b>—Subsec. (b). Pub. L. 104–201 inserted “or section 2261A” after “this section” in introductory provisions and substituted “victim” for “offender's spouse or intimate partner” in pars. (1) to (3).
 

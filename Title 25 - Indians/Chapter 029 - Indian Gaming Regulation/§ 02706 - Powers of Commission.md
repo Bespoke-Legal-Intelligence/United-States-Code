@@ -62,5 +62,5 @@ Subsec. (c) of this section, which required the Commission to submit a report to
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–221 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–221 added subsec. (d).
 

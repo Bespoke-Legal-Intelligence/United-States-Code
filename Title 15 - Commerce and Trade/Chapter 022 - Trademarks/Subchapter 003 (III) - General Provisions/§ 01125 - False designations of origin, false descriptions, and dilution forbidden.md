@@ -2,7 +2,7 @@
 
 #### (a) Civil action
 
-(1) Any person who, on or in connection with any goods or services, or any container forgoods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
+(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
 
 &emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
 
@@ -28,7 +28,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(A) For purposes of paragraph (1), a mark is famous if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the mark's owner. In determining whether a mark possesses the requisite degree of recognition, the court may consider all relevant factors, including the following:
 
-&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of the mark, whether advertised or publicized by the owner or third parties.
+&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of themark, whether advertised or publicized by the owner or third parties.
 
 &emsp;&emsp;(ii) The amount, volume, and geographic extent of sales of goods or services offered under the mark.
 
@@ -72,7 +72,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;&emsp;(A) the claimed trade dress, taken as a whole, is not functional and is famous; and
 
-&emsp;&emsp;(B) if the claimed trade dress includes any mark or marks registered on the principalregister, the unregistered matter, taken as a whole, is famous separate and apart from any fame of such registered marks.
+&emsp;&emsp;(B) if the claimed trade dress includes any mark or marks registered on the principal register, the unregistered matter, taken as a whole, is famous separate and apart from any fame of such registered marks.
 
 #### (5) Additional remedies
 
@@ -140,7 +140,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (D) A person shall be liable for using a domain name under subparagraph (A) only if that person is the domain name registrant or that registrant's authorized licensee.
 
-(E) As used in this paragraph, the term “traffics in” refers to transactions that include, butare not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
+(E) As used in this paragraph, the term “traffics in” refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
 
 (2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
 
@@ -172,7 +172,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (ii) The domain name registrar or registry or other domain name authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.
 
-(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.
+(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy availableunder either such action, shall be in addition to any other civil action or remedy otherwise applicable.
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
@@ -188,21 +188,21 @@ Act Mar. 19, 1920, ch. 104, §3, 41 Stat. 534.
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–312, §2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
+<b>2006</b>—Subsec. (c). Pub. L. 109–312, §2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
 
 Subsec. (d)(1)(B)(i)(IX). Pub. L. 109–312, §2(2), substituted “subsection (c)” for “subsection (c)(1)”.
 
-1999—Subsec. (a)(3). Pub. L. 106–43, §5, added par. (3).
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–43, §5, added par. (3).
 
 Subsec. (c)(2). Pub. L. 106–43, §3(a)(2), inserted “as set forth in section 1116 of this title” after “relief” in first sentence.
 
 Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
-1996—Subsec. (c). Pub. L. 104–98 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–98 added subsec. (c).
 
-1992—Subsec. (a). Pub. L. 102–542 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–542 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-1988—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation.”
 
 #### Effective Date of 1999 Amendment
 

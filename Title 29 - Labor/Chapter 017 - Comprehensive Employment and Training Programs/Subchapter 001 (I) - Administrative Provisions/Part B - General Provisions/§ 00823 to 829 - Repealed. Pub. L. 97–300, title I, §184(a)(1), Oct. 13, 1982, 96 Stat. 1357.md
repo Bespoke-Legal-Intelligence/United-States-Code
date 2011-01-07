@@ -24,7 +24,7 @@ Section 828, Pub. L. 93–203, title I, §126, as added Pub. L. 95–524, §2, O
 
 Provisions similar to those comprising this section were contained in former section 982 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 829, Pub. L. 93–203, title I, §127, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1945; amended Pub. L. 96–88, title V, §508(h)(2), Oct. 17, 1979, 93 Stat. 693, related to various reports to be made by Federal agencies regarding programs, activities, etc., under this chapter.
+Section 829, Pub. L. 93–203, title I, §127, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1945; amended Pub.L. 96–88, title V, §508(h)(2), Oct. 17, 1979, 93 Stat. 693, related to various reports to be made by Federal agencies regarding programs, activities, etc., under this chapter.
 
 Provisions similar to those comprising this section were contained in former sections 849 and 985 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

@@ -10,7 +10,7 @@ A share of a deceased Osage allottee having died prior to or after October 27, 1
 
 #### (c) Minors and persons under guardianship; rules and regulations
 
-A share or proportional share payable to a person of Osage Indian blood under eighteen years of age and any person under guardianship pursuant to an order of a court of competent jurisdiction notwithstanding the fact he has received a certificate of competency shall be disbursedunder rules and regulations to be prescribed by the Secretary of the Interior.
+A share or proportional share payable to a person of Osage Indian blood under eighteen years of age and any person under guardianship pursuant to an order of a court of competent jurisdiction notwithstanding the fact he has received a certificate of competency shall be disbursed under rules and regulations to be prescribed by the Secretary of the Interior.
 
 (Pub. L. 92–586, §2, Oct. 27, 1972, 86 Stat. 1295.)
 

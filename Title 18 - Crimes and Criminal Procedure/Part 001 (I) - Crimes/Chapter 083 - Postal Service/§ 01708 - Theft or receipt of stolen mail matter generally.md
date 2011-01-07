@@ -34,9 +34,9 @@ This section \[section 39\] corrects a typographical error in section 1708 of ti
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in last par.
 
-1952—Act July 1, 1952, made any thefts or receipt of stolen mail a felony regardless of the monetary value of the thing stolen.
+<b>1952</b>—Act July 1, 1952, made any thefts or receipt of stolen mail a felony regardless of the monetary value of the thing stolen.
 
-1949—Act May 24, 1949, substituted “buys” for “buy” in third par.
+<b>1949</b>—Act May 24, 1949, substituted “buys” for “buy” in third par.
 

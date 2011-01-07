@@ -10,7 +10,7 @@ And the Secretary of the Interior shall make and publish all needful rules and r
 
 #### References in Text
 
-This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to section 667e of this title was repealed by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
+This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to section 667e of this title was repealed by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
 
 #### Transfer of Functions
 
@@ -44,7 +44,7 @@ Sec. 2. <i>Definitions</i>. For purposes of this order:
 
 (h) “Action” means a program, activity, project, official policy (such as a rule or regulation), or formal plan directly carried out by a Federal agency. Each Federal agency will further define what the term “action” means with respect to its own authorities and what programs should be included in the agency-specific Memoranda of Understanding required by this order. Actions delegated to or assumed by nonfederal entities, or carried out by nonfederal entities with Federal assistance, are not subject to this order. Such actions, however, continue to be subject to the Migratory Bird Treaty Act.
 
-(i) “Species of concern” refers to those species listed in the periodic report “Migratory Nongame Birds of Management Concern in the United States,” priority migratory bird species as documented by established plans (such as Bird Conservation Regions in the North American Bird Conservation Initiative or Partners in Flight physiographic areas), and those species listed in 50 C.F.R. 17.11.
+(i) “Species of concern” refers to those species listed in the periodic report “Migratory Nongame Birds ofManagement Concern in the United States,” priority migratory bird species as documented by established plans (such as Bird Conservation Regions in the North American Bird Conservation Initiative or Partners in Flight physiographic areas), and those species listed in 50 C.F.R. 17.11.
 
 Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking actions that have, or are likely to have, a measurable negative effect on migratory bird populations is directed to develop and implement, within 2 years, a Memorandum of Understanding (MOU) with the Fish and Wildlife Service (Service) that shall promote the conservation of migratory bird populations.
 
@@ -64,7 +64,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (4) design migratory bird habitat and population conservation principles, measures, and practices, into agency plans and planning processes (natural resource, land management, and environmental quality planning, including, but not limited to, forest and rangeland planning, coastal management planning, watershed planning, etc.) as practicable, and coordinate with other agencies and nonfederal partners in planning efforts;
 
-(5) within established authorities and in conjunction with the adoption, amendment, or revision of agency management plans and guidance, ensure that agency plans and actions promote programs and recommendations of comprehensive migratory bird planning effortssuch as Partners-in-Flight, U.S. National Shorebird Plan, North American Waterfowl Management Plan, North American Colonial Waterbird Plan, and other planning efforts, as well as guidance from other sources, including the Food and Agricultural Organization's International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries;
+(5) within established authorities and in conjunction with the adoption, amendment, or revision of agency management plans and guidance, ensure that agency plans and actions promote programs and recommendations of comprehensive migratory bird planning efforts such as Partners-in-Flight, U.S. National Shorebird Plan, North American Waterfowl Management Plan, North American Colonial Waterbird Plan, and other planning efforts, as well as guidance from other sources, including the Food and Agricultural Organization's International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries;
 
 (6) ensure that environmental analyses of Federal actions required by the NEPA or other established environmental review processes evaluate the effects of actions and agency plans on migratory birds, with emphasis on species of concern;
 
@@ -90,7 +90,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (g) Each agency shall advise the public of the availability of its MOU through a notice published in the Federal Register.
 
-Sec. 4. <i>Council for the Conservation of Migratory Birds</i>. (a) The Secretary of Interior shall establish an interagency Council for the Conservation of Migratory Birds (Council) to oversee the implementation of this order. The Council's duties shall include the following: (1) sharing the latest resource information to assist in the conservation and management of migratory birds; (2) developing an annual report of accomplishments and recommendations related to this order; (3) fostering partnerships to further the goals of this order; and (4) selecting an annual recipient of a Presidential Migratory Bird Federal Stewardship Award for contributions to the protection of migratory birds.
+Sec. 4. <i>Council for the Conservation of Migratory Birds</i>. (a) The Secretary of Interior shall establish an interagency Council for the Conservation of Migratory Birds (Council) to oversee the implementation of this order. The Council's duties shall include the following: (1) sharing the latest resource information to assist in the conservation and management of migratory birds; (2) developing an annual report of accomplishments and recommendations related to this order; (3) fostering partnerships to further the goals of this order; and (4)selecting an annual recipient of a Presidential Migratory Bird Federal Stewardship Award for contributions to the protection of migratory birds.
 
 (b) The Council shall include representation, at the bureau director/administrator level, from the Departments of the Interior, State, Commerce, Agriculture, Transportation, Energy, Defense, and the Environmental Protection Agency and from such other agencies as appropriate.
 

@@ -14,7 +14,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The State may only exercise the option under subparagraph (A) for an individual eligible under an eligibility category that had been established under the State plan on or before February 8, 2006.
+&emsp;&emsp;The State may only exercise the option under subparagraph (A) for an individual eligible under subclause (VIII) of section 1396a(a)(10)(A)(i) of this title or under an eligibility category that had been established under the State plan on or before February 8, 2006.
 
 #### (C) Option of additional benefits
 
@@ -106,7 +106,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(1), each of the following coverages shall be considered to be benchmark coverage:
+&emsp;For purposes of subsection (a)(1), subject to paragraphs (5) and (6), each of the following coverages shall be considered to be benchmark coverage:
 
 #### (A) FEHBP-equivalent health insurance coverage
 
@@ -130,7 +130,7 @@
 
 #### (2) Benchmark-equivalent coverage
 
-&emsp;For purposes of subsection (a)(1), coverage that meets the following requirement shall be considered to be benchmark-equivalent coverage:
+&emsp;For purposes of subsection (a)(1), subject to paragraphs (5) and (6) <sup>2</sup> coverage that meetsthe following requirement shall be considered to be benchmark-equivalent coverage:
 
 #### (A) Inclusion of basic services
 
@@ -142,9 +142,13 @@
 
 &emsp;&emsp;&emsp;(iii) Laboratory and x-ray services.
 
-&emsp;&emsp;&emsp;(iv) Well-baby and well-child care, including age-appropriate immunizations.
+&emsp;&emsp;&emsp;(iv) Coverage of prescription drugs.
 
-&emsp;&emsp;&emsp;(v) Other appropriate preventive services, as designated by the Secretary.
+&emsp;&emsp;&emsp;(v) Mental health services.
+
+&emsp;&emsp;&emsp;(vi) Well-baby and well-child care, including age-appropriate immunizations.
+
+&emsp;&emsp;&emsp;(vii) Other appropriate preventive services, as designated by the Secretary.
 
 #### (B) Aggregate actuarial value equivalent to benchmark package
 
@@ -154,13 +158,9 @@
 
 &emsp;&emsp;With respect to each of the following categories of additional services for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package:
 
-&emsp;&emsp;&emsp;(i) Coverage of prescription drugs.
+&emsp;&emsp;&emsp;(i) Vision services.
 
-&emsp;&emsp;&emsp;(ii) Mental health services.
-
-&emsp;&emsp;&emsp;(iii) Vision services.
-
-&emsp;&emsp;&emsp;(iv) Hearing services.
+&emsp;&emsp;&emsp;(ii) Hearing services.
 
 #### (3) Determination of actuarial value
 
@@ -190,11 +190,33 @@
 
 &emsp;&emsp;(B) payment for such services is made in accordance with the requirements of section 1396a(bb) of this title.
 
+#### (5) Minimum standards
+
+&emsp;Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in section 18022(b) of this title.
+
+#### (6) Mental health services parity
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) that is offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–4(a) of this title in the same manner as such requirements apply to a group health plan.
+
+#### (B) Deemed compliance
+
+&emsp;&emsp;Coverage provided with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, shall be deemed to satisfy the requirements of subparagraph (A).
+
+#### (7) Coverage of family planning services and supplies
+
+&emsp;Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless such coverage includes for any individual described in section 1396d(a)(4)(C) of this title, medical assistance for family planning services and supplies in accordance with such section.
+
 #### (c) Publication of provisions affected
 
-With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
+With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State tocarry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>3</sup> not later than 30 days after such date of approval.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101.)
+(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296.)
+
+#### Amendment of Subsection (a)(2)(B)(viii)
+
+<i>Pub. L. 111–148, title II, §2004(c)(2), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (a)(2)(B)(viii) of this section is amended by inserting “, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title” before the period.</i>
 
 #### References in Text
 
@@ -206,7 +228,25 @@ A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2009—Subsec. (a)(1)(A). Pub. L. 111–3, §611(a)(1)(A), in introductory provisions, substituted “Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection (E)” for “Notwithstanding any other provision of this subchapter” and “coverage that” for “enrollment in coverage that provides”.
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–148, §2001(a)(5)(E), inserted “subclause (VIII) of section 1396a(a)(10)(A)(i) of this title or under” after “eligible under”.
+
+Subsec. (b)(1). Pub. L. 111–148, §2001(c)(1), inserted “subject to paragraphs (5) and (6),” before “each of the following” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 111–148, §2001(c)(2)(A), inserted “subject to paragraphs (5) and (6)” after “subsection (a)(1),” in introductory provisions.
+
+Subsec. (b)(2)(A)(iv) to (vii). Pub. L. 111–148, §2001(c)(2)(B), added cls. (iv) and (v) and redesignated former cls. (iv) and (v) as (vi) and (vii), respectively.
+
+Subsec. (b)(2)(C). Pub. L. 111–148, §2001(c)(2)(C), redesignated cls. (iii) and (iv) as (i) and (ii), respectively, and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) Coverage of prescription drugs.
+
+“(ii) Mental health services.”
+
+Subsec. (b)(5), (6). Pub. L. 111–148, §2001(c)(3), added pars. (5) and (6).
+
+Subsec. (b)(7). Pub. L. 111–148, §2303(c), added par. (7).
+
+<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–3, §611(a)(1)(A), in introductory provisions, substituted “Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection (E)” for “Notwithstanding any other provision of this subchapter” and “coverage that” for “enrollment in coverage that provides”.
 
 Subsec. (a)(1)(A)(i). Pub. L. 111–3, §611(a)(1)(B), inserted “provides” before “benchmark coverage”.
 
@@ -220,6 +260,12 @@ Subsec. (a)(2)(B)(viii). Pub. L. 111–3, §611(b), substituted “child welfare
 
 Subsec. (c). Pub. L. 111–3, §611(c), added subsec. (c).
 
+#### Effective Date of 2010 Amendment
+
+Amendment by section 2004(c)(2) of Pub. L. 111–148 effective Jan. 1, 2014, see section 2004(d) of Pub. L. 111–148, set out as an Effective and Termination Dates of 2010 Amendment note under section 1396a of this title.
+
+Amendment by section 2303(c) of Pub. L. 111–148 effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, see section 2303(d) of Pub. L. 111–148, set out as an Effective and Termination Dates of 2010 Amendment note under section 1396a of this title.
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–3, title VI, §611(d), Feb. 4, 2009, 123 Stat. 101, provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section\] shall take effect as if included in the amendment made by section 6044(a) of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\].”
@@ -230,5 +276,7 @@ Pub. L. 109–171, title VI, §6044(b), Feb. 8, 2006, 120 Stat. 92, provided tha
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

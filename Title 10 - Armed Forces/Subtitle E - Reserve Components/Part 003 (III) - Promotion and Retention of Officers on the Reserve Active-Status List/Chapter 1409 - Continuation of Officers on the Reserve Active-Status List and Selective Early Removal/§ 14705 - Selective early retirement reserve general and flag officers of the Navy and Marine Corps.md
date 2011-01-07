@@ -26,9 +26,9 @@ Provisions similar to those in this section were contained in section 6389(f)(3)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136 substituted “selection board” for “continuation board”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136 substituted “selection board” for “continuation board”.
 
-1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
 

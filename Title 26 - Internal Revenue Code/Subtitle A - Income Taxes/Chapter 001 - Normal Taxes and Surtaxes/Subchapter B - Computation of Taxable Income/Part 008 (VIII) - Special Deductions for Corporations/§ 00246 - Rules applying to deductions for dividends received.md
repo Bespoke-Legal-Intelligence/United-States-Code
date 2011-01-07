@@ -126,9 +126,9 @@ No deduction shall be allowed under section 243(a) with respect to a dividend re
 
 #### Amendments
 
-2005—Subsec. (c)(3)(B). Pub. L. 109–135 substituted “paragraph (3) of section 1223” for “paragraph (4) of section 1223”.
+<b>2005</b>—Subsec. (c)(3)(B). Pub. L. 109–135 substituted “paragraph (3) of section 1223” for “paragraph (4) of section 1223”.
 
-2004—Subsec. (b)(1). Pub. L. 108–357, §102(d)(4), inserted “199,” after “172,”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–357, §102(d)(4), inserted “199,” after “172,”.
 
 Subsec. (c)(1)(A). Pub. L. 108–311, §406(f)(1), substituted “91-day period” for “90-day period”.
 
@@ -136,21 +136,21 @@ Subsec. (c)(2)(B). Pub. L. 108–311, §406(f)(2), substituted “181-day period
 
 Subsec. (c)(4). Pub. L. 108–357, §888(d), inserted “, other than a qualified covered call option to which section 1092(f) applies” before period at end of concluding provisions.
 
-1997—Subsec. (c)(1)(A). Pub. L. 105–34, §1015(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is held by the taxpayer for 45 days or less, or”.
+<b>1997</b>—Subsec. (c)(1)(A). Pub. L. 105–34, §1015(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is held by the taxpayer for 45 days or less, or”.
 
-Subsec. (c)(2). Pub. L. 105–34, §1015(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of any stockhaving preference in dividends, the holding period specified in paragraph (1)(A) shall be 90 days in lieu of 45 days if the taxpayer receives dividends with respect to such stock which are attributable to a period or periods aggregating in excess of 366 days.”
+Subsec. (c)(2). Pub. L. 105–34, §1015(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of any stock having preference in dividends, the holding period specified in paragraph (1)(A) shall be 90 days in lieu of 45 days if the taxpayer receives dividends with respect to such stock which are attributable to a period or periods aggregating in excess of 366 days.”
 
 Subsec. (c)(3). Pub. L. 105–34, §1015(b)(2), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “there shall not be taken into account any day which is more than 45 days (or 90 days in the case of stock to which paragraph (2) applies) after the date on which such share becomes ex-dividend, and”.
 
-1996—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which provided a cross reference to section 596 of this title for special rule relating to mutual savings banks, etc., to which section 593 applies.
+<b>1996</b>—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which provided a cross reference to section 596 of this title for special rule relating to mutual savings banks, etc., to which section 593 applies.
 
-1988—Subsec. (c)(1)(A). Pub. L. 100–647 substituted “which” for “Which”.
+<b>1988</b>—Subsec. (c)(1)(A). Pub. L. 100–647 substituted “which” for “Which”.
 
-1987—Subsec. (b)(1). Pub. L. 100–203, §10221(c)(1)(A), substituted “the percentage determined under paragraph (3)” for “80 percent”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §10221(c)(1)(A), substituted “the percentage determined under paragraph (3)” for “80 percent”.
 
 Subsec. (b)(3). Pub. L. 100–203, §10221(c)(1)(B), added par. (3).
 
-1986—Subsec. (a)(2)(B). Pub. L. 99–514, §1812(d)(1)(A), substituted “In” for “For purposes of subparagraph (A), in” in introductory provisions and substituted cl. (i)(II) for former cl. (i)(II) which read as follows: “which were not taken into account under subparagraph (A), bears to”.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1812(d)(1)(A), substituted “In” for “For purposes of subparagraph (A), in” in introductory provisions and substituted cl. (i)(II) for former cl. (i)(II) which read as follows: “which were not taken into account under subparagraph (A), bears to”.
 
 Subsec. (a)(2)(C), (D). Pub. L. 99–514, §1812(d)(1)(B), (C), added subpar. (C), redesignated former subpar. (C) as (D), and added cl. (iv) to subpar. (D).
 
@@ -162,7 +162,7 @@ Subsec. (c)(4). Pub. L. 99–514, §1804(b)(1)(B), substituted “determined for
 
 Subsec. (e). Pub. L. 99–514, §1275(a)(2)(B), struck out “or 934(e)(3)” after “936(h)(4)”.
 
-1984—Subsec. (a). Pub. L. 98–369, §177(b), amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §177(b), amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
 
 Subsec. (b)(1). Pub. L. 98–369, §801(b)(2)(A), substituted “subsection (a) or (b) of section 245” for “245” in two places.
 
@@ -180,27 +180,27 @@ Subsec. (c)(3)(B). Pub. L. 98–369, §53(b)(1), substituted “45” for “15�
 
 Subsec. (c)(4). Pub. L. 98–369, §53(b)(2), added par. (4).
 
-1982—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1982</b>—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1976—Subsec. (a). Pub. L. 94–455, §1051(f)(3), struck out references to dividends from corporations organized under the China Trade Act, 1922, and corporations to which section 931 (relating to income from sources within possessions of the United States) applies.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1051(f)(3), struck out references to dividends from corporations organized under the China Trade Act, 1922, and corporations to which section 931 (relating to income from sources within possessions of the United States) applies.
 
 Subsec. (c)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1971—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1971</b>—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1969—Subsec. (b)(1). Pub. L. 91–172, §512(f)(3), substituted “and 247, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1)” for “and 247”.
+<b>1969</b>—Subsec. (b)(1). Pub. L. 91–172, §512(f)(3), substituted “and 247, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1)” for “and 247”.
 
 Subsec. (d). Pub. L. 91–172, §434(b)(1), added subsec. (d).
 
-1964—Subsec. (b). Pub. L. 88–272 substituted “243(a)(1), 244(a)” for “243(a), 244” wherever appearing.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 substituted “243(a)(1), 244(a)” for “243(a), 244” wherever appearing.
 
-1958—Subsec. (b)(1). Pub. L. 85–866, §57(c)(2), substituted “243(a)” for “243” wherever appearing.
+<b>1958</b>—Subsec. (b)(1). Pub. L. 85–866, §57(c)(2), substituted “243(a)” for “243” wherever appearing.
 
 Subsec. (c). Pub. L. 85–866, §18(a), added subsec. (c).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 #### Effective Date of 2004 Amendments
 

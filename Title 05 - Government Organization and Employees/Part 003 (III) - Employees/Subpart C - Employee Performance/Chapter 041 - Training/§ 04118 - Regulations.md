@@ -62,7 +62,7 @@ Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs.
 
 &emsp;“(3) prohibit training an employee for the purpose of filling a position by promotion if there is in the agency concerned another employee, of equal ability and suitability, fully qualified to fill the position and available at, or within a reasonable distance from, the place where the duties of the position are to be performed.”
 
-1978—Subsecs. (a), (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (a), (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for“Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

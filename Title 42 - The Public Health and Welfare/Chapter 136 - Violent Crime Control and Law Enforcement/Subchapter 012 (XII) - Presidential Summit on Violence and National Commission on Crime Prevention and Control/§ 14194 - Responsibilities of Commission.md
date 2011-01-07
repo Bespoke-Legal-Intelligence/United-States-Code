@@ -80,7 +80,7 @@ In addressing the subject of sexual assault, domestic violence, and other crimin
 
 &emsp;(4) Evaluating the adequacy of pretrial release, sentencing, incarceration, and post-conviction release in relation to such crimes and acts.
 
-&emsp;(5) Evaluating the adequacy of, and making recommendations regarding, the adequacy of Federal and State laws on sexual assault and the need for a more uniform statutory response to sex offenses, including sexual assaults and other sex offenses committed by offenders who are known or related by blood or marriage to the victim.
+&emsp;(5) Evaluating the adequacy of, and making recommendations regarding, the adequacy of Federal and State laws on sexual assault andthe need for a more uniform statutory response to sex offenses, including sexual assaults and other sex offenses committed by offenders who are known or related by blood or marriage to the victim.
 
 &emsp;(6) Evaluating the adequacy of, and making recommendations regarding, the adequacy of Federal and State laws on domestic violence and the need for a more uniform statutory response to domestic violence.
 

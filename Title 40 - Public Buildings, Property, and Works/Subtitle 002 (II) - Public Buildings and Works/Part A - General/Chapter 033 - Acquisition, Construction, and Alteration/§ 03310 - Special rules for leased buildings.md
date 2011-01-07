@@ -4,7 +4,7 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 &emsp;(1) notwithstanding section 585(a)(1) of this title, shall not make any agreement or undertake any commitment which will result in the construction of the building until the Administrator has established detailed specification requirements for the building;
 
-&emsp;(2) may acquire a leasehold interest in the building only by the use of competitive procedures required by section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253);
+&emsp;(2) may acquire a leasehold interest in the building only by the use of competitive procedures required by sections 3105, 3301, and 3303 to 3305 of title 41;
 
 &emsp;(3) shall include in the solicitation for any lease requiring a prospectus under section 3307 an evaluation factor considering the extent to which the offeror will promote energy efficiency and the use of renewable energy;
 
@@ -14,7 +14,7 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 &emsp;(6) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, §323(d), Dec. 19, 2007, 121 Stat. 1591.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, §323(d), Dec. 19, 2007, 121Stat. 1591; Pub. L. 111–350, §5(<i>l</i>)(18), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -34,7 +34,9 @@ Pub. L. 86–249, §20, as added Pub. L. 100–678, §5, Nov. 17, 1988, 102 Stat
 
 #### Amendments
 
-2007—Pars. (3) to (6). Pub. L. 110–140 added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+<b>2011</b>—Par. (2). Pub. L. 111–350 substituted “sections 3105, 3301, and 3303 to 3305 of title 41” for “section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253)”.
+
+<b>2007</b>—Pars. (3) to (6). Pub. L. 110–140 added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
 #### Effective Date of 2007 Amendment
 

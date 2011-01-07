@@ -24,7 +24,7 @@ Commitments to guarantee under subsection (a) of this section are authorized onl
 
 #### (f) Credits to reserve fund
 
-To the extent that any of the funds made available pursuant to subsection (d) of this section are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund referred to in subsection (b) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a) of this section.
+To the extent that any of the funds made available pursuant to subsection (d) of this section are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall becredited to the reserve fund referred to in subsection (b) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a) of this section.
 
 #### (g) Omitted
 
@@ -32,7 +32,7 @@ To the extent that any of the funds made available pursuant to subsection (d) of
 
 The Export-Import Bank shall provide without reimbursement such administrative and technical assistance to the Agency as the Bank and the Agency deem appropriate to assist the Agency in carrying out this section.
 
-(Pub. L. 87–195, pt. I, §224, as added Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; amended Pub. L. 99–83, title III, §314, Aug. 8, 1985, 99 Stat. 217; Pub. L. 101–167, title IV, Nov. 21, 1989, 103 Stat. 1216; Pub. L. 101–179, title III, §304(b), Nov. 28, 1989, 103Stat. 1313; Pub. L. 101–513, title IV, Nov. 5, 1990, 104 Stat. 2001.)
+(Pub. L. 87–195, pt. I, §224, as added Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; amended Pub. L. 99–83, title III, §314, Aug. 8, 1985, 99 Stat. 217; Pub. L. 101–167, title IV, Nov. 21, 1989, 103 Stat. 1216; Pub. L. 101–179, title III, §304(b), Nov. 28, 1989, 103 Stat. 1313; Pub. L. 101–513, title IV, Nov. 5, 1990, 104 Stat. 2001.)
 
 #### References in Text
 
@@ -54,13 +54,13 @@ A prior section 224 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, as 
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–513 substituted “1991” for “1990”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–513 substituted “1991” for “1990”.
 
-1989—Pub. L. 101–179 inserted “for Central America” after “program” in section catchline.
+<b>1989</b>—Pub. L. 101–179 inserted “for Central America” after “program” in section catchline.
 
 Subsec. (c). Pub. L. 101–167 substituted “1990” for “1989”.
 
-1985—Subsec. (e). Pub. L. 99–83 substituted “except that the aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $300,000,000 of contingent liability for loan principal during fiscal year 1986 and may not exceed $400,000,000 of contingent liability for loan principal during fiscal year 1987” for “not to exceed $300,000,000 in the fiscal year 1985”.
+<b>1985</b>—Subsec. (e). Pub. L. 99–83 substituted “except that the aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $300,000,000 of contingent liability for loan principal during fiscal year 1986 and may not exceed $400,000,000 of contingent liability for loan principal during fiscal year 1987” for “not to exceed $300,000,000 in the fiscal year 1985”.
 
 #### Effective Date of 1985 Amendment
 

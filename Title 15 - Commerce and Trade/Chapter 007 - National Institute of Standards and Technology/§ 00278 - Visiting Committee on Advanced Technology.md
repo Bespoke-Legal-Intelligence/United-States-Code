@@ -50,19 +50,17 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 Section 278n of this title, referred to in subsec. (h)(1), was repealed and a new section 278n enacted by Pub. L. 110–69, title III, §3012(a), (b), Aug. 9, 2007, 121 Stat. 593, and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term “Program” referred in this chapter.
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 110–69, §3006, substituted “twice each year” for “quarterly”.
+<b>2007</b>—Subsec. (d). Pub. L. 110–69, §3006, substituted “twice each year” for “quarterly”.
 
-Subsec. (h)(1). Pub. L. 110–69, §3005, substituted “not later than 30 days after the submittal to Congress of the President's annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates theretosubmitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
+Subsec. (h)(1). Pub. L. 110–69, §3005, substituted “not later than 30 days after the submittal to Congress of the President's annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
 
-1996—Subsec. (a). Pub. L. 104–113 substituted “15 members” for “nine members” and “at least 10” for “at least five”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–113 substituted “15 members” for “nine members” and “at least 10” for “at least five”.
 
-1988—Pub. L. 100–418, §5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
+<b>1988</b>—Pub. L. 100–418, §5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
 
 Pub. L. 100–418, §5115(a)(1), substituted “Institute” for “bureau”.
 

@@ -64,21 +64,21 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L. 109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
+<b>2006</b>—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L. 109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
 
 Pub. L. 109–432 substituted “sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013” for “section 9003(h)” and “Public Law 109–168” for “Superfund Amendments and Reauthorization Act of 1986”.
 
-2005—Subsec. (c). Pub. L. 109–58 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) related to availability of amounts in the Leaking Underground Storage Tank Trust Fund and transfers from the Trust Fund for certain repayments and credits.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) related to availability of amounts in the Leaking Underground Storage Tank Trust Fund and transfers from the Trust Fund for certain repayments and credits.
 
 Subsec. (e). Pub. L. 109–59, §11147(a), added subsec. (e).
 
-2004—Subsec. (b)(3) to (5). Pub. L. 108–357, §853(d)(2)(P), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “taxes received in the Treasury under section 4091 (relating to tax on aviation fuel) to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under such section,”.
+<b>2004</b>—Subsec. (b)(3) to (5). Pub. L. 108–357, §853(d)(2)(P), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “taxes received in the Treasury under section 4091 (relating to tax on aviation fuel) to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under such section,”.
 
 Subsec. (c)(2)(A). Pub. L. 108–357, §853(d)(2)(Q), substituted “section 4081” for “sections 4081 and 4091” in concluding provisions.
 
-1997—Subsec. (b)(2). Pub. L. 105–34 substituted “, diesel fuel, and kerosene” for “and diesel fuel”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 substituted “, diesel fuel, and kerosene” for “and diesel fuel”.
 
-1993—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of “4081” for “4091” in last sentence, could not be executed because last sentence did not contain a reference to “4091”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of “4081” for “4091” in last sentence, could not be executed because last sentence did not contain a reference to “4091”.
 
 Pub. L. 103–66, §13163(c), inserted at end “For purposes of this subsection, there shall not be taken into account the taxes imposed by sections 4041 and 4081 on diesel fuel sold for use or used as fuel in a diesel-powered boat.”
 
@@ -86,9 +86,9 @@ Subsec. (b)(2). Pub. L. 103–66, §13242(d)(42)(A), inserted “and diesel fuel
 
 Subsec. (b)(3). Pub. L. 103–66, §13242(d)(42)(B), struck out “diesel fuel and” before “aviation fuel”.
 
-1989—Subsecs. (b)(3), (c)(2)(A). Pub. L. 101–239 substituted “Storage Tank Trust Fund financing” for “Storage Trust Fund financing”.
+<b>1989</b>—Subsecs. (b)(3), (c)(2)(A). Pub. L. 101–239 substituted “Storage Tank Trust Fund financing” for “Storage Trust Fund financing”.
 
-1987—Subsec. (b)(3) to (5). Pub. L. 100–203, §10502(d)(16), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+<b>1987</b>—Subsec. (b)(3) to (5). Pub. L. 100–203, §10502(d)(16), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 Subsec. (c)(2)(A). Pub. L. 100–203, §10502(d)(17), added cl. (ii) and closing provisions, and struck out former cl. (ii) which read as follows: “credits allowed under section 34, with respect to the taxes imposed by sections 4041(d) and 4081 (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under section 4081).”
 

@@ -12,7 +12,7 @@ For the purpose of improving the state of engineering and construction in the Un
 
 #### (2) Treatment
 
-&emsp;Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accorded the protection provided under section 12(c)(7)(B) of such Act (15 U.S.C. 3710a(c)(7)(B))as if such technology had been developed under a cooperative research and development agreement.
+&emsp;Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accorded the protection provided under section 12(c)(7)(B) of such Act (15 U.S.C. 3710a(c)(7)(B)) as if such technology had been developed under a cooperative research and development agreement.
 
 #### (c) Administrative provisions
 
@@ -42,7 +42,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–303, §214(a)(1), inserted “civil works” before “mission”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §214(a)(1), inserted “civil works” before “mission”.
 
 Subsecs. (b), (c). Pub. L. 104–303, §214(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 

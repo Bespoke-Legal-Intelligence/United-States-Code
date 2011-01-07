@@ -22,7 +22,7 @@ Service Agreement for Scholarship Recipients.—(1) To receive financial assista
 
 &emsp;&emsp;(ii) to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
 
-(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate servicein exchange for the financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title. In no event may the period of service required of a recipient be less than the period equal to three-fourths of the total period of pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
+(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for the financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title. In no event may the period of service required of a recipient be less than the period equal to three-fourths of the total period of pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
 
 (3) An agreement entered into under this section by a person pursuing an academic degree shall include terms that provide the following:
 
@@ -62,13 +62,13 @@ Employment of Program Participants.—The Secretary of Defense—
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 111–84, §1073(a)(20), substituted “subsection (b)” for “section (b)”.
 
 Subsec. (g). Pub. L. 111–84, §1103(a), added subsec. (g).
 
-2006—Subsec. (e). Pub. L. 109–163, §687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
+<b>2006</b>—Subsec. (e). Pub. L. 109–163, §687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 
 “(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title.
 

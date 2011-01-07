@@ -130,7 +130,7 @@ Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services 
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 
-Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall be solely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
+Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall besolely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
 
 Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
@@ -143,6 +143,82 @@ Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any oth
 (b) This order is intended only to improve the internal management of the executive branch, and it is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, it officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Implementation of the National HIV/AIDS Strategy
+
+Memorandum of President of the United States, July 13, 2010, 75 F.R. 41687, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve people living with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americans from all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
+
+Today I am releasing a National HIV/AIDS Strategy for the United States (Strategy) and a National HIV/AIDS Strategy Federal Implementation Plan (Federal Implementation Plan), which identifies specific actions to be taken by Federal agencies to implement the Strategy's goals. While agencies already undertake many actions to address HIV/AIDS, successful implementation of the Strategy will require new levels of coordination, collaboration, and accountability. This will require the Federal Government to work in new ways across agency lines, as well as in enhanced and innovative partnerships with State, tribal, and local governments. Government cooperation at all levels, moreover, is not enough. Success will require the commitment of all parts of society, including businesses, faith communities, philanthropic organizations, scientific and medical communities, educational institutions, people living with HIV, and others. It is also necessary to sustain public commitment to ending the epidemic, and this calls for regular communications between governments at all levels to identify the challenges we face and report the progress we are making. To these ends, I hereby direct the following:
+
+Section 1. <i>Role of the White House Office of National AIDS Policy (ONAP).</i>
+
+(a) The Director of the ONAP, in consultation with the Office of Management and Budget (OMB), shall be responsible for setting the Administration's domestic HIV/AIDS priorities and monitoring the implementation of the Strategy. The Director of the ONAP shall convene regular meetings with representatives of executive departments and agencies (agencies) to coordinate HIV/AIDS-related policies, programs, and activities.
+
+(b) The Director of the ONAP shall annually report to the President on the implementation of the Strategy, including progress in meeting key targets and taking key actions identified in the Strategy and the Federal Implementation Plan.
+
+Sec. 2. <i>Lead Responsible Agencies</i>. While the Strategy requires a Government-wide effort in order to succeed fully, certain agencies have primary responsibilities and competencies in implementing the Strategy.
+
+(a) <i>Designation of Lead Agencies</i>. Lead agencies for implementing the Strategy shall be:
+
+(i) the Department of Health and Human Services;
+
+(ii) the Department of Justice;
+
+(iii) the Department of Labor;
+
+(iv) the Department of Housing and Urban Development;
+
+(v) the Department of Veterans Affairs; and
+
+(vi) the Social Security Administration.
+
+(b) <i>Lead Agency Implementation Plans</i>. Within 150 days of the date of this memorandum, the head of each lead agency shall submit a report to the ONAP and the OMB on the agency's operational plans for implementing the Strategy. The plans shall assign responsibilities to agency officials, designate reporting structures for actions identified in the Federal Implementation Plan, and identify other appropriate actions to advance the Strategy. The plans shall also include steps to strengthen coordination in planning, budgeting for, and evaluating domestic HIV/AIDS programs within and across agencies. Lead agencies are encouraged to consider, and reflect in their plans, steps to streamline grantee reporting requirements and funding announcements related to HIV/AIDS programs and activities.
+
+(c) <i>Ongoing Responsibilities of Lead Agencies</i>. The head of each lead agency shall:
+
+(i) designate an official responsible for coordinating the agency's ongoing efforts to implement the Strategy;
+
+(ii) develop a process for sharing progress reports, including status updates on achieving specific quantitative targets established by the Strategy, with relevant agencies and the ONAP on an annual basis, or at such other times as the ONAP requests; and
+
+(iii) in consultation with the OMB, use the budget development process to prioritize programs and activities most critical to meeting the goals of the Strategy.
+
+Sec. 3. <i>Role of the Secretary of Health and Human Services</i>. The Secretary of Health and Human Services (Secretary), or the Secretary's designee, shall be responsible for improving coordination of domestic HIV/AIDS programs and activities across the Federal Government.
+
+(a) <i>Coordination within the Department of Health and Human Services</i>. The Secretary, or the Secretary's designee, shall develop and implement specific plans and procedures for improving intra-departmental coordination and collaboration on HIV/AIDS care, research, and prevention services.
+
+(b) <i>Coordination with Other Agencies</i>. The Secretary, or the Secretary's designee, shall be responsible for convening interagency efforts to improve coordination of HIV/AIDS programs and activities. This may include collaboration with governmental and nongovernmental entities to achieve the Federal Government's implementation and research priorities in the areas of highest impact.
+
+(c) <i>Presidential Advisory Council on HIV/AIDS (PACHA)</i>. PACHA, which was established by Executive Order 12963 of June 14, 1995 (Presidential AdvisoryCouncil on HIV/AIDS), as amended, shall monitor the implementation of the Strategy and make recommendations to the Secretary and to the Director of the ONAP, as appropriate, concerning implementation.
+
+Sec. 4. <i>Responsibilities of Other Agencies</i>. All agencies that support HIV/AIDS programs and activities shall ensure that, to the extent permitted by law, they are meeting the goals of the Strategy.
+
+(a) <i>Department of Defense</i>. Within 150 days of the date of this memorandum, the Secretary of Defense shall submit to the ONAP and the OMB a plan for aligning the health-care services provided by the Department of Defense with the Strategy, to the extent feasible and permitted by law. The plan shall address, in particular, HIV/AIDS prevention, care, and treatment.
+
+(b) <i>Department of State</i>. Within 150 days of the date of this memorandum, the Secretary of State shall submit to the ONAP and the OMB recommendations for improving the Government-wide response to the domestic HIV/AIDS epidemic, based on lessons learned in implementing the President's Emergency Plan for AIDS Relief (PEPFAR) program.
+
+(c) <i>Equal Employment Opportunity Commission (Commission)</i>. Within 150 days of the date of this memorandum, the Chair of the Commission shall submit to the ONAP and the OMB recommendations for increasing employment opportunities for people living with HIV and a plan for addressing employment-related discrimination against people living with HIV, consistent with the Commission's authorities and other applicable law.
+
+Sec. 5. <i>General Provisions.</i>
+
+(a) The heads of executive departments and agencies shall assist and provide information to the Director of the ONAP, consistent with applicable law, as may be necessary to implement the Strategy. Each agency shall bear its own expense for carrying out activities to implement the Strategy.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency or the head thereof, or to other executive branch officials; or
+
+(ii) functions of the Director of the OMB relating to budgetary, administrative, or legislative proposals.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. <i>Publication</i>. The Secretary is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

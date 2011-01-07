@@ -44,13 +44,13 @@ A governmental entity that is affected by legal process served for the enforceme
 
 #### (f) Relief from liability
 
-(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
+(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payablefrom the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
 
 (2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) of this section with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
 
 #### (g) Regulations
 
-Authority to promulgate regulations for the implementation of this section shall, insofar asthis section applies to moneys due from (or payable by)—
+Authority to promulgate regulations for the implementation of this section shall, insofar as this section applies to moneys due from (or payable by)—
 
 &emsp;(1) the United States (other than the legislative or judicial branches of the Federal Government) or the government of the District of Columbia, be vested in the President (or the designee of the President);
 
@@ -116,11 +116,11 @@ For purposes of this section—
 
 #### (1) United States
 
-&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Regulatory Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
+&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Regulatory Commission,any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
 
 #### (2) Child support
 
-&emsp;The term “child support”, when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, andwhich may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
+&emsp;The term “child support”, when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, and which may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
 
 #### (3) Alimony
 
@@ -162,11 +162,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), is classifi
 
 #### Amendments
 
-2006—Subsec. (i)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (i)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1999—Subsec. (h)(1)(A)(v). Pub. L. 106–169 added cl. (v).
+<b>1999</b>—Subsec. (h)(1)(A)(v). Pub. L. 106–169 added cl. (v).
 
-1997—Subsec. (c)(2)(C). Pub. L. 105–33, §5542(a), substituted “withhold available sums in response to the order or process, or answer the interrogatory” for “respond to the order, process, or interrogatory”.
+<b>1997</b>—Subsec. (c)(2)(C). Pub. L. 105–33, §5542(a), substituted “withhold available sums in response to the order or process, or answer the interrogatory” for “respond to the order, process, or interrogatory”.
 
 Subsec. (h)(1). Pub. L. 105–33, §5542(b)(1), struck out “paid or” after “moneys” in introductory provisions.
 
@@ -178,11 +178,11 @@ Subsec. (h)(1)(A)(iv). Pub. L. 105–33, §5542(b)(2)(A), (B)(ii), (C), added cl
 
 Subsec. (h)(1)(B)(iii). Pub. L. 105–33, §5542(b)(3), added cl. (iii).
 
-1996—Pub. L. 104–193 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to use of legal process to collect money payable to an individual as remuneration for employment by the United States or the District of Columbia for purpose of enforcing individual's legal obligation to provide child support or make alimony payments.
+<b>1996</b>—Pub. L. 104–193 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to use of legal process to collect money payable to an individual as remuneration for employment by the United States or the District of Columbia for purpose of enforcing individual's legal obligation to provide child support or make alimony payments.
 
-1983—Subsec. (a). Pub. L. 98–21 inserted reference to section 407 of this title.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21 inserted reference to section 407 of this title.
 
-1977—Subsec. (a). Pub. L. 95–30, §501(a), (b)(1), designated existing provisions as subsec. (a) and substituted “or the District of Columbia (including any agency, subdivision, or instrumentality thereof)” for “(including any agency or instrumentality thereof and any wholly owned Federal Corporation)” and “as if the United States or the District of Columbia were a private person” for “as if the United States were a private person”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–30, §501(a), (b)(1), designated existing provisions as subsec. (a) and substituted “or the District of Columbia (including any agency, subdivision, or instrumentality thereof)” for “(including any agency or instrumentality thereof and any wholly owned Federal Corporation)” and “as if the United States or the District of Columbia were a private person” for “as if the United States were a private person”.
 
 Subsecs. (b) to (f). Pub. L. 95–30, §501(b)(2), added subsecs. (b) to (f).
 
@@ -264,11 +264,11 @@ Sec. 301. <i>Wage Withholding</i>. (a) Within 60 days from the date of this orde
 
 (b) Beginning no later than July 1, 1995, the Director of the Office of Personnel Management (OPM) shall publish annually in the Federal Register the list of agents (and their addresses) designated to receive service of withholding notices for Federal employees.
 
-Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in the service of legal process in civil actions pursuant to orders of courts of States to establish paternity and establish or enforce a support obligation by making Federal employees and members of the Uniformed Services stationed outside the United States available for the service of process. Each agency shall designate an official who shall be responsible for facilitating a Federal employee's or member's availability for service of process, regardless of the location of the employee's workplace or member's duty station. The OPM shall publish a list of these officials annually in the Federal Register, beginning no later than July 1, 1995.
+Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in the service of legal process in civil actions pursuant to orders of courts of States to establish paternity and establish or enforce a support obligation by making Federal employees and members of the Uniformed Services stationed outside the United States available for the service of process. Each agency shalldesignate an official who shall be responsible for facilitating a Federal employee's or member's availability for service of process, regardless of the location of the employee's workplace or member's duty station. The OPM shall publish a list of these officials annually in the Federal Register, beginning no later than July 1, 1995.
 
 Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate with the Federal Parent Locator Service, established under 42 U.S.C. 653, by providing complete, timely and accurate information that will assist in locating noncustodial parents and their employers.
 
-Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees withchild support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(<i>o</i>)–(u).
+Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(<i>o</i>)–(u).
 
 (b) All Federal agencies shall inform current and prospective employees that crossmatches are routinely made between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
 

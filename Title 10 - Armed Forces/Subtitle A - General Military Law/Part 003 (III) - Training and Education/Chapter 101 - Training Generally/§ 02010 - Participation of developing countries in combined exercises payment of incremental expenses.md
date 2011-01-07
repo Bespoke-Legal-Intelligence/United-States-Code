@@ -22,9 +22,9 @@
 
 #### Amendments
 
-2008—Subsecs. (d), (e). Pub. L. 110–417 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2008</b>—Subsecs. (d), (e). Pub. L. 110–417 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1997—Subsec. (e). Pub. L. 105–85 struck out subsec. (e) which read as follows: “Not more than $13,400,000 may be obligated or expended for the purposes of this section during fiscal years 1987 through 1991.”
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 struck out subsec. (e) which read as follows: “Not more than $13,400,000 may be obligated or expended for the purposes of this section during fiscal years 1987 through 1991.”
 
 #### Effective Date of 2008 Amendment
 

@@ -6,5 +6,5 @@ There is authorized to be appropriated for administration of this chapter, not t
 
 #### Amendments
 
-1977—Pub. L. 95–36 authorized appropriations of not to exceed $2,500,000 per fiscal year for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.
+<b>1977</b>—Pub. L. 95–36 authorized appropriations of not to exceed $2,500,000 per fiscal year for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.
 

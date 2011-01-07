@@ -10,7 +10,7 @@ The Secretary shall undertake the following research and conservation activities
 
 &emsp;(3) identify species, subspecies, and populations of all migratory nongame birds that, without additional conservation actions, are likely to become candidates for listing under the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543);
 
-&emsp;(4) identify conservation actions to assure that species, subspecies, and populations ofmigratory nongame birds identified under paragraph (3) do not reach the point at which the measures provided pursuant to the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543) become necessary; and
+&emsp;(4) identify conservation actions to assure that species, subspecies, and populations of migratory nongame birds identified under paragraph (3) do not reach the point at which the measures provided pursuant to the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543) become necessary; and
 
 &emsp;(5) identify lands and waters in the United States and other nations in the Western Hemisphere whose protection, management, or acquisition will foster the conservation of species, subspecies, and populations of migratory nongame birds, including those identified in paragraph (3).
 
@@ -34,7 +34,7 @@ November 14, 1988, referred to in subsec. (b), was in the original “the date o
 
 #### Amendments
 
-1989—Subsec. (a)(5). Pub. L. 101–233 added par. (5).
+<b>1989</b>—Subsec. (a)(5). Pub. L. 101–233 added par. (5).
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

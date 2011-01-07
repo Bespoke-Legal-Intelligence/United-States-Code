@@ -16,13 +16,11 @@ Nominators.—Nominations for competitive appointments for the positions allocat
 
 &emsp;(2) A Member of the House of Representatives may nominate residents of the State in which the congressional district represented by that Member is located.
 
-&emsp;(3) A Delegate to the House of Representatives from the District of Columbia, the Virgin Islands, Guam, or American Samoa may nominate residents of the jurisdiction represented by that Delegate.
+&emsp;(3) A Delegate to the House of Representatives from the District of Columbia, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa may nominate residents of the jurisdiction represented by that Delegate.
 
 &emsp;(4) The Resident Commissioner to the United States from Puerto Rico may nominate residents of Puerto Rico.
 
-&emsp;(5) The Governor of the Northern Mariana Islands may nominate residents of the Northern Mariana Islands.
-
-&emsp;(6) The Panama Canal Commission may nominate—
+&emsp;(5) The Panama Canal Commission may nominate—
 
 &emsp;&emsp;(A) residents, or sons or daughters of residents, of an area or installation in Panama and made available to the United States under the Panama Canal Treaty of 1977, the agreements relating to and implementing that Treaty, signed September 7, 1977, and the Agreement Between the United States of America and the Republic of Panama Concerning Air Traffic Control and Related Services, concluded January 8, 1979; and
 
@@ -60,7 +58,7 @@ Appointments by jurisdiction.—The Secretary shall appoint individuals to fill 
 
 Remaining unfilled positions.—If positions remain unfilled after the appointments are made under paragraph (2), the Secretary shall appoint individuals to fill the positions in the order of merit of the remaining individuals nominated from all jurisdictions.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3503, Jan. 7, 2011, 124 Stat. 4518.)
 
 Historical and Revision Notes
 
@@ -99,4 +97,10 @@ June 29, 1936, ch. 858, title XIII, §1303(b)(1)–(3)(A), as added Pub. L. 96�
 46 App.:1295b(b)(2) (A) (related to selection), (B), (3)(B), (C).
 
 In subsection (b)(6)(A), the words “residents, or sons or daughters of residents, of an area or installation” are substituted for “a resident of the area or installation” in 46 App. U.S.C. 1295b(b)(1)(B) and “sons or daughters of residents of any area or installation” in 46 App. U.S.C. 1295b(b)(3)(A)(ii) to resolve an inconsistency in the source law and to conform to the probable intent of Congress. Although 46 App. U.S.C. 1295b(b)(1)(B) provides that a nominee must be a resident, 46 App. U.S.C. 1295b(b)(3)(A)(ii) allocates positions only for sons or daughters of residents.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(3). Pub. L. 111–383, §3503(1), inserted “the Northern Mariana Islands,” after “Guam,”.
+
+Subsec. (b)(5), (6). Pub. L. 111–383, §3503(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The Governor of the Northern Mariana Islands may nominate residents of the Northern Mariana Islands.”
 
